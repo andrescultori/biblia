@@ -1,0 +1,108 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Paulo, o apóstolo, que se identifica como autor (1:1).",
+      "en": "Paul the apostle, who names himself as the author (1:1)."
+    },
+    "scholarly": {
+      "pt": "Paulo é o autor, com ampla concordância dos estudiosos. Esta carta está entre as sete chamadas \"autênticas\" (Romanos, 1 e 2 Coríntios, Gálatas, Filipenses, 1 Tessalonicenses e Filemom).",
+      "en": "Paul is the author, with wide agreement among scholars. This letter is among the seven so-called \"authentic\" ones (Romans, 1 and 2 Corinthians, Galatians, Philippians, 1 Thessalonians and Philemon)."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Por volta de 60–62 d.C., durante a prisão em Roma.",
+      "en": "Around AD 60–62, during the imprisonment in Rome."
+    },
+    "scholarly": {
+      "pt": "Entre c. 54 e 62 d.C., conforme o local da prisão.",
+      "en": "Between c. AD 54 and 62, depending on the place of imprisonment."
+    }
+  },
+  "place": {
+    "pt": "Prisão de Paulo (vv. 1, 9, 23). A localização (Roma, Éfeso ou Cesareia) é debatida.",
+    "en": "Paul's imprisonment (vv. 1, 9, 23). The location (Rome, Ephesus or Caesarea) is debated."
+  },
+  "recipients": {
+    "pt": "Filemom, dono de casa em Colossos, e a igreja que se reunia em sua casa, com Áfia e Arquipo (vv. 1–2).",
+    "en": "Philemon, a householder in Colossae, and the church that met in his house, with Apphia and Archippus (vv. 1–2)."
+  },
+  "keyVerse": "1:16",
+  "theme": {
+    "pt": "Paulo pede a Filemom que receba de volta Onésimo, seu escravo, como irmão amado.",
+    "en": "Paul asks Philemon to receive back Onesimus, his slave, as a beloved brother."
+  },
+  "historicalContext": {
+    "pt": "É a carta mais curta de Paulo (25 versículos). O texto não condena a escravidão de forma direta, e a interpretação do pedido de Paulo (se pede a libertação ou apenas bom tratamento) é debatida. A carta foi usada tanto em argumentos a favor quanto contra a escravidão ao longo da história.",
+    "en": "It is Paul's shortest letter (25 verses). The text does not directly condemn slavery, and the interpretation of Paul's request (whether he asks for release or only good treatment) is debated. The letter has been used in arguments both for and against slavery throughout history."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Paulo",
+        "en": "Paul"
+      },
+      "role": {
+        "pt": "Apóstolo e autor, preso",
+        "en": "Apostle and author, in prison"
+      }
+    },
+    {
+      "name": {
+        "pt": "Filemom",
+        "en": "Philemon"
+      },
+      "role": {
+        "pt": "Destinatário",
+        "en": "Recipient"
+      }
+    },
+    {
+      "name": {
+        "pt": "Onésimo",
+        "en": "Onesimus"
+      },
+      "role": {
+        "pt": "Escravo de Filemom que está com Paulo",
+        "en": "Philemon's slave who is with Paul"
+      }
+    },
+    {
+      "name": {
+        "pt": "Timóteo",
+        "en": "Timothy"
+      },
+      "role": {
+        "pt": "Co-remetente (v. 1)",
+        "en": "Co-sender (v. 1)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–7",
+      "title": {
+        "pt": "Saudação e agradecimento",
+        "en": "Greeting and thanksgiving"
+      }
+    },
+    {
+      "ref": "1:8–21",
+      "title": {
+        "pt": "O pedido por Onésimo",
+        "en": "The request for Onesimus"
+      }
+    },
+    {
+      "ref": "1:22–25",
+      "title": {
+        "pt": "Planos e despedida",
+        "en": "Plans and farewell"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Onésimo também aparece em Cl 4:9, e Arquipo em Cl 4:17. A carta se relaciona de perto com Colossenses.",
+    "en": "Onesimus also appears in Col 4:9, and Archippus in Col 4:17. The letter is closely related to Colossians."
+  }
+}

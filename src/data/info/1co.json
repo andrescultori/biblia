@@ -1,0 +1,136 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Paulo, o apóstolo, que se identifica como autor (1:1).",
+      "en": "Paul the apostle, who names himself as the author (1:1)."
+    },
+    "scholarly": {
+      "pt": "Paulo é o autor, com ampla concordância dos estudiosos. Esta carta está entre as sete chamadas \"autênticas\" (Romanos, 1 e 2 Coríntios, Gálatas, Filipenses, 1 Tessalonicenses e Filemom).",
+      "en": "Paul is the author, with wide agreement among scholars. This letter is among the seven so-called \"authentic\" ones (Romans, 1 and 2 Corinthians, Galatians, Philippians, 1 Thessalonians and Philemon)."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Por volta de 54–55 d.C., em Éfeso (16:8).",
+      "en": "Around AD 54–55, in Ephesus (16:8)."
+    },
+    "scholarly": {
+      "pt": "Por volta de 53–55 d.C., com pequenas variações entre os autores.",
+      "en": "Around AD 53–55, with small variations among scholars."
+    }
+  },
+  "place": {
+    "pt": "Éfeso (16:8).",
+    "en": "Ephesus (16:8)."
+  },
+  "recipients": {
+    "pt": "A igreja de Corinto, fundada por Paulo (At 18).",
+    "en": "The church in Corinth, founded by Paul (Acts 18)."
+  },
+  "keyVerse": "13:13",
+  "theme": {
+    "pt": "Orientações pastorais a uma igreja dividida: unidade, ética, culto e dons, tendo o amor e a ressurreição como fundamento.",
+    "en": "Pastoral guidance for a divided church: unity, ethics, worship and gifts, with love and the resurrection as the foundation."
+  },
+  "historicalContext": {
+    "pt": "Corinto era uma cidade portuária e cosmopolita da Grécia. A carta responde a notícias (1:11) e a uma carta dos coríntios (7:1). Trata de divisões, imoralidade, casamento, carne sacrificada a ídolos, culto, dons do Espírito e ressurreição. Paulo menciona uma carta anterior perdida (5:9).",
+    "en": "Corinth was a cosmopolitan port city of Greece. The letter responds to reports (1:11) and to a letter from the Corinthians (7:1). It deals with divisions, immorality, marriage, food sacrificed to idols, worship, spiritual gifts and the resurrection. Paul mentions an earlier lost letter (5:9)."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Paulo",
+        "en": "Paul"
+      },
+      "role": {
+        "pt": "Apóstolo e autor",
+        "en": "Apostle and author"
+      }
+    },
+    {
+      "name": {
+        "pt": "Sóstenes",
+        "en": "Sosthenes"
+      },
+      "role": {
+        "pt": "Co-remetente (1:1)",
+        "en": "Co-sender (1:1)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Apolo",
+        "en": "Apollos"
+      },
+      "role": {
+        "pt": "Mestre em Corinto (3:4–6)",
+        "en": "Teacher in Corinth (3:4–6)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Estéfanas",
+        "en": "Stephanas"
+      },
+      "role": {
+        "pt": "Cristão de Corinto (16:15–17)",
+        "en": "Christian of Corinth (16:15–17)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–9",
+      "title": {
+        "pt": "Introdução",
+        "en": "Introduction"
+      }
+    },
+    {
+      "ref": "1:10–4:21",
+      "title": {
+        "pt": "Divisões na igreja",
+        "en": "Divisions in the church"
+      }
+    },
+    {
+      "ref": "5:1–7:40",
+      "title": {
+        "pt": "Imoralidade, disputas e casamento",
+        "en": "Immorality, disputes and marriage"
+      }
+    },
+    {
+      "ref": "8:1–11:1",
+      "title": {
+        "pt": "Carne sacrificada a ídolos",
+        "en": "Food sacrificed to idols"
+      }
+    },
+    {
+      "ref": "11:2–14:40",
+      "title": {
+        "pt": "Culto, ceia e dons espirituais",
+        "en": "Worship, the Lord's Supper and spiritual gifts"
+      }
+    },
+    {
+      "ref": "15:1–58",
+      "title": {
+        "pt": "A ressurreição",
+        "en": "The resurrection"
+      }
+    },
+    {
+      "ref": "16:1–24",
+      "title": {
+        "pt": "Coleta e despedida",
+        "en": "The collection and farewell"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "O capítulo 15 é um dos mais antigos relatos de fé na ressurreição (15:3–8). O hino do amor (cap. 13) tem forma literária própria. A relação com 2 Coríntios mostra o desenrolar da relação entre Paulo e a igreja.",
+    "en": "Chapter 15 is one of the oldest statements of faith in the resurrection (15:3–8). The hymn to love (ch. 13) has its own literary form. The relationship with 2 Corinthians shows the development of Paul's relationship with the church."
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Paulo, o apóstolo, que se identifica como autor (1:1).",
+      "en": "Paul the apostle, who names himself as the author (1:1)."
+    },
+    "scholarly": {
+      "pt": "Paulo é o autor, com ampla concordância dos estudiosos. Esta carta está entre as sete chamadas \"autênticas\" (Romanos, 1 e 2 Coríntios, Gálatas, Filipenses, 1 Tessalonicenses e Filemom).",
+      "en": "Paul is the author, with wide agreement among scholars. This letter is among the seven so-called \"authentic\" ones (Romans, 1 and 2 Corinthians, Galatians, Philippians, 1 Thessalonians and Philemon)."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Debatida: entre c. 48–49 d.C. (se destinada às igrejas do sul da Galácia, fundadas na primeira viagem, antes do concílio de Jerusalém) e c. 53–55 d.C. (se destinada ao norte da Galácia).",
+      "en": "Debated: between c. AD 48–49 (if addressed to the churches of southern Galatia, founded on the first journey, before the Jerusalem council) and c. AD 53–55 (if addressed to northern Galatia)."
+    },
+    "scholarly": {
+      "pt": "Entre c. 48 e 55 d.C., pela mesma discussão.",
+      "en": "Between c. AD 48 and 55, from the same discussion."
+    }
+  },
+  "place": {
+    "pt": "Não indicado. Propostas incluem Antioquia, Éfeso e Corinto.",
+    "en": "Not stated. Proposals include Antioch, Ephesus and Corinth."
+  },
+  "recipients": {
+    "pt": "As igrejas da Galácia (1:2), na Ásia Menor. A região exata (norte ou sul) é debatida.",
+    "en": "The churches of Galatia (1:2), in Asia Minor. The exact region (north or south) is debated."
+  },
+  "keyVerse": "5:1",
+  "theme": {
+    "pt": "Liberdade em Cristo: a justificação vem pela fé, não pelas obras da lei, e a vida cristã é vivida no Espírito.",
+    "en": "Freedom in Christ: justification comes through faith, not works of the law, and the Christian life is lived in the Spirit."
+  },
+  "historicalContext": {
+    "pt": "Paulo escreve em tom firme contra outros mestres que exigiam dos gentios convertidos a circuncisão e a observância da lei. A carta traz um relato de sua vida (1:11–2:21) que tem ligação com At 9; 15, e a comparação é tema de estudo. É uma carta chave na história da teologia da justificação.",
+    "en": "Paul writes in a firm tone against other teachers who demanded circumcision and observance of the law from converted Gentiles. The letter includes an account of his life (1:11–2:21) that relates to Acts 9; 15, and the comparison is a subject of study. It is a key letter in the history of the theology of justification."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Paulo",
+        "en": "Paul"
+      },
+      "role": {
+        "pt": "Apóstolo e autor",
+        "en": "Apostle and author"
+      }
+    },
+    {
+      "name": {
+        "pt": "Pedro (Cefas)",
+        "en": "Peter (Cephas)"
+      },
+      "role": {
+        "pt": "Confrontado por Paulo em Antioquia (2:11–14)",
+        "en": "Confronted by Paul in Antioch (2:11–14)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Tiago, Pedro e João",
+        "en": "James, Peter and John"
+      },
+      "role": {
+        "pt": "\"Colunas\" da igreja de Jerusalém (2:9)",
+        "en": "\"Pillars\" of the Jerusalem church (2:9)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Barnabé",
+        "en": "Barnabas"
+      },
+      "role": {
+        "pt": "Companheiro de Paulo (2:1, 13)",
+        "en": "Paul's companion (2:1, 13)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–10",
+      "title": {
+        "pt": "Introdução",
+        "en": "Introduction"
+      }
+    },
+    {
+      "ref": "1:11–2:21",
+      "title": {
+        "pt": "Defesa do apostolado e do evangelho",
+        "en": "Defense of the apostleship and the gospel"
+      }
+    },
+    {
+      "ref": "3:1–4:31",
+      "title": {
+        "pt": "Justificação pela fé e a herança de Abraão",
+        "en": "Justification by faith and Abraham's inheritance"
+      }
+    },
+    {
+      "ref": "5:1–6:10",
+      "title": {
+        "pt": "Liberdade e vida no Espírito",
+        "en": "Freedom and life in the Spirit"
+      }
+    },
+    {
+      "ref": "6:11–18",
+      "title": {
+        "pt": "Conclusão",
+        "en": "Conclusion"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Tem muito em comum com Romanos (justificação pela fé, Abraão). Gn 15:6 é citado em 3:6 e Hc 2:4 em 3:11. A relação com At 15 (o concílio) é um dos principais problemas de datação.",
+    "en": "It has much in common with Romans (justification by faith, Abraham). Gen 15:6 is quoted in 3:6 and Hab 2:4 in 3:11. The relationship with Acts 15 (the council) is one of the main dating problems."
+  }
+}

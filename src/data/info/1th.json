@@ -1,0 +1,71 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Paulo, o apóstolo, que se identifica como autor (1:1).",
+      "en": "Paul the apostle, who names himself as the author (1:1)."
+    },
+    "scholarly": {
+      "pt": "Paulo é o autor, com ampla concordância dos estudiosos. Esta carta está entre as sete chamadas \"autênticas\" (Romanos, 1 e 2 Coríntios, Gálatas, Filipenses, 1 Tessalonicenses e Filemom).",
+      "en": "Paul is the author, with wide agreement among scholars. This letter is among the seven so-called \"authentic\" ones (Romans, 1 and 2 Corinthians, Galatians, Philippians, 1 Thessalonians and Philemon)."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Por volta de 50–51 d.C., em Corinto (At 18). É a carta mais antiga de Paulo e o escrito mais antigo do Novo Testamento, em geral.",
+      "en": "Around AD 50–51, in Corinth (Acts 18). It is Paul's earliest letter and, generally, the earliest writing of the New Testament."
+    },
+    "scholarly": {
+      "pt": "Por volta de 50–51 d.C., com ampla concordância.",
+      "en": "Around AD 50–51, with wide agreement."
+    }
+  },
+  "place": {
+    "pt": "Corinto, na leitura comum.",
+    "en": "Corinth, in the common reading."
+  },
+  "recipients": {
+    "pt": "A igreja de Tessalônica, na Macedônia, fundada por Paulo (At 17).",
+    "en": "The church in Thessalonica, in Macedonia, founded by Paul (Acts 17)."
+  },
+  "keyVerse": "1:9–10",
+  "theme": {
+    "pt": "Encorajamento a uma jovem igreja perseguida: fé, amor e esperança, e a volta do Senhor.",
+    "en": "Encouragement to a young persecuted church: faith, love and hope, and the Lord's return."
+  },
+  "historicalContext": {
+    "pt": "Paulo, Silvano e Timóteo escrevem após notícias trazidas por Timóteo (3:6). A carta trata da vida cristã e da esperança na vinda do Senhor (4:13–5:11), tema que ganhou muito peso na história da interpretação.",
+    "en": "Paul, Silvanus and Timothy write after news brought by Timothy (3:6). The letter deals with Christian life and hope in the Lord's coming (4:13–5:11), a theme that has taken on great weight in the history of interpretation."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Paulo, Silvano e Timóteo",
+        "en": "Paul, Silvanus and Timothy"
+      },
+      "role": {
+        "pt": "Remetentes (1:1)",
+        "en": "Senders (1:1)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–3:13",
+      "title": {
+        "pt": "Agradecimento e relação com a igreja",
+        "en": "Thanksgiving and relationship with the church"
+      }
+    },
+    {
+      "ref": "4:1–5:28",
+      "title": {
+        "pt": "Exortações e a vinda do Senhor",
+        "en": "Exhortations and the coming of the Lord"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Atos 17:1–9 narra a fundação da igreja. 2 Tessalonicenses continua alguns temas da carta.",
+    "en": "Acts 17:1–9 narrates the founding of the church. 2 Thessalonians continues some of the letter's themes."
+  }
+}

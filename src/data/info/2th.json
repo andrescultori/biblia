@@ -1,0 +1,78 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Paulo, o apóstolo, que se identifica como autor (1:1; 3:17), com Silvano e Timóteo.",
+      "en": "Paul the apostle, who names himself as the author (1:1; 3:17), with Silvanus and Timothy."
+    },
+    "scholarly": {
+      "pt": "Autoria debatida: muitos aceitam a autoria paulina, e outros veem a carta como escrita em nome de Paulo, por causa da semelhança literária com 1 Tessalonicenses e de diferenças no tom e na expectativa do fim. Não há consenso.",
+      "en": "Authorship is debated: many accept Pauline authorship, and others see the letter as written in Paul's name, because of its literary similarity to 1 Thessalonians and differences in tone and expectation of the end. There is no consensus."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Pouco depois de 1 Tessalonicenses, por volta de 51 d.C., em Corinto.",
+      "en": "Shortly after 1 Thessalonians, around AD 51, in Corinth."
+    },
+    "scholarly": {
+      "pt": "Entre c. 51 e 100 d.C., conforme a posição adotada sobre a autoria.",
+      "en": "Between c. AD 51 and 100, depending on the position adopted on authorship."
+    }
+  },
+  "place": {
+    "pt": "Corinto, na leitura tradicional.",
+    "en": "Corinth, in the traditional reading."
+  },
+  "recipients": {
+    "pt": "A igreja de Tessalônica.",
+    "en": "The church in Thessalonica."
+  },
+  "keyVerse": "2:15",
+  "theme": {
+    "pt": "Firmeza diante de perseguição e de ideias erradas sobre o \"dia do Senhor\", com orientações sobre o trabalho.",
+    "en": "Steadfastness under persecution and mistaken ideas about the \"day of the Lord\", with guidance about work."
+  },
+  "historicalContext": {
+    "pt": "O cap. 2 trata do \"dia do Senhor\" e de figuras como o \"homem da iniquidade\", de interpretação muito debatida. O cap. 3 corrige o comportamento de alguns que deixaram de trabalhar.",
+    "en": "Chapter 2 deals with the \"day of the Lord\" and figures such as the \"man of lawlessness\", whose interpretation is much debated. Chapter 3 corrects the behavior of some who had stopped working."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Paulo, Silvano e Timóteo",
+        "en": "Paul, Silvanus and Timothy"
+      },
+      "role": {
+        "pt": "Remetentes (1:1)",
+        "en": "Senders (1:1)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–12",
+      "title": {
+        "pt": "Introdução e consolo na perseguição",
+        "en": "Introduction and comfort in persecution"
+      }
+    },
+    {
+      "ref": "2:1–17",
+      "title": {
+        "pt": "O dia do Senhor",
+        "en": "The day of the Lord"
+      }
+    },
+    {
+      "ref": "3:1–18",
+      "title": {
+        "pt": "Orações, trabalho e despedida",
+        "en": "Prayers, work and farewell"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Continua temas de 1 Tessalonicenses. Dialoga com o Apocalipse e com Daniel sobre a figura oposta a Deus.",
+    "en": "Continues themes from 1 Thessalonians. It dialogues with Revelation and Daniel on the figure opposed to God."
+  }
+}
