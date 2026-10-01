@@ -25,8 +25,7 @@ Tabela interativa dos 66 livros da Bíblia (inspirada no "TaBíblia Periódica")
 - `src/Timeline.jsx`: página da linha do tempo (períodos, eventos, livros por período; escala por bloco). Carregada sob demanda; link `#timeline`.
 - `src/People.jsx`: página de personagens (lista com busca e filtro por livro; detalhe com livros, eventos e lugares). Carregada sob demanda; links `#person` e `#person/<id>`.
 - `src/SettingsModal.jsx` e `src/settings.js`: modal de Configurações (⚙ no topo) e contexto das preferências de estudo. Hoje: mostrar/esconder a posição acadêmica (fichas e linha do tempo); o padrão é mostrar. Guardado no navegador.
-- Rodapé de assinatura em `src/App.jsx` (classe `.assinatura`, texto "Desenvolvido por" / "Developed by" na chave `madeBy` do i18n; segue o idioma ativo). Links: github.com/andrescultori (perfil) e github.com/andrescultori/biblia (repositório). Ano de criação: 2026.
-- Rodapé de assinatura em `src/App.jsx` (classe `.assinatura`; texto "Desenvolvido por" / "Developed by" em `src/i18n.js`, chave `madeBy`), feito pelo André.
+- Rodapé de assinatura em `src/App.jsx` (classe `.assinatura`; texto "Desenvolvido por" / "Developed by" na chave `madeBy` do i18n; segue o idioma ativo). "André Scultori" → github.com/andrescultori; **"GitHub" → o repositório** (github.com/andrescultori/biblia), por decisão do André, **não** o GitHub Pages, que é o padrão da skill de assinatura. Ano: 2026 (criação). Manter assim.
 - `src/BookModal.jsx`: página do livro (nome histórico; abas Resumo, Ficha, Mapa e Ler). `src/App.jsx`: grade, filtros, tema, idioma, link direto por hash (`#joh`).
 
 ## Regras de conteúdo
