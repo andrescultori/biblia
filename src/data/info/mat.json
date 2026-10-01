@@ -1,0 +1,163 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Mateus, o apóstolo e antigo cobrador de impostos (Mt 9:9; 10:3), segundo a tradição antiga, que remonta a Papias de Hierápolis (citado por Eusébio). O texto é anônimo.",
+      "en": "Matthew, the apostle and former tax collector (Matt 9:9; 10:3), according to early tradition going back to Papias of Hierapolis (cited by Eusebius). The text is anonymous."
+    },
+    "scholarly": {
+      "pt": "Obra anônima, em grego, de um autor judeu-cristão que usou Marcos e uma fonte de ditos de Jesus (hipótese \"Q\"), além de material próprio. A maioria duvida que um apóstolo tenha escrito dependendo tanto de Marcos.",
+      "en": "An anonymous work in Greek by a Jewish-Christian author who used Mark and a source of sayings of Jesus (the \"Q\" hypothesis), plus material of his own. Most doubt that an apostle would have depended so much on Mark."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Antes ou por volta da destruição do templo em 70 d.C., em algumas propostas tradicionais.",
+      "en": "Before or around the destruction of the temple in AD 70, in some traditional proposals."
+    },
+    "scholarly": {
+      "pt": "Entre c. 80 e 90 d.C., depois da destruição do templo, em geral.",
+      "en": "Between c. AD 80 and 90, after the destruction of the temple, generally."
+    }
+  },
+  "place": {
+    "pt": "Não indicado. Antioquia da Síria é uma proposta frequente, mas debatida.",
+    "en": "Not stated. Antioch of Syria is a frequent proposal, but debated."
+  },
+  "recipients": {
+    "pt": "Uma comunidade com forte presença judaica, em debate com as lideranças judaicas da época.",
+    "en": "A community with a strong Jewish presence, in debate with the Jewish leadership of the time."
+  },
+  "keyVerse": "28:19–20",
+  "theme": {
+    "pt": "Jesus como o Messias e o novo Moisés que cumpre a Lei e os Profetas, e a formação de discípulos que ensinam todas as nações.",
+    "en": "Jesus as the Messiah and the new Moses who fulfills the Law and the Prophets, and the formation of disciples who teach all nations."
+  },
+  "historicalContext": {
+    "pt": "O Evangelho organiza o ensino de Jesus em cinco grandes discursos (caps. 5–7; 10; 13; 18; 24–25), cada um seguido de uma fórmula de conclusão. Cita o Antigo Testamento com frequência (\"para que se cumprisse\"). Está no início do Novo Testamento por sua ligação com as Escrituras de Israel, não necessariamente por ser o mais antigo.",
+    "en": "The Gospel arranges Jesus' teaching in five great discourses (chs. 5–7; 10; 13; 18; 24–25), each followed by a concluding formula. It often cites the Old Testament (\"that it might be fulfilled\"). It stands at the beginning of the New Testament because of its link with Israel's Scriptures, not necessarily because it is the oldest."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Jesus",
+        "en": "Jesus"
+      },
+      "role": {
+        "pt": "Messias, mestre e Filho de Deus",
+        "en": "Messiah, teacher and Son of God"
+      }
+    },
+    {
+      "name": {
+        "pt": "José e Maria",
+        "en": "Joseph and Mary"
+      },
+      "role": {
+        "pt": "Pais de Jesus (caps. 1–2)",
+        "en": "Parents of Jesus (chs. 1–2)"
+      }
+    },
+    {
+      "name": {
+        "pt": "João Batista",
+        "en": "John the Baptist"
+      },
+      "role": {
+        "pt": "Prepara o caminho (cap. 3)",
+        "en": "Prepares the way (ch. 3)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Os Doze",
+        "en": "The Twelve"
+      },
+      "role": {
+        "pt": "Discípulos escolhidos (cap. 10)",
+        "en": "Chosen disciples (ch. 10)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Pedro",
+        "en": "Peter"
+      },
+      "role": {
+        "pt": "Confessa Jesus como Messias (16:16)",
+        "en": "Confesses Jesus as Messiah (16:16)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Pilatos",
+        "en": "Pilate"
+      },
+      "role": {
+        "pt": "Governador romano que o condena (cap. 27)",
+        "en": "Roman governor who condemns him (ch. 27)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–2:23",
+      "title": {
+        "pt": "Genealogia e infância",
+        "en": "Genealogy and infancy"
+      }
+    },
+    {
+      "ref": "3:1–4:25",
+      "title": {
+        "pt": "Batismo, tentação e início do ministério",
+        "en": "Baptism, temptation and beginning of ministry"
+      }
+    },
+    {
+      "ref": "5:1–7:29",
+      "title": {
+        "pt": "O Sermão do Monte",
+        "en": "The Sermon on the Mount"
+      }
+    },
+    {
+      "ref": "8:1–10:42",
+      "title": {
+        "pt": "Milagres e discurso missionário",
+        "en": "Miracles and the missionary discourse"
+      }
+    },
+    {
+      "ref": "11:1–13:52",
+      "title": {
+        "pt": "Oposição e parábolas do Reino",
+        "en": "Opposition and parables of the Kingdom"
+      }
+    },
+    {
+      "ref": "13:53–18:35",
+      "title": {
+        "pt": "Discípulos e comunidade",
+        "en": "Disciples and community"
+      }
+    },
+    {
+      "ref": "19:1–25:46",
+      "title": {
+        "pt": "Caminho a Jerusalém e discursos finais",
+        "en": "The way to Jerusalem and final discourses"
+      }
+    },
+    {
+      "ref": "26:1–28:20",
+      "title": {
+        "pt": "Paixão, ressurreição e missão",
+        "en": "Passion, resurrection and mission"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Com Marcos e Lucas forma os Evangelhos Sinóticos. Cita Isaías e outros profetas do Antigo Testamento com frequência. O Sermão do Monte (caps. 5–7) é paralelo em parte ao Sermão da Planície de Lc 6.",
+    "en": "With Mark and Luke it forms the Synoptic Gospels. It often cites Isaiah and other Old Testament prophets. The Sermon on the Mount (chs. 5–7) is partly parallel to the Sermon on the Plain in Luke 6."
+  }
+}

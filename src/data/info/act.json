@@ -1,0 +1,156 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Lucas, o autor do terceiro Evangelho, segundo a tradição (At 1:1 liga a obra a esse livro). Em trechos em primeira pessoa do plural (\"nós\", por exemplo, 16:10–17; 20:5–15; 27:1–28:16), o narrador aparece como companheiro de Paulo.",
+      "en": "Luke, the author of the third Gospel, according to tradition (Acts 1:1 links the work with that book). In passages in the first person plural (\"we\", for example, 16:10–17; 20:5–15; 27:1–28:16), the narrator appears as a companion of Paul."
+    },
+    "scholarly": {
+      "pt": "Obra anônima, segunda parte de uma obra de dois volumes com Lucas. Há debate sobre se o autor foi companheiro de Paulo, sobre o valor histórico dos discursos e sobre a relação com as cartas de Paulo.",
+      "en": "An anonymous work, the second part of a two-volume work with Luke. There is debate about whether the author was a companion of Paul, about the historical value of the speeches and about the relationship with Paul's letters."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Em torno de 62 d.C., pois a narrativa termina com Paulo preso em Roma, sem relatar o resultado do julgamento.",
+      "en": "Around AD 62, since the narrative ends with Paul under house arrest in Rome, without reporting the outcome of the trial."
+    },
+    "scholarly": {
+      "pt": "Em geral entre c. 80 e 90 d.C., com a mesma data do Evangelho de Lucas.",
+      "en": "Generally between c. AD 80 and 90, with the same date as the Gospel of Luke."
+    }
+  },
+  "place": {
+    "pt": "Não indicado. Roma é uma proposta tradicional; outras incluem a Grécia e a Ásia Menor.",
+    "en": "Not stated. Rome is a traditional proposal; others include Greece and Asia Minor."
+  },
+  "recipients": {
+    "pt": "Teófilo (1:1), nome que pode indicar uma pessoa específica ou o leitor em geral.",
+    "en": "Theophilus (1:1), a name that may indicate a specific person or the reader in general."
+  },
+  "keyVerse": "1:8",
+  "theme": {
+    "pt": "A expansão da fé em Jesus de Jerusalém \"até os confins da terra\", guiada pelo Espírito Santo, e o encontro de judeus e gentios na mesma igreja.",
+    "en": "The spread of faith in Jesus from Jerusalem \"to the ends of the earth\", guided by the Holy Spirit, and the meeting of Jews and Gentiles in one church."
+  },
+  "historicalContext": {
+    "pt": "O livro cobre c. 30 a 62 d.C., desde a ascensão até Paulo em Roma. Nem todos os acontecimentos da igreja primitiva são tratados; o foco são Pedro (caps. 1–12) e Paulo (caps. 13–28). A comparação entre Atos e as cartas de Paulo (por exemplo, sobre as visitas a Jerusalém) é tema de estudo. O texto também mostra diferenças entre os manuscritos (o chamado texto ocidental).",
+    "en": "The book covers c. AD 30 to 62, from the ascension to Paul in Rome. Not all events of the early church are treated; the focus is on Peter (chs. 1–12) and Paul (chs. 13–28). The comparison between Acts and Paul's letters (for example, on the visits to Jerusalem) is a topic of study. The text also shows differences among manuscripts (the so-called Western text)."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Pedro",
+        "en": "Peter"
+      },
+      "role": {
+        "pt": "Líder dos apóstolos em Jerusalém (caps. 1–12)",
+        "en": "Leader of the apostles in Jerusalem (chs. 1–12)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Estêvão",
+        "en": "Stephen"
+      },
+      "role": {
+        "pt": "Primeiro mártir (caps. 6–7)",
+        "en": "First martyr (chs. 6–7)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Filipe",
+        "en": "Philip"
+      },
+      "role": {
+        "pt": "Evangelista em Samaria e junto ao etíope (cap. 8)",
+        "en": "Evangelist in Samaria and to the Ethiopian (ch. 8)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Paulo (Saulo)",
+        "en": "Paul (Saul)"
+      },
+      "role": {
+        "pt": "Perseguidor que se torna apóstolo dos gentios (caps. 9; 13–28)",
+        "en": "Persecutor who becomes apostle to the Gentiles (chs. 9; 13–28)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Barnabé",
+        "en": "Barnabas"
+      },
+      "role": {
+        "pt": "Companheiro de Paulo na primeira viagem",
+        "en": "Paul's companion on the first journey"
+      }
+    },
+    {
+      "name": {
+        "pt": "Tiago",
+        "en": "James"
+      },
+      "role": {
+        "pt": "Líder da igreja de Jerusalém (cap. 15)",
+        "en": "Leader of the Jerusalem church (ch. 15)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–2:47",
+      "title": {
+        "pt": "Ascensão e Pentecostes",
+        "en": "Ascension and Pentecost"
+      }
+    },
+    {
+      "ref": "3:1–8:3",
+      "title": {
+        "pt": "A igreja em Jerusalém e o martírio de Estêvão",
+        "en": "The church in Jerusalem and the martyrdom of Stephen"
+      }
+    },
+    {
+      "ref": "8:4–12:25",
+      "title": {
+        "pt": "Judeia, Samaria e Antioquia",
+        "en": "Judea, Samaria and Antioch"
+      }
+    },
+    {
+      "ref": "13:1–15:35",
+      "title": {
+        "pt": "A primeira viagem de Paulo e o concílio de Jerusalém",
+        "en": "Paul's first journey and the Jerusalem council"
+      }
+    },
+    {
+      "ref": "15:36–18:22",
+      "title": {
+        "pt": "A segunda viagem",
+        "en": "The second journey"
+      }
+    },
+    {
+      "ref": "18:23–21:16",
+      "title": {
+        "pt": "A terceira viagem",
+        "en": "The third journey"
+      }
+    },
+    {
+      "ref": "21:17–28:31",
+      "title": {
+        "pt": "Prisão, julgamentos e a viagem a Roma",
+        "en": "Arrest, trials and the journey to Rome"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Continua o Evangelho de Lucas (Lc 24 e At 1). Muitas cartas de Paulo podem ser relacionadas às viagens narradas em Atos (por exemplo, Gálatas, 1 e 2 Coríntios, Romanos).",
+    "en": "Continues the Gospel of Luke (Luke 24 and Acts 1). Many of Paul's letters can be related to the journeys narrated in Acts (for example, Galatians, 1 and 2 Corinthians, Romans)."
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "João, filho de Zebedeu, o apóstolo, segundo a tradição antiga (Ireneu). O texto fala do \"discípulo a quem Jesus amava\" (21:20–24) como testemunha por trás do livro, sem dar o nome.",
+      "en": "John, son of Zebedee, the apostle, according to early tradition (Irenaeus). The text speaks of \"the disciple whom Jesus loved\" (21:20–24) as the witness behind the book, without giving the name."
+    },
+    "scholarly": {
+      "pt": "Obra anônima, produzida na tradição de uma comunidade (a joanina), a partir do testemunho do \"discípulo amado\", com redação em etapas. A identificação desse discípulo (o apóstolo, outro João, um discípulo de Jerusalém) é muito debatida.",
+      "en": "An anonymous work produced in the tradition of a community (the Johannine one), based on the testimony of the \"beloved disciple\", with writing in stages. The identification of this disciple (the apostle, another John, a Jerusalem disciple) is much debated."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Em geral c. 80–95 d.C. na tradição, em Éfeso. Alguns defendem uma data anterior a 70 d.C.",
+      "en": "Generally c. AD 80–95 in tradition, at Ephesus. Some argue for a date before AD 70."
+    },
+    "scholarly": {
+      "pt": "Por volta de 90–100 d.C., com edição posterior (por exemplo, o cap. 21).",
+      "en": "Around AD 90–100, with later editing (for example, ch. 21)."
+    }
+  },
+  "place": {
+    "pt": "Tradicionalmente Éfeso, na Ásia Menor. Outras propostas incluem a Síria.",
+    "en": "Traditionally Ephesus, in Asia Minor. Other proposals include Syria."
+  },
+  "recipients": {
+    "pt": "Comunidades cristãs em conflito com a sinagoga e em dúvida sobre a identidade de Jesus.",
+    "en": "Christian communities in conflict with the synagogue and in doubt about Jesus' identity."
+  },
+  "keyVerse": "20:31",
+  "theme": {
+    "pt": "Jesus como a Palavra feita carne e o Filho de Deus, em sinais e discursos \"eu sou\"; a vida eterna vem de crer nele.",
+    "en": "Jesus as the Word made flesh and the Son of God, in signs and \"I am\" discourses; eternal life comes from believing in him."
+  },
+  "historicalContext": {
+    "pt": "É bem diferente dos Sinóticos na estrutura e nos temas: poucos milagres (sete \"sinais\"), longos discursos e uma cronologia própria do ministério. O prólogo (1:1–18) apresenta Jesus como o Logos. Os manuscritos mais antigos não trazem 7:53–8:11 (a mulher adúltera) nem, em geral, 5:3b–4; muitas Bíblias os mantêm com nota.",
+    "en": "It differs markedly from the Synoptics in structure and themes: few miracles (seven \"signs\"), long discourses and its own chronology of the ministry. The prologue (1:1–18) presents Jesus as the Logos. The oldest manuscripts lack 7:53–8:11 (the woman caught in adultery) and, generally, 5:3b–4; many Bibles keep them with a note."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Jesus",
+        "en": "Jesus"
+      },
+      "role": {
+        "pt": "A Palavra feita carne",
+        "en": "The Word made flesh"
+      }
+    },
+    {
+      "name": {
+        "pt": "João Batista",
+        "en": "John the Baptist"
+      },
+      "role": {
+        "pt": "Testemunha de Jesus (1:6–8, 19–34)",
+        "en": "Witness to Jesus (1:6–8, 19–34)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Nicodemos",
+        "en": "Nicodemus"
+      },
+      "role": {
+        "pt": "Fariseu que procura Jesus à noite (cap. 3)",
+        "en": "Pharisee who seeks Jesus at night (ch. 3)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Maria Madalena",
+        "en": "Mary Magdalene"
+      },
+      "role": {
+        "pt": "Primeira a ver o Ressuscitado (cap. 20)",
+        "en": "First to see the risen Lord (ch. 20)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Lázaro, Marta e Maria",
+        "en": "Lazarus, Martha and Mary"
+      },
+      "role": {
+        "pt": "Amigos de Jesus em Betânia (cap. 11)",
+        "en": "Friends of Jesus in Bethany (ch. 11)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Tomé",
+        "en": "Thomas"
+      },
+      "role": {
+        "pt": "Discípulo que duvida e depois confessa (cap. 20)",
+        "en": "Disciple who doubts and then confesses (ch. 20)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–18",
+      "title": {
+        "pt": "O prólogo",
+        "en": "The prologue"
+      }
+    },
+    {
+      "ref": "1:19–12:50",
+      "title": {
+        "pt": "O ministério público e os sinais",
+        "en": "The public ministry and the signs"
+      }
+    },
+    {
+      "ref": "13:1–17:26",
+      "title": {
+        "pt": "A última ceia, o discurso de despedida e a oração",
+        "en": "The last supper, the farewell discourse and the prayer"
+      }
+    },
+    {
+      "ref": "18:1–19:42",
+      "title": {
+        "pt": "A paixão e a morte",
+        "en": "The passion and death"
+      }
+    },
+    {
+      "ref": "20:1–31",
+      "title": {
+        "pt": "A ressurreição",
+        "en": "The resurrection"
+      }
+    },
+    {
+      "ref": "21:1–25",
+      "title": {
+        "pt": "Epílogo na Galileia",
+        "en": "Epilogue in Galilee"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "As cartas 1, 2 e 3 João e o Apocalipse são associadas à mesma tradição. Os \"eu sou\" ecoam Êx 3:14. O Evangelho começa como Gn 1:1 (\"No princípio\").",
+    "en": "The letters 1, 2 and 3 John and Revelation are associated with the same tradition. The \"I am\" sayings echo Exod 3:14. The Gospel opens like Gen 1:1 (\"In the beginning\")."
+  }
+}
