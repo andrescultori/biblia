@@ -1,0 +1,98 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Pedro, \"servo e apóstolo de Jesus Cristo\" (1:1), que fala da transfiguração como testemunha (1:16–18).",
+      "en": "Peter, \"a servant and apostle of Jesus Christ\" (1:1), who speaks of the transfiguration as a witness (1:16–18)."
+    },
+    "scholarly": {
+      "pt": "Autoria debatida: a maioria dos estudiosos vê a carta como escrita em nome de Pedro, depois da morte dele, por causa do estilo, do uso de Judas e da referência às cartas de Paulo como Escritura (3:15–16). A aceitação no cânon foi mais lenta que a de outras cartas. Há quem defenda Pedro.",
+      "en": "Authorship is debated: most scholars see the letter as written in Peter's name, after his death, because of the style, the use of Jude and the reference to Paul's letters as Scripture (3:15–16). Its acceptance in the canon was slower than that of other letters. Some defend Peter."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Por volta de 64–68 d.C., perto da morte de Pedro (1:14).",
+      "en": "Around AD 64–68, near Peter's death (1:14)."
+    },
+    "scholarly": {
+      "pt": "Entre c. 100 e 150 d.C., na posição majoritária.",
+      "en": "Between c. AD 100 and 150, in the majority position."
+    }
+  },
+  "place": {
+    "pt": "Não indicado.",
+    "en": "Not stated."
+  },
+  "recipients": {
+    "pt": "Cristãos em geral, em comunidades ameaçadas por falsos mestres. A carta cita uma carta anterior (3:1).",
+    "en": "Christians in general, in communities threatened by false teachers. The letter cites an earlier letter (3:1)."
+  },
+  "keyVerse": "3:18",
+  "theme": {
+    "pt": "Crescer no conhecimento de Cristo e permanecer firme diante de falsos mestres e da demora da volta do Senhor.",
+    "en": "Growing in the knowledge of Christ and remaining firm against false teachers and the delay of the Lord's return."
+  },
+  "historicalContext": {
+    "pt": "O cap. 2 é muito semelhante à carta de Judas, e a direção do empréstimo é debatida (a maioria vê 2 Pedro dependente de Judas). O cap. 3 responde a quem zomba da demora da vinda do Senhor e fala do dia do Senhor.",
+    "en": "Chapter 2 is very similar to the letter of Jude, and the direction of borrowing is debated (most see 2 Peter as dependent on Jude). Chapter 3 answers those who mock the delay of the Lord's coming and speaks of the day of the Lord."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Pedro",
+        "en": "Peter"
+      },
+      "role": {
+        "pt": "Autor, na leitura tradicional",
+        "en": "Author, in the traditional reading"
+      }
+    },
+    {
+      "name": {
+        "pt": "Paulo",
+        "en": "Paul"
+      },
+      "role": {
+        "pt": "Citado em 3:15–16",
+        "en": "Cited in 3:15–16"
+      }
+    },
+    {
+      "name": {
+        "pt": "Balaão",
+        "en": "Balaam"
+      },
+      "role": {
+        "pt": "Exemplo de falso mestre (2:15)",
+        "en": "Example of a false teacher (2:15)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–21",
+      "title": {
+        "pt": "Conhecimento de Cristo e testemunho apostólico",
+        "en": "Knowledge of Christ and apostolic witness"
+      }
+    },
+    {
+      "ref": "2:1–22",
+      "title": {
+        "pt": "Falsos mestres",
+        "en": "False teachers"
+      }
+    },
+    {
+      "ref": "3:1–18",
+      "title": {
+        "pt": "O dia do Senhor",
+        "en": "The day of the Lord"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "O cap. 2 tem muito em comum com Judas. 3:15–16 é um dos primeiros testemunhos das cartas de Paulo como Escritura. 1 Pedro 1:1 é a outra carta de Pedro no cânon.",
+    "en": "Chapter 2 has much in common with Jude. 3:15–16 is one of the earliest testimonies of Paul's letters as Scripture. 1 Peter is the other letter of Peter in the canon."
+  }
+}

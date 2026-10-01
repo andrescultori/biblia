@@ -1,0 +1,98 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Judas, \"servo de Jesus Cristo e irmão de Tiago\" (v. 1). A tradição o identifica com Judas, irmão do Senhor (Mc 6:3).",
+      "en": "Jude, \"a servant of Jesus Christ and brother of James\" (v. 1). Tradition identifies him with Jude, the brother of the Lord (Mark 6:3)."
+    },
+    "scholarly": {
+      "pt": "Autoria debatida: alguns aceitam Judas, irmão do Senhor; outros veem uma obra de um autor posterior, em nome de Judas, pelo grego e pelo olhar sobre \"a fé\" como corpo de ensino (v. 3). Não há consenso.",
+      "en": "Authorship is debated: some accept Jude, the brother of the Lord; others see the work of a later author, in Jude's name, because of the Greek and the view of \"the faith\" as a body of teaching (v. 3). There is no consensus."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Entre c. 60 e 80 d.C.",
+      "en": "Between c. AD 60 and 80."
+    },
+    "scholarly": {
+      "pt": "Entre c. 70 e 120 d.C.",
+      "en": "Between c. AD 70 and 120."
+    }
+  },
+  "place": {
+    "pt": "Não indicado.",
+    "en": "Not stated."
+  },
+  "recipients": {
+    "pt": "Cristãos em geral, em comunidades ameaçadas por falsos mestres (vv. 3–4).",
+    "en": "Christians in general, in communities threatened by false teachers (vv. 3–4)."
+  },
+  "keyVerse": "1:3",
+  "theme": {
+    "pt": "Lutar pela fé transmitida aos santos, contra falsos mestres, com a certeza de que Deus guarda os fiéis.",
+    "en": "To contend for the faith handed on to the saints, against false teachers, with assurance that God keeps the faithful."
+  },
+  "historicalContext": {
+    "pt": "A carta cita ou alude a tradições judaicas não incluídas no cânon hebraico: 1 Enoque (vv. 14–15) e uma tradição sobre o corpo de Moisés (v. 9). Por isso, sua aceitação no cânon foi discutida em alguns períodos. Tem grande parte do material em comum com 2 Pedro 2.",
+    "en": "The letter cites or alludes to Jewish traditions not included in the Hebrew canon: 1 Enoch (vv. 14–15) and a tradition about the body of Moses (v. 9). For this reason, its acceptance in the canon was discussed in some periods. It shares much material with 2 Peter 2."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Judas",
+        "en": "Jude"
+      },
+      "role": {
+        "pt": "Autor; irmão de Tiago",
+        "en": "Author; brother of James"
+      }
+    },
+    {
+      "name": {
+        "pt": "Enoque",
+        "en": "Enoch"
+      },
+      "role": {
+        "pt": "Citado em v. 14–15",
+        "en": "Cited in vv. 14–15"
+      }
+    },
+    {
+      "name": {
+        "pt": "Miguel",
+        "en": "Michael"
+      },
+      "role": {
+        "pt": "Arcanjo, no v. 9",
+        "en": "Archangel, in v. 9"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–4",
+      "title": {
+        "pt": "Saudação e motivo da carta",
+        "en": "Greeting and reason for the letter"
+      }
+    },
+    {
+      "ref": "1:5–16",
+      "title": {
+        "pt": "Exemplos de juízo e os falsos mestres",
+        "en": "Examples of judgment and the false teachers"
+      }
+    },
+    {
+      "ref": "1:17–25",
+      "title": {
+        "pt": "Exortações e doxologia",
+        "en": "Exhortations and doxology"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Muito próxima de 2 Pedro 2. Cita 1 Enoque, que não está no cânon hebraico nem na maioria dos cânones cristãos.",
+    "en": "Very close to 2 Peter 2. It cites 1 Enoch, which is not in the Hebrew canon or in most Christian canons."
+  }
+}

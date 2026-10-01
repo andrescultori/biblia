@@ -1,0 +1,105 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Amós, pastor e cultivador de sicômoros de Tecoa, em Judá (1:1; 7:14), que profetizou no reino do norte.",
+      "en": "Amos, a shepherd and tender of sycamore figs from Tekoa, in Judah (1:1; 7:14), who prophesied in the northern kingdom."
+    },
+    "scholarly": {
+      "pt": "Em geral, o núcleo é atribuído ao profeta, com acréscimos posteriores (por exemplo, os hinos em 4:13; 5:8–9; 9:5–6, e 9:11–15), cuja extensão é debatida.",
+      "en": "In general, the core is attributed to the prophet, with later additions (for example, the hymns in 4:13; 5:8–9; 9:5–6, and 9:11–15), whose extent is debated."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Reinados de Uzias, em Judá, e de Jeroboão II, em Israel, \"dois anos antes do terremoto\" (1:1), c. 760–750 a.C.",
+      "en": "Reigns of Uzziah of Judah and Jeroboam II of Israel, \"two years before the earthquake\" (1:1), c. 760–750 BC."
+    },
+    "scholarly": {
+      "pt": "Núcleo do séc. VIII a.C., com edição posterior no séc. VII–VI a.C.",
+      "en": "Core of the 8th century BC, with later editing in the 7th–6th centuries BC."
+    }
+  },
+  "place": {
+    "pt": "Betel e outros santuários do reino do norte, onde Amós profetiza (7:10–13).",
+    "en": "Bethel and other sanctuaries of the northern kingdom, where Amos prophesies (7:10–13)."
+  },
+  "recipients": {
+    "pt": "Principalmente Israel, o reino do norte.",
+    "en": "Mainly Israel, the northern kingdom."
+  },
+  "keyVerse": "5:24",
+  "theme": {
+    "pt": "Justiça social e fidelidade: Deus julga as nações e Israel pela injustiça, pela opressão dos pobres e pelo culto vazio.",
+    "en": "Social justice and faithfulness: God judges the nations and Israel for injustice, the oppression of the poor and empty worship."
+  },
+  "historicalContext": {
+    "pt": "O período de Jeroboão II foi de prosperidade e expansão para Israel, com grande desigualdade. Amós denuncia o luxo, a corrupção judicial e o culto sem justiça. É um dos primeiros profetas cujas palavras foram reunidas em livro.",
+    "en": "The period of Jeroboam II was one of prosperity and expansion for Israel, with great inequality. Amos denounces luxury, judicial corruption and worship without justice. He is one of the first prophets whose words were gathered into a book."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Amós",
+        "en": "Amos"
+      },
+      "role": {
+        "pt": "Pastor de Tecoa chamado a profetizar",
+        "en": "Shepherd of Tekoa called to prophesy"
+      }
+    },
+    {
+      "name": {
+        "pt": "Amazias",
+        "en": "Amaziah"
+      },
+      "role": {
+        "pt": "Sacerdote de Betel que se opõe a Amós (7:10–17)",
+        "en": "Priest of Bethel who opposes Amos (7:10–17)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Jeroboão II",
+        "en": "Jeroboam II"
+      },
+      "role": {
+        "pt": "Rei de Israel",
+        "en": "King of Israel"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–2:16",
+      "title": {
+        "pt": "Oráculos contra as nações e contra Israel",
+        "en": "Oracles against the nations and Israel"
+      }
+    },
+    {
+      "ref": "3:1–6:14",
+      "title": {
+        "pt": "Acusações contra Israel",
+        "en": "Accusations against Israel"
+      }
+    },
+    {
+      "ref": "7:1–9:10",
+      "title": {
+        "pt": "Visões e confronto com Amazias",
+        "en": "Visions and confrontation with Amaziah"
+      }
+    },
+    {
+      "ref": "9:11–15",
+      "title": {
+        "pt": "Promessa de restauração",
+        "en": "Promise of restoration"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "At 7:42–43 cita Am 5:25–27, e At 15:16–17 cita Am 9:11–12. O tema da justiça é retomado por outros profetas, como Isaías e Miqueias.",
+    "en": "Acts 7:42–43 quotes Amos 5:25–27, and Acts 15:16–17 quotes Amos 9:11–12. The theme of justice is taken up by other prophets, such as Isaiah and Micah."
+  }
+}

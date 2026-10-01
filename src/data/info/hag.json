@@ -1,0 +1,115 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Ageu, chamado de profeta (1:1). O livro não traz outros dados sobre ele.",
+      "en": "Haggai, called a prophet (1:1). The book gives no other information about him."
+    },
+    "scholarly": {
+      "pt": "Obra anônima, em geral atribuída ao círculo do profeta, em terceira pessoa. A unidade é amplamente aceita.",
+      "en": "An anonymous work, generally attributed to the prophet's circle, in the third person. Its unity is widely accepted."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "O livro é datado com precisão: do primeiro dia do sexto mês ao vigésimo quarto dia do nono mês do segundo ano de Dario (1:1; 2:1, 10, 20), isto é, agosto a dezembro de 520 a.C.",
+      "en": "The book is dated precisely: from the first day of the sixth month to the twenty-fourth day of the ninth month of the second year of Darius (1:1; 2:1, 10, 20), that is, August to December 520 BC."
+    },
+    "scholarly": {
+      "pt": "520 a.C. (a mesma data), com redação logo depois.",
+      "en": "520 BC (the same date), with writing shortly afterwards."
+    }
+  },
+  "place": {
+    "pt": "Jerusalém.",
+    "en": "Jerusalem."
+  },
+  "recipients": {
+    "pt": "Zorobabel, governador de Judá, Josué, o sumo sacerdote, e o povo que voltou do exílio (1:1, 12).",
+    "en": "Zerubbabel, governor of Judah, Joshua, the high priest, and the people who returned from exile (1:1, 12)."
+  },
+  "keyVerse": "2:9",
+  "theme": {
+    "pt": "A reconstrução do templo: o chamado a priorizar a obra de Deus e a promessa de que a nova casa terá glória.",
+    "en": "The rebuilding of the temple: the call to put God's work first and the promise that the new house will have glory."
+  },
+  "historicalContext": {
+    "pt": "O livro se passa no período persa, cerca de 18 anos depois do retorno dos exilados e da interrupção da obra do templo (Ed 4–5). O templo foi concluído por volta de 516 a.C. (Ed 6:15). Ageu e Zacarias são citados juntos em Ed 5:1; 6:14.",
+    "en": "The book is set in the Persian period, about 18 years after the exiles' return and the interruption of the temple work (Ezra 4–5). The temple was completed around 516 BC (Ezra 6:15). Haggai and Zechariah are mentioned together in Ezra 5:1; 6:14."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Ageu",
+        "en": "Haggai"
+      },
+      "role": {
+        "pt": "Profeta",
+        "en": "Prophet"
+      }
+    },
+    {
+      "name": {
+        "pt": "Zorobabel",
+        "en": "Zerubbabel"
+      },
+      "role": {
+        "pt": "Governador de Judá",
+        "en": "Governor of Judah"
+      }
+    },
+    {
+      "name": {
+        "pt": "Josué",
+        "en": "Joshua"
+      },
+      "role": {
+        "pt": "Sumo sacerdote",
+        "en": "High priest"
+      }
+    },
+    {
+      "name": {
+        "pt": "Dario",
+        "en": "Darius"
+      },
+      "role": {
+        "pt": "Rei da Pérsia, cujo segundo ano é a data do livro",
+        "en": "King of Persia, whose second year is the book's date"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–15",
+      "title": {
+        "pt": "O chamado a reconstruir o templo",
+        "en": "The call to rebuild the temple"
+      }
+    },
+    {
+      "ref": "2:1–9",
+      "title": {
+        "pt": "A glória da nova casa",
+        "en": "The glory of the new house"
+      }
+    },
+    {
+      "ref": "2:10–19",
+      "title": {
+        "pt": "Pureza e bênção",
+        "en": "Purity and blessing"
+      }
+    },
+    {
+      "ref": "2:20–23",
+      "title": {
+        "pt": "A promessa a Zorobabel",
+        "en": "The promise to Zerubbabel"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Ed 5:1 e 6:14 citam Ageu. Hb 12:26–27 cita Ag 2:6. Zorobabel aparece na genealogia de Jesus em Mt 1:12–13 e Lc 3:27.",
+    "en": "Ezra 5:1 and 6:14 mention Haggai. Heb 12:26–27 quotes Hag 2:6. Zerubbabel appears in the genealogy of Jesus in Matt 1:12–13 and Luke 3:27."
+  }
+}

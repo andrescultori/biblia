@@ -1,0 +1,115 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Anônimo. A carta não nomeia o autor. Na antiguidade, igrejas do Oriente a ligaram a Paulo; Tertuliano propôs Barnabé; Lutero, Apolo. Orígenes disse que só Deus sabe quem a escreveu.",
+      "en": "Anonymous. The letter does not name the author. In antiquity, churches in the East linked it with Paul; Tertullian proposed Barnabas; Luther, Apollos. Origen said that only God knows who wrote it."
+    },
+    "scholarly": {
+      "pt": "Obra anônima, na forma de um sermão ou homilia (13:22 a chama de \"palavra de exortação\"). Quase nenhum estudioso a atribui a Paulo hoje, por causa do estilo e do vocabulário. O autor tinha excelente grego e conhecia bem a Septuaginta.",
+      "en": "An anonymous work, in the form of a sermon or homily (13:22 calls it a \"word of exhortation\"). Almost no scholar attributes it to Paul today, because of the style and vocabulary. The author had excellent Greek and knew the Septuagint well."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Antes de 70 d.C., para quem lê o culto do templo no presente (por exemplo, 8:4; 10:1–3) como sinal de que o templo ainda estava de pé.",
+      "en": "Before AD 70, for those who read the temple worship in the present tense (for example, 8:4; 10:1–3) as a sign that the temple was still standing."
+    },
+    "scholarly": {
+      "pt": "Entre c. 60 e 95 d.C. Há quem proponha data depois de 70 d.C., e a questão é debatida.",
+      "en": "Between c. AD 60 and 95. Some propose a date after AD 70, and the question is debated."
+    }
+  },
+  "place": {
+    "pt": "O local não é indicado. 13:24 (\"os da Itália vos saúdam\") sugere ligação com a Itália, mas a frase pode ser lida de mais de uma forma.",
+    "en": "The place is not stated. 13:24 (\"those from Italy send you greetings\") suggests a link with Italy, but the phrase can be read in more than one way."
+  },
+  "recipients": {
+    "pt": "Cristãos de origem judaica, em risco de abandonar a fé, segundo o título tradicional \"aos Hebreus\". O destino exato não é indicado.",
+    "en": "Christians of Jewish background, at risk of abandoning the faith, according to the traditional title \"to the Hebrews\". The exact destination is not stated."
+  },
+  "keyVerse": "11:1",
+  "theme": {
+    "pt": "A superioridade de Cristo como Filho, sumo sacerdote e sacrifício final, e o chamado à perseverança pela fé.",
+    "en": "The superiority of Christ as Son, high priest and final sacrifice, and the call to persevere by faith."
+  },
+  "historicalContext": {
+    "pt": "A carta lê o Antigo Testamento como preparação para Cristo, com ênfase em Salmos 110 e 8, e compara o sacerdócio de Cristo com o de Melquisedeque e o de Arão. Contém advertências severas (por exemplo, 6:4–8; 10:26–31), de interpretação muito debatida, e a galeria da fé do cap. 11.",
+    "en": "The letter reads the Old Testament as preparation for Christ, with emphasis on Psalms 110 and 8, and compares Christ's priesthood with that of Melchizedek and Aaron. It contains severe warnings (for example, 6:4–8; 10:26–31), whose interpretation is much debated, and the gallery of faith in ch. 11."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Jesus",
+        "en": "Jesus"
+      },
+      "role": {
+        "pt": "Filho de Deus e sumo sacerdote",
+        "en": "Son of God and high priest"
+      }
+    },
+    {
+      "name": {
+        "pt": "Melquisedeque",
+        "en": "Melchizedek"
+      },
+      "role": {
+        "pt": "Rei-sacerdote de Gn 14, modelo do sacerdócio de Cristo (cap. 7)",
+        "en": "Priest-king of Gen 14, model of Christ's priesthood (ch. 7)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Moisés",
+        "en": "Moses"
+      },
+      "role": {
+        "pt": "Comparado a Cristo (3:1–6)",
+        "en": "Compared with Christ (3:1–6)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Timóteo",
+        "en": "Timothy"
+      },
+      "role": {
+        "pt": "Mencionado como libertado (13:23)",
+        "en": "Mentioned as released (13:23)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–4:13",
+      "title": {
+        "pt": "Cristo, o Filho, superior aos anjos e a Moisés",
+        "en": "Christ, the Son, superior to angels and Moses"
+      }
+    },
+    {
+      "ref": "4:14–10:18",
+      "title": {
+        "pt": "Cristo, o sumo sacerdote e o sacrifício final",
+        "en": "Christ, the high priest and final sacrifice"
+      }
+    },
+    {
+      "ref": "10:19–12:29",
+      "title": {
+        "pt": "Fé e perseverança",
+        "en": "Faith and perseverance"
+      }
+    },
+    {
+      "ref": "13:1–25",
+      "title": {
+        "pt": "Exortações finais e saudações",
+        "en": "Final exhortations and greetings"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Cita ou alude a muitos textos do Antigo Testamento, entre eles os Salmos 2, 8, 95 e 110, Jeremias 31 e Habacuque 2:4. Dialoga com Levítico (sacrifícios) e Números (o deserto).",
+    "en": "Cites or alludes to many Old Testament texts, among them Psalms 2, 8, 95 and 110, Jeremiah 31 and Habakkuk 2:4. It dialogues with Leviticus (sacrifices) and Numbers (the wilderness)."
+  }
+}

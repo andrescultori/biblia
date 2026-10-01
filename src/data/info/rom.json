@@ -1,0 +1,136 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Paulo, o apóstolo, que se identifica como autor (1:1).",
+      "en": "Paul the apostle, who names himself as the author (1:1)."
+    },
+    "scholarly": {
+      "pt": "Paulo é o autor, com ampla concordância dos estudiosos. Esta carta está entre as sete chamadas \"autênticas\" (Romanos, 1 e 2 Coríntios, Gálatas, Filipenses, 1 Tessalonicenses e Filemom).",
+      "en": "Paul is the author, with wide agreement among scholars. This letter is among the seven so-called \"authentic\" ones (Romans, 1 and 2 Corinthians, Galatians, Philippians, 1 Thessalonians and Philemon)."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Por volta de 57 d.C., durante a estada de Paulo em Corinto, antes de ir a Jerusalém (At 20:2–3).",
+      "en": "Around AD 57, during Paul's stay in Corinth, before going to Jerusalem (Acts 20:2–3)."
+    },
+    "scholarly": {
+      "pt": "Por volta de 55–58 d.C., com variações pequenas entre os autores.",
+      "en": "Around AD 55–58, with small variations among scholars."
+    }
+  },
+  "place": {
+    "pt": "Corinto, provavelmente. Febe, de Cencreia, é mencionada em 16:1.",
+    "en": "Probably Corinth. Phoebe, of Cenchreae, is mentioned in 16:1."
+  },
+  "recipients": {
+    "pt": "Os cristãos de Roma, uma igreja que Paulo não fundou nem visitou ainda, com judeus e gentios (1:7; 16).",
+    "en": "The Christians in Rome, a church Paul had neither founded nor yet visited, with Jews and Gentiles (1:7; 16)."
+  },
+  "keyVerse": "1:16–17",
+  "theme": {
+    "pt": "O evangelho como poder de Deus para a salvação de todos que creem: a justiça de Deus revelada em Cristo, a vida no Espírito e o lugar de Israel nos planos de Deus.",
+    "en": "The gospel as God's power for the salvation of all who believe: God's righteousness revealed in Christ, life in the Spirit and Israel's place in God's plans."
+  },
+  "historicalContext": {
+    "pt": "A carta apresenta a teologia de Paulo de forma mais sistemática. A relação entre judeus e gentios na igreja de Roma é pano de fundo. A interpretação de temas como a justiça de Deus e a lei é matéria de debates antigos e recentes, entre diferentes tradições.",
+    "en": "The letter presents Paul's theology in its most systematic form. The relationship between Jews and Gentiles in the church at Rome is the backdrop. The interpretation of themes such as God's righteousness and the law is a matter of old and recent debates among different traditions."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Paulo",
+        "en": "Paul"
+      },
+      "role": {
+        "pt": "Apóstolo e autor",
+        "en": "Apostle and author"
+      }
+    },
+    {
+      "name": {
+        "pt": "Febe",
+        "en": "Phoebe"
+      },
+      "role": {
+        "pt": "Diaconisa de Cencreia, provável portadora da carta (16:1–2)",
+        "en": "Deacon of Cenchreae, likely the carrier of the letter (16:1–2)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Prisca e Áquila",
+        "en": "Priscilla and Aquila"
+      },
+      "role": {
+        "pt": "Colaboradores de Paulo (16:3–5)",
+        "en": "Paul's coworkers (16:3–5)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Tércio",
+        "en": "Tertius"
+      },
+      "role": {
+        "pt": "Escriba que escreve a carta (16:22)",
+        "en": "Scribe who writes the letter (16:22)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–17",
+      "title": {
+        "pt": "Introdução",
+        "en": "Introduction"
+      }
+    },
+    {
+      "ref": "1:18–3:20",
+      "title": {
+        "pt": "A humanidade sob o pecado",
+        "en": "Humanity under sin"
+      }
+    },
+    {
+      "ref": "3:21–5:21",
+      "title": {
+        "pt": "Justificação pela fé",
+        "en": "Justification by faith"
+      }
+    },
+    {
+      "ref": "6:1–8:39",
+      "title": {
+        "pt": "Vida no Espírito",
+        "en": "Life in the Spirit"
+      }
+    },
+    {
+      "ref": "9:1–11:36",
+      "title": {
+        "pt": "O lugar de Israel",
+        "en": "Israel's place"
+      }
+    },
+    {
+      "ref": "12:1–15:13",
+      "title": {
+        "pt": "A vida cristã",
+        "en": "The Christian life"
+      }
+    },
+    {
+      "ref": "15:14–16:27",
+      "title": {
+        "pt": "Planos de Paulo e saudações",
+        "en": "Paul's plans and greetings"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Cita Gênesis 15:6 (Abraão) em 4:3 e Habacuque 2:4 em 1:17. Tem forte relação com Gálatas. Atos 20:2–3 situa Paulo em Corinto no período de sua redação.",
+    "en": "Quotes Genesis 15:6 (Abraham) in 4:3 and Habakkuk 2:4 in 1:17. It is strongly related to Galatians. Acts 20:2–3 places Paul in Corinth in the period of its writing."
+  }
+}

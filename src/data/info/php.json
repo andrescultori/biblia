@@ -1,0 +1,115 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Paulo, o apóstolo, que se identifica como autor (1:1).",
+      "en": "Paul the apostle, who names himself as the author (1:1)."
+    },
+    "scholarly": {
+      "pt": "Paulo é o autor, com ampla concordância dos estudiosos. Esta carta está entre as sete chamadas \"autênticas\" (Romanos, 1 e 2 Coríntios, Gálatas, Filipenses, 1 Tessalonicenses e Filemom).",
+      "en": "Paul is the author, with wide agreement among scholars. This letter is among the seven so-called \"authentic\" ones (Romans, 1 and 2 Corinthians, Galatians, Philippians, 1 Thessalonians and Philemon)."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Por volta de 60–62 d.C., durante a prisão em Roma (At 28).",
+      "en": "Around AD 60–62, during the imprisonment in Rome (Acts 28)."
+    },
+    "scholarly": {
+      "pt": "Entre c. 54 e 62 d.C., conforme o local da prisão.",
+      "en": "Between c. AD 54 and 62, depending on the place of imprisonment."
+    }
+  },
+  "place": {
+    "pt": "Prisão de Paulo (1:7, 13). A localização (Roma, Éfeso ou Cesareia) é debatida.",
+    "en": "Paul's imprisonment (1:7, 13). The location (Rome, Ephesus or Caesarea) is debated."
+  },
+  "recipients": {
+    "pt": "A igreja de Filipos, na Macedônia, fundada por Paulo (At 16), com seus bispos e diáconos (1:1).",
+    "en": "The church in Philippi, in Macedonia, founded by Paul (Acts 16), with its overseers and deacons (1:1)."
+  },
+  "keyVerse": "2:5",
+  "theme": {
+    "pt": "Alegria e unidade em Cristo, mesmo na prisão e no sofrimento, seguindo o exemplo de humildade de Cristo.",
+    "en": "Joy and unity in Christ, even in prison and suffering, following Christ's example of humility."
+  },
+  "historicalContext": {
+    "pt": "A carta agradece à igreja a ajuda enviada por Epafrodito (4:10–18). O \"hino de Cristo\" (2:6–11) é muito estudado, inclusive quanto à sua origem pré-paulina. A unidade da carta é discutida, pela mudança de tom em 3:1.",
+    "en": "The letter thanks the church for the help sent through Epaphroditus (4:10–18). The \"Christ hymn\" (2:6–11) is much studied, including its possible pre-Pauline origin. The unity of the letter is discussed, because of the shift of tone at 3:1."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Paulo",
+        "en": "Paul"
+      },
+      "role": {
+        "pt": "Apóstolo e autor, preso",
+        "en": "Apostle and author, in prison"
+      }
+    },
+    {
+      "name": {
+        "pt": "Timóteo",
+        "en": "Timothy"
+      },
+      "role": {
+        "pt": "Co-remetente (1:1; 2:19–24)",
+        "en": "Co-sender (1:1; 2:19–24)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Epafrodito",
+        "en": "Epaphroditus"
+      },
+      "role": {
+        "pt": "Enviado pela igreja de Filipos (2:25–30)",
+        "en": "Sent by the church in Philippi (2:25–30)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Evódia e Síntique",
+        "en": "Euodia and Syntyche"
+      },
+      "role": {
+        "pt": "Duas mulheres em desacordo (4:2)",
+        "en": "Two women in disagreement (4:2)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–26",
+      "title": {
+        "pt": "Introdução e a situação de Paulo",
+        "en": "Introduction and Paul's situation"
+      }
+    },
+    {
+      "ref": "1:27–2:18",
+      "title": {
+        "pt": "Unidade e humildade; o hino de Cristo",
+        "en": "Unity and humility; the Christ hymn"
+      }
+    },
+    {
+      "ref": "2:19–3:21",
+      "title": {
+        "pt": "Timóteo, Epafrodito e a verdadeira justiça",
+        "en": "Timothy, Epaphroditus and true righteousness"
+      }
+    },
+    {
+      "ref": "4:1–23",
+      "title": {
+        "pt": "Exortações, agradecimento e saudações",
+        "en": "Exhortations, thanks and greetings"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Filipos aparece em At 16:12–40. A carta tem proximidade com Filemom e Colossenses por terem sido escritas na prisão.",
+    "en": "Philippi appears in Acts 16:12–40. The letter is close to Philemon and Colossians because they were written in prison."
+  }
+}

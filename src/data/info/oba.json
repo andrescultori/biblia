@@ -1,0 +1,88 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Obadias, de quem o livro não traz outros dados (1:1). Não se pode identificá-lo com certeza com outros homens de mesmo nome na Bíblia.",
+      "en": "Obadiah, about whom the book gives no other information (1:1). He cannot be identified with certainty with other men of the same name in the Bible."
+    },
+    "scholarly": {
+      "pt": "Obra anônima, atribuída a Obadias. Há paralelos com Jr 49:7–22, e se discute qual texto depende de qual.",
+      "en": "An anonymous work, attributed to Obadiah. There are parallels with Jer 49:7–22, and scholars discuss which text depends on which."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Não há data de composição no texto.",
+      "en": "No date of composition is given in the text."
+    },
+    "scholarly": {
+      "pt": "Em geral, depois da queda de Jerusalém em 586 a.C., pelas acusações aos edomitas (vv. 10–14). Há propostas mais antigas, ligadas a invasões anteriores.",
+      "en": "Generally after the fall of Jerusalem in 586 BC, because of the accusations against the Edomites (vv. 10–14). There are earlier proposals, tied to earlier invasions."
+    }
+  },
+  "place": {
+    "pt": "O livro não indica o local; os cenários são Edom e Jerusalém.",
+    "en": "The book does not state the place; the settings are Edom and Jerusalem."
+  },
+  "recipients": {
+    "pt": "Edom, como alvo do oráculo, e Judá, que o ouve.",
+    "en": "Edom, as the target of the oracle, and Judah, who hears it."
+  },
+  "keyVerse": "1:15",
+  "theme": {
+    "pt": "O juízo sobre Edom por sua violência contra Judá e a promessa de restauração de Israel no \"dia do Senhor\".",
+    "en": "Judgment on Edom for its violence against Judah and the promise of Israel's restoration on the \"day of the Lord\"."
+  },
+  "historicalContext": {
+    "pt": "É o menor livro do Antigo Testamento (21 versículos). Edom, vizinho ao sul do Mar Morto, é associado a Esaú (Gn 36) e é acusado de ter se aproveitado da queda de Jerusalém. Sl 137:7 e Ez 25:12–14 têm acusações semelhantes.",
+    "en": "It is the shortest book of the Old Testament (21 verses). Edom, a neighbor south of the Dead Sea, is associated with Esau (Gen 36) and is accused of having taken advantage of the fall of Jerusalem. Psalm 137:7 and Ezek 25:12–14 have similar accusations."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Obadias",
+        "en": "Obadiah"
+      },
+      "role": {
+        "pt": "Profeta",
+        "en": "Prophet"
+      }
+    },
+    {
+      "name": {
+        "pt": "Edom (Esaú)",
+        "en": "Edom (Esau)"
+      },
+      "role": {
+        "pt": "Povo alvo do oráculo",
+        "en": "People targeted by the oracle"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–9",
+      "title": {
+        "pt": "O juízo sobre Edom",
+        "en": "Judgment on Edom"
+      }
+    },
+    {
+      "ref": "1:10–14",
+      "title": {
+        "pt": "As acusações contra Edom",
+        "en": "The accusations against Edom"
+      }
+    },
+    {
+      "ref": "1:15–21",
+      "title": {
+        "pt": "O dia do Senhor e a restauração",
+        "en": "The day of the Lord and restoration"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "O livro não é citado diretamente no Novo Testamento. Tem paralelos com Jr 49:7–22 e Ez 25 e 35, e retoma a relação entre Jacó e Esaú de Gn 25–36.",
+    "en": "The book is not directly quoted in the New Testament. It has parallels with Jer 49:7–22 and Ezek 25 and 35, and takes up the relationship between Jacob and Esau from Gen 25–36."
+  }
+}

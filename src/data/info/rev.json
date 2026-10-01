@@ -1,0 +1,157 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "João (1:1, 4, 9), que está na ilha de Patmos. A tradição antiga (Justino, Ireneu) o identifica com João, o apóstolo, na época do imperador Domiciano.",
+      "en": "John (1:1, 4, 9), who is on the island of Patmos. Early tradition (Justin, Irenaeus) identifies him with John the apostle, in the time of Emperor Domitian."
+    },
+    "scholarly": {
+      "pt": "Obra de um autor chamado João, em geral visto como diferente do autor do quarto Evangelho, pelas diferenças de grego e de estilo (já observadas por Dionísio de Alexandria no séc. III). A identificação com o apóstolo é debatida.",
+      "en": "The work of an author called John, generally seen as different from the author of the fourth Gospel, because of differences in Greek and style (already observed by Dionysius of Alexandria in the 3rd century). The identification with the apostle is debated."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Por volta de 95 d.C., no reinado de Domiciano.",
+      "en": "Around AD 95, in the reign of Domitian."
+    },
+    "scholarly": {
+      "pt": "Em geral c. 90–96 d.C. (Domiciano). Há quem proponha c. 68–70 d.C. (depois de Nero).",
+      "en": "Generally c. AD 90–96 (Domitian). Some propose c. AD 68–70 (after Nero)."
+    }
+  },
+  "place": {
+    "pt": "Patmos (1:9), uma ilha no mar Egeu, diante de Éfeso.",
+    "en": "Patmos (1:9), an island in the Aegean Sea, off Ephesus."
+  },
+  "recipients": {
+    "pt": "Sete igrejas da província romana da Ásia: Éfeso, Esmirna, Pérgamo, Tiatira, Sardes, Filadélfia e Laodiceia (1:4, 11).",
+    "en": "Seven churches of the Roman province of Asia: Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia and Laodicea (1:4, 11)."
+  },
+  "keyVerse": "21:5",
+  "theme": {
+    "pt": "A vitória de Cristo e de Deus sobre o mal, em visões que consolam as igrejas sob pressão e prometem novo céu e nova terra.",
+    "en": "The victory of Christ and God over evil, in visions that comfort the churches under pressure and promise a new heaven and a new earth."
+  },
+  "historicalContext": {
+    "pt": "O livro é uma mistura de carta, profecia e apocalipse, com linguagem simbólica e muitas alusões ao Antigo Testamento (Daniel, Ezequiel, Zacarias, Isaías). Seu cenário é o de um império que exigia culto ao imperador. Há várias linhas de interpretação: a histórica (o primeiro século), a historicista, a futurista e a idealista, e a escolha entre elas é debatida e marcada por tradições.",
+    "en": "The book is a mix of letter, prophecy and apocalypse, with symbolic language and many allusions to the Old Testament (Daniel, Ezekiel, Zechariah, Isaiah). Its setting is that of an empire that demanded worship of the emperor. There are several lines of interpretation: the preterist (the first century), the historicist, the futurist and the idealist, and the choice among them is debated and shaped by traditions."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "João",
+        "en": "John"
+      },
+      "role": {
+        "pt": "Vidente em Patmos",
+        "en": "Seer on Patmos"
+      }
+    },
+    {
+      "name": {
+        "pt": "Jesus Cristo",
+        "en": "Jesus Christ"
+      },
+      "role": {
+        "pt": "O Cordeiro e Senhor da história (1:5; 5:6)",
+        "en": "The Lamb and Lord of history (1:5; 5:6)"
+      }
+    },
+    {
+      "name": {
+        "pt": "A besta e o dragão",
+        "en": "The beast and the dragon"
+      },
+      "role": {
+        "pt": "Figuras de oposição (caps. 12–13)",
+        "en": "Figures of opposition (chs. 12–13)"
+      }
+    },
+    {
+      "name": {
+        "pt": "A mulher e o Cordeiro",
+        "en": "The woman and the Lamb"
+      },
+      "role": {
+        "pt": "Imagens centrais das visões",
+        "en": "Central images of the visions"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–20",
+      "title": {
+        "pt": "Prólogo e visão de Cristo",
+        "en": "Prologue and vision of Christ"
+      }
+    },
+    {
+      "ref": "2:1–3:22",
+      "title": {
+        "pt": "As cartas às sete igrejas",
+        "en": "The letters to the seven churches"
+      }
+    },
+    {
+      "ref": "4:1–5:14",
+      "title": {
+        "pt": "A sala do trono e o Cordeiro",
+        "en": "The throne room and the Lamb"
+      }
+    },
+    {
+      "ref": "6:1–8:5",
+      "title": {
+        "pt": "Os sete selos",
+        "en": "The seven seals"
+      }
+    },
+    {
+      "ref": "8:6–11:19",
+      "title": {
+        "pt": "As sete trombetas",
+        "en": "The seven trumpets"
+      }
+    },
+    {
+      "ref": "12:1–14:20",
+      "title": {
+        "pt": "A mulher, o dragão e as bestas",
+        "en": "The woman, the dragon and the beasts"
+      }
+    },
+    {
+      "ref": "15:1–16:21",
+      "title": {
+        "pt": "As sete taças",
+        "en": "The seven bowls"
+      }
+    },
+    {
+      "ref": "17:1–19:10",
+      "title": {
+        "pt": "A queda de Babilônia",
+        "en": "The fall of Babylon"
+      }
+    },
+    {
+      "ref": "19:11–22:5",
+      "title": {
+        "pt": "A vitória final e a nova criação",
+        "en": "The final victory and the new creation"
+      }
+    },
+    {
+      "ref": "22:6–21",
+      "title": {
+        "pt": "Epílogo",
+        "en": "Epilogue"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Fecha o cânon cristão. Retoma imagens de Gênesis (a árvore da vida, 22:2), Êxodo (pragas), Daniel, Ezequiel e Zacarias. A tradição joanina o liga ao Evangelho e às cartas de João, ainda que a autoria seja debatida.",
+    "en": "Closes the Christian canon. Takes up images from Genesis (the tree of life, 22:2), Exodus (plagues), Daniel, Ezekiel and Zechariah. The Johannine tradition links it with the Gospel and John's letters, although authorship is debated."
+  }
+}

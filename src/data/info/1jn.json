@@ -1,0 +1,98 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "A carta não nomeia o autor. A tradição antiga (Ireneu) a atribui a João, o apóstolo, o mesmo do quarto Evangelho.",
+      "en": "The letter does not name the author. Early tradition (Irenaeus) attributes it to John the apostle, the same as the fourth Gospel."
+    },
+    "scholarly": {
+      "pt": "Obra anônima, da tradição joanina, próxima ao quarto Evangelho em vocabulário e temas. Há debate se o autor é o mesmo do Evangelho ou alguém do mesmo círculo.",
+      "en": "An anonymous work from the Johannine tradition, close to the fourth Gospel in vocabulary and themes. There is debate over whether the author is the same as the Gospel's or someone from the same circle."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Por volta de 90–100 d.C., em Éfeso, na tradição.",
+      "en": "Around AD 90–100, at Ephesus, in tradition."
+    },
+    "scholarly": {
+      "pt": "Por volta de 90–110 d.C., depois do Evangelho, em geral.",
+      "en": "Around AD 90–110, generally after the Gospel."
+    }
+  },
+  "place": {
+    "pt": "Tradicionalmente Éfeso.",
+    "en": "Traditionally Ephesus."
+  },
+  "recipients": {
+    "pt": "Comunidades joaninas, abaladas por uma divisão interna (2:19).",
+    "en": "Johannine communities, shaken by an internal split (2:19)."
+  },
+  "keyVerse": "4:8",
+  "theme": {
+    "pt": "Viver na luz e no amor: confessar que Jesus é o Cristo vindo em carne, praticar o amor aos irmãos e ter a certeza da vida eterna.",
+    "en": "Living in the light and in love: confessing that Jesus is the Christ come in the flesh, practicing love for the brothers and sisters, and having assurance of eternal life."
+  },
+  "historicalContext": {
+    "pt": "A carta não tem a forma típica de uma carta, sem saudação inicial nem despedida. Combate a ideia de que Jesus não veio em carne (4:2–3) e a de que quem se separou é verdadeiro cristão (2:19). Os termos \"anticristo\" (2:18, 22; 4:3) aparecem só nas cartas de João.",
+    "en": "The letter lacks the typical letter form, with no opening greeting or closing. It opposes the idea that Jesus did not come in the flesh (4:2–3) and that those who left were true Christians (2:19). The term \"antichrist\" (2:18, 22; 4:3) appears only in John's letters."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "O autor",
+        "en": "The author"
+      },
+      "role": {
+        "pt": "Chama os leitores de \"filhinhos\"",
+        "en": "Calls the readers \"little children\""
+      }
+    },
+    {
+      "name": {
+        "pt": "Jesus Cristo",
+        "en": "Jesus Christ"
+      },
+      "role": {
+        "pt": "O Filho, o advogado junto ao Pai (2:1)",
+        "en": "The Son, the advocate with the Father (2:1)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Os anticristos",
+        "en": "The antichrists"
+      },
+      "role": {
+        "pt": "Os que se separaram da comunidade (2:18–19)",
+        "en": "Those who left the community (2:18–19)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–2:29",
+      "title": {
+        "pt": "Luz, pecado e a palavra desde o princípio",
+        "en": "Light, sin and the word from the beginning"
+      }
+    },
+    {
+      "ref": "3:1–24",
+      "title": {
+        "pt": "Filhos de Deus e o amor aos irmãos",
+        "en": "Children of God and love for the brothers and sisters"
+      }
+    },
+    {
+      "ref": "4:1–5:21",
+      "title": {
+        "pt": "Testar os espíritos, o amor e a vida eterna",
+        "en": "Testing the spirits, love and eternal life"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Muitos temas se encontram no Evangelho de João (luz, vida, amor). 1 João 1:1–4 tem paralelo com Jo 1:1–18.",
+    "en": "Many themes are found in the Gospel of John (light, life, love). 1 John 1:1–4 parallels John 1:1–18."
+  }
+}

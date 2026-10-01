@@ -1,0 +1,98 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Paulo, o apóstolo, que se identifica como autor (1:1).",
+      "en": "Paul the apostle, who names himself as the author (1:1)."
+    },
+    "scholarly": {
+      "pt": "Autoria debatida: a maioria dos estudiosos vê as Cartas Pastorais (1 e 2 Timóteo e Tito) como escritas em nome de Paulo, depois de sua morte, por causa do vocabulário, da organização eclesial e do contexto. Há quem defenda a autoria paulina. Não há consenso.",
+      "en": "Authorship is debated: most scholars see the Pastoral Letters (1 and 2 Timothy and Titus) as written in Paul's name, after his death, because of the vocabulary, the church organization and the context. Some defend Pauline authorship. There is no consensus."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Entre c. 62 e 65 d.C., depois da prisão narrada em Atos (se aceita a autoria paulina).",
+      "en": "Between c. AD 62 and 65, after the imprisonment narrated in Acts (if Pauline authorship is accepted)."
+    },
+    "scholarly": {
+      "pt": "Entre c. 80 e 100 d.C., na posição majoritária.",
+      "en": "Between c. AD 80 and 100, in the majority position."
+    }
+  },
+  "place": {
+    "pt": "Não indicado.",
+    "en": "Not stated."
+  },
+  "recipients": {
+    "pt": "Tito, colaborador de Paulo, em Creta (1:4–5).",
+    "en": "Titus, Paul's coworker, in Crete (1:4–5)."
+  },
+  "keyVerse": "2:11",
+  "theme": {
+    "pt": "A organização da igreja em Creta e uma vida marcada pela graça e pelas boas obras.",
+    "en": "The organization of the church in Crete and a life marked by grace and good works."
+  },
+  "historicalContext": {
+    "pt": "Paulo deixou Tito em Creta para organizar a igreja (1:5). A carta é curta e prática e traz requisitos para presbíteros (1:5–9), orientações para vários grupos (cap. 2) e o convívio na sociedade (cap. 3).",
+    "en": "Paul left Titus in Crete to organize the church (1:5). The letter is short and practical and includes requirements for elders (1:5–9), guidance for various groups (ch. 2) and life in society (ch. 3)."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Tito",
+        "en": "Titus"
+      },
+      "role": {
+        "pt": "Colaborador de Paulo, em Creta",
+        "en": "Paul's coworker, in Crete"
+      }
+    },
+    {
+      "name": {
+        "pt": "Paulo",
+        "en": "Paul"
+      },
+      "role": {
+        "pt": "Apóstolo e autor",
+        "en": "Apostle and author"
+      }
+    },
+    {
+      "name": {
+        "pt": "Zenas e Apolo",
+        "en": "Zenas and Apollos"
+      },
+      "role": {
+        "pt": "Mencionados em 3:13",
+        "en": "Mentioned in 3:13"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–16",
+      "title": {
+        "pt": "Presbíteros e falsos mestres",
+        "en": "Elders and false teachers"
+      }
+    },
+    {
+      "ref": "2:1–15",
+      "title": {
+        "pt": "Ensino para cada grupo",
+        "en": "Teaching for each group"
+      }
+    },
+    {
+      "ref": "3:1–15",
+      "title": {
+        "pt": "Vida na sociedade e despedida",
+        "en": "Life in society and farewell"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Terceira das Cartas Pastorais. Tito aparece também em 2 Coríntios e Gálatas.",
+    "en": "The third of the Pastoral Letters. Titus also appears in 2 Corinthians and Galatians."
+  }
+}

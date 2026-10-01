@@ -1,0 +1,88 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Miqueias de Moresete (1:1), profeta em Judá. A tradição o situa no séc. VIII a.C.",
+      "en": "Micah of Moresheth (1:1), a prophet in Judah. Tradition places him in the 8th century BC."
+    },
+    "scholarly": {
+      "pt": "O núcleo (caps. 1–3) costuma ser atribuído ao profeta. Muitos veem os caps. 4–7 como acréscimos posteriores, do exílio ou depois, embora haja quem defenda a unidade. Não há consenso.",
+      "en": "The core (chs. 1–3) is usually attributed to the prophet. Many see chs. 4–7 as later additions, from the exile or after, although some defend the unity. There is no consensus."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Ministério nos reinados de Jotão, Acaz e Ezequias (1:1), c. 740–700 a.C. Jr 26:18 lembra uma profecia sua (Mq 3:12).",
+      "en": "Ministry in the reigns of Jotham, Ahaz and Hezekiah (1:1), c. 740–700 BC. Jer 26:18 recalls a prophecy of his (Mic 3:12)."
+    },
+    "scholarly": {
+      "pt": "Núcleo do séc. VIII a.C., com edição no exílio ou no pós-exílio.",
+      "en": "Core of the 8th century BC, with editing in the exile or post-exile."
+    }
+  },
+  "place": {
+    "pt": "Moresete, cidade de Judá, e Jerusalém. O local de composição não é indicado.",
+    "en": "Moresheth, a town of Judah, and Jerusalem. The place of composition is not stated."
+  },
+  "recipients": {
+    "pt": "Judá e Israel, com críticas às lideranças de Jerusalém e de Samaria.",
+    "en": "Judah and Israel, with criticism of the leaders of Jerusalem and Samaria."
+  },
+  "keyVerse": "6:8",
+  "theme": {
+    "pt": "Juízo sobre a injustiça de líderes e ricos, esperança de restauração e de um governante de Belém, e o chamado à justiça, misericórdia e humildade.",
+    "en": "Judgment on the injustice of leaders and the rich, hope of restoration and of a ruler from Bethlehem, and the call to justice, mercy and humility."
+  },
+  "historicalContext": {
+    "pt": "Miqueias é contemporâneo de Isaías e vem de uma aldeia de Judá, não de Jerusalém. Critica a concentração de terras e a corrupção de juízes, sacerdotes e profetas. O texto de 4:1–3 é quase igual a Is 2:2–4.",
+    "en": "Micah is a contemporary of Isaiah and comes from a village in Judah, not from Jerusalem. He criticizes the concentration of land and the corruption of judges, priests and prophets. The text of 4:1–3 is nearly the same as Isa 2:2–4."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Miqueias",
+        "en": "Micah"
+      },
+      "role": {
+        "pt": "Profeta de Moresete",
+        "en": "Prophet of Moresheth"
+      }
+    },
+    {
+      "name": {
+        "pt": "Ezequias",
+        "en": "Hezekiah"
+      },
+      "role": {
+        "pt": "Rei de Judá, lembrado em Jr 26:18",
+        "en": "King of Judah, recalled in Jer 26:18"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–3:12",
+      "title": {
+        "pt": "Juízo sobre Samaria e Jerusalém",
+        "en": "Judgment on Samaria and Jerusalem"
+      }
+    },
+    {
+      "ref": "4:1–5:15",
+      "title": {
+        "pt": "Esperança de restauração e o governante de Belém",
+        "en": "Hope of restoration and the ruler from Bethlehem"
+      }
+    },
+    {
+      "ref": "6:1–7:20",
+      "title": {
+        "pt": "A controvérsia do Senhor, lamento e esperança",
+        "en": "The Lord's controversy, lament and hope"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Mt 2:5–6 cita Mq 5:2 sobre Belém. Mt 10:35–36 alude a Mq 7:6. Jr 26:18 cita Mq 3:12. Is 2:2–4 é quase idêntico a Mq 4:1–3.",
+    "en": "Matt 2:5–6 quotes Mic 5:2 about Bethlehem. Matt 10:35–36 alludes to Mic 7:6. Jer 26:18 quotes Mic 3:12. Isa 2:2–4 is almost identical to Mic 4:1–3."
+  }
+}

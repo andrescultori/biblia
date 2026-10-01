@@ -1,0 +1,139 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Lucas, médico e companheiro de Paulo (Cl 4:14; Fm 24; 2Tm 4:11), segundo a tradição antiga. O texto é anônimo.",
+      "en": "Luke, physician and companion of Paul (Col 4:14; Phlm 24; 2 Tim 4:11), according to early tradition. The text is anonymous."
+    },
+    "scholarly": {
+      "pt": "Obra anônima, em grego de boa qualidade literária, que forma uma obra de dois volumes com Atos. Usou Marcos, uma fonte de ditos (Q) e material próprio. A identificação com o companheiro de Paulo é debatida.",
+      "en": "An anonymous work in Greek of good literary quality, forming a two-volume work with Acts. It used Mark, a sayings source (Q) and its own material. The identification with Paul's companion is debated."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Entre c. 60 e 70 d.C., em algumas propostas tradicionais, antes do fim de Atos.",
+      "en": "Between c. AD 60 and 70, in some traditional proposals, before the end of Acts."
+    },
+    "scholarly": {
+      "pt": "Em geral, entre c. 80 e 90 d.C., depois da destruição do templo.",
+      "en": "Generally between c. AD 80 and 90, after the destruction of the temple."
+    }
+  },
+  "place": {
+    "pt": "Não indicado. Propostas incluem Antioquia, a Grécia e Roma.",
+    "en": "Not stated. Proposals include Antioch, Greece and Rome."
+  },
+  "recipients": {
+    "pt": "Teófilo (1:3), nome que pode indicar uma pessoa específica ou o leitor em geral; a obra se dirige a uma audiência gentia.",
+    "en": "Theophilus (1:3), a name that may indicate a specific person or the reader in general; the work addresses a Gentile audience."
+  },
+  "keyVerse": "19:10",
+  "theme": {
+    "pt": "A salvação universal trazida por Jesus, com atenção aos pobres, mulheres, marginalizados e gentios, e a alegria do Reino.",
+    "en": "The universal salvation brought by Jesus, with attention to the poor, women, outcasts and Gentiles, and the joy of the Kingdom."
+  },
+  "historicalContext": {
+    "pt": "O prólogo (1:1–4) apresenta a obra como um relato ordenado a partir de testemunhas. Traz material próprio, como a infância de Jesus, o Bom Samaritano e o Filho Pródigo. Lucas é o único Evangelho com continuação, Atos.",
+    "en": "The prologue (1:1–4) presents the work as an orderly account based on eyewitnesses. It has its own material, such as the infancy of Jesus, the Good Samaritan and the Prodigal Son. Luke is the only Gospel with a sequel, Acts."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Jesus",
+        "en": "Jesus"
+      },
+      "role": {
+        "pt": "Salvador e profeta",
+        "en": "Savior and prophet"
+      }
+    },
+    {
+      "name": {
+        "pt": "Maria e Isabel",
+        "en": "Mary and Elizabeth"
+      },
+      "role": {
+        "pt": "Mães de Jesus e de João (caps. 1–2)",
+        "en": "Mothers of Jesus and John (chs. 1–2)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Zacarias",
+        "en": "Zechariah"
+      },
+      "role": {
+        "pt": "Pai de João Batista (cap. 1)",
+        "en": "Father of John the Baptist (ch. 1)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Zaqueu",
+        "en": "Zacchaeus"
+      },
+      "role": {
+        "pt": "Cobrador de impostos de Jericó (19:1–10)",
+        "en": "Tax collector of Jericho (19:1–10)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Os discípulos de Emaús",
+        "en": "The disciples at Emmaus"
+      },
+      "role": {
+        "pt": "Encontram o Ressuscitado (cap. 24)",
+        "en": "Meet the risen Lord (ch. 24)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–2:52",
+      "title": {
+        "pt": "Prólogo e infância",
+        "en": "Prologue and infancy"
+      }
+    },
+    {
+      "ref": "3:1–4:13",
+      "title": {
+        "pt": "Preparação: João, batismo e tentação",
+        "en": "Preparation: John, baptism and temptation"
+      }
+    },
+    {
+      "ref": "4:14–9:50",
+      "title": {
+        "pt": "Ministério na Galileia",
+        "en": "Ministry in Galilee"
+      }
+    },
+    {
+      "ref": "9:51–19:27",
+      "title": {
+        "pt": "A viagem a Jerusalém",
+        "en": "The journey to Jerusalem"
+      }
+    },
+    {
+      "ref": "19:28–23:56",
+      "title": {
+        "pt": "Jerusalém: ensino, paixão e morte",
+        "en": "Jerusalem: teaching, passion and death"
+      }
+    },
+    {
+      "ref": "24:1–53",
+      "title": {
+        "pt": "A ressurreição e a ascensão",
+        "en": "The resurrection and the ascension"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Forma, com Atos, uma obra de dois volumes (At 1:1). Com Mateus e Marcos compõe os Sinóticos. O Magnificat (1:46–55) ecoa o cântico de Ana em 1Sm 2.",
+    "en": "Forms, with Acts, a two-volume work (Acts 1:1). With Matthew and Mark it makes up the Synoptics. The Magnificat (1:46–55) echoes Hannah's song in 1 Sam 2."
+  }
+}

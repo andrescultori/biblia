@@ -1,0 +1,132 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Marcos, companheiro de Pedro e de Paulo, segundo a tradição antiga (Papias, citado por Eusébio, o chama intérprete de Pedro). Pode ser o João Marcos de At 12:12. O texto é anônimo.",
+      "en": "Mark, companion of Peter and Paul, according to early tradition (Papias, cited by Eusebius, calls him Peter's interpreter). He may be the John Mark of Acts 12:12. The text is anonymous."
+    },
+    "scholarly": {
+      "pt": "Obra anônima, em grego, em geral vista como o mais antigo dos Evangelhos canônicos (prioridade marcana), usada por Mateus e Lucas. A identificação do autor com Marcos é debatida.",
+      "en": "An anonymous work in Greek, generally seen as the oldest of the canonical Gospels (Markan priority), used by Matthew and Luke. The identification of the author with Mark is debated."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Em torno de 60–65 d.C., em Roma, segundo uma tradição.",
+      "en": "Around AD 60–65, in Rome, according to one tradition."
+    },
+    "scholarly": {
+      "pt": "Por volta de 65–70 d.C., perto da destruição do templo (cap. 13), conforme a posição adotada.",
+      "en": "Around AD 65–70, near the destruction of the temple (ch. 13), depending on the position adopted."
+    }
+  },
+  "place": {
+    "pt": "Tradicionalmente Roma. Outras propostas incluem a Síria ou a Galileia.",
+    "en": "Traditionally Rome. Other proposals include Syria or Galilee."
+  },
+  "recipients": {
+    "pt": "Uma comunidade cristã que sofre perseguição, em grande parte gentia (o texto explica costumes judaicos, 7:3–4).",
+    "en": "A Christian community suffering persecution, largely Gentile (the text explains Jewish customs, 7:3–4)."
+  },
+  "keyVerse": "10:45",
+  "theme": {
+    "pt": "Jesus como o Messias e Filho de Deus que serve, sofre e dá a vida em resgate; o discipulado é seguir pelo caminho da cruz.",
+    "en": "Jesus as the Messiah and Son of God who serves, suffers and gives his life as a ransom; discipleship is following the way of the cross."
+  },
+  "historicalContext": {
+    "pt": "É o Evangelho mais curto e de ritmo rápido. Os manuscritos mais antigos terminam em 16:8, e os versículos 16:9–20 (final longo) e o final curto aparecem em manuscritos posteriores; muitas Bíblias os mantêm com nota. O \"segredo messiânico\" (Jesus pede silêncio) é tema de estudo.",
+    "en": "It is the shortest Gospel and fast-paced. The oldest manuscripts end at 16:8, and verses 16:9–20 (long ending) and the short ending appear in later manuscripts; many Bibles keep them with a note. The \"messianic secret\" (Jesus asks for silence) is a subject of study."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Jesus",
+        "en": "Jesus"
+      },
+      "role": {
+        "pt": "Filho de Deus que serve e sofre",
+        "en": "Son of God who serves and suffers"
+      }
+    },
+    {
+      "name": {
+        "pt": "João Batista",
+        "en": "John the Baptist"
+      },
+      "role": {
+        "pt": "Precursor (1:2–8)",
+        "en": "Forerunner (1:2–8)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Os Doze",
+        "en": "The Twelve"
+      },
+      "role": {
+        "pt": "Discípulos que muitas vezes não compreendem",
+        "en": "Disciples who often fail to understand"
+      }
+    },
+    {
+      "name": {
+        "pt": "Pedro",
+        "en": "Peter"
+      },
+      "role": {
+        "pt": "Confessa o Messias (8:29) e nega Jesus (14:66–72)",
+        "en": "Confesses the Messiah (8:29) and denies Jesus (14:66–72)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Pilatos",
+        "en": "Pilate"
+      },
+      "role": {
+        "pt": "Governador romano",
+        "en": "Roman governor"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–8:26",
+      "title": {
+        "pt": "Ministério na Galileia",
+        "en": "Ministry in Galilee"
+      }
+    },
+    {
+      "ref": "8:27–10:52",
+      "title": {
+        "pt": "A caminho de Jerusalém",
+        "en": "On the way to Jerusalem"
+      }
+    },
+    {
+      "ref": "11:1–13:37",
+      "title": {
+        "pt": "Jesus em Jerusalém",
+        "en": "Jesus in Jerusalem"
+      }
+    },
+    {
+      "ref": "14:1–15:47",
+      "title": {
+        "pt": "Paixão e morte",
+        "en": "Passion and death"
+      }
+    },
+    {
+      "ref": "16:1–20",
+      "title": {
+        "pt": "A ressurreição (final disputado)",
+        "en": "The resurrection (disputed ending)"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Mateus e Lucas usam Marcos. Cita Isaías e Malaquias já no início (1:2–3). 1Pe 5:13 menciona um \"Marcos\" ligado a Pedro.",
+    "en": "Matthew and Luke use Mark. It cites Isaiah and Malachi right at the start (1:2–3). 1 Pet 5:13 mentions a \"Mark\" linked with Peter."
+  }
+}

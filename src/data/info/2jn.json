@@ -1,0 +1,88 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "\"O presbítero\" (v. 1). A tradição o identifica com João, o apóstolo, ou com outro João da mesma tradição.",
+      "en": "\"The elder\" (v. 1). Tradition identifies him with John the apostle, or with another John of the same tradition."
+    },
+    "scholarly": {
+      "pt": "Obra do \"presbítero\", da tradição joanina. O autor é o mesmo de 3 João e provavelmente de 1 João; essa identificação é debatida.",
+      "en": "A work of \"the elder\", of the Johannine tradition. The author is the same as 3 John and probably 1 John; this identification is debated."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Por volta de 90–100 d.C., em Éfeso, na tradição.",
+      "en": "Around AD 90–100, at Ephesus, in tradition."
+    },
+    "scholarly": {
+      "pt": "Por volta de 90–110 d.C.",
+      "en": "Around AD 90–110."
+    }
+  },
+  "place": {
+    "pt": "Não indicado.",
+    "en": "Not stated."
+  },
+  "recipients": {
+    "pt": "\"À senhora eleita e a seus filhos\" (v. 1), que pode designar uma igreja local ou uma senhora cristã, e a \"irmã\" dela (v. 13).",
+    "en": "\"To the elect lady and her children\" (v. 1), which may refer to a local church or a Christian woman, and to her \"sister\" (v. 13)."
+  },
+  "keyVerse": "1:6",
+  "theme": {
+    "pt": "Andar no amor e na verdade, e não acolher quem ensina que Jesus não veio em carne.",
+    "en": "Walking in love and truth, and not welcoming those who teach that Jesus did not come in the flesh."
+  },
+  "historicalContext": {
+    "pt": "É a menor carta do Novo Testamento (13 versículos, em um rolo de papiro). Tem temas em comum com 1 João e orienta a comunidade em relação a mestres itinerantes.",
+    "en": "It is the shortest letter of the New Testament (13 verses, on one papyrus sheet). It shares themes with 1 John and guides the community regarding itinerant teachers."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "O presbítero",
+        "en": "The elder"
+      },
+      "role": {
+        "pt": "Autor",
+        "en": "Author"
+      }
+    },
+    {
+      "name": {
+        "pt": "A senhora eleita e seus filhos",
+        "en": "The elect lady and her children"
+      },
+      "role": {
+        "pt": "Destinatários (v. 1)",
+        "en": "Recipients (v. 1)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–3",
+      "title": {
+        "pt": "Saudação",
+        "en": "Greeting"
+      }
+    },
+    {
+      "ref": "1:4–11",
+      "title": {
+        "pt": "Amor, verdade e advertência",
+        "en": "Love, truth and warning"
+      }
+    },
+    {
+      "ref": "1:12–13",
+      "title": {
+        "pt": "Despedida",
+        "en": "Farewell"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Muito próxima de 1 João e de 3 João. Os dois últimos versículos têm paralelo em 3 João.",
+    "en": "Very close to 1 John and 3 John. The last two verses parallel 3 John."
+  }
+}

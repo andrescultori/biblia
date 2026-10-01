@@ -1,0 +1,88 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Naum de Elcós (1:1). O livro não traz outros dados sobre ele, e a localização de Elcós é incerta.",
+      "en": "Nahum of Elkosh (1:1). The book gives no other information about him, and the location of Elkosh is uncertain."
+    },
+    "scholarly": {
+      "pt": "Obra do profeta Naum, em forma de poema. O cap. 1 contém um hino em acróstico parcial, cuja origem é debatida.",
+      "en": "The work of the prophet Nahum, in poetic form. Chapter 1 contains a partial acrostic hymn, whose origin is debated."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Entre a queda de Tebas (663 a.C., citada em 3:8–10) e a queda de Nínive (612 a.C.).",
+      "en": "Between the fall of Thebes (663 BC, cited in 3:8–10) and the fall of Nineveh (612 BC)."
+    },
+    "scholarly": {
+      "pt": "Séc. VII a.C., com a mesma janela de datação.",
+      "en": "7th century BC, with the same dating window."
+    }
+  },
+  "place": {
+    "pt": "O livro não indica o local; o foco é Nínive.",
+    "en": "The book does not state the place; the focus is Nineveh."
+  },
+  "recipients": {
+    "pt": "Judá, que ouve o anúncio da queda de seu opressor, a Assíria.",
+    "en": "Judah, who hears the announcement of the fall of its oppressor, Assyria."
+  },
+  "keyVerse": "1:7",
+  "theme": {
+    "pt": "O juízo de Deus sobre Nínive e o fim da opressão assíria, como consolo para Judá.",
+    "en": "God's judgment on Nineveh and the end of Assyrian oppression, as consolation for Judah."
+  },
+  "historicalContext": {
+    "pt": "Nínive, que em Jonas se arrepende, aparece aqui já condenada, num contraste que os leitores costumam notar. A descrição da queda da cidade (cap. 2) é vívida. A Assíria dominava Judá havia gerações.",
+    "en": "Nineveh, which repents in Jonah, appears here already condemned, a contrast readers often note. The description of the city's fall (ch. 2) is vivid. Assyria had dominated Judah for generations."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Naum",
+        "en": "Nahum"
+      },
+      "role": {
+        "pt": "Profeta",
+        "en": "Prophet"
+      }
+    },
+    {
+      "name": {
+        "pt": "Nínive",
+        "en": "Nineveh"
+      },
+      "role": {
+        "pt": "Capital da Assíria, alvo do oráculo",
+        "en": "Capital of Assyria, target of the oracle"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–15",
+      "title": {
+        "pt": "Deus vingador e bom",
+        "en": "God as avenger and good"
+      }
+    },
+    {
+      "ref": "2:1–13",
+      "title": {
+        "pt": "A queda de Nínive",
+        "en": "The fall of Nineveh"
+      }
+    },
+    {
+      "ref": "3:1–19",
+      "title": {
+        "pt": "Ai da cidade sanguinária",
+        "en": "Woe to the city of blood"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Na 1:15 se aproxima de Is 52:7, citado em Rm 10:15. O livro dialoga com Jonas, que trata da mesma cidade em outro momento.",
+    "en": "Nah 1:15 is close to Isa 52:7, quoted in Rom 10:15. The book is in dialogue with Jonah, which deals with the same city at another time."
+  }
+}

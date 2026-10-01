@@ -1,0 +1,122 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Ezequiel, sacerdote, filho de Buzi, exilado na Babilônia (1:3). O livro é escrito em grande parte em primeira pessoa.",
+      "en": "Ezekiel, a priest, son of Buzi, exiled in Babylon (1:3). The book is written largely in the first person."
+    },
+    "scholarly": {
+      "pt": "Muitos veem o livro como obra de Ezequiel, retocada por discípulos. Outros veem camadas editoriais mais amplas, em especial nos caps. 40–48. Há debate sobre se o profeta esteve em Jerusalém ou só em visão.",
+      "en": "Many see the book as the work of Ezekiel, touched up by disciples. Others see wider editorial layers, especially in chs. 40–48. There is debate about whether the prophet was in Jerusalem or only in vision."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Ministério de c. 593 a.C. (quinto ano do exílio de Joaquim, 1:2) até c. 571 a.C. (27º ano, 29:17).",
+      "en": "Ministry from c. 593 BC (fifth year of Jehoiachin's exile, 1:2) to c. 571 BC (27th year, 29:17)."
+    },
+    "scholarly": {
+      "pt": "Séc. VI a.C., durante o exílio, com revisão posterior.",
+      "en": "6th century BC, during the exile, with later revision."
+    }
+  },
+  "place": {
+    "pt": "Babilônia, junto ao rio Quebar, em Tel-Abibe (1:1; 3:15). Nas visões, o profeta é levado a Jerusalém (caps. 8–11; 40–48).",
+    "en": "Babylon, by the river Chebar, at Tel-abib (1:1; 3:15). In visions, the prophet is taken to Jerusalem (chs. 8–11; 40–48)."
+  },
+  "recipients": {
+    "pt": "Os exilados em Babilônia, deportados em 597 a.C. com o rei Joaquim.",
+    "en": "The exiles in Babylon, deported in 597 BC with King Jehoiachin."
+  },
+  "keyVerse": "36:26",
+  "theme": {
+    "pt": "A presença e a glória de Deus entre os exilados: o juízo sobre Jerusalém, a esperança de renovação do coração e do povo, e a visão de um novo templo.",
+    "en": "The presence and glory of God among the exiles: judgment on Jerusalem, the hope of renewal of heart and people, and the vision of a new temple."
+  },
+  "historicalContext": {
+    "pt": "O livro nasce do primeiro exílio (597 a.C.) e acompanha a queda de Jerusalém em 586 a.C. O profeta usa visões, ações simbólicas e alegorias, e é marcado pelo vocabulário sacerdotal. A visão do carro de Deus (cap. 1), dos ossos secos (cap. 37) e do novo templo (caps. 40–48) são marcos do livro. A interpretação dos caps. 40–48 é muito debatida.",
+    "en": "The book arises from the first exile (597 BC) and follows the fall of Jerusalem in 586 BC. The prophet uses visions, symbolic acts and allegories, and is marked by priestly vocabulary. The vision of God's chariot (ch. 1), of the dry bones (ch. 37) and of the new temple (chs. 40–48) are landmarks of the book. The interpretation of chs. 40–48 is much debated."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Ezequiel",
+        "en": "Ezekiel"
+      },
+      "role": {
+        "pt": "Sacerdote e profeta no exílio",
+        "en": "Priest and prophet in exile"
+      }
+    },
+    {
+      "name": {
+        "pt": "Joaquim",
+        "en": "Jehoiachin"
+      },
+      "role": {
+        "pt": "Rei de Judá exilado em 597 a.C.",
+        "en": "King of Judah exiled in 597 BC"
+      }
+    },
+    {
+      "name": {
+        "pt": "Zedequias",
+        "en": "Zedekiah"
+      },
+      "role": {
+        "pt": "Último rei de Judá",
+        "en": "Last king of Judah"
+      }
+    },
+    {
+      "name": {
+        "pt": "Gogue",
+        "en": "Gog"
+      },
+      "role": {
+        "pt": "Líder do ataque descrito nos caps. 38–39",
+        "en": "Leader of the attack described in chs. 38–39"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–3:27",
+      "title": {
+        "pt": "A visão da glória e o chamado",
+        "en": "The vision of glory and the call"
+      }
+    },
+    {
+      "ref": "4:1–24:27",
+      "title": {
+        "pt": "Juízo sobre Jerusalém",
+        "en": "Judgment on Jerusalem"
+      }
+    },
+    {
+      "ref": "25:1–32:32",
+      "title": {
+        "pt": "Oráculos contra as nações",
+        "en": "Oracles against the nations"
+      }
+    },
+    {
+      "ref": "33:1–39:29",
+      "title": {
+        "pt": "Restauração: o pastor, os ossos secos e Gogue",
+        "en": "Restoration: the shepherd, the dry bones and Gog"
+      }
+    },
+    {
+      "ref": "40:1–48:35",
+      "title": {
+        "pt": "O novo templo e a nova terra",
+        "en": "The new temple and the new land"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Ap 20:8 menciona Gogue e Magogue, e Ap 21–22 ecoa Ez 40–48 (cidade, rio e árvores). Jo 10 retoma a imagem do pastor de Ez 34. Há paralelos com Daniel e Apocalipse em linguagem visionária.",
+    "en": "Rev 20:8 mentions Gog and Magog, and Rev 21–22 echoes Ezek 40–48 (city, river and trees). John 10 takes up the shepherd image of Ezek 34. There are parallels with Daniel and Revelation in visionary language."
+  }
+}

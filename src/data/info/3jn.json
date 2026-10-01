@@ -1,0 +1,108 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "\"O presbítero\" (v. 1). A tradição o identifica com João, o apóstolo, ou com outro João da mesma tradição.",
+      "en": "\"The elder\" (v. 1). Tradition identifies him with John the apostle, or with another John of the same tradition."
+    },
+    "scholarly": {
+      "pt": "Obra do \"presbítero\", da tradição joanina, o mesmo de 2 João. A identificação com o autor de 1 João é debatida.",
+      "en": "A work of \"the elder\", of the Johannine tradition, the same as 2 John. The identification with the author of 1 John is debated."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Por volta de 90–100 d.C., em Éfeso, na tradição.",
+      "en": "Around AD 90–100, at Ephesus, in tradition."
+    },
+    "scholarly": {
+      "pt": "Por volta de 90–110 d.C.",
+      "en": "Around AD 90–110."
+    }
+  },
+  "place": {
+    "pt": "Não indicado.",
+    "en": "Not stated."
+  },
+  "recipients": {
+    "pt": "Gaio, \"o amado\" (v. 1), cristão que acolhia mestres itinerantes.",
+    "en": "Gaius, \"the beloved\" (v. 1), a Christian who welcomed itinerant teachers."
+  },
+  "keyVerse": "1:4",
+  "theme": {
+    "pt": "A hospitalidade aos missionários itinerantes e o conflito com Diótrefes, que não os recebia.",
+    "en": "Hospitality toward itinerant missionaries and the conflict with Diotrephes, who did not receive them."
+  },
+  "historicalContext": {
+    "pt": "Mostra um conflito de autoridade em uma comunidade joanina: Diótrefes recusa a autoridade do presbítero e expulsa quem acolhe os enviados. É um dos poucos textos do Novo Testamento que mostram a vida de uma igreja local em tensão.",
+    "en": "It shows a conflict of authority in a Johannine community: Diotrephes rejects the elder's authority and expels those who welcome the envoys. It is one of the few New Testament texts that show the life of a local church in tension."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "O presbítero",
+        "en": "The elder"
+      },
+      "role": {
+        "pt": "Autor",
+        "en": "Author"
+      }
+    },
+    {
+      "name": {
+        "pt": "Gaio",
+        "en": "Gaius"
+      },
+      "role": {
+        "pt": "Destinatário elogiado pela hospitalidade",
+        "en": "Recipient praised for hospitality"
+      }
+    },
+    {
+      "name": {
+        "pt": "Diótrefes",
+        "en": "Diotrephes"
+      },
+      "role": {
+        "pt": "Líder que recusa os enviados",
+        "en": "Leader who refuses the envoys"
+      }
+    },
+    {
+      "name": {
+        "pt": "Demétrio",
+        "en": "Demetrius"
+      },
+      "role": {
+        "pt": "Recomendado (v. 12)",
+        "en": "Commended (v. 12)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–8",
+      "title": {
+        "pt": "Saudação e elogio a Gaio",
+        "en": "Greeting and praise of Gaius"
+      }
+    },
+    {
+      "ref": "1:9–12",
+      "title": {
+        "pt": "Diótrefes e Demétrio",
+        "en": "Diotrephes and Demetrius"
+      }
+    },
+    {
+      "ref": "1:13–15",
+      "title": {
+        "pt": "Despedida",
+        "en": "Farewell"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Muito próxima de 2 João e de 1 João. Um dos poucos textos do NT sobre conflitos de liderança local.",
+    "en": "Very close to 2 John and 1 John. One of the few New Testament texts on local leadership conflicts."
+  }
+}

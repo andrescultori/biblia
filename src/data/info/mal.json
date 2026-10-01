@@ -1,0 +1,119 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Malaquias (1:1). A palavra hebraica significa \"meu mensageiro\" e pode ser um nome próprio ou um título (cf. 3:1). O livro não traz outros dados.",
+      "en": "Malachi (1:1). The Hebrew word means \"my messenger\" and may be a proper name or a title (cf. 3:1). The book gives no other information."
+    },
+    "scholarly": {
+      "pt": "Obra anônima, atribuída a \"Malaquias\", em forma de disputas com o povo e os sacerdotes. Há debate se o nome é de uma pessoa.",
+      "en": "An anonymous work, attributed to \"Malachi\", in the form of disputes with the people and the priests. There is debate about whether the name belongs to a person."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Não há data de composição no texto.",
+      "en": "No date of composition is given in the text."
+    },
+    "scholarly": {
+      "pt": "Período persa, depois da reconstrução do templo (516 a.C.), em geral no séc. V a.C., por volta da época de Neemias.",
+      "en": "Persian period, after the rebuilding of the temple (516 BC), generally in the 5th century BC, around the time of Nehemiah."
+    }
+  },
+  "place": {
+    "pt": "Jerusalém e Judá.",
+    "en": "Jerusalem and Judah."
+  },
+  "recipients": {
+    "pt": "Judá e seus sacerdotes, na comunidade pós-exílica.",
+    "en": "Judah and its priests, in the post-exilic community."
+  },
+  "keyVerse": "3:1",
+  "theme": {
+    "pt": "A fidelidade a Deus no culto e na vida: o amor de Deus por Israel, a crítica aos sacerdotes e ao povo, e a promessa de um mensageiro e de um dia do Senhor.",
+    "en": "Faithfulness to God in worship and life: God's love for Israel, criticism of priests and people, and the promise of a messenger and a day of the Lord."
+  },
+  "historicalContext": {
+    "pt": "O livro vem de uma comunidade desanimada, com culto frio, casamentos mistos e questões de dízimo. A numeração varia: as Bíblias cristãs têm 4 capítulos, e as hebraicas têm 3, com 4:1–6 sendo 3:19–24. Na ordem cristã, é o último livro do Antigo Testamento.",
+    "en": "The book comes from a discouraged community, with cold worship, mixed marriages and questions of tithing. The numbering varies: Christian Bibles have 4 chapters, and Hebrew ones have 3, with 4:1–6 being 3:19–24. In the Christian order, it is the last book of the Old Testament."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Malaquias",
+        "en": "Malachi"
+      },
+      "role": {
+        "pt": "Profeta ou título do mensageiro",
+        "en": "Prophet or title of the messenger"
+      }
+    },
+    {
+      "name": {
+        "pt": "Os sacerdotes",
+        "en": "The priests"
+      },
+      "role": {
+        "pt": "Criticados pelo culto desonroso (1:6–2:9)",
+        "en": "Criticized for dishonorable worship (1:6–2:9)"
+      }
+    },
+    {
+      "name": {
+        "pt": "O mensageiro (e Elias)",
+        "en": "The messenger (and Elijah)"
+      },
+      "role": {
+        "pt": "Anunciado em 3:1 e 4:5",
+        "en": "Announced in 3:1 and 4:5"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–5",
+      "title": {
+        "pt": "O amor de Deus por Israel",
+        "en": "God's love for Israel"
+      }
+    },
+    {
+      "ref": "1:6–2:9",
+      "title": {
+        "pt": "Ofertas e sacerdócio",
+        "en": "Offerings and priesthood"
+      }
+    },
+    {
+      "ref": "2:10–16",
+      "title": {
+        "pt": "Infidelidade e casamento",
+        "en": "Unfaithfulness and marriage"
+      }
+    },
+    {
+      "ref": "2:17–3:5",
+      "title": {
+        "pt": "A justiça de Deus e o mensageiro",
+        "en": "God's justice and the messenger"
+      }
+    },
+    {
+      "ref": "3:6–12",
+      "title": {
+        "pt": "Dízimos e ofertas",
+        "en": "Tithes and offerings"
+      }
+    },
+    {
+      "ref": "3:13–4:6",
+      "title": {
+        "pt": "O dia do Senhor e Elias",
+        "en": "The day of the Lord and Elijah"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Mt 11:10, Mc 1:2 e Lc 7:27 citam Ml 3:1 sobre João Batista. Lc 1:17 e Mt 17:10–13 retomam Ml 4:5–6 (Elias). Rm 9:13 cita Ml 1:2–3.",
+    "en": "Matt 11:10, Mark 1:2 and Luke 7:27 quote Mal 3:1 regarding John the Baptist. Luke 1:17 and Matt 17:10–13 take up Mal 4:5–6 (Elijah). Rom 9:13 quotes Mal 1:2–3."
+  }
+}

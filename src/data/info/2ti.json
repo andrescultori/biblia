@@ -1,0 +1,108 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Paulo, o apóstolo, que se identifica como autor (1:1).",
+      "en": "Paul the apostle, who names himself as the author (1:1)."
+    },
+    "scholarly": {
+      "pt": "Autoria debatida: a maioria dos estudiosos vê as Cartas Pastorais (1 e 2 Timóteo e Tito) como escritas em nome de Paulo, depois de sua morte, por causa do vocabulário, da organização eclesial e do contexto. Há quem defenda a autoria paulina. Não há consenso.",
+      "en": "Authorship is debated: most scholars see the Pastoral Letters (1 and 2 Timothy and Titus) as written in Paul's name, after his death, because of the vocabulary, the church organization and the context. Some defend Pauline authorship. There is no consensus."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Por volta de 64–67 d.C., durante uma prisão em Roma, perto da morte de Paulo (se aceita a autoria paulina).",
+      "en": "Around AD 64–67, during an imprisonment in Rome, near Paul's death (if Pauline authorship is accepted)."
+    },
+    "scholarly": {
+      "pt": "Entre c. 80 e 100 d.C., na posição majoritária.",
+      "en": "Between c. AD 80 and 100, in the majority position."
+    }
+  },
+  "place": {
+    "pt": "Prisão em Roma (1:8, 17; 2:9), na leitura tradicional.",
+    "en": "Imprisonment in Rome (1:8, 17; 2:9), in the traditional reading."
+  },
+  "recipients": {
+    "pt": "Timóteo, colaborador de Paulo (1:2).",
+    "en": "Timothy, Paul's coworker (1:2)."
+  },
+  "keyVerse": "3:16",
+  "theme": {
+    "pt": "A fidelidade ao evangelho e ao ministério até o fim, em meio ao sofrimento, com a Escritura como base.",
+    "en": "Faithfulness to the gospel and the ministry to the end, amid suffering, with Scripture as the foundation."
+  },
+  "historicalContext": {
+    "pt": "Em tom pessoal, a carta é lida como um testamento de Paulo. A passagem de 3:16–17 é muito citada na discussão sobre a inspiração das Escrituras, e o sentido de \"inspirada\" é debatido. Menciona muitos colaboradores, entre eles Lucas (4:11).",
+    "en": "In a personal tone, the letter is read as Paul's testament. The passage in 3:16–17 is often cited in discussions of the inspiration of Scripture, and the sense of \"inspired\" is debated. It mentions many coworkers, among them Luke (4:11)."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Paulo",
+        "en": "Paul"
+      },
+      "role": {
+        "pt": "Apóstolo e autor, preso",
+        "en": "Apostle and author, in prison"
+      }
+    },
+    {
+      "name": {
+        "pt": "Timóteo",
+        "en": "Timothy"
+      },
+      "role": {
+        "pt": "Destinatário",
+        "en": "Recipient"
+      }
+    },
+    {
+      "name": {
+        "pt": "Lóide e Eunice",
+        "en": "Lois and Eunice"
+      },
+      "role": {
+        "pt": "Avó e mãe de Timóteo (1:5)",
+        "en": "Timothy's grandmother and mother (1:5)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Marcos e Lucas",
+        "en": "Mark and Luke"
+      },
+      "role": {
+        "pt": "Colaboradores mencionados (4:11)",
+        "en": "Coworkers mentioned (4:11)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–2:13",
+      "title": {
+        "pt": "Fidelidade e sofrimento pelo evangelho",
+        "en": "Faithfulness and suffering for the gospel"
+      }
+    },
+    {
+      "ref": "2:14–4:5",
+      "title": {
+        "pt": "Exortações ao ministro",
+        "en": "Exhortations to the minister"
+      }
+    },
+    {
+      "ref": "4:6–22",
+      "title": {
+        "pt": "Testemunho final e saudações",
+        "en": "Final testimony and greetings"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Segunda das Cartas Pastorais. As referências a pessoas (4:9–21) dialogam com Atos, Colossenses e Filemom.",
+    "en": "The second of the Pastoral Letters. The references to people (4:9–21) are in dialogue with Acts, Colossians and Philemon."
+  }
+}

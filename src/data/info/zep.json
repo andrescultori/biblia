@@ -1,0 +1,88 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Sofonias, bisneto de Ezequias (1:1), profeta em Judá. A tradição o situa no séc. VII a.C.",
+      "en": "Zephaniah, great-grandson of Hezekiah (1:1), a prophet in Judah. Tradition places him in the 7th century BC."
+    },
+    "scholarly": {
+      "pt": "O núcleo é atribuído ao profeta, com acréscimos posteriores, especialmente no final (3:9–20), em debate.",
+      "en": "The core is attributed to the prophet, with later additions, especially at the end (3:9–20), under debate."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Ministério nos dias de Josias (1:1), 640–609 a.C., provavelmente antes da reforma de 622 a.C.",
+      "en": "Ministry in the days of Josiah (1:1), 640–609 BC, probably before the reform of 622 BC."
+    },
+    "scholarly": {
+      "pt": "Séc. VII a.C., com edição posterior.",
+      "en": "7th century BC, with later editing."
+    }
+  },
+  "place": {
+    "pt": "Jerusalém e Judá. O local de composição não é indicado.",
+    "en": "Jerusalem and Judah. The place of composition is not stated."
+  },
+  "recipients": {
+    "pt": "Judá e Jerusalém, com oráculos também sobre as nações.",
+    "en": "Judah and Jerusalem, with oracles also about the nations."
+  },
+  "keyVerse": "3:17",
+  "theme": {
+    "pt": "O \"dia do Senhor\" como juízo sobre Judá e as nações, seguido de purificação e de uma promessa de alegria e restauração.",
+    "en": "The \"day of the Lord\" as judgment on Judah and the nations, followed by purification and a promise of joy and restoration."
+  },
+  "historicalContext": {
+    "pt": "O livro vem de um momento de sincretismo religioso e influência assíria em Judá, antes das reformas de Josias. O título (1:1) dá a linhagem de Sofonias até Ezequias. O tema do \"dia do Senhor\" liga o livro a Amós, Joel e Isaías.",
+    "en": "The book comes from a moment of religious syncretism and Assyrian influence in Judah, before Josiah's reforms. The title (1:1) gives Zephaniah's lineage back to Hezekiah. The theme of the \"day of the Lord\" links the book to Amos, Joel and Isaiah."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Sofonias",
+        "en": "Zephaniah"
+      },
+      "role": {
+        "pt": "Profeta nos dias de Josias",
+        "en": "Prophet in the days of Josiah"
+      }
+    },
+    {
+      "name": {
+        "pt": "Josias",
+        "en": "Josiah"
+      },
+      "role": {
+        "pt": "Rei de Judá",
+        "en": "King of Judah"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–2:3",
+      "title": {
+        "pt": "O dia do Senhor contra Judá",
+        "en": "The day of the Lord against Judah"
+      }
+    },
+    {
+      "ref": "2:4–3:8",
+      "title": {
+        "pt": "Oráculos contra as nações e contra Jerusalém",
+        "en": "Oracles against the nations and against Jerusalem"
+      }
+    },
+    {
+      "ref": "3:9–20",
+      "title": {
+        "pt": "Purificação e restauração",
+        "en": "Purification and restoration"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "O livro não é citado diretamente no Novo Testamento. Contemporâneo de Naum e Habacuque, e do início do ministério de Jeremias.",
+    "en": "The book is not directly quoted in the New Testament. A contemporary of Nahum and Habakkuk, and of the beginning of Jeremiah's ministry."
+  }
+}

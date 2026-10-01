@@ -1,0 +1,102 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Jeremias, segundo a tradição (Talmude, Baba Batra 15a; a Septuaginta tem uma nota introdutória nesse sentido). O texto hebraico não nomeia o autor.",
+      "en": "Jeremiah, according to tradition (Talmud, Baba Batra 15a; the Septuagint has an introductory note to that effect). The Hebrew text does not name the author."
+    },
+    "scholarly": {
+      "pt": "Obra anônima. Muitos estudiosos veem os cinco poemas como obra de uma ou mais pessoas que viveram a destruição de Jerusalém, e discutem se são do mesmo autor.",
+      "en": "An anonymous work. Many scholars see the five poems as the work of one or more people who lived through the destruction of Jerusalem, and discuss whether they are by the same author."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Pouco depois da queda de Jerusalém em 586 a.C.",
+      "en": "Shortly after the fall of Jerusalem in 586 BC."
+    },
+    "scholarly": {
+      "pt": "Séc. VI a.C., depois de 586 a.C., em geral antes do fim do exílio.",
+      "en": "6th century BC, after 586 BC, generally before the end of the exile."
+    }
+  },
+  "place": {
+    "pt": "Jerusalém ou Judá, após a destruição. O local de composição não é indicado.",
+    "en": "Jerusalem or Judah, after the destruction. The place of composition is not stated."
+  },
+  "recipients": {
+    "pt": "A comunidade sobrevivente e o próprio Deus, a quem os poemas se dirigem em oração.",
+    "en": "The surviving community and God himself, to whom the poems are addressed in prayer."
+  },
+  "keyVerse": "3:22–23",
+  "theme": {
+    "pt": "O luto pela destruição de Jerusalém: lamento, confissão de culpa e esperança na fidelidade de Deus.",
+    "en": "Mourning the destruction of Jerusalem: lament, confession of guilt and hope in God's faithfulness."
+  },
+  "historicalContext": {
+    "pt": "Os caps. 1, 2 e 4 têm 22 versículos, em acróstico hebraico (cada versículo começa por uma letra do alfabeto); o cap. 3 tem 66 versículos, com cada letra repetida três vezes; o cap. 5 tem 22 versículos sem acróstico. O título hebraico, Eká (\"Como!\"), é a palavra de abertura. O livro dialoga com 2Rs 25 e Jeremias.",
+    "en": "Chapters 1, 2 and 4 have 22 verses, in Hebrew acrostic (each verse begins with a letter of the alphabet); ch. 3 has 66 verses, with each letter repeated three times; ch. 5 has 22 verses without acrostic. The Hebrew title, Eikhah (\"How!\"), is the opening word. The book is in dialogue with 2 Kgs 25 and Jeremiah."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Jerusalém (Sião)",
+        "en": "Jerusalem (Zion)"
+      },
+      "role": {
+        "pt": "Personificada como viúva e mãe enlutada (caps. 1–2)",
+        "en": "Personified as a widow and bereaved mother (chs. 1–2)"
+      }
+    },
+    {
+      "name": {
+        "pt": "O homem aflito",
+        "en": "The afflicted man"
+      },
+      "role": {
+        "pt": "Voz do cap. 3 (3:1), que fala da aflição e da esperança",
+        "en": "Voice of ch. 3 (3:1), who speaks of affliction and hope"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–22",
+      "title": {
+        "pt": "Jerusalém desolada",
+        "en": "Jerusalem desolate"
+      }
+    },
+    {
+      "ref": "2:1–22",
+      "title": {
+        "pt": "A ira do Senhor sobre Sião",
+        "en": "The Lord's anger upon Zion"
+      }
+    },
+    {
+      "ref": "3:1–66",
+      "title": {
+        "pt": "O homem aflito e a esperança",
+        "en": "The afflicted man and hope"
+      }
+    },
+    {
+      "ref": "4:1–22",
+      "title": {
+        "pt": "Contraste entre o antes e o depois",
+        "en": "Contrast between before and after"
+      }
+    },
+    {
+      "ref": "5:1–22",
+      "title": {
+        "pt": "Oração da comunidade",
+        "en": "The community's prayer"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Na tradição judaica, é lido em Tisha B'Av, dia que lembra a destruição do templo. Os temas dialogam com 2Rs 25 e Jr 52. O livro não é citado diretamente no Novo Testamento.",
+    "en": "In Jewish tradition, it is read on Tisha B'Av, the day that remembers the destruction of the temple. The themes are in dialogue with 2 Kgs 25 and Jer 52. The book is not directly quoted in the New Testament."
+  }
+}

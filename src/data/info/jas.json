@@ -1,0 +1,112 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Tiago, \"servo de Deus e do Senhor Jesus Cristo\" (1:1). A tradição o identifica com Tiago, irmão do Senhor e líder da igreja de Jerusalém (Mc 6:3; At 15; Gl 1:19).",
+      "en": "James, \"a servant of God and of the Lord Jesus Christ\" (1:1). Tradition identifies him with James, the brother of the Lord and leader of the church in Jerusalem (Mark 6:3; Acts 15; Gal 1:19)."
+    },
+    "scholarly": {
+      "pt": "Autoria debatida. Alguns estudiosos aceitam Tiago de Jerusalém. Outros veem uma obra de um autor posterior, em nome de Tiago, por causa do bom grego e da pouca referência a temas típicos do primeiro século, como a circuncisão. Não há consenso.",
+      "en": "Authorship is debated. Some scholars accept James of Jerusalem. Others see the work of a later author, in James's name, because of the good Greek and the little reference to typical first-century themes, such as circumcision. There is no consensus."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Antes de 62 d.C., ano da morte de Tiago segundo Josefo, em algumas propostas tradicionais (por exemplo, c. 45–60 d.C.).",
+      "en": "Before AD 62, the year of James's death according to Josephus, in some traditional proposals (for example, c. AD 45–60)."
+    },
+    "scholarly": {
+      "pt": "Entre c. 60 e 100 d.C., conforme a posição adotada.",
+      "en": "Between c. AD 60 and 100, depending on the position adopted."
+    }
+  },
+  "place": {
+    "pt": "Não indicado. Jerusalém é proposta pela leitura tradicional.",
+    "en": "Not stated. Jerusalem is proposed by the traditional reading."
+  },
+  "recipients": {
+    "pt": "\"As doze tribos que vivem na dispersão\" (1:1): cristãos de origem judaica fora da Palestina.",
+    "en": "\"The twelve tribes dispersed among the nations\" (1:1): Christians of Jewish background outside Palestine."
+  },
+  "keyVerse": "1:22",
+  "theme": {
+    "pt": "Uma fé viva se mostra em obras: sabedoria prática, controle da língua, cuidado com os pobres e perseverança nas provas.",
+    "en": "A living faith shows itself in works: practical wisdom, control of the tongue, care for the poor and perseverance in trials."
+  },
+  "historicalContext": {
+    "pt": "A carta tem forma de exortação, próxima da literatura de sabedoria (como Provérbios). A relação entre 2:14–26 (a fé e as obras) e Paulo em Romanos e Gálatas (justificação) é um dos temas mais discutidos; muitos veem as duas posições como complementares, outros como diferentes.",
+    "en": "The letter has the form of an exhortation, close to wisdom literature (like Proverbs). The relationship between 2:14–26 (faith and works) and Paul in Romans and Galatians (justification) is one of the most discussed topics; many see the two positions as complementary, others as different."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Tiago",
+        "en": "James"
+      },
+      "role": {
+        "pt": "Autor; líder da igreja de Jerusalém, na leitura tradicional",
+        "en": "Author; leader of the Jerusalem church, in the traditional reading"
+      }
+    },
+    {
+      "name": {
+        "pt": "Abraão e Raabe",
+        "en": "Abraham and Rahab"
+      },
+      "role": {
+        "pt": "Exemplos de fé e obras (2:21–25)",
+        "en": "Examples of faith and works (2:21–25)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Jó e Elias",
+        "en": "Job and Elijah"
+      },
+      "role": {
+        "pt": "Exemplos de perseverança e oração (5:11, 17)",
+        "en": "Examples of perseverance and prayer (5:11, 17)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–27",
+      "title": {
+        "pt": "Provas, sabedoria e prática da palavra",
+        "en": "Trials, wisdom and doing the word"
+      }
+    },
+    {
+      "ref": "2:1–26",
+      "title": {
+        "pt": "Parcialidade e a fé com obras",
+        "en": "Partiality and faith with works"
+      }
+    },
+    {
+      "ref": "3:1–18",
+      "title": {
+        "pt": "A língua e a sabedoria do alto",
+        "en": "The tongue and wisdom from above"
+      }
+    },
+    {
+      "ref": "4:1–5:6",
+      "title": {
+        "pt": "Conflitos, orgulho e riqueza",
+        "en": "Conflicts, pride and wealth"
+      }
+    },
+    {
+      "ref": "5:7–20",
+      "title": {
+        "pt": "Paciência e oração",
+        "en": "Patience and prayer"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Dialoga com o Sermão do Monte (cf. Tg 5:12 e Mt 5:34–37). Cita Gênesis 15:6 em 2:23. A comparação com Rm 4 e Gl 3 é parte do debate sobre fé e obras.",
+    "en": "Dialogues with the Sermon on the Mount (cf. Jas 5:12 and Matt 5:34–37). Quotes Genesis 15:6 in 2:23. The comparison with Rom 4 and Gal 3 is part of the debate about faith and works."
+  }
+}

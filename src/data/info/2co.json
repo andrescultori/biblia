@@ -1,0 +1,112 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Paulo, o apóstolo, que se identifica como autor (1:1).",
+      "en": "Paul the apostle, who names himself as the author (1:1)."
+    },
+    "scholarly": {
+      "pt": "Paulo é o autor, com ampla concordância dos estudiosos. Esta carta está entre as sete chamadas \"autênticas\" (Romanos, 1 e 2 Coríntios, Gálatas, Filipenses, 1 Tessalonicenses e Filemom).",
+      "en": "Paul is the author, with wide agreement among scholars. This letter is among the seven so-called \"authentic\" ones (Romans, 1 and 2 Corinthians, Galatians, Philippians, 1 Thessalonians and Philemon)."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Por volta de 55–56 d.C., na Macedônia (cf. 2:13; 7:5; 9:2).",
+      "en": "Around AD 55–56, in Macedonia (cf. 2:13; 7:5; 9:2)."
+    },
+    "scholarly": {
+      "pt": "Por volta de 55–57 d.C. Muitos estudiosos veem a carta como composta de duas ou mais cartas reunidas (por exemplo, os caps. 10–13 como carta anterior); a questão é debatida.",
+      "en": "Around AD 55–57. Many scholars see the letter as made up of two or more letters joined together (for example, chs. 10–13 as an earlier letter); the question is debated."
+    }
+  },
+  "place": {
+    "pt": "Macedônia (cf. 7:5).",
+    "en": "Macedonia (cf. 7:5)."
+  },
+  "recipients": {
+    "pt": "A igreja de Corinto e os cristãos da Acaia (1:1).",
+    "en": "The church in Corinth and the Christians of Achaia (1:1)."
+  },
+  "keyVerse": "12:9",
+  "theme": {
+    "pt": "O ministério apostólico entre fraqueza e consolo: reconciliação com os coríntios, a coleta para Jerusalém e a defesa de Paulo.",
+    "en": "Apostolic ministry amid weakness and comfort: reconciliation with the Corinthians, the collection for Jerusalem and Paul's defense."
+  },
+  "historicalContext": {
+    "pt": "É a carta mais pessoal e autobiográfica de Paulo. Mostra uma crise com a igreja de Corinto e a presença de opositores (\"super-apóstolos\", 11:5). A coleta para os pobres de Jerusalém ocupa os caps. 8–9.",
+    "en": "It is Paul's most personal and autobiographical letter. It shows a crisis with the church in Corinth and the presence of opponents (\"super-apostles\", 11:5). The collection for the poor in Jerusalem takes up chs. 8–9."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Paulo",
+        "en": "Paul"
+      },
+      "role": {
+        "pt": "Apóstolo e autor",
+        "en": "Apostle and author"
+      }
+    },
+    {
+      "name": {
+        "pt": "Timóteo",
+        "en": "Timothy"
+      },
+      "role": {
+        "pt": "Co-remetente (1:1)",
+        "en": "Co-sender (1:1)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Tito",
+        "en": "Titus"
+      },
+      "role": {
+        "pt": "Mensageiro de Paulo a Corinto (7:6; 8:16–23)",
+        "en": "Paul's messenger to Corinth (7:6; 8:16–23)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–2:13",
+      "title": {
+        "pt": "Introdução e os planos de Paulo",
+        "en": "Introduction and Paul's plans"
+      }
+    },
+    {
+      "ref": "2:14–7:16",
+      "title": {
+        "pt": "O ministério apostólico",
+        "en": "Apostolic ministry"
+      }
+    },
+    {
+      "ref": "8:1–9:15",
+      "title": {
+        "pt": "A coleta para Jerusalém",
+        "en": "The collection for Jerusalem"
+      }
+    },
+    {
+      "ref": "10:1–13:10",
+      "title": {
+        "pt": "A defesa de Paulo",
+        "en": "Paul's defense"
+      }
+    },
+    {
+      "ref": "13:11–14",
+      "title": {
+        "pt": "Despedida",
+        "en": "Farewell"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Continua 1 Coríntios. A coleta liga a carta a Romanos 15 e a At 24:17. 5:17 e 12:9 são trechos muito citados.",
+    "en": "Continues 1 Corinthians. The collection links the letter to Romans 15 and Acts 24:17. 5:17 and 12:9 are widely quoted passages."
+  }
+}

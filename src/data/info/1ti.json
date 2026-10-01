@@ -1,0 +1,102 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Paulo, o apóstolo, que se identifica como autor (1:1).",
+      "en": "Paul the apostle, who names himself as the author (1:1)."
+    },
+    "scholarly": {
+      "pt": "Autoria debatida: a maioria dos estudiosos vê as Cartas Pastorais (1 e 2 Timóteo e Tito) como escritas em nome de Paulo, depois de sua morte, por causa do vocabulário, da organização eclesial e do contexto. Há quem defenda a autoria paulina. Não há consenso.",
+      "en": "Authorship is debated: most scholars see the Pastoral Letters (1 and 2 Timothy and Titus) as written in Paul's name, after his death, because of the vocabulary, the church organization and the context. Some defend Pauline authorship. There is no consensus."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Entre c. 62 e 65 d.C., depois da prisão narrada em Atos (se aceita a autoria paulina).",
+      "en": "Between c. AD 62 and 65, after the imprisonment narrated in Acts (if Pauline authorship is accepted)."
+    },
+    "scholarly": {
+      "pt": "Entre c. 80 e 100 d.C., na posição majoritária.",
+      "en": "Between c. AD 80 and 100, in the majority position."
+    }
+  },
+  "place": {
+    "pt": "Macedônia (1:3), na leitura tradicional. O local de composição não é indicado.",
+    "en": "Macedonia (1:3), in the traditional reading. The place of composition is not stated."
+  },
+  "recipients": {
+    "pt": "Timóteo, colaborador de Paulo, em Éfeso (1:3), e por meio dele a igreja.",
+    "en": "Timothy, Paul's coworker, in Ephesus (1:3), and through him the church."
+  },
+  "keyVerse": "3:15",
+  "theme": {
+    "pt": "Orientações para a vida e a organização da igreja: sã doutrina, culto, ministérios e conduta.",
+    "en": "Guidance for the life and organization of the church: sound doctrine, worship, ministries and conduct."
+  },
+  "historicalContext": {
+    "pt": "A carta trata de falsos mestres, oração, o papel de homens e mulheres no culto (passagens muito debatidas, como 2:8–15), requisitos para bispos e diáconos e cuidado com viúvas. O texto preserva o que pode ser um hino (3:16).",
+    "en": "The letter addresses false teachers, prayer, the roles of men and women in worship (much debated passages, such as 2:8–15), requirements for overseers and deacons, and care for widows. The text preserves what may be a hymn (3:16)."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Paulo",
+        "en": "Paul"
+      },
+      "role": {
+        "pt": "Apóstolo e autor",
+        "en": "Apostle and author"
+      }
+    },
+    {
+      "name": {
+        "pt": "Timóteo",
+        "en": "Timothy"
+      },
+      "role": {
+        "pt": "Jovem colaborador, em Éfeso (1:2–3)",
+        "en": "Young coworker, in Ephesus (1:2–3)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–20",
+      "title": {
+        "pt": "Falsos ensinos e a missão de Timóteo",
+        "en": "False teaching and Timothy's charge"
+      }
+    },
+    {
+      "ref": "2:1–3:16",
+      "title": {
+        "pt": "Oração, culto e ministérios",
+        "en": "Prayer, worship and ministries"
+      }
+    },
+    {
+      "ref": "4:1–16",
+      "title": {
+        "pt": "Advertências e exemplo do ministro",
+        "en": "Warnings and the minister's example"
+      }
+    },
+    {
+      "ref": "5:1–6:2",
+      "title": {
+        "pt": "Viúvas, presbíteros e escravos",
+        "en": "Widows, elders and slaves"
+      }
+    },
+    {
+      "ref": "6:3–21",
+      "title": {
+        "pt": "Riqueza, fé e exortação final",
+        "en": "Wealth, faith and final exhortation"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Forma, com 2 Timóteo e Tito, as Cartas Pastorais. At 16:1–3 e 2Tm 1:5 apresentam Timóteo e sua família.",
+    "en": "Forms, with 2 Timothy and Titus, the Pastoral Letters. Acts 16:1–3 and 2 Tim 1:5 introduce Timothy and his family."
+  }
+}

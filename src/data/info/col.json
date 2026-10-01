@@ -1,0 +1,132 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Paulo, o apóstolo, que se identifica como autor (1:1; 4:18), com Timóteo, preso.",
+      "en": "Paul the apostle, who names himself as the author (1:1; 4:18), with Timothy, in prison."
+    },
+    "scholarly": {
+      "pt": "Autoria debatida: muitos aceitam a autoria paulina, e outros veem a carta como escrita em nome de Paulo por um discípulo, por causa do estilo e de alguns temas teológicos. Não há consenso.",
+      "en": "Authorship is debated: many accept Pauline authorship, and others see the letter as written in Paul's name by a disciple, because of the style and some theological themes. There is no consensus."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Por volta de 60–62 d.C., durante a prisão em Roma.",
+      "en": "Around AD 60–62, during the imprisonment in Rome."
+    },
+    "scholarly": {
+      "pt": "Entre c. 60 e 80 d.C., conforme a posição adotada sobre a autoria.",
+      "en": "Between c. AD 60 and 80, depending on the position adopted on authorship."
+    }
+  },
+  "place": {
+    "pt": "Prisão de Paulo (4:3, 10, 18). Roma é a proposta tradicional; Éfeso e Cesareia são alternativas.",
+    "en": "Paul's imprisonment (4:3, 10, 18). Rome is the traditional proposal; Ephesus and Caesarea are alternatives."
+  },
+  "recipients": {
+    "pt": "A igreja de Colossos, na Ásia Menor, que Paulo não fundou (2:1), e a vizinha Laodiceia (4:16).",
+    "en": "The church in Colossae, in Asia Minor, which Paul had not founded (2:1), and neighboring Laodicea (4:16)."
+  },
+  "keyVerse": "1:15",
+  "theme": {
+    "pt": "A supremacia de Cristo sobre toda a criação e a vida nova nele, contra ensinos que diminuíam sua suficiência.",
+    "en": "The supremacy of Christ over all creation and the new life in him, against teachings that diminished his sufficiency."
+  },
+  "historicalContext": {
+    "pt": "A carta combate uma \"filosofia\" (2:8) cuja natureza exata é debatida, com elementos judaicos e de culto a poderes angélicos. O hino de 1:15–20 é muito estudado. Tem material em comum com Efésios.",
+    "en": "The letter opposes a \"philosophy\" (2:8) whose exact nature is debated, with Jewish elements and worship of angelic powers. The hymn in 1:15–20 is much studied. It shares material with Ephesians."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Paulo",
+        "en": "Paul"
+      },
+      "role": {
+        "pt": "Apóstolo e autor, preso",
+        "en": "Apostle and author, in prison"
+      }
+    },
+    {
+      "name": {
+        "pt": "Timóteo",
+        "en": "Timothy"
+      },
+      "role": {
+        "pt": "Co-remetente (1:1)",
+        "en": "Co-sender (1:1)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Epafras",
+        "en": "Epaphras"
+      },
+      "role": {
+        "pt": "Fundador da igreja de Colossos (1:7; 4:12)",
+        "en": "Founder of the church in Colossae (1:7; 4:12)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Onésimo",
+        "en": "Onesimus"
+      },
+      "role": {
+        "pt": "Acompanha Tíquico (4:9); aparece também em Filemom",
+        "en": "Accompanies Tychicus (4:9); also appears in Philemon"
+      }
+    },
+    {
+      "name": {
+        "pt": "Tíquico",
+        "en": "Tychicus"
+      },
+      "role": {
+        "pt": "Portador da carta (4:7)",
+        "en": "Carrier of the letter (4:7)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–14",
+      "title": {
+        "pt": "Introdução",
+        "en": "Introduction"
+      }
+    },
+    {
+      "ref": "1:15–2:5",
+      "title": {
+        "pt": "A supremacia de Cristo",
+        "en": "The supremacy of Christ"
+      }
+    },
+    {
+      "ref": "2:6–23",
+      "title": {
+        "pt": "Advertência contra falsos ensinos",
+        "en": "Warning against false teaching"
+      }
+    },
+    {
+      "ref": "3:1–4:6",
+      "title": {
+        "pt": "A vida nova em Cristo",
+        "en": "New life in Christ"
+      }
+    },
+    {
+      "ref": "4:7–18",
+      "title": {
+        "pt": "Notícias e saudações",
+        "en": "News and greetings"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Muito próxima de Efésios e de Filemom (Onésimo e Arquipo aparecem em ambas). Cl 4:16 menciona uma carta aos laodicenses, que não chegou até nós.",
+    "en": "Very close to Ephesians and Philemon (Onesimus and Archippus appear in both). Col 4:16 mentions a letter to the Laodiceans, which has not come down to us."
+  }
+}
