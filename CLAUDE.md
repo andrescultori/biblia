@@ -3,6 +3,7 @@
 Tabela interativa dos 66 livros da Bíblia (inspirada no "TaBíblia Periódica"), com ficha de estudo e leitor de texto, para uso público em estudo bíblico. Stack: React 18 + Vite, sem backend. Publicação: GitHub Pages via GitHub Actions.
 
 ## Como trabalhar (preferências do André)
+- Este é um projeto pessoal do André, não da UniMissional. Só trate como da UniMissional (nome, instituição, contas, licenças em nome dela) quando ele pedir isso de forma explícita.
 - Em repositório existente: diagnostique antes de aplicar e espere confirmação. Decisões de mérito (nomes, licenças, o que publicar, conteúdo teológico) são dele.
 - Pode abrir PR sem pedir confirmação. O merge continua sendo do André.
 - Respostas diretas e objetivas. Aprofunde só quando pedido.
