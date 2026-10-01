@@ -31,7 +31,7 @@ Tabela interativa dos 66 livros da Bíblia (inspirada no "TaBíblia Periódica")
 
 ## Decisões em aberto
 - Atos está na seção "Evangelhos e Atos" (como na imagem original). Alternativa: seção própria.
-- Versões em português: no site, Bíblia Livre (CC BY 3.0 BR, atribuição obrigatória) e Almeida 1911. ARA e NAA aguardam autorização da SBB (André vai pedir). TB não entra (a SBB declara copyright sobre a edição de 2010). ARC de 1898: sem fonte digital confiável. Detalhes em `docs/licencas-texto-biblico.md`.
+- Versões em português: no site, Bíblia Livre (CC BY 4.0, atribuição obrigatória) e Almeida 1911. ARA e NAA aguardam autorização da SBB (André vai pedir). TB não entra (a SBB declara copyright sobre a edição de 2010). ARC de 1898: sem fonte digital confiável. Detalhes em `docs/licencas-texto-biblico.md`.
 - ESV e NKJV: avaliadas, não adicionadas. ESV só via API não comercial e exigiria proxy; NKJV exige permissão escrita.
 
 ## Roadmap

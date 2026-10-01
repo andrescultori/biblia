@@ -1,5 +1,5 @@
 Bíblia Livre (BLIVRE)
 Copyright (c) 2018 Diego Santos, Mario Sérgio e Marco Teles, http://sites.google.com/site/biblialivre/
-Licença Creative Commons Atribuição 3.0 Brasil: http://creativecommons.org/licenses/by/3.0/br/
+Licença Creative Commons Atribuição 4.0 Internacional: https://creativecommons.org/licenses/by/4.0/ (como indicado em https://ebible.org/porbr2018/copyright.htm; o repositório oficial dos autores cita a 3.0 Brasil)
 Atribuição obrigatória. Fonte: https://github.com/blivre/BibliaLivre
 Arquivo gerado de damarals/biblias (data/canonical/BLIVRE), instantâneo de 2018. O texto foi adaptado ao formato do site (um arquivo por livro; versículos que o texto crítico omite ficam em branco).
