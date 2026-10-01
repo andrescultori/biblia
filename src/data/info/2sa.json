@@ -138,5 +138,196 @@
   "connections": {
     "pt": "Continua 1 Samuel e leva a 1 Reis. 1 e 2 Crônicas retomam o reinado de Davi de outro ângulo. Mt 1:1 e Lc 1:32–33 ligam Jesus à promessa feita a Davi.",
     "en": "Continues 1 Samuel and leads into 1 Kings. 1 and 2 Chronicles retell David's reign from another angle. Matt 1:1 and Luke 1:32–33 tie Jesus to the promise made to David."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Lugares do reinado de Davi, em ordem aproximada do livro. Os pontos vêm do OpenBible e não formam um trajeto único; \"?\" marca localização debatida.",
+      "en": "Places of David's reign, in rough order of the book. Points come from OpenBible and do not form a single route; \"?\" marks a disputed location."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Monte Gilboa",
+          "en": "Mount Gilboa"
+        },
+        "lonLat": [
+          35.41,
+          32.43
+        ],
+        "note": {
+          "pt": "Davi lamenta a morte de Saul e Jônatas (1:17–27).",
+          "en": "David laments the death of Saul and Jonathan (1:17–27)."
+        },
+        "ref": "1:21"
+      },
+      {
+        "name": {
+          "pt": "Hebrom",
+          "en": "Hebron"
+        },
+        "lonLat": [
+          35.1,
+          31.53
+        ],
+        "note": {
+          "pt": "Davi é ungido rei sobre Judá (2:1–4) e reina aqui sete anos e meio (5:5).",
+          "en": "David is anointed king over Judah (2:1–4) and reigns here seven and a half years (5:5)."
+        },
+        "ref": "2:1"
+      },
+      {
+        "name": {
+          "pt": "Maanaim",
+          "en": "Mahanaim"
+        },
+        "lonLat": [
+          35.69,
+          32.19
+        ],
+        "note": {
+          "pt": "Is-Bosete, filho de Saul, é feito rei aqui (2:8–10); mais tarde Davi se refugia aqui, fugindo de Absalão (17:24). A localização é debatida.",
+          "en": "Ish-bosheth, Saul's son, is made king here (2:8–10); later David takes refuge here, fleeing Absalom (17:24). The location is debated."
+        },
+        "ref": "2:8",
+        "uncertain": true
+      },
+      {
+        "name": {
+          "pt": "Gibeão",
+          "en": "Gibeon"
+        },
+        "lonLat": [
+          35.18,
+          31.85
+        ],
+        "note": {
+          "pt": "Os homens de Abner e de Joabe se enfrentam junto ao tanque (2:12–17).",
+          "en": "Abner's and Joab's men meet by the pool (2:12–17)."
+        },
+        "ref": "2:12"
+      },
+      {
+        "name": {
+          "pt": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        "lonLat": [
+          35.23,
+          31.78
+        ],
+        "note": {
+          "pt": "Davi toma a fortaleza e a faz sua capital (5:6–9); a arca é trazida (cap. 6).",
+          "en": "David takes the stronghold and makes it his capital (5:6–9); the ark is brought in (ch. 6)."
+        },
+        "ref": "5:6"
+      },
+      {
+        "name": {
+          "pt": "Rabá",
+          "en": "Rabbah"
+        },
+        "lonLat": [
+          35.93,
+          31.95
+        ],
+        "note": {
+          "pt": "Capital dos amonitas. Davi fica em Jerusalém enquanto o exército a cerca (11:1); Joabe a conquista (12:26–29).",
+          "en": "Capital of the Ammonites. David stays in Jerusalem while the army besieges it (11:1); Joab captures it (12:26–29)."
+        },
+        "ref": "11:1"
+      },
+      {
+        "name": {
+          "pt": "Gesur",
+          "en": "Geshur"
+        },
+        "lonLat": [
+          35.7,
+          32.77
+        ],
+        "note": {
+          "pt": "Absalão foge para Gesur depois de matar Amnom (13:37–38).",
+          "en": "Absalom flees to Geshur after killing Amnon (13:37–38)."
+        },
+        "ref": "13:37"
+      },
+      {
+        "name": {
+          "pt": "Tecoa",
+          "en": "Tekoa"
+        },
+        "lonLat": [
+          35.21,
+          31.63
+        ],
+        "note": {
+          "pt": "De Tecoa vem a mulher que Joabe envia a Davi para interceder por Absalão (14:2–4).",
+          "en": "The woman whom Joab sends to David to plead for Absalom comes from Tekoa (14:2–4)."
+        },
+        "ref": "14:2"
+      },
+      {
+        "name": {
+          "pt": "Monte das Oliveiras",
+          "en": "Mount of Olives"
+        },
+        "lonLat": [
+          35.25,
+          31.78
+        ],
+        "note": {
+          "pt": "Davi sobe chorando, de cabeça coberta, ao fugir de Absalão (15:30).",
+          "en": "David goes up weeping, head covered, as he flees from Absalom (15:30)."
+        },
+        "ref": "15:30"
+      },
+      {
+        "name": {
+          "pt": "Abel-Bete-Maaca",
+          "en": "Abel-beth-maacah"
+        },
+        "lonLat": [
+          35.58,
+          33.26
+        ],
+        "note": {
+          "pt": "Joabe cerca a cidade onde Seba, filho de Bicri, se refugiou (20:14–22).",
+          "en": "Joab besieges the city where Sheba, son of Bichri, took refuge (20:14–22)."
+        },
+        "ref": "20:14"
+      },
+      {
+        "name": {
+          "pt": "Belém",
+          "en": "Bethlehem"
+        },
+        "lonLat": [
+          35.21,
+          31.7
+        ],
+        "note": {
+          "pt": "Três valentes de Davi furam o cerco filisteu e trazem água do poço de Belém (23:13–17).",
+          "en": "Three of David's mighty men break through the Philistine line and bring water from the well of Bethlehem (23:13–17)."
+        },
+        "ref": "23:14"
+      },
+      {
+        "name": {
+          "pt": "Lo-Debar",
+          "en": "Lo-debar"
+        },
+        "lonLat": [
+          35.63,
+          32.68
+        ],
+        "note": {
+          "pt": "Mefibosete, filho de Jônatas, vive aqui até Davi o chamar (9:4–5). A localização é debatida.",
+          "en": "Mephibosheth, Jonathan's son, lives here until David sends for him (9:4–5). The location is debated."
+        },
+        "ref": "9:4",
+        "uncertain": true
+      }
+    ]
   }
 }

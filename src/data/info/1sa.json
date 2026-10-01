@@ -148,5 +148,243 @@
   "connections": {
     "pt": "Continua Juízes e leva a 2 Samuel. O cântico de Ana (2:1–10) é ecoado no cântico de Maria (Lc 1:46–55). Davi e os pães da proposição (21:1–6) são lembrados em Mt 12:3–4. At 13:21–22 resume Saul e Davi.",
     "en": "Continues Judges and leads into 2 Samuel. Hannah's song (2:1–10) is echoed in Mary's song (Luke 1:46–55). David and the bread of the Presence (21:1–6) are recalled in Matt 12:3–4. Acts 13:21–22 summarizes Saul and David."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Lugares de Samuel, Saul e Davi, em ordem aproximada do livro. Os pontos vêm do OpenBible e não formam um trajeto único; \"?\" marca localização debatida. Há muitos lugares próximos: use \"Ampliar região\".",
+      "en": "Places of Samuel, Saul and David, in rough order of the book. Points come from OpenBible and do not form a single route; \"?\" marks a disputed location. Many places are close together: use \"Zoom to region\"."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Siló",
+          "en": "Shiloh"
+        },
+        "lonLat": [
+          35.29,
+          32.06
+        ],
+        "note": {
+          "pt": "Onde fica o santuário no tempo de Eli; Ana ora aqui e Samuel é entregue ao Senhor (1:3, 9–28).",
+          "en": "Where the sanctuary stands in Eli's time; Hannah prays here and Samuel is given to the Lord (1:3, 9–28)."
+        },
+        "ref": "1:3"
+      },
+      {
+        "name": {
+          "pt": "Ramá",
+          "en": "Ramah"
+        },
+        "lonLat": [
+          35.23,
+          31.85
+        ],
+        "note": {
+          "pt": "Terra de Elcana e de Samuel (1:19; 7:17). Ramá é nome de vários lugares; a identificação é debatida.",
+          "en": "Home of Elkanah and Samuel (1:19; 7:17). Ramah is the name of several places; the identification is debated."
+        },
+        "ref": "1:19",
+        "uncertain": true
+      },
+      {
+        "name": {
+          "pt": "Asdode",
+          "en": "Ashdod"
+        },
+        "lonLat": [
+          34.66,
+          31.76
+        ],
+        "note": {
+          "pt": "Os filisteus levam a arca para o templo de Dagom aqui (5:1–5).",
+          "en": "The Philistines bring the ark into Dagon's temple here (5:1–5)."
+        },
+        "ref": "5:1"
+      },
+      {
+        "name": {
+          "pt": "Bete-Semes",
+          "en": "Beth-shemesh"
+        },
+        "lonLat": [
+          34.97,
+          31.75
+        ],
+        "note": {
+          "pt": "A arca volta a Israel por este caminho (6:9–15).",
+          "en": "The ark returns to Israel by this way (6:9–15)."
+        },
+        "ref": "6:12"
+      },
+      {
+        "name": {
+          "pt": "Quiriate-Jearim",
+          "en": "Kiriath-jearim"
+        },
+        "lonLat": [
+          35.1,
+          31.81
+        ],
+        "note": {
+          "pt": "A arca fica aqui, na casa de Abinadabe, por muitos anos (7:1–2).",
+          "en": "The ark stays here, in Abinadab's house, for many years (7:1–2)."
+        },
+        "ref": "7:1"
+      },
+      {
+        "name": {
+          "pt": "Mispá",
+          "en": "Mizpah"
+        },
+        "lonLat": [
+          35.22,
+          31.89
+        ],
+        "note": {
+          "pt": "Samuel reúne Israel, que se arrepende, e vence os filisteus (7:5–12).",
+          "en": "Samuel gathers Israel, which repents, and the Philistines are defeated (7:5–12)."
+        },
+        "ref": "7:5"
+      },
+      {
+        "name": {
+          "pt": "Gibeá",
+          "en": "Gibeah"
+        },
+        "lonLat": [
+          35.23,
+          31.82
+        ],
+        "note": {
+          "pt": "Cidade de Saul, onde ele se estabelece como rei (10:26; 11:4).",
+          "en": "Saul's town, where he settles as king (10:26; 11:4)."
+        },
+        "ref": "10:26"
+      },
+      {
+        "name": {
+          "pt": "Jabes-Gileade",
+          "en": "Jabesh-gilead"
+        },
+        "lonLat": [
+          35.68,
+          32.4
+        ],
+        "note": {
+          "pt": "Saul a livra dos amonitas (11:1–11); seus homens depois recolhem o corpo de Saul (31:11–13).",
+          "en": "Saul rescues it from the Ammonites (11:1–11); its men later recover Saul's body (31:11–13)."
+        },
+        "ref": "11:1"
+      },
+      {
+        "name": {
+          "pt": "Gilgal",
+          "en": "Gilgal"
+        },
+        "lonLat": [
+          35.46,
+          31.88
+        ],
+        "note": {
+          "pt": "Saul é confirmado rei (11:14–15) e depois rejeitado aqui (13:7–14; 15:12–23).",
+          "en": "Saul is confirmed as king (11:14–15) and later rejected here (13:7–14; 15:12–23)."
+        },
+        "ref": "11:14",
+        "uncertain": true
+      },
+      {
+        "name": {
+          "pt": "Belém",
+          "en": "Bethlehem"
+        },
+        "lonLat": [
+          35.21,
+          31.7
+        ],
+        "note": {
+          "pt": "Samuel unge Davi, filho de Jessé (16:1–13).",
+          "en": "Samuel anoints David, son of Jesse (16:1–13)."
+        },
+        "ref": "16:1"
+      },
+      {
+        "name": {
+          "pt": "Vale de Elá",
+          "en": "Valley of Elah"
+        },
+        "lonLat": [
+          35.0,
+          31.68
+        ],
+        "note": {
+          "pt": "Davi enfrenta Golias (17:2, 48–51).",
+          "en": "David faces Goliath (17:2, 48–51)."
+        },
+        "ref": "17:2"
+      },
+      {
+        "name": {
+          "pt": "Gate",
+          "en": "Gath"
+        },
+        "lonLat": [
+          34.85,
+          31.7
+        ],
+        "note": {
+          "pt": "Cidade de Golias (17:4); Davi refugia-se aqui, fingindo-se louco (21:10–15). A localização de Gate é debatida.",
+          "en": "Goliath's city (17:4); David takes refuge here, feigning madness (21:10–15). The location of Gath is debated."
+        },
+        "ref": "17:4",
+        "uncertain": true
+      },
+      {
+        "name": {
+          "pt": "Queila",
+          "en": "Keilah"
+        },
+        "lonLat": [
+          35.0,
+          31.61
+        ],
+        "note": {
+          "pt": "Davi livra a cidade dos filisteus (23:1–5).",
+          "en": "David rescues the city from the Philistines (23:1–5)."
+        },
+        "ref": "23:1"
+      },
+      {
+        "name": {
+          "pt": "Ziclague",
+          "en": "Ziklag"
+        },
+        "lonLat": [
+          34.68,
+          31.39
+        ],
+        "note": {
+          "pt": "O rei de Gate dá a cidade a Davi (27:6); os amalequitas a saqueiam (30:1–2). A localização é debatida.",
+          "en": "The king of Gath gives the city to David (27:6); the Amalekites raid it (30:1–2). The location is debated."
+        },
+        "ref": "27:6",
+        "uncertain": true
+      },
+      {
+        "name": {
+          "pt": "Monte Gilboa",
+          "en": "Mount Gilboa"
+        },
+        "lonLat": [
+          35.41,
+          32.43
+        ],
+        "note": {
+          "pt": "Saul e seus filhos morrem na batalha contra os filisteus (31:1–6).",
+          "en": "Saul and his sons die in the battle against the Philistines (31:1–6)."
+        },
+        "ref": "31:1"
+      }
+    ]
   }
 }

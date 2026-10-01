@@ -121,5 +121,59 @@
   "connections": {
     "pt": "Continua 2 Crônicas (cf. 2Cr 36:22–23) e leva a Neemias. Is 44:28–45:1 menciona Ciro. Ageu e Zacarias são profetas do mesmo período.",
     "en": "Continues 2 Chronicles (cf. 2 Chr 36:22–23) and leads into Nehemiah. Isa 44:28–45:1 mentions Cyrus. Haggai and Zechariah are prophets of the same period."
+  },
+  "map": {
+    "route": true,
+    "note": {
+      "pt": "Rota simplificada em linha reta, na ordem do livro; não é o trajeto exato da viagem. Os pontos vêm do OpenBible; Pérsia e Babilônia são regiões, e o ponto marca o centro delas.",
+      "en": "Simplified straight-line route, in the order of the book; it is not the exact path of the journey. Points come from OpenBible; Persia and Babylon are regions, and the point marks their center."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Pérsia",
+          "en": "Persia"
+        },
+        "lonLat": [
+          48.52,
+          34.81
+        ],
+        "note": {
+          "pt": "Ciro, rei da Pérsia, decreta que os judeus voltem e reconstruam o templo (1:1–4). O ponto marca o centro da região.",
+          "en": "Cyrus, king of Persia, decrees that the Jews return and rebuild the temple (1:1–4). The point marks the center of the region."
+        },
+        "ref": "1:1"
+      },
+      {
+        "name": {
+          "pt": "Babilônia",
+          "en": "Babylon"
+        },
+        "lonLat": [
+          44.42,
+          32.54
+        ],
+        "note": {
+          "pt": "Os exilados voltam de Babilônia com Zorobabel (2:1); mais tarde Esdras parte daqui para Jerusalém (7:6–9).",
+          "en": "The exiles return from Babylon with Zerubbabel (2:1); later Ezra leaves from here for Jerusalem (7:6–9)."
+        },
+        "ref": "2:1"
+      },
+      {
+        "name": {
+          "pt": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        "lonLat": [
+          35.23,
+          31.78
+        ],
+        "note": {
+          "pt": "O altar é reerguido e o templo é reconstruído (caps. 3–6); Esdras ensina a lei e conduz a reforma (caps. 7–10).",
+          "en": "The altar is rebuilt and the temple restored (chs. 3–6); Ezra teaches the law and leads reform (chs. 7–10)."
+        },
+        "ref": "3:1"
+      }
+    ]
   }
 }

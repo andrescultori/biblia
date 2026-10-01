@@ -138,5 +138,210 @@
   "connections": {
     "pt": "Continua 2 Samuel e leva a 2 Reis. Jesus menciona Salomão e a rainha de Sabá (Mt 12:42; Lc 11:31) e Elias (Lc 4:25–26). Tg 5:17–18 e Rm 11:2–4 citam Elias.",
     "en": "Continues 2 Samuel and leads into 2 Kings. Jesus mentions Solomon and the queen of Sheba (Matt 12:42; Luke 11:31) and Elijah (Luke 4:25–26). Jas 5:17–18 and Rom 11:2–4 cite Elijah."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Lugares do reinado de Salomão e dos reinos divididos, em ordem aproximada do livro. Os pontos vêm do OpenBible e não formam um trajeto único; \"?\" marca localização debatida.",
+      "en": "Places of Solomon's reign and the divided kingdoms, in rough order of the book. Points come from OpenBible and do not form a single route; \"?\" marks a disputed location."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Gibeão",
+          "en": "Gibeon"
+        },
+        "lonLat": [
+          35.18,
+          31.85
+        ],
+        "note": {
+          "pt": "Salomão oferece sacrifícios no grande alto e Deus lhe aparece em sonho (3:4–15).",
+          "en": "Solomon offers sacrifices at the great high place and God appears to him in a dream (3:4–15)."
+        },
+        "ref": "3:4"
+      },
+      {
+        "name": {
+          "pt": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        "lonLat": [
+          35.23,
+          31.78
+        ],
+        "note": {
+          "pt": "Capital do reino. Salomão constrói o templo e o palácio (caps. 6–8).",
+          "en": "Capital of the kingdom. Solomon builds the temple and the palace (chs. 6–8)."
+        },
+        "ref": "8:1"
+      },
+      {
+        "name": {
+          "pt": "Tiro",
+          "en": "Tyre"
+        },
+        "lonLat": [
+          35.2,
+          33.27
+        ],
+        "note": {
+          "pt": "Hirão, rei de Tiro, fornece madeira e artesãos para o templo (5:1–12; 7:13–14).",
+          "en": "Hiram, king of Tyre, supplies timber and craftsmen for the temple (5:1–12; 7:13–14)."
+        },
+        "ref": "5:1"
+      },
+      {
+        "name": {
+          "pt": "Siquém",
+          "en": "Shechem"
+        },
+        "lonLat": [
+          35.28,
+          32.21
+        ],
+        "note": {
+          "pt": "Roboão vai a Siquém e as tribos do norte se separam (12:1–19).",
+          "en": "Rehoboam goes to Shechem and the northern tribes break away (12:1–19)."
+        },
+        "ref": "12:1"
+      },
+      {
+        "name": {
+          "pt": "Betel",
+          "en": "Bethel"
+        },
+        "lonLat": [
+          35.24,
+          31.92
+        ],
+        "note": {
+          "pt": "Jeroboão ergue aqui um dos bezerros de ouro (12:28–33).",
+          "en": "Jeroboam sets up one of the golden calves here (12:28–33)."
+        },
+        "ref": "12:29"
+      },
+      {
+        "name": {
+          "pt": "Dã",
+          "en": "Dan"
+        },
+        "lonLat": [
+          35.65,
+          33.25
+        ],
+        "note": {
+          "pt": "O outro bezerro de ouro de Jeroboão (12:29–30).",
+          "en": "Jeroboam's other golden calf (12:29–30)."
+        },
+        "ref": "12:29"
+      },
+      {
+        "name": {
+          "pt": "Tirza",
+          "en": "Tirzah"
+        },
+        "lonLat": [
+          35.34,
+          32.29
+        ],
+        "note": {
+          "pt": "Capital do reino do norte nos primeiros reinados (14:17; 15:33; 16:8–9).",
+          "en": "Capital of the northern kingdom in the early reigns (14:17; 15:33; 16:8–9)."
+        },
+        "ref": "15:33"
+      },
+      {
+        "name": {
+          "pt": "Samaria",
+          "en": "Samaria"
+        },
+        "lonLat": [
+          35.2,
+          32.28
+        ],
+        "note": {
+          "pt": "Onri compra o monte e funda a capital (16:24); Acabe reina daqui (16:29).",
+          "en": "Omri buys the hill and founds the capital (16:24); Ahab reigns from here (16:29)."
+        },
+        "ref": "16:24"
+      },
+      {
+        "name": {
+          "pt": "Sarepta",
+          "en": "Zarephath"
+        },
+        "lonLat": [
+          35.3,
+          33.46
+        ],
+        "note": {
+          "pt": "Elias é enviado à viúva de Sarepta; a farinha e o azeite não se acabam (17:8–16).",
+          "en": "Elijah is sent to the widow of Zarephath; the flour and oil do not run out (17:8–16)."
+        },
+        "ref": "17:9"
+      },
+      {
+        "name": {
+          "pt": "Monte Carmelo",
+          "en": "Mount Carmel"
+        },
+        "lonLat": [
+          35.02,
+          32.67
+        ],
+        "note": {
+          "pt": "Elias enfrenta os profetas de Baal (18:19–40).",
+          "en": "Elijah confronts the prophets of Baal (18:19–40)."
+        },
+        "ref": "18:19"
+      },
+      {
+        "name": {
+          "pt": "Jezreel",
+          "en": "Jezreel"
+        },
+        "lonLat": [
+          35.33,
+          32.56
+        ],
+        "note": {
+          "pt": "Elias corre diante do carro de Acabe (18:45–46); a vinha de Nabote fica aqui (21:1).",
+          "en": "Elijah runs ahead of Ahab's chariot (18:45–46); Naboth's vineyard is here (21:1)."
+        },
+        "ref": "18:45"
+      },
+      {
+        "name": {
+          "pt": "Damasco",
+          "en": "Damascus"
+        },
+        "lonLat": [
+          36.31,
+          33.51
+        ],
+        "note": {
+          "pt": "Capital de Arã, rival constante de Israel; Elias recebe a ordem de ungir Hazael (19:15).",
+          "en": "Capital of Aram, constant rival of Israel; Elijah is told to anoint Hazael (19:15)."
+        },
+        "ref": "19:15"
+      },
+      {
+        "name": {
+          "pt": "Ramote-Gileade",
+          "en": "Ramoth-gilead"
+        },
+        "lonLat": [
+          36.01,
+          32.5
+        ],
+        "note": {
+          "pt": "Acabe é morto aqui, em batalha contra Arã (22:3–37).",
+          "en": "Ahab is killed here, in battle against Aram (22:3–37)."
+        },
+        "ref": "22:3",
+        "uncertain": true
+      }
+    ]
   }
 }

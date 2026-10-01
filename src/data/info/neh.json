@@ -118,5 +118,104 @@
   "connections": {
     "pt": "Continua Esdras e fecha os livros históricos do Antigo Testamento na ordem das Bíblias cristãs, com Ester em seguida. Ml é lido como contemporâneo ao período.",
     "en": "Continues Ezra and, in Christian Bibles, is followed by Esther. Malachi is often read as contemporary with the period."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Lugares do livro. Neemias serve em Susa e vai a Jerusalém reconstruir o muro. Os pontos vêm do OpenBible e não formam um trajeto único; \"?\" marca localização debatida.",
+      "en": "Places in the book. Nehemiah serves in Susa and goes to Jerusalem to rebuild the wall. Points come from OpenBible and do not form a single route; \"?\" marks a disputed location."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Susã",
+          "en": "Susa"
+        },
+        "lonLat": [
+          48.26,
+          32.19
+        ],
+        "note": {
+          "pt": "Neemias é copeiro do rei e recebe aqui as notícias sobre Jerusalém (1:1–2:8).",
+          "en": "Nehemiah is the king's cupbearer and receives the news about Jerusalem here (1:1–2:8)."
+        },
+        "ref": "1:1"
+      },
+      {
+        "name": {
+          "pt": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        "lonLat": [
+          35.23,
+          31.78
+        ],
+        "note": {
+          "pt": "Neemias inspeciona e reconstrói o muro em cinquenta e dois dias (2:11–6:15); leitura da lei (cap. 8).",
+          "en": "Nehemiah inspects and rebuilds the wall in fifty-two days (2:11–6:15); the law is read (ch. 8)."
+        },
+        "ref": "2:11"
+      },
+      {
+        "name": {
+          "pt": "Jericó",
+          "en": "Jericho"
+        },
+        "lonLat": [
+          35.44,
+          31.87
+        ],
+        "note": {
+          "pt": "Homens de Jericó reconstroem um trecho do muro (3:2).",
+          "en": "Men of Jericho rebuild a section of the wall (3:2)."
+        },
+        "ref": "3:2"
+      },
+      {
+        "name": {
+          "pt": "Gibeão",
+          "en": "Gibeon"
+        },
+        "lonLat": [
+          35.18,
+          31.85
+        ],
+        "note": {
+          "pt": "Homens de Gibeão e de Mispá também trabalham no muro (3:7).",
+          "en": "Men of Gibeon and Mizpah also work on the wall (3:7)."
+        },
+        "ref": "3:7"
+      },
+      {
+        "name": {
+          "pt": "Asdode",
+          "en": "Ashdod"
+        },
+        "lonLat": [
+          34.66,
+          31.76
+        ],
+        "note": {
+          "pt": "Os asdoditas se unem aos inimigos contra a obra (4:7–8).",
+          "en": "The people of Ashdod join the enemies against the work (4:7–8)."
+        },
+        "ref": "4:7"
+      },
+      {
+        "name": {
+          "pt": "Ono",
+          "en": "Ono"
+        },
+        "lonLat": [
+          34.87,
+          32.03
+        ],
+        "note": {
+          "pt": "Sambalate e Gesém convidam Neemias a se encontrar com eles no vale de Ono, para lhe fazer mal (6:2).",
+          "en": "Sanballat and Geshem invite Nehemiah to meet them in the plain of Ono, intending to harm him (6:2)."
+        },
+        "ref": "6:2"
+      }
+    ]
   }
 }

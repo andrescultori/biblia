@@ -52,6 +52,9 @@ function placeLabels(items, W, H, fs, selected) {
   return out;
 }
 
+const NORMAL_MIN = [5.5, 3.6]; // extensão mínima (graus) da visão completa
+const span = (ps, k) => Math.max(...ps.map((p) => p.lonLat[k])) - Math.min(...ps.map((p) => p.lonLat[k]));
+
 const near = (places, i) => places.filter((p) => Math.hypot(p.lonLat[0] - places[i].lonLat[0], p.lonLat[1] - places[i].lonLat[1]) <= NEAR);
 
 // Largura do contêiner em pixels. O SVG é desenhado em pixels reais para o texto manter o tamanho no celular.
@@ -84,7 +87,8 @@ export default function MapView({ book, map, lang, t }) {
     if (own.length >= 3) return own;
     return places.map((_, i) => near(places, i)).reduce((a, b) => (b.length > a.length ? b : a), []);
   }, [places, sel]);
-  const canZoom = group.length >= 3 && group.length < places.length;
+  // vale ampliar quando o grupo é só parte dos lugares ou quando todos cabem numa área menor que a visão mínima
+  const canZoom = group.length >= 3 && (group.length < places.length || span(places, 0) < NORMAL_MIN[0] || span(places, 1) < NORMAL_MIN[1]);
   const zoomed = zoom && canZoom;
 
   const { projection, landPath } = useMemo(() => {
@@ -94,8 +98,8 @@ export default function MapView({ book, map, lang, t }) {
     const cx = (Math.min(...lons) + Math.max(...lons)) / 2;
     const cy = (Math.min(...lats) + Math.max(...lats)) / 2;
     // extensão mínima para a costa não parecer recortada
-    const dx = Math.max(Math.max(...lons) - Math.min(...lons), zoomed ? 1.5 : 5.5);
-    const dy = Math.max(Math.max(...lats) - Math.min(...lats), zoomed ? 1.0 : 3.6);
+    const dx = Math.max(Math.max(...lons) - Math.min(...lons), zoomed ? 1.5 : NORMAL_MIN[0]);
+    const dy = Math.max(Math.max(...lats) - Math.min(...lats), zoomed ? 1.0 : NORMAL_MIN[1]);
     const box = { type: 'MultiPoint', coordinates: [[cx - dx / 2, cy - dy / 2], [cx + dx / 2, cy + dy / 2]] };
     const padX = Math.min(50, Math.round(W * 0.1));
     const padY = W < 480 ? 28 : 40;
