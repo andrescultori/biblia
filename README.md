@@ -31,7 +31,7 @@ Os textos ficam em `public/bible/<versão>/<n>.json` (n = 1..66, ordem canônica
 | `kjv` | King James Version | Domínio público | [thiagobodruk/bible](https://github.com/thiagobodruk/bible) (`json/en_kjv.json`) |
 | `web` | World English Bible | Domínio público | [seven1m/open-bibles](https://github.com/seven1m/open-bibles) (`eng-web.usfx.xml`, do eBible.org) |
 | `asv` | American Standard Version (1901) | Domínio público | [openbibleinfo/American-Standard-Version-Bible](https://github.com/openbibleinfo/American-Standard-Version-Bible) (`usx-english-only/`) |
-| `blivre` | Bíblia Livre (2018) | CC BY 3.0 Brasil (atribuição obrigatória) | [damarals/biblias](https://github.com/damarals/biblias) (`data/canonical/BLIVRE/`) |
+| `blivre` | Bíblia Livre (2018) | CC BY 4.0 (atribuição obrigatória) | [damarals/biblias](https://github.com/damarals/biblias) (`data/canonical/BLIVRE/`) |
 | `alm1911` | Almeida, edição de 1911 | Domínio público | [damarals/biblias](https://github.com/damarals/biblias) (`data/canonical/ALM1911/`; texto do Project Gutenberg nº 62383) |
 
 Para regenerar uma versão, passe o id e o caminho da fonte baixada:
@@ -76,6 +76,6 @@ A aba **Mapa** do modal aparece nos livros cuja ficha (`src/data/info/<slug>.jso
 - Costa: [Natural Earth](https://www.naturalearthdata.com/) (domínio público), pelo pacote `world-atlas`, recortada e simplificada.
 - Lugares do mapa: [OpenBible.info Bible Geocoding Data](https://www.openbible.info/geo/), licença [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Coordenadas arredondadas e adaptadas.
 - Projeção: [d3-geo](https://github.com/d3/d3-geo) (ISC).
-- Textos: WEB ([eBible.org](https://ebible.org/eng-web/), domínio público); ASV (domínio público, edição digital de [openbibleinfo](https://github.com/openbibleinfo/American-Standard-Version-Bible)); Almeida 1911 (domínio público, [Project Gutenberg nº 62383](https://www.gutenberg.org/ebooks/62383)); **Bíblia Livre (BLIVRE), © 2018 Diego Santos, Mario Sérgio e Marco Teles, [CC BY 3.0 Brasil](https://creativecommons.org/licenses/by/3.0/br/)**, [fonte](https://github.com/blivre/BibliaLivre).
+- Textos: WEB ([eBible.org](https://ebible.org/eng-web/), domínio público); ASV (domínio público, edição digital de [openbibleinfo](https://github.com/openbibleinfo/American-Standard-Version-Bible)); Almeida 1911 (domínio público, [Project Gutenberg nº 62383](https://www.gutenberg.org/ebooks/62383)); **Bíblia Livre (BLIVRE), © 2018 Diego Santos, Mario Sérgio e Marco Teles, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**, [fonte](https://github.com/blivre/BibliaLivre).
 
 Ideia original da tabela: "TaBíblia Periódica" (Grupo de Jovens Conquistando as Nações; fonte indicada: Sociedade Bíblica do Brasil). Este projeto tem design e código próprios.
