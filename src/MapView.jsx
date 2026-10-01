@@ -76,7 +76,7 @@ function useWidth(ref) {
   return w;
 }
 
-export default function MapView({ book, map, lang, t, initialPlace, onOpenTimeline, onOpenPerson }) {
+export default function MapView({ book, map, lang, t, initialPlace, onPlaceChange, onOpenTimeline, onOpenPerson }) {
   const boxRef = useRef(null);
   const [sel, setSel] = useState(() => Math.max(0, map.places.findIndex((p) => p.name.pt === initialPlace)));
   const [zoom, setZoom] = useState(false);
@@ -139,7 +139,7 @@ export default function MapView({ book, map, lang, t, initialPlace, onOpenTimeli
     [book.slug, places, sel],
   );
   // escolher um lugar fora do grupo ampliado volta para a visão completa
-  const choose = (i) => { if (zoomed && !group.includes(places[i])) setZoom(false); setSel(i); };
+  const choose = (i) => { if (zoomed && !group.includes(places[i])) setZoom(false); setSel(i); onPlaceChange?.(places[i].name.pt); };
   const onKey = (i) => (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); choose(i); } };
 
   return (

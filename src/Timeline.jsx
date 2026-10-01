@@ -4,6 +4,7 @@ import data from './data/timeline.json';
 import { people } from './data/people.json';
 import { pick, range, views, main } from './timelineUtil.js';
 import { useSettings } from './settings.js';
+import { hrefs } from './route.js';
 
 const MIN_W = 132; // largura mínima de um período na faixa, em px (cabe o título)
 const UNDATED_W = 132;
@@ -27,22 +28,19 @@ function Dates({ dates, t, lang }) {
 
 export default function Timeline({ lang, t, focusId, onClose, onOpenBook, onOpenMap, onOpenPerson }) {
   const { showScholarly } = useSettings();
-  const ref = useRef(null);
   const focused = data.events.find((e) => e.id === focusId);
   const [sel, setSel] = useState(focused?.period ?? data.periods[0].id);
   const period = data.periods.find((p) => p.id === sel);
   const events = useMemo(() => data.events.filter((e) => e.period === sel), [sel]);
   const refs = useRef({});
 
+  // vindo de um link (ou do voltar do navegador): abre o período do evento e leva o evento para a vista
   useEffect(() => {
-    const d = ref.current;
-    if (d && !d.open) d.showModal();
-    // vindo do mapa: leva o evento para a vista
-    if (focusId) requestAnimationFrame(() => refs.current[focusId]?.scrollIntoView({ block: 'center' }));
-    const handle = () => onClose();
-    d?.addEventListener('close', handle);
-    return () => { d?.removeEventListener('close', handle); if (d?.open) d.close(); };
-  }, []);
+    const ev = data.events.find((e) => e.id === focusId);
+    if (!ev) return;
+    setSel(ev.period);
+    requestAnimationFrame(() => refs.current[focusId]?.scrollIntoView({ block: 'center' }));
+  }, [focusId]);
 
   // escala por bloco: cada bloco tem seus px por ano; períodos curtos ganham largura mínima
   const layout = useMemo(() => data.blocks.map((b) => {
@@ -59,18 +57,17 @@ export default function Timeline({ lang, t, focusId, onClose, onOpenBook, onOpen
   const order = (slugs) => [...slugs].sort((a, b) => bySlug[a].n - bySlug[b].n);
 
   // ao escolher um período, volta o detalhe ao topo
-  const bodyRef = useRef(null);
-  const choose = (id) => { setSel(id); bodyRef.current?.scrollTo({ top: 0 }); };
+  const choose = (id) => setSel(id);
 
   return (
-    <dialog ref={ref} className="modal wide" aria-labelledby="tl-title" onClick={(e) => { if (e.target === ref.current) ref.current.close(); }}>
+    <div className="page wide" role="region" aria-labelledby="tl-title">
       <div className="sheet" style={{ '--c': 'var(--s-historicos)' }}>
         <div className="head">
           <div className="ttl">
             <h2 id="tl-title">{t.timeline}</h2>
             <p>{t.timelineSub}</p>
           </div>
-          <button type="button" className="ghost close" onClick={() => ref.current.close()} aria-label={t.close}>✕</button>
+          <a className="ghost back" href={hrefs.home}>← {t.home}</a>
         </div>
 
         <div className="tl-strip" role="group" aria-label={t.timelineStrip}>
@@ -100,7 +97,7 @@ export default function Timeline({ lang, t, focusId, onClose, onOpenBook, onOpen
         </div>
         <p className="tl-scalenote">{t.timelineScale}</p>
 
-        <div className="body tl-detail" ref={bodyRef}>
+        <div className="body tl-detail">
           <h3>{pick(period.title, lang)}</h3>
           <p>{pick(period.summary, lang)}</p>
           {period.dates && <Dates dates={period.dates} t={t} lang={lang} />}
@@ -163,6 +160,6 @@ export default function Timeline({ lang, t, focusId, onClose, onOpenBook, onOpen
           )}
         </div>
       </div>
-    </dialog>
+    </div>
   );
 }
