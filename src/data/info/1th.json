@@ -67,5 +67,89 @@
   "connections": {
     "pt": "Atos 17:1–9 narra a fundação da igreja. 2 Tessalonicenses continua alguns temas da carta.",
     "en": "Acts 17:1–9 narrates the founding of the church. 2 Thessalonians continues some of the letter's themes."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Cidade dos destinatários e lugares do caminho de Paulo citados na carta. Os pontos vêm do OpenBible e não formam um trajeto único; \"?\" marca localização debatida.",
+      "en": "The recipients' city and places on Paul's way named in the letter. Points come from OpenBible and do not form a single route; \"?\" marks a disputed location."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Filipos",
+          "en": "Philippi"
+        },
+        "lonLat": [
+          24.28,
+          41.01
+        ],
+        "note": {
+          "pt": "Paulo sofre maus-tratos em Filipos antes de chegar a Tessalônica (2:2).",
+          "en": "Paul suffers mistreatment in Philippi before coming to Thessalonica (2:2)."
+        },
+        "ref": "2:2"
+      },
+      {
+        "name": {
+          "pt": "Tessalônica",
+          "en": "Thessalonica"
+        },
+        "lonLat": [
+          22.95,
+          40.64
+        ],
+        "note": {
+          "pt": "Destinatários: \"a igreja dos tessalonicenses\" (1:1).",
+          "en": "Recipients: \"the church of the Thessalonians\" (1:1)."
+        },
+        "ref": "1:1"
+      },
+      {
+        "name": {
+          "pt": "Atenas",
+          "en": "Athens"
+        },
+        "lonLat": [
+          23.73,
+          37.97
+        ],
+        "note": {
+          "pt": "Paulo fica sozinho em Atenas e envia Timóteo para saber da fé deles (3:1–2).",
+          "en": "Paul is left alone in Athens and sends Timothy to learn about their faith (3:1–2)."
+        },
+        "ref": "3:1"
+      },
+      {
+        "name": {
+          "pt": "Macedônia",
+          "en": "Macedonia"
+        },
+        "lonLat": [
+          22.54,
+          41.6
+        ],
+        "note": {
+          "pt": "A fé dos tessalonicenses é exemplo para a Macedônia e a Acaia (1:7–8). O ponto marca o centro da região.",
+          "en": "The Thessalonians' faith is an example to Macedonia and Achaia (1:7–8). The point marks the center of the region."
+        },
+        "ref": "1:7"
+      },
+      {
+        "name": {
+          "pt": "Acaia",
+          "en": "Achaia"
+        },
+        "lonLat": [
+          22.54,
+          38.72
+        ],
+        "note": {
+          "pt": "Região vizinha, também alcançada pela notícia da fé deles (1:7–8). O ponto marca o centro da região.",
+          "en": "A neighboring region, also reached by the news of their faith (1:7–8). The point marks the center of the region."
+        },
+        "ref": "1:7"
+      }
+    ]
   }
 }

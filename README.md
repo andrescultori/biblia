@@ -11,7 +11,7 @@
 - [x] Leitor de texto: KJV, WEB e ASV (inglês); Bíblia Livre e Almeida 1911 (português)
 - [x] Tema claro/escuro, PT/EN
 - [x] Ficha completa dos 66 livros, PT e EN (autor, data, local, personagens, esboço, tema, contexto, conexões). A revisão de conteúdo é manual e segue em andamento
-- [ ] Aba Mapa: pronta; os lugares entram por seção (livros sem `map` na ficha não mostram a aba)
+- [x] Aba Mapa com legenda e zoom, em 46 dos 66 livros (livros sem `map` na ficha não mostram a aba)
 - [ ] Linha do tempo
 - [ ] ARA e NAA (aguardam autorização da SBB)
 

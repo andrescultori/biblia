@@ -132,5 +132,119 @@
   "connections": {
     "pt": "Cita Gênesis 15:6 (Abraão) em 4:3 e Habacuque 2:4 em 1:17. Tem forte relação com Gálatas. Atos 20:2–3 situa Paulo em Corinto no período de sua redação.",
     "en": "Quotes Genesis 15:6 (Abraham) in 4:3 and Habakkuk 2:4 in 1:17. It is strongly related to Galatians. Acts 20:2–3 places Paul in Corinth in the period of its writing."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Lugares citados na carta: a igreja em Roma, os planos de viagem de Paulo (Jerusalém, Roma e Espanha) e as regiões do seu trabalho. Os pontos vêm do OpenBible e não formam um trajeto único; \"?\" marca localização debatida.",
+      "en": "Places named in the letter: the church in Rome, Paul's travel plans (Jerusalem, Rome and Spain) and the regions of his work. Points come from OpenBible and do not form a single route; \"?\" marks a disputed location."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Roma",
+          "en": "Rome"
+        },
+        "lonLat": [
+          12.49,
+          41.89
+        ],
+        "note": {
+          "pt": "Destinatários da carta: \"todos os amados de Deus que estão em Roma\" (1:7). Paulo deseja pregar ali (1:15) e visitá-los a caminho da Espanha (15:24).",
+          "en": "Recipients of the letter: \"all God's beloved in Rome\" (1:7). Paul wants to preach there (1:15) and visit them on the way to Spain (15:24)."
+        },
+        "ref": "1:7"
+      },
+      {
+        "name": {
+          "pt": "Ilírico",
+          "en": "Illyricum"
+        },
+        "lonLat": [
+          16.48,
+          43.54
+        ],
+        "note": {
+          "pt": "Paulo diz ter pregado o evangelho \"desde Jerusalém e arredores até o Ilírico\" (15:19). O ponto marca o centro da região.",
+          "en": "Paul says he has preached the gospel \"from Jerusalem and as far around as Illyricum\" (15:19). The point marks the center of the region."
+        },
+        "ref": "15:19"
+      },
+      {
+        "name": {
+          "pt": "Macedônia",
+          "en": "Macedonia"
+        },
+        "lonLat": [
+          22.54,
+          41.6
+        ],
+        "note": {
+          "pt": "As igrejas da Macedônia e da Acaia fizeram uma coleta para os pobres de Jerusalém (15:26). O ponto marca o centro da região.",
+          "en": "The churches of Macedonia and Achaia made a contribution for the poor in Jerusalem (15:26). The point marks the center of the region."
+        },
+        "ref": "15:26"
+      },
+      {
+        "name": {
+          "pt": "Acaia",
+          "en": "Achaia"
+        },
+        "lonLat": [
+          22.54,
+          38.72
+        ],
+        "note": {
+          "pt": "Região de Corinto, de onde Paulo escreve; participou da coleta (15:26). O ponto marca o centro da região.",
+          "en": "Region of Corinth; it took part in the contribution (15:26). The point marks the center of the region."
+        },
+        "ref": "15:26"
+      },
+      {
+        "name": {
+          "pt": "Cencreia",
+          "en": "Cenchreae"
+        },
+        "lonLat": [
+          23.0,
+          37.88
+        ],
+        "note": {
+          "pt": "Febe é serva da igreja em Cencreia e leva a carta (16:1–2).",
+          "en": "Phoebe is a servant of the church in Cenchreae (16:1–2)."
+        },
+        "ref": "16:1"
+      },
+      {
+        "name": {
+          "pt": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        "lonLat": [
+          35.23,
+          31.78
+        ],
+        "note": {
+          "pt": "Paulo vai a Jerusalém levar a oferta aos santos antes de ir a Roma (15:25–28).",
+          "en": "Paul is going to Jerusalem to deliver the offering to the saints before coming to Rome (15:25–28)."
+        },
+        "ref": "15:25"
+      },
+      {
+        "name": {
+          "pt": "Espanha",
+          "en": "Spain"
+        },
+        "lonLat": [
+          -4.35,
+          40.21
+        ],
+        "note": {
+          "pt": "Paulo espera passar por Roma a caminho da Espanha (15:24, 28). O ponto marca o centro da região.",
+          "en": "Paul hopes to pass through Rome on his way to Spain (15:24, 28). The point marks the center of the region."
+        },
+        "ref": "15:24"
+      }
+    ]
   }
 }

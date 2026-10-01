@@ -118,5 +118,120 @@
   "connections": {
     "pt": "Tem muito em comum com Romanos (justificação pela fé, Abraão). Gn 15:6 é citado em 3:6 e Hc 2:4 em 3:11. A relação com At 15 (o concílio) é um dos principais problemas de datação.",
     "en": "It has much in common with Romans (justification by faith, Abraham). Gen 15:6 is quoted in 3:6 and Hab 2:4 in 3:11. The relationship with Acts 15 (the council) is one of the main dating problems."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Lugares do relato de Paulo sobre sua vida (1:15–2:14) e a região dos destinatários. Os pontos vêm do OpenBible e não formam um trajeto único; \"?\" marca localização debatida.",
+      "en": "Places in Paul's account of his life (1:15–2:14) and the recipients' region. Points come from OpenBible and do not form a single route; \"?\" marks a disputed location."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Damasco",
+          "en": "Damascus"
+        },
+        "lonLat": [
+          36.31,
+          33.51
+        ],
+        "note": {
+          "pt": "Depois do chamado, Paulo volta a Damasco (1:17).",
+          "en": "After his call, Paul returns to Damascus (1:17)."
+        },
+        "ref": "1:17"
+      },
+      {
+        "name": {
+          "pt": "Arábia",
+          "en": "Arabia"
+        },
+        "lonLat": [
+          35.35,
+          30.07
+        ],
+        "note": {
+          "pt": "Paulo vai para a Arábia antes de voltar a Damasco (1:17). O ponto marca o centro da região.",
+          "en": "Paul goes away into Arabia before returning to Damascus (1:17). The point marks the center of the region."
+        },
+        "ref": "1:17"
+      },
+      {
+        "name": {
+          "pt": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        "lonLat": [
+          35.23,
+          31.78
+        ],
+        "note": {
+          "pt": "Paulo sobe a Jerusalém para conhecer Pedro (1:18) e, depois, com Barnabé e Tito (2:1).",
+          "en": "Paul goes up to Jerusalem to visit Peter (1:18) and later with Barnabas and Titus (2:1)."
+        },
+        "ref": "1:18"
+      },
+      {
+        "name": {
+          "pt": "Cilícia",
+          "en": "Cilicia"
+        },
+        "lonLat": [
+          34.89,
+          36.91
+        ],
+        "note": {
+          "pt": "Paulo vai para as regiões da Síria e da Cilícia (1:21). O ponto marca o centro da região.",
+          "en": "Paul goes to the regions of Syria and Cilicia (1:21). The point marks the center of the region."
+        },
+        "ref": "1:21"
+      },
+      {
+        "name": {
+          "pt": "Antioquia",
+          "en": "Antioch"
+        },
+        "lonLat": [
+          36.17,
+          36.23
+        ],
+        "note": {
+          "pt": "Paulo repreende Pedro em Antioquia (2:11–14).",
+          "en": "Paul opposes Peter in Antioch (2:11–14)."
+        },
+        "ref": "2:11"
+      },
+      {
+        "name": {
+          "pt": "Galácia",
+          "en": "Galatia"
+        },
+        "lonLat": [
+          32.98,
+          39.27
+        ],
+        "note": {
+          "pt": "Região das igrejas destinatárias (1:2). O ponto marca o centro da região; a identificação exata dos destinatários é debatida.",
+          "en": "Region of the churches addressed (1:2). The point marks the center of the region; the exact identification of the recipients is debated."
+        },
+        "ref": "1:2"
+      },
+      {
+        "name": {
+          "pt": "Monte Sinai",
+          "en": "Mount Sinai"
+        },
+        "lonLat": [
+          33.97,
+          28.54
+        ],
+        "note": {
+          "pt": "Na alegoria, Agar representa o monte Sinai, na Arábia (4:24–25). Localização debatida; o mapa usa Jebel Musa.",
+          "en": "In the allegory, Hagar represents Mount Sinai, in Arabia (4:24–25). The location is debated; the map uses Jebel Musa."
+        },
+        "ref": "4:25",
+        "uncertain": true
+      }
+    ]
   }
 }

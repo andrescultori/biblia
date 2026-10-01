@@ -132,5 +132,119 @@
   "connections": {
     "pt": "O capítulo 15 é um dos mais antigos relatos de fé na ressurreição (15:3–8). O hino do amor (cap. 13) tem forma literária própria. A relação com 2 Coríntios mostra o desenrolar da relação entre Paulo e a igreja.",
     "en": "Chapter 15 is one of the oldest statements of faith in the resurrection (15:3–8). The hymn to love (ch. 13) has its own literary form. The relationship with 2 Corinthians shows the development of Paul's relationship with the church."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Lugares citados na carta: Corinto, Éfeso (de onde Paulo escreve, 16:8) e as regiões ao redor. Os pontos vêm do OpenBible e não formam um trajeto único; \"?\" marca localização debatida.",
+      "en": "Places named in the letter: Corinth, Ephesus (where Paul writes from, 16:8) and the surrounding regions. Points come from OpenBible and do not form a single route; \"?\" marks a disputed location."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Corinto",
+          "en": "Corinth"
+        },
+        "lonLat": [
+          22.88,
+          37.91
+        ],
+        "note": {
+          "pt": "Destinatários: \"a igreja de Deus que está em Corinto\" (1:2).",
+          "en": "Recipients: \"the church of God that is in Corinth\" (1:2)."
+        },
+        "ref": "1:2"
+      },
+      {
+        "name": {
+          "pt": "Éfeso",
+          "en": "Ephesus"
+        },
+        "lonLat": [
+          27.34,
+          37.94
+        ],
+        "note": {
+          "pt": "Paulo escreve de Éfeso e pretende ficar até o Pentecostes (16:8); diz ter lutado com \"feras\" ali (15:32).",
+          "en": "Paul writes from Ephesus and plans to stay until Pentecost (16:8); he says he fought \"beasts\" there (15:32)."
+        },
+        "ref": "16:8"
+      },
+      {
+        "name": {
+          "pt": "Macedônia",
+          "en": "Macedonia"
+        },
+        "lonLat": [
+          22.54,
+          41.6
+        ],
+        "note": {
+          "pt": "Paulo planeja passar pela Macedônia antes de chegar a Corinto (16:5). O ponto marca o centro da região.",
+          "en": "Paul plans to pass through Macedonia before reaching Corinth (16:5). The point marks the center of the region."
+        },
+        "ref": "16:5"
+      },
+      {
+        "name": {
+          "pt": "Acaia",
+          "en": "Achaia"
+        },
+        "lonLat": [
+          22.54,
+          38.72
+        ],
+        "note": {
+          "pt": "A família de Estéfanas é as primícias da Acaia (16:15). O ponto marca o centro da região.",
+          "en": "The household of Stephanas is the firstfruits of Achaia (16:15). The point marks the center of the region."
+        },
+        "ref": "16:15"
+      },
+      {
+        "name": {
+          "pt": "Galácia",
+          "en": "Galatia"
+        },
+        "lonLat": [
+          32.98,
+          39.27
+        ],
+        "note": {
+          "pt": "Paulo orienta a coleta como já fez nas igrejas da Galácia (16:1). O ponto marca o centro da região.",
+          "en": "Paul directs the collection as he did for the churches of Galatia (16:1). The point marks the center of the region."
+        },
+        "ref": "16:1"
+      },
+      {
+        "name": {
+          "pt": "Ásia",
+          "en": "Asia"
+        },
+        "lonLat": [
+          28.3,
+          38.4
+        ],
+        "note": {
+          "pt": "As igrejas da Ásia enviam saudações (16:19). O ponto marca o centro da região.",
+          "en": "The churches of Asia send greetings (16:19). The point marks the center of the region."
+        },
+        "ref": "16:19"
+      },
+      {
+        "name": {
+          "pt": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        "lonLat": [
+          35.23,
+          31.78
+        ],
+        "note": {
+          "pt": "A coleta para os santos será levada a Jerusalém (16:1–3).",
+          "en": "The collection for the saints will be taken to Jerusalem (16:1–3)."
+        },
+        "ref": "16:3"
+      }
+    ]
   }
 }

@@ -108,5 +108,119 @@
   "connections": {
     "pt": "Continua 1 Coríntios. A coleta liga a carta a Romanos 15 e a At 24:17. 5:17 e 12:9 são trechos muito citados.",
     "en": "Continues 1 Corinthians. The collection links the letter to Romans 15 and Acts 24:17. 5:17 and 12:9 are widely quoted passages."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Lugares citados na carta, em ordem aproximada. Os pontos vêm do OpenBible e não formam um trajeto único; \"?\" marca localização debatida.",
+      "en": "Places named in the letter, in rough order. Points come from OpenBible and do not form a single route; \"?\" marks a disputed location."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Ásia",
+          "en": "Asia"
+        },
+        "lonLat": [
+          28.3,
+          38.4
+        ],
+        "note": {
+          "pt": "Paulo fala da aflição que sofreu na Ásia (1:8). O ponto marca o centro da região.",
+          "en": "Paul speaks of the affliction he suffered in Asia (1:8). The point marks the center of the region."
+        },
+        "ref": "1:8"
+      },
+      {
+        "name": {
+          "pt": "Corinto",
+          "en": "Corinth"
+        },
+        "lonLat": [
+          22.88,
+          37.91
+        ],
+        "note": {
+          "pt": "Destinatários da carta (1:1, 23).",
+          "en": "Recipients of the letter (1:1, 23)."
+        },
+        "ref": "1:1"
+      },
+      {
+        "name": {
+          "pt": "Trôade",
+          "en": "Troas"
+        },
+        "lonLat": [
+          26.16,
+          39.75
+        ],
+        "note": {
+          "pt": "Paulo encontra uma porta aberta em Trôade, mas não acha Tito e segue para a Macedônia (2:12–13).",
+          "en": "Paul finds an open door in Troas, but does not find Titus and goes on to Macedonia (2:12–13)."
+        },
+        "ref": "2:12"
+      },
+      {
+        "name": {
+          "pt": "Macedônia",
+          "en": "Macedonia"
+        },
+        "lonLat": [
+          22.54,
+          41.6
+        ],
+        "note": {
+          "pt": "Paulo vai à Macedônia, onde encontra Tito (2:13; 7:5–7); as igrejas dali são exemplo de generosidade (8:1–5). O ponto marca o centro da região.",
+          "en": "Paul goes to Macedonia, where he meets Titus (2:13; 7:5–7); the churches there are an example of generosity (8:1–5). The point marks the center of the region."
+        },
+        "ref": "2:13"
+      },
+      {
+        "name": {
+          "pt": "Acaia",
+          "en": "Achaia"
+        },
+        "lonLat": [
+          22.54,
+          38.72
+        ],
+        "note": {
+          "pt": "A carta é dirigida também a todos os santos de toda a Acaia (1:1). O ponto marca o centro da região.",
+          "en": "The letter is also addressed to all the saints throughout Achaia (1:1). The point marks the center of the region."
+        },
+        "ref": "1:1"
+      },
+      {
+        "name": {
+          "pt": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        "lonLat": [
+          35.23,
+          31.78
+        ],
+        "note": {
+          "pt": "A coleta para os santos (8:4; 9:1), que Rm 15:25–26 e 1Co 16:3 dizem ser levada a Jerusalém.",
+          "en": "The collection for the saints (8:4; 9:1), which Rom 15:25–26 and 1 Cor 16:3 say is taken to Jerusalem."
+        },
+        "ref": "8:4"
+      },
+      {
+        "name": {
+          "pt": "Damasco",
+          "en": "Damascus"
+        },
+        "lonLat": [
+          36.31,
+          33.51
+        ],
+        "note": {
+          "pt": "Paulo escapa de Damasco, descido num cesto pela muralha (11:32–33).",
+          "en": "Paul escapes from Damascus, lowered in a basket through the wall (11:32–33)."
+        },
+        "ref": "11:32"
+      }
+    ]
   }
 }
