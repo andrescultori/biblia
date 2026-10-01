@@ -290,8 +290,8 @@
         "en": "Between the Testaments"
       },
       "summary": {
-        "pt": "Domínio persa, grego e romano. Os livros desse período (deuterocanônicos) não fazem parte desta tabela.",
-        "en": "Persian, Greek and Roman rule. The books of this period (deuterocanonical) are not part of this table."
+        "pt": "Domínio persa, grego e romano. Não há livros do cânon bíblico escritos nesse período; os fatos vêm de fontes históricas, como Josefo.",
+        "en": "Persian, Greek and Roman rule. No books of the biblical canon were written in this period; the facts come from historical sources such as Josephus."
       },
       "dates": {
         "start": -400,
@@ -1148,8 +1148,8 @@
         "en": "Antiochus IV desecrates the temple; Maccabean revolt"
       },
       "note": {
-        "pt": "Antíoco IV Epifânio profana o templo em 167 a.C. e Judas Macabeu o purifica em 164 a.C. (festa da Dedicação, citada em Jo 10:22). Narrado em 1–2 Macabeus (fora desta tabela).",
-        "en": "Antiochus IV Epiphanes desecrates the temple in 167 BC and Judas Maccabeus purifies it in 164 BC (the Feast of Dedication, mentioned in John 10:22). Narrated in 1–2 Maccabees (outside this table)."
+        "pt": "Antíoco IV Epifânio profana o templo em 167 a.C. e Judas Macabeu o purifica em 164 a.C. (festa da Dedicação, citada em Jo 10:22). Relatado por Josefo (Antiguidades dos Judeus, livro 12).",
+        "en": "Antiochus IV Epiphanes desecrates the temple in 167 BC and Judas Maccabeus purifies it in 164 BC (the Feast of Dedication, mentioned in John 10:22). Reported by Josephus (Antiquities of the Jews, book 12)."
       },
       "dates": {
         "start": -167,
