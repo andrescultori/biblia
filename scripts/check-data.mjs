@@ -168,6 +168,24 @@ for (const v of versionIds) {
   });
 }
 
+
+// Textos da interface: chave repetida no mesmo idioma faz a última sobrescrever a primeira (já causou "Alternar tema" no lugar de "Tema")
+{
+  const src = fs.readFileSync(path.join(root, 'src/i18n.js'), 'utf8');
+  const blocks = src.split(/^  (?=\w+: \{)/m).filter((b) => /^\w+: \{/.test(b));
+  const keysOf = (b) => [...b.matchAll(/^ {4}(\w+):/gm)].map((m) => m[1]);
+  const all = blocks.map((b) => ({ lang: b.slice(0, b.indexOf(':')), keys: keysOf(b) }));
+  for (const { lang, keys } of all) {
+    const dup = keys.filter((k, i) => keys.indexOf(k) !== i);
+    if (dup.length) err(`i18n.js (${lang}): chave repetida: ${[...new Set(dup)].join(', ')}`);
+  }
+  const base = new Set(all[0]?.keys);
+  for (const { lang, keys } of all.slice(1)) {
+    const missing = [...base].filter((k) => !keys.includes(k));
+    if (missing.length) err(`i18n.js (${lang}): faltam chaves presentes no primeiro idioma: ${missing.join(', ')}`);
+  }
+}
+
 if (errors.length) {
   console.error(`${errors.length} problema(s):`);
   errors.slice(0, 60).forEach((e) => console.error(` - ${e}`));

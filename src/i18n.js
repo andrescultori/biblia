@@ -55,7 +55,7 @@ export const T = {
     soon: 'A ficha completa deste livro (autor, data, local, personagens, esboço) está em preparação.',
     verLicense: 'licença',
     verSource: 'Fonte do texto',
-    theme: 'Alternar tema',
+    toggleTheme: 'Alternar tema',
     of: 'de',
     timeline: 'Linha do tempo',
     timelineOnMap: 'Ver no mapa',
@@ -89,7 +89,6 @@ export const T = {
     timelineUnplaced: 'Livros sem posição na linha',
     timelineUnplacedNote: 'Os livros são ligados a um período pelo cenário que o próprio texto descreve. Ficam fora os de datação ou ambientação debatida, os poéticos e os de sabedoria.',
     undated: 'sem data',
-    legendNote: 'Cores seguem as seções da tabela original.',
   },
   en: {
     title: 'Interactive TaBíblia',
@@ -141,7 +140,7 @@ export const T = {
     soon: 'The full study sheet for this book (author, date, place, characters, outline) is in preparation.',
     verLicense: 'license',
     verSource: 'Text source',
-    theme: 'Toggle theme',
+    toggleTheme: 'Toggle theme',
     of: 'of',
     timeline: 'Timeline',
     timelineOnMap: 'See on map',
@@ -175,6 +174,5 @@ export const T = {
     timelineUnplaced: 'Books without a place on the timeline',
     timelineUnplacedNote: 'Books are tied to a period by the setting the text itself describes. Left out are those with debated dating or setting, and the poetic and wisdom books.',
     undated: 'undated',
-    legendNote: 'Colors follow the sections of the original table.',
   },
 };
