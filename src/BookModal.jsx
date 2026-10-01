@@ -2,6 +2,7 @@ import React, { Suspense, lazy, useEffect, useRef, useState } from 'react';
 import { BOOKS, SECTIONS } from './data/books.js';
 import { VERSIONS, loadBook } from './data/bible.js';
 import { useSettings } from './settings.js';
+import { hrefs, sync } from './route.js';
 
 // Fichas carregadas sob demanda: cada src/data/info/<slug>.json vira um chunk separado.
 const INFO = import.meta.glob('./data/info/*.json');
@@ -22,22 +23,15 @@ function useInfo(slug) {
   return state;
 }
 
-export default function BookModal({ book, lang, t, initial, onClose, onNavigate, onOpenTimeline, onOpenPerson }) {
-  const ref = useRef(null);
-  const [tab, setTab] = useState(initial?.tab ?? 'summary');
+export default function BookModal({ book, lang, t, initialTab, initialPlace, onNavigate, onOpenTimeline, onOpenPerson }) {
+  const [tab, setTabState] = useState(initialTab ?? 'summary');
+  // a aba e o lugar ficam no link (compartilhável), sem criar entrada no histórico
+  const setTab = (k) => { setTabState(k); sync(hrefs.book(book.slug, k)); };
   const section = SECTIONS.find((s) => s.id === book.section);
   const prev = BOOKS[book.n - 2];
   const next = BOOKS[book.n];
   const { info, error: infoError } = useInfo(book.slug);
   const tabs = ['summary', 'sheet', ...(info?.map ? ['map'] : []), 'read'];
-
-  useEffect(() => {
-    const d = ref.current;
-    if (d && !d.open) d.showModal();
-    const handle = () => onClose();
-    d?.addEventListener('close', handle);
-    return () => { d?.removeEventListener('close', handle); if (d?.open) d.close(); };
-  }, []);
 
   const facts = [
     [t.testament, t[book.testament]],
@@ -48,13 +42,7 @@ export default function BookModal({ book, lang, t, initial, onClose, onNavigate,
   ];
 
   return (
-    <dialog
-      ref={ref}
-      className="modal"
-      style={{ '--c': `var(--s-${book.section})` }}
-      onClick={(e) => { if (e.target === ref.current) ref.current.close(); }}
-      aria-labelledby="book-title"
-    >
+    <div className="page" style={{ '--c': `var(--s-${book.section})` }} role="region" aria-labelledby="book-title">
       <div className="sheet">
         <div className="head">
           <div className="badge"><span>{book.n}</span><b>{book.ab[lang]}</b></div>
@@ -62,7 +50,7 @@ export default function BookModal({ book, lang, t, initial, onClose, onNavigate,
             <h2 id="book-title">{book.name[lang]}</h2>
             <p>{section[lang]}</p>
           </div>
-          <button type="button" className="ghost close" onClick={() => ref.current.close()} aria-label={t.close}>✕</button>
+          <a className="ghost back" href={hrefs.home}>← {t.home}</a>
         </div>
 
         <div className="seg tabs" role="tablist">
@@ -83,7 +71,7 @@ export default function BookModal({ book, lang, t, initial, onClose, onNavigate,
           {tab === 'sheet' && <Sheet book={book} lang={lang} t={t} info={info} error={infoError} />}
           {tab === 'map' && info?.map && (
             <Suspense fallback={<p className="soon">{t.loading}</p>}>
-              <MapView book={book} map={info.map} lang={lang} t={t} initialPlace={initial?.place} onOpenTimeline={onOpenTimeline} onOpenPerson={onOpenPerson} />
+              <MapView book={book} map={info.map} lang={lang} t={t} initialPlace={initialPlace} onPlaceChange={(name) => sync(hrefs.book(book.slug, 'map', name))} onOpenTimeline={onOpenTimeline} onOpenPerson={onOpenPerson} />
             </Suspense>
           )}
           {tab === 'read' && <Reader book={book} lang={lang} t={t} />}
@@ -94,7 +82,7 @@ export default function BookModal({ book, lang, t, initial, onClose, onNavigate,
           <button type="button" className="ghost" disabled={!next} onClick={() => next && onNavigate(next.slug)}>{next ? next.name[lang] : ''} →</button>
         </div>
       </div>
-    </dialog>
+    </div>
   );
 }
 

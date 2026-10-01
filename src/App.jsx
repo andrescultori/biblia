@@ -1,9 +1,10 @@
-import React, { Suspense, lazy, useEffect, useMemo, useState } from 'react';
+import React, { Suspense, lazy, useEffect, useMemo, useRef, useState } from 'react';
 import { BOOKS, SECTIONS, bySlug } from './data/books.js';
 import { LANGS, T } from './i18n.js';
 import BookModal from './BookModal.jsx';
 import SettingsModal from './SettingsModal.jsx';
 import { SettingsContext } from './settings.js';
+import { parseHash, hrefs, go } from './route.js';
 
 // Linha do tempo só carrega quando aberta.
 const Timeline = lazy(() => import('./Timeline.jsx'));
@@ -21,15 +22,7 @@ export default function App() {
   const [theme, setTheme] = useState(() => store.get('theme', 'auto')); // auto | light | dark
   const [filter, setFilter] = useState('all');
   const [query, setQuery] = useState('');
-  const [openSlug, setOpenSlug] = useState(() => (bySlug[location.hash.slice(1)] ? location.hash.slice(1) : null));
-  // Linha do tempo: null (fechada) ou { id } (id opcional do evento em foco). Hash: #timeline ou #timeline/<evento>.
-  const hashTimeline = () => (location.hash.startsWith('#timeline') ? { id: location.hash.split('/')[1] ?? null } : null);
-  const [timeline, setTimeline] = useState(hashTimeline);
-  // Personagens: null (fechado) ou { id } (id opcional da pessoa). Hash: #person ou #person/<id>.
-  const hashPeople = () => (location.hash.startsWith('#person') ? { id: location.hash.split('/')[1] ?? null } : null);
-  const [peopleView, setPeopleView] = useState(hashPeople);
-  // Livro aberto direto numa aba/lugar (vindo da linha do tempo): { tab, place }.
-  const [bookOpts, setBookOpts] = useState(null);
+  const [route, setRoute] = useState(parseHash);
   const [settings, setSettings] = useState(() => ({ showScholarly: store.get('showScholarly', '1') !== '0' }));
   const [showSettings, setShowSettings] = useState(false);
   const t = T[lang];
@@ -41,23 +34,27 @@ export default function App() {
     if (theme === 'auto') r.removeAttribute('data-theme'); else r.setAttribute('data-theme', theme);
     store.set('theme', theme);
   }, [theme]);
+  // A rota vem do hash. Ao sair da grade guardamos a rolagem para voltar ao mesmo ponto; páginas novas abrem no topo.
+  const homeScroll = useRef(0);
+  const routeRef = useRef(route);
+  routeRef.current = route;
   useEffect(() => {
     const onHash = () => {
-      setOpenSlug(bySlug[location.hash.slice(1)] ? location.hash.slice(1) : null);
-      setTimeline(hashTimeline());
-      setPeopleView(hashPeople());
+      if (routeRef.current.kind === 'home') homeScroll.current = window.scrollY;
+      setRoute(parseHash());
     };
     window.addEventListener('hashchange', onHash);
     return () => window.removeEventListener('hashchange', onHash);
   }, []);
+  const pageKey = route.kind === 'book' ? route.slug : route.kind;
+  useEffect(() => {
+    window.scrollTo(0, route.kind === 'home' ? homeScroll.current : 0);
+  }, [pageKey]);
 
-  const open = (slug, opts = null) => { history.replaceState(null, '', `#${slug}`); setTimeline(null); setPeopleView(null); setBookOpts(opts); setOpenSlug(slug); };
-  const openMap = (slug, place) => open(slug, { tab: 'map', place });
-  const openTimeline = (id = null) => { history.replaceState(null, '', id ? `#timeline/${id}` : '#timeline'); setOpenSlug(null); setPeopleView(null); setTimeline({ id }); };
-  const openPerson = (id = null) => { history.replaceState(null, '', id ? `#person/${id}` : '#person'); setOpenSlug(null); setTimeline(null); setPeopleView({ id }); };
-  const closePeople = () => { history.replaceState(null, '', location.pathname + location.search); setPeopleView(null); };
-  const closeTimeline = () => { history.replaceState(null, '', location.pathname + location.search); setTimeline(null); };
-  const close = () => { history.replaceState(null, '', location.pathname + location.search); setOpenSlug(null); };
+  const open = (slug) => go(hrefs.book(slug));
+  const openMap = (slug, place) => go(hrefs.book(slug, 'map', place));
+  const openTimeline = (id = null) => go(hrefs.timeline(id));
+  const openPerson = (id = null) => go(hrefs.person(id));
 
   const groups = useMemo(() => {
     const q = norm(query.trim());
@@ -75,7 +72,7 @@ export default function App() {
     <SettingsContext.Provider value={settings}>
       <header className="top">
         <div className="brand">
-          <h1>{t.title}</h1>
+          <h1><a href={hrefs.home}>{t.title}</a></h1>
           <p>{t.subtitle}</p>
         </div>
         <div className="tools">
@@ -91,6 +88,7 @@ export default function App() {
         </div>
       </header>
 
+      {route.kind === 'home' && (
       <main>
         <div className="controls">
           <div className="seg" role="group">
@@ -120,19 +118,22 @@ export default function App() {
         ))}
         <p className="note">{t.legendNote}</p>
       </main>
+      )}
 
-      {timeline && (
-        <Suspense fallback={null}>
-          <Timeline key={timeline.id ?? ''} lang={lang} t={t} focusId={timeline.id} onClose={closeTimeline} onOpenBook={open} onOpenMap={openMap} onOpenPerson={openPerson} />
+      {route.kind === 'timeline' && (
+        <Suspense fallback={<p className="soon page-wait">{t.loading}</p>}>
+          <Timeline lang={lang} t={t} focusId={route.id} onOpenBook={open} onOpenMap={openMap} onOpenPerson={openPerson} />
         </Suspense>
       )}
-      {peopleView && (
-        <Suspense fallback={null}>
-          <People key={peopleView.id ?? ''} lang={lang} t={t} focusId={peopleView.id} onClose={closePeople} onOpenBook={open} onOpenTimeline={openTimeline} onOpenMap={openMap} />
+      {route.kind === 'person' && (
+        <Suspense fallback={<p className="soon page-wait">{t.loading}</p>}>
+          <People lang={lang} t={t} focusId={route.id} onOpenBook={open} onOpenTimeline={openTimeline} onOpenMap={openMap} onSelect={openPerson} />
         </Suspense>
+      )}
+      {route.kind === 'book' && (
+        <BookModal key={route.slug} book={bySlug[route.slug]} lang={lang} t={t} initialTab={route.tab} initialPlace={route.place} onNavigate={open} onOpenTimeline={openTimeline} onOpenPerson={openPerson} />
       )}
       {showSettings && <SettingsModal t={t} settings={settings} onChange={setSettings} onClose={() => setShowSettings(false)} />}
-      {openSlug && <BookModal key={openSlug} book={bySlug[openSlug]} lang={lang} t={t} initial={bookOpts} onClose={close} onNavigate={(slug) => open(slug)} onOpenTimeline={openTimeline} onOpenPerson={openPerson} />}
     </SettingsContext.Provider>
   );
 }

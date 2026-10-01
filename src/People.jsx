@@ -3,26 +3,17 @@ import { BOOKS, bySlug } from './data/books.js';
 import { people } from './data/people.json';
 import timeline from './data/timeline.json';
 import { pick, range, main } from './timelineUtil.js';
+import { hrefs } from './route.js';
 
 const norm = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
 const byId = Object.fromEntries(people.map((p) => [p.id, p]));
 const evById = Object.fromEntries(timeline.events.map((e) => [e.id, e]));
 
-export default function People({ lang, t, focusId, onClose, onOpenBook, onOpenTimeline, onOpenMap }) {
-  const ref = useRef(null);
-  const [sel, setSel] = useState(byId[focusId] ? focusId : null);
+export default function People({ lang, t, focusId, onOpenBook, onOpenTimeline, onOpenMap, onSelect }) {
   const [query, setQuery] = useState('');
   const [bookFilter, setBookFilter] = useState('all');
   const [sort, setSort] = useState(() => { try { return localStorage.getItem('peopleSort') === 'book' ? 'book' : 'alpha'; } catch { return 'alpha'; } });
   const chooseSort = (v) => { setSort(v); try { localStorage.setItem('peopleSort', v); } catch { /* ignora */ } };
-
-  useEffect(() => {
-    const d = ref.current;
-    if (d && !d.open) d.showModal();
-    const handle = () => onClose();
-    d?.addEventListener('close', handle);
-    return () => { d?.removeEventListener('close', handle); if (d?.open) d.close(); };
-  }, []);
 
   const bookOptions = useMemo(() => BOOKS.filter((b) => people.some((p) => p.books.some((x) => x.book === b.slug))), []);
   const list = useMemo(() => {
@@ -45,18 +36,18 @@ export default function People({ lang, t, focusId, onClose, onOpenBook, onOpenTi
     return [...g.values()].sort((a, b) => a.n - b.n);
   }, [list, sort, lang]);
 
-  const person = byId[sel];
-  const choose = (id) => { setSel(id); history.replaceState(null, '', id ? `#person/${id}` : '#person'); };
+  const person = byId[focusId];
+  const choose = (id) => onSelect(id);
 
   return (
-    <dialog ref={ref} className="modal wide" aria-labelledby="pp-title" onClick={(e) => { if (e.target === ref.current) ref.current.close(); }}>
+    <div className="page wide" role="region" aria-labelledby="pp-title">
       <div className="sheet" style={{ '--c': 'var(--s-paulo)' }}>
         <div className="head">
           <div className="ttl">
             <h2 id="pp-title">{person ? pick(person.name, lang) : t.people}</h2>
             <p>{person ? t.people : t.peopleSub}</p>
           </div>
-          <button type="button" className="ghost close" onClick={() => ref.current.close()} aria-label={t.close}>✕</button>
+          <a className="ghost back" href={hrefs.home}>← {t.home}</a>
         </div>
 
         {!person && (
@@ -140,6 +131,6 @@ export default function People({ lang, t, focusId, onClose, onOpenBook, onOpenTi
           </div>
         )}
       </div>
-    </dialog>
+    </div>
   );
 }
