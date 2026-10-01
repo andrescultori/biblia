@@ -12,14 +12,47 @@ const WATERS = [
 
 const pickText = (v, lang) => (v && typeof v === 'object' ? v[lang] ?? v.en : v);
 
-// Se o rótulo não cabe no lado definido, passa para o lado oposto do pin.
-function labelPos(x, label, text, fontSize, W) {
-  let [dx, dy, anchor] = label ?? [8, -8, 'start'];
-  const width = text.length * fontSize * 0.6;
-  if (anchor === 'start' && x + dx + width > W - 4) { dx = -dx; anchor = 'end'; }
-  else if (anchor === 'end' && x + dx - width < 4) { dx = -dx; anchor = 'start'; }
-  return [dx, dy, anchor];
+const PIN_R = 9; // maior raio de um pin (o selecionado)
+const NEAR = 1.5; // graus: lugares dentro desta distância formam o grupo que "Ampliar região" enquadra
+const CANDIDATES = [[8, 4, 'start'], [-8, 4, 'end'], [8, -8, 'start'], [-8, -8, 'end'], [8, 14, 'start'], [-8, 14, 'end'], [0, -12, 'middle'], [0, 20, 'middle']];
+
+// Retângulo aproximado de um rótulo (largura estimada pelo número de letras).
+function labelRect(x, y, [dx, dy, anchor], w, fs) {
+  const left = anchor === 'start' ? x + dx : anchor === 'end' ? x + dx - w : x + dx - w / 2;
+  return { l: left, r: left + w, t: y + dy - fs * 0.85, b: y + dy + fs * 0.25 };
 }
+const overlap = (a, b) => Math.max(0, Math.min(a.r, b.r) - Math.max(a.l, b.l)) * Math.max(0, Math.min(a.b, b.b) - Math.max(a.t, b.t));
+
+// Escolhe a posição de cada rótulo sem sobrepor outros rótulos, pins nem as bordas. A dica `label` da ficha vem
+// primeiro. O lugar selecionado tem prioridade e sempre ganha rótulo; os demais ficam sem rótulo quando não há
+// posição livre (o nome continua na lista e no aria-label do pin).
+function placeLabels(items, W, H, fs, selected) {
+  const pins = items.map((it) => ({ l: it.x - PIN_R, r: it.x + PIN_R, t: it.y - PIN_R, b: it.y + PIN_R }));
+  const placed = [];
+  const out = new Array(items.length).fill(null);
+  const order = items.map((_, i) => i).sort((a, b) => (b === selected) - (a === selected) || a - b);
+  for (const i of order) {
+    const it = items[i];
+    const w = it.text.length * fs * 0.58;
+    let best = null;
+    for (const pos of it.hint ? [it.hint, ...CANDIDATES] : CANDIDATES) {
+      const r = labelRect(it.x, it.y, pos, w, fs);
+      let cost = 0;
+      if (r.l < 2) cost += (2 - r.l) * fs * 4;
+      if (r.r > W - 2) cost += (r.r - (W - 2)) * fs * 4;
+      if (r.t < 2) cost += (2 - r.t) * w * 4;
+      if (r.b > H - 2) cost += (r.b - (H - 2)) * w * 4;
+      placed.forEach((q) => { cost += overlap(r, q) * 3; });
+      pins.forEach((q, j) => { if (j !== i) cost += overlap(r, q) * 2; });
+      if (!best || cost < best.cost) best = { pos, r, cost };
+      if (cost === 0) break;
+    }
+    if (best.cost === 0 || i === selected) { out[i] = best.pos; placed.push(best.r); }
+  }
+  return out;
+}
+
+const near = (places, i) => places.filter((p) => Math.hypot(p.lonLat[0] - places[i].lonLat[0], p.lonLat[1] - places[i].lonLat[1]) <= NEAR);
 
 // Largura do contêiner em pixels. O SVG é desenhado em pixels reais para o texto manter o tamanho no celular.
 function useWidth(ref) {
@@ -40,37 +73,66 @@ function useWidth(ref) {
 export default function MapView({ book, map, lang, t }) {
   const boxRef = useRef(null);
   const [sel, setSel] = useState(0);
+  const [zoom, setZoom] = useState(false);
   const W = useWidth(boxRef);
   const H = Math.round(W < 480 ? W * 0.9 : W / 1.5);
   const places = map.places;
 
+  // "Ampliar região": enquadra só o grupo de lugares próximos do selecionado (útil quando há muitos pins juntos).
+  const group = useMemo(() => {
+    const own = near(places, sel);
+    if (own.length >= 3) return own;
+    return places.map((_, i) => near(places, i)).reduce((a, b) => (b.length > a.length ? b : a), []);
+  }, [places, sel]);
+  const canZoom = group.length >= 3 && group.length < places.length;
+  const zoomed = zoom && canZoom;
+
   const { projection, landPath } = useMemo(() => {
-    const lons = places.map((p) => p.lonLat[0]);
-    const lats = places.map((p) => p.lonLat[1]);
+    const fit = zoomed ? group : places;
+    const lons = fit.map((p) => p.lonLat[0]);
+    const lats = fit.map((p) => p.lonLat[1]);
     const cx = (Math.min(...lons) + Math.max(...lons)) / 2;
     const cy = (Math.min(...lats) + Math.max(...lats)) / 2;
     // extensão mínima para a costa não parecer recortada
-    const dx = Math.max(Math.max(...lons) - Math.min(...lons), 5.5);
-    const dy = Math.max(Math.max(...lats) - Math.min(...lats), 3.6);
+    const dx = Math.max(Math.max(...lons) - Math.min(...lons), zoomed ? 1.5 : 5.5);
+    const dy = Math.max(Math.max(...lats) - Math.min(...lats), zoomed ? 1.0 : 3.6);
     const box = { type: 'MultiPoint', coordinates: [[cx - dx / 2, cy - dy / 2], [cx + dx / 2, cy + dy / 2]] };
     const padX = Math.min(50, Math.round(W * 0.1));
     const padY = W < 480 ? 28 : 40;
     const proj = geoMercator().fitExtent([[padX, padY], [W - padX, H - padY]], box);
     return { projection: proj, landPath: geoPath(proj)(land) };
-  }, [places, W, H]);
+  }, [places, group, zoomed, W, H]);
 
   const routePath = useMemo(
     () => (map.route ? geoPath(projection)({ type: 'LineString', coordinates: places.map((p) => p.lonLat) }) : null),
     [map.route, places, projection],
   );
 
+  const fs = W < 480 ? 11.5 : 12.5;
+  const spots = useMemo(() => {
+    const items = places.map((p) => {
+      const [x, y] = projection(p.lonLat);
+      const text = pickText(p.name, lang) + (p.uncertain ? ' ?' : '');
+      return { x, y, text, hint: p.label, visible: x > -20 && x < W + 20 && y > -20 && y < H + 20 };
+    });
+    const idx = items.map((it, i) => (it.visible ? i : -1)).filter((i) => i >= 0);
+    const pos = placeLabels(idx.map((i) => items[i]), W, H, fs, idx.indexOf(sel));
+    return items.map((it, i) => ({ ...it, label: idx.includes(i) ? pos[idx.indexOf(i)] : null }));
+  }, [places, projection, lang, W, H, fs, sel]);
+
   const color = `var(--s-${book.section})`;
-  const choose = (i) => setSel(i);
+  // escolher um lugar fora do grupo ampliado volta para a visão completa
+  const choose = (i) => { if (zoomed && !group.includes(places[i])) setZoom(false); setSel(i); };
   const onKey = (i) => (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); choose(i); } };
 
   return (
     <div className="mapview" style={{ '--c': color }}>
       <div className="mapbox" ref={boxRef}>
+        {canZoom && (
+          <button type="button" className="mapzoom" aria-pressed={zoomed} onClick={() => setZoom(!zoomed)}>
+            {zoomed ? t.mapZoomOut : t.mapZoomIn}
+          </button>
+        )}
         <svg width={W} height={H} viewBox={`0 0 ${W} ${H}`} role="group" aria-label={`${t.mapAria}: ${book.name[lang]}`}>
           <path className="land" d={landPath} />
           {WATERS.map((w) => {
@@ -82,18 +144,16 @@ export default function MapView({ book, map, lang, t }) {
           })}
           {routePath && <path className="route" d={routePath} stroke={color} />}
           {places.map((p, i) => {
-            const [x, y] = projection(p.lonLat);
+            const { x, y, text, visible, label } = spots[i];
+            if (!visible) return null;
             const name = pickText(p.name, lang);
-            const text = name + (p.uncertain ? ' ?' : '');
-            const fs = W < 480 ? 11.5 : 12.5;
-            const [dx, dy, anchor] = labelPos(x, p.label, text, fs, W);
             return (
               <g key={name} className="spot" role="button" tabIndex={0} aria-pressed={i === sel}
                 aria-label={`${name}${p.uncertain ? `, ${t.mapUncertain}` : ''}`}
                 onClick={() => choose(i)} onKeyDown={onKey(i)}>
                 <circle className="hit" cx={x} cy={y} r={16} />
-                <circle className="pin" cx={x} cy={y} r={i === sel ? 9 : 6} fill={color} strokeDasharray={p.uncertain ? '3 2' : undefined} />
-                <text className="lbl" x={x + dx} y={y + dy} textAnchor={anchor} style={{ fontSize: fs }}>{text}</text>
+                <circle className="pin" cx={x} cy={y} r={i === sel ? PIN_R : 6} fill={color} strokeDasharray={p.uncertain ? '3 2' : undefined} />
+                {label && <text className="lbl" x={x + label[0]} y={y + label[1]} textAnchor={label[2]} style={{ fontSize: fs }}>{text}</text>}
               </g>
             );
           })}
