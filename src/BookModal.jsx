@@ -1,6 +1,7 @@
 import React, { Suspense, lazy, useEffect, useRef, useState } from 'react';
 import { BOOKS, SECTIONS } from './data/books.js';
 import { VERSIONS, loadBook } from './data/bible.js';
+import { useSettings } from './settings.js';
 
 // Fichas carregadas sob demanda: cada src/data/info/<slug>.json vira um chunk separado.
 const INFO = import.meta.glob('./data/info/*.json');
@@ -100,6 +101,7 @@ export default function BookModal({ book, lang, t, initial, onClose, onNavigate,
 const pick = (v, lang) => (v && typeof v === 'object' ? v[lang] ?? v.en : v);
 
 function Sheet({ book, lang, t, info, error }) {
+  const { showScholarly } = useSettings();
   if (!hasInfo(book.slug)) return <p className="soon">{t.soon}</p>;
   if (error) return <p className="soon">{t.loadError}</p>;
   if (!info) return <p className="soon">{t.loading}</p>;
@@ -108,7 +110,7 @@ function Sheet({ book, lang, t, info, error }) {
   const view = (pair) => (
     <>
       <p><b>{t.traditional}.</b> {pick(pair.traditional, lang)}</p>
-      <p><b>{t.scholarly}.</b> {pick(pair.scholarly, lang)}</p>
+      {showScholarly ? <p><b>{t.scholarly}.</b> {pick(pair.scholarly, lang)}</p> : <p className="note">{t.scholarlyHidden}</p>}
     </>
   );
   const text = (label, v) => (<section><h3>{label}</h3><p>{pick(v, lang)}</p></section>);

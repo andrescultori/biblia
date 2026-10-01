@@ -2,6 +2,8 @@ import React, { Suspense, lazy, useEffect, useMemo, useState } from 'react';
 import { BOOKS, SECTIONS, bySlug } from './data/books.js';
 import { LANGS, T } from './i18n.js';
 import BookModal from './BookModal.jsx';
+import SettingsModal from './SettingsModal.jsx';
+import { SettingsContext } from './settings.js';
 
 // Linha do tempo só carrega quando aberta.
 const Timeline = lazy(() => import('./Timeline.jsx'));
@@ -28,8 +30,11 @@ export default function App() {
   const [peopleView, setPeopleView] = useState(hashPeople);
   // Livro aberto direto numa aba/lugar (vindo da linha do tempo): { tab, place }.
   const [bookOpts, setBookOpts] = useState(null);
+  const [settings, setSettings] = useState(() => ({ showScholarly: store.get('showScholarly', '1') !== '0' }));
+  const [showSettings, setShowSettings] = useState(false);
   const t = T[lang];
 
+  useEffect(() => { store.set('showScholarly', settings.showScholarly ? '1' : '0'); }, [settings]);
   useEffect(() => { document.documentElement.lang = lang === 'pt' ? 'pt-BR' : 'en'; store.set('lang', lang); }, [lang]);
   useEffect(() => {
     const r = document.documentElement;
@@ -67,7 +72,7 @@ export default function App() {
   const cycleTheme = () => setTheme((x) => (x === 'auto' ? 'dark' : x === 'dark' ? 'light' : 'auto'));
 
   return (
-    <>
+    <SettingsContext.Provider value={settings}>
       <header className="top">
         <div className="brand">
           <h1>{t.title}</h1>
@@ -79,6 +84,7 @@ export default function App() {
               <button key={l.id} type="button" aria-pressed={lang === l.id} onClick={() => setLang(l.id)}>{l.label}</button>
             ))}
           </div>
+          <button type="button" className="ghost" onClick={() => setShowSettings(true)} aria-label={t.settings} title={t.settings}>⚙</button>
           <button type="button" className="ghost" onClick={cycleTheme} aria-label={t.theme} title={`${t.theme}: ${theme}`}>
             {theme === 'auto' ? 'Auto' : theme === 'dark' ? '☾' : '☀'}
           </button>
@@ -125,7 +131,8 @@ export default function App() {
           <People key={peopleView.id ?? ''} lang={lang} t={t} focusId={peopleView.id} onClose={closePeople} onOpenBook={open} onOpenTimeline={openTimeline} onOpenMap={openMap} />
         </Suspense>
       )}
+      {showSettings && <SettingsModal t={t} settings={settings} onChange={setSettings} onClose={() => setShowSettings(false)} />}
       {openSlug && <BookModal key={openSlug} book={bySlug[openSlug]} lang={lang} t={t} initial={bookOpts} onClose={close} onNavigate={(slug) => open(slug)} onOpenTimeline={openTimeline} onOpenPerson={openPerson} />}
-    </>
+    </SettingsContext.Provider>
   );
 }
