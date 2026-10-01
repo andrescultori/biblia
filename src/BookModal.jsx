@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react';
+import React, { Suspense, lazy, useEffect, useRef, useState } from 'react';
 import { BOOKS, SECTIONS } from './data/books.js';
 import { VERSIONS, loadBook } from './data/bible.js';
 
@@ -6,12 +6,29 @@ import { VERSIONS, loadBook } from './data/bible.js';
 const INFO = import.meta.glob('./data/info/*.json');
 const hasInfo = (slug) => `./data/info/${slug}.json` in INFO;
 
+// Mapa (d3-geo + costa) só carrega quando a aba é aberta.
+const MapView = lazy(() => import('./MapView.jsx'));
+
+function useInfo(slug) {
+  const [state, setState] = useState({ info: null, error: false });
+  useEffect(() => {
+    let alive = true;
+    setState({ info: null, error: false });
+    const load = INFO[`./data/info/${slug}.json`];
+    if (load) load().then((m) => alive && setState({ info: m.default, error: false })).catch(() => alive && setState({ info: null, error: true }));
+    return () => { alive = false; };
+  }, [slug]);
+  return state;
+}
+
 export default function BookModal({ book, lang, t, onClose, onNavigate }) {
   const ref = useRef(null);
   const [tab, setTab] = useState('summary');
   const section = SECTIONS.find((s) => s.id === book.section);
   const prev = BOOKS[book.n - 2];
   const next = BOOKS[book.n];
+  const { info, error: infoError } = useInfo(book.slug);
+  const tabs = ['summary', 'sheet', ...(info?.map ? ['map'] : []), 'read'];
 
   useEffect(() => {
     const d = ref.current;
@@ -48,7 +65,7 @@ export default function BookModal({ book, lang, t, onClose, onNavigate }) {
         </div>
 
         <div className="seg tabs" role="tablist">
-          {['summary', 'sheet', 'read'].map((k) => (
+          {tabs.map((k) => (
             <button key={k} type="button" role="tab" aria-selected={tab === k} aria-pressed={tab === k} onClick={() => setTab(k)}>{t[k]}</button>
           ))}
         </div>
@@ -62,7 +79,12 @@ export default function BookModal({ book, lang, t, onClose, onNavigate }) {
               {!hasInfo(book.slug) && <p className="soon">{t.soon}</p>}
             </>
           )}
-          {tab === 'sheet' && <Sheet book={book} lang={lang} t={t} />}
+          {tab === 'sheet' && <Sheet book={book} lang={lang} t={t} info={info} error={infoError} />}
+          {tab === 'map' && info?.map && (
+            <Suspense fallback={<p className="soon">{t.loading}</p>}>
+              <MapView book={book} map={info.map} lang={lang} t={t} />
+            </Suspense>
+          )}
           {tab === 'read' && <Reader book={book} lang={lang} t={t} />}
         </div>
 
@@ -77,18 +99,7 @@ export default function BookModal({ book, lang, t, onClose, onNavigate }) {
 
 const pick = (v, lang) => (v && typeof v === 'object' ? v[lang] ?? v.en : v);
 
-function Sheet({ book, lang, t }) {
-  const [info, setInfo] = useState(null);
-  const [error, setError] = useState(false);
-
-  useEffect(() => {
-    let alive = true;
-    setInfo(null); setError(false);
-    const load = INFO[`./data/info/${book.slug}.json`];
-    if (load) load().then((m) => alive && setInfo(m.default)).catch(() => alive && setError(true));
-    return () => { alive = false; };
-  }, [book.slug]);
-
+function Sheet({ book, lang, t, info, error }) {
   if (!hasInfo(book.slug)) return <p className="soon">{t.soon}</p>;
   if (error) return <p className="soon">{t.loadError}</p>;
   if (!info) return <p className="soon">{t.loading}</p>;

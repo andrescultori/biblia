@@ -59,5 +59,76 @@
   "connections": {
     "pt": "Continua Gênesis (os filhos de Jacó no Egito) e leva a Levítico, que se passa no Sinai. Dt retoma o Sinai (Horebe). A Páscoa é lida em 1Co 5:7 e nos relatos da última ceia; Hb 3 compara Moisés e Cristo.",
     "en": "Continues Genesis (Jacob's sons in Egypt) and leads into Leviticus, which is set at Sinai. Deuteronomy revisits Sinai (Horeb). The Passover is read in 1 Cor 5:7 and in the accounts of the Last Supper; Heb 3 compares Moses and Christ."
+  },
+  "map": {
+    "route": true,
+    "note": {
+      "pt": "Localizações do Sinai e do Mar dos Juncos são debatidas; o mapa usa a hipótese mais bem pontuada no OpenBible e marca o que é incerto. A rota é uma linha simplificada, não o trajeto exato.",
+      "en": "The locations of Sinai and the Sea of Reeds are debated; the map uses the highest-scored hypothesis in OpenBible and marks what is uncertain. The route is a simplified line, not the exact path."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Ramessés",
+          "en": "Rameses"
+        },
+        "lonLat": [
+          31.83,
+          30.8
+        ],
+        "note": {
+          "pt": "Ponto de partida da saída do Egito. Os sítios de Qantir e Tell el-Daba, vizinhos, disputam a identificação.",
+          "en": "Starting point of the departure from Egypt. The neighboring sites of Qantir and Tell el-Daba compete for the identification."
+        },
+        "ref": "12:37",
+        "label": [
+          8,
+          -10,
+          "start"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Mar dos Juncos",
+          "en": "Sea of Reeds"
+        },
+        "lonLat": [
+          33.0,
+          28.75
+        ],
+        "note": {
+          "pt": "Travessia do mar. Local muito debatido: o OpenBible lista o Golfo de Suez, os Lagos Amargos e o lago Timsah, entre outras hipóteses.",
+          "en": "Crossing of the sea. The location is much debated: OpenBible lists the Gulf of Suez, the Bitter Lakes and Lake Timsah, among other hypotheses."
+        },
+        "ref": "14",
+        "label": [
+          -10,
+          -10,
+          "end"
+        ],
+        "uncertain": true
+      },
+      {
+        "name": {
+          "pt": "Monte Sinai",
+          "en": "Mount Sinai"
+        },
+        "lonLat": [
+          33.97,
+          28.54
+        ],
+        "note": {
+          "pt": "Entrega da Lei e da aliança. Localização tradicional: Jebel Musa, entre várias propostas.",
+          "en": "Giving of the Law and the covenant. Traditional location: Jebel Musa, among several proposals."
+        },
+        "ref": "19–20",
+        "label": [
+          10,
+          4,
+          "start"
+        ],
+        "uncertain": true
+      }
+    ]
   }
 }

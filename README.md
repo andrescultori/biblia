@@ -11,7 +11,8 @@
 - [x] Leitor de texto (KJV)
 - [x] Tema claro/escuro, PT/EN
 - [ ] Ficha completa por livro (autor, data, local, personagens, esboço, tema, contexto, conexões)
-- [ ] Mapa e linha do tempo
+- [x] Aba Mapa por livro, com costa vetorial e lugares da ficha (Êxodo, Atos e Apocalipse; demais livros em andamento)
+- [ ] Linha do tempo
 - [ ] Texto em português (aguardando definição de licença)
 
 ## Rodar localmente
@@ -38,6 +39,31 @@ Para adicionar uma versão: gerar os arquivos na mesma estrutura e registrar em 
 
 Settings → Pages → Source: *GitHub Actions*. O workflow em `.github/workflows/deploy.yml` faz o build a cada push na `main`.
 
+## Mapa
+
+A aba **Mapa** do modal aparece nos livros cuja ficha (`src/data/info/<slug>.json`) tem a chave `map`. O desenho usa `d3-geo` sobre a costa em `src/data/land.json`, sem tiles externos. O visual segue a demo aprovada em `docs/map-demo/`.
+
+```json
+"map": {
+  "route": true,
+  "note": { "pt": "...", "en": "..." },
+  "places": [
+    { "name": { "pt": "Monte Sinai", "en": "Mount Sinai" }, "lonLat": [33.97, 28.54],
+      "note": { "pt": "...", "en": "..." }, "ref": "19–20", "uncertain": true, "label": [10, 4, "start"] }
+  ]
+}
+```
+
+- `lonLat` é `[longitude, latitude]`, com duas casas decimais. `ref` guarda só a referência, sem a sigla do livro.
+- `uncertain: true` desenha o pin tracejado e marca "?" no rótulo. Use para localização debatida.
+- `label` (opcional) é `[dx, dy, âncora]` em pixels, para evitar sobreposição de rótulos. O rótulo vai para o lado oposto sozinho se não couber.
+- `route: true` liga os lugares na ordem listada, em linha simplificada (não é o trajeto exato).
+- Confira cada coordenada no OpenBible antes de publicar e marque a incerteza.
+
 ## Créditos
+
+- Costa: [Natural Earth](https://www.naturalearthdata.com/) (domínio público), pelo pacote `world-atlas`, recortada e simplificada.
+- Lugares do mapa: [OpenBible.info Bible Geocoding Data](https://www.openbible.info/geo/), licença [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Coordenadas arredondadas e adaptadas.
+- Projeção: [d3-geo](https://github.com/d3/d3-geo) (ISC).
 
 Ideia original da tabela: "TaBíblia Periódica" (Grupo de Jovens Conquistando as Nações; fonte indicada: Sociedade Bíblica do Brasil). Este projeto tem design e código próprios.

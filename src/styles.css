@@ -3,6 +3,7 @@
   --bg: #f4f5f3; --panel: #ffffff; --fg: #1c2321; --muted: #5b6763; --line: #d9ddda; --accent: #2f6f6b;
   --s-lei: #e58fb3; --s-historicos: #dd5b52; --s-poesia: #7cc45a; --s-profMaiores: #3f9a4a; --s-profMenores: #e8c93a;
   --s-evangelhos: #f0a13a; --s-paulo: #7ab8ea; --s-outras: #4f8fd6; --s-profecia: #9aa3a0;
+  --sea: #dfe8ee; --land: #f8f7f2; --coast: #b9c2bf; --halo: #f8f7f2;
   --f-display: 'Bricolage Grotesque', system-ui, sans-serif;
   --f-body: 'Figtree', system-ui, sans-serif;
   --f-read: 'Literata', Georgia, serif;
@@ -13,10 +14,12 @@
     --bg: #111615; --panel: #192120; --fg: #e6ebe9; --muted: #9aa8a3; --line: #2b3633; --accent: #6fc2bb;
     --s-lei: #c7739a; --s-historicos: #c44b44; --s-poesia: #66a84a; --s-profMaiores: #36853f; --s-profMenores: #cbb030;
     --s-evangelhos: #d48b2b; --s-paulo: #5f9fd0; --s-outras: #4278bd; --s-profecia: #7d8683;
+    --sea: #14222b; --land: #222d2a; --coast: #3c4a46; --halo: #111615;
     color-scheme: dark;
   }
 }
 :root[data-theme='dark'] {
+  --sea: #14222b; --land: #222d2a; --coast: #3c4a46; --halo: #111615;
   --bg: #111615; --panel: #192120; --fg: #e6ebe9; --muted: #9aa8a3; --line: #2b3633; --accent: #6fc2bb;
   --s-lei: #c7739a; --s-historicos: #c44b44; --s-poesia: #66a84a; --s-profMaiores: #36853f; --s-profMenores: #cbb030;
   --s-evangelhos: #d48b2b; --s-paulo: #5f9fd0; --s-outras: #4278bd; --s-profecia: #7d8683;
@@ -96,3 +99,24 @@ input[type='search'] { flex: 1 1 200px; min-width: 0; border: 1px solid var(--li
 .sheetinfo li { margin-bottom: 3px; }
 .outline { list-style: none; padding-left: 0 !important; }
 .outline span { font-variant-numeric: tabular-nums; color: var(--muted); margin-right: 6px; }
+
+/* mapa */
+.mapbox { background: var(--sea); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+.mapbox svg { display: block; max-width: 100%; }
+.mapbox .land { fill: var(--land); stroke: var(--coast); stroke-width: 0.8; }
+.mapbox .route { fill: none; stroke-width: 2; stroke-dasharray: 5 5; opacity: 0.85; }
+.mapbox .water { font: 11px var(--f-body); letter-spacing: 0.22em; text-transform: uppercase; fill: var(--muted); opacity: 0.7; }
+.mapbox .pin { stroke: var(--panel); stroke-width: 2; transition: r 0.15s; }
+.mapbox .hit { fill: transparent; }
+.mapbox .spot { cursor: pointer; outline: none; }
+.mapbox .spot:focus-visible .pin { stroke: var(--fg); }
+.mapbox .lbl { font: 600 12.5px var(--f-body); fill: var(--fg); paint-order: stroke; stroke: var(--halo); stroke-width: 3.5px; stroke-linejoin: round; pointer-events: none; }
+.mplaces { display: flex; flex-direction: column; gap: 8px; margin-top: 12px; }
+.place { all: unset; box-sizing: border-box; cursor: pointer; background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; display: block; }
+.place:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.place[aria-current='true'] { border-color: var(--fg); }
+.place b { font: 700 1rem var(--f-display); display: block; }
+.place span { color: var(--muted); font-size: 0.85rem; display: block; margin-top: 2px; }
+.place small { font-size: 0.75rem; color: var(--accent); font-weight: 600; }
+.mapnote { color: var(--muted); font-size: 0.8rem; margin: 10px 0 0; }
+.mapnote a { color: inherit; }

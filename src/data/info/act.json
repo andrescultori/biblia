@@ -152,5 +152,194 @@
   "connections": {
     "pt": "Continua o Evangelho de Lucas (Lc 24 e At 1). Muitas cartas de Paulo podem ser relacionadas às viagens narradas em Atos (por exemplo, Gálatas, 1 e 2 Coríntios, Romanos).",
     "en": "Continues the Gospel of Luke (Luke 24 and Acts 1). Many of Paul's letters can be related to the journeys narrated in Acts (for example, Galatians, 1 and 2 Corinthians, Romans)."
+  },
+  "map": {
+    "route": true,
+    "note": {
+      "pt": "Rota simplificada em linha reta entre as cidades principais, não o trajeto exato das viagens.",
+      "en": "Simplified straight-line route between the main cities, not the exact path of the journeys."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        "lonLat": [
+          35.23,
+          31.78
+        ],
+        "note": {
+          "pt": "Pentecostes e nascimento da igreja.",
+          "en": "Pentecost and the birth of the church."
+        },
+        "ref": "2",
+        "label": [
+          8,
+          14,
+          "start"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Damasco",
+          "en": "Damascus"
+        },
+        "lonLat": [
+          36.31,
+          33.51
+        ],
+        "note": {
+          "pt": "Conversão de Saulo.",
+          "en": "The conversion of Saul."
+        },
+        "ref": "9",
+        "label": [
+          8,
+          -6,
+          "start"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Tarso",
+          "en": "Tarsus"
+        },
+        "lonLat": [
+          34.89,
+          36.91
+        ],
+        "note": {
+          "pt": "Cidade natal de Paulo.",
+          "en": "Paul's hometown."
+        },
+        "ref": "22:3",
+        "label": [
+          -8,
+          -8,
+          "end"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Antioquia",
+          "en": "Antioch"
+        },
+        "lonLat": [
+          36.17,
+          36.23
+        ],
+        "note": {
+          "pt": "Base das viagens missionárias; primeiros chamados de cristãos. Antioquia da Síria, no rio Orontes.",
+          "en": "Base of the missionary journeys; where the followers were first called Christians. Antioch of Syria, on the Orontes."
+        },
+        "ref": "11:26",
+        "label": [
+          8,
+          4,
+          "start"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Éfeso",
+          "en": "Ephesus"
+        },
+        "lonLat": [
+          27.34,
+          37.94
+        ],
+        "note": {
+          "pt": "Ministério de cerca de três anos.",
+          "en": "A ministry of about three years."
+        },
+        "ref": "19",
+        "label": [
+          8,
+          16,
+          "start"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Filipos",
+          "en": "Philippi"
+        },
+        "lonLat": [
+          24.28,
+          41.01
+        ],
+        "note": {
+          "pt": "Primeira igreja na Europa.",
+          "en": "First church in Europe."
+        },
+        "ref": "16",
+        "label": [
+          8,
+          -6,
+          "start"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Atenas",
+          "en": "Athens"
+        },
+        "lonLat": [
+          23.73,
+          37.97
+        ],
+        "note": {
+          "pt": "Discurso no Areópago.",
+          "en": "Speech at the Areopagus."
+        },
+        "ref": "17",
+        "label": [
+          0,
+          -12,
+          "middle"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Corinto",
+          "en": "Corinth"
+        },
+        "lonLat": [
+          22.88,
+          37.91
+        ],
+        "note": {
+          "pt": "Um ano e meio de ministério.",
+          "en": "A year and a half of ministry."
+        },
+        "ref": "18",
+        "label": [
+          -8,
+          14,
+          "end"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Roma",
+          "en": "Rome"
+        },
+        "lonLat": [
+          12.49,
+          41.89
+        ],
+        "note": {
+          "pt": "Destino final de Paulo.",
+          "en": "Paul's final destination."
+        },
+        "ref": "28",
+        "label": [
+          8,
+          -8,
+          "start"
+        ]
+      }
+    ]
   }
 }

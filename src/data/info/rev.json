@@ -153,5 +153,174 @@
   "connections": {
     "pt": "Fecha o cânon cristão. Retoma imagens de Gênesis (a árvore da vida, 22:2), Êxodo (pragas), Daniel, Ezequiel e Zacarias. A tradição joanina o liga ao Evangelho e às cartas de João, ainda que a autoria seja debatida.",
     "en": "Closes the Christian canon. Takes up images from Genesis (the tree of life, 22:2), Exodus (plagues), Daniel, Ezekiel and Zechariah. The Johannine tradition links it with the Gospel and John's letters, although authorship is debated."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "As sete igrejas ficam próximas entre si, na antiga província da Ásia, hoje Turquia.",
+      "en": "The seven churches are close to one another, in the ancient province of Asia, today Turkey."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Patmos",
+          "en": "Patmos"
+        },
+        "lonLat": [
+          26.54,
+          37.33
+        ],
+        "note": {
+          "pt": "Ilha onde João recebeu a visão.",
+          "en": "Island where John received the vision."
+        },
+        "ref": "1:9",
+        "label": [
+          -10,
+          4,
+          "end"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Éfeso",
+          "en": "Ephesus"
+        },
+        "lonLat": [
+          27.34,
+          37.94
+        ],
+        "note": {
+          "pt": "Igreja que deixou o primeiro amor.",
+          "en": "The church that left its first love."
+        },
+        "ref": "2:1–7",
+        "label": [
+          -10,
+          6,
+          "end"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Esmirna",
+          "en": "Smyrna"
+        },
+        "lonLat": [
+          27.14,
+          38.42
+        ],
+        "note": {
+          "pt": "Igreja sofredora e fiel.",
+          "en": "The suffering and faithful church."
+        },
+        "ref": "2:8–11",
+        "label": [
+          -10,
+          0,
+          "end"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Pérgamo",
+          "en": "Pergamum"
+        },
+        "lonLat": [
+          27.18,
+          39.13
+        ],
+        "note": {
+          "pt": "Igreja onde está o trono de Satanás.",
+          "en": "The church where Satan's throne is."
+        },
+        "ref": "2:12–17",
+        "label": [
+          -10,
+          0,
+          "end"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Tiatira",
+          "en": "Thyatira"
+        },
+        "lonLat": [
+          27.84,
+          38.92
+        ],
+        "note": {
+          "pt": "Igreja de amor e fé, mas tolerante.",
+          "en": "A church of love and faith, but tolerant."
+        },
+        "ref": "2:18–29",
+        "label": [
+          10,
+          -2,
+          "start"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Sardes",
+          "en": "Sardis"
+        },
+        "lonLat": [
+          28.04,
+          38.49
+        ],
+        "note": {
+          "pt": "Tem nome de que vive, mas está morta.",
+          "en": "Has a name of being alive, but is dead."
+        },
+        "ref": "3:1–6",
+        "label": [
+          10,
+          -2,
+          "start"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Filadélfia",
+          "en": "Philadelphia"
+        },
+        "lonLat": [
+          28.52,
+          38.35
+        ],
+        "note": {
+          "pt": "Porta aberta e pouca força.",
+          "en": "An open door and little strength."
+        },
+        "ref": "3:7–13",
+        "label": [
+          10,
+          6,
+          "start"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Laodiceia",
+          "en": "Laodicea"
+        },
+        "lonLat": [
+          29.11,
+          37.84
+        ],
+        "note": {
+          "pt": "Igreja morna.",
+          "en": "The lukewarm church."
+        },
+        "ref": "3:14–22",
+        "label": [
+          10,
+          6,
+          "start"
+        ]
+      }
+    ]
   }
 }
