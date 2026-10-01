@@ -152,5 +152,120 @@
   "connections": {
     "pt": "Hb 8:8–12 cita Jr 31:31–34 por extenso, e a nova aliança aparece em Lc 22:20 e 1Co 11:25. Mt 2:17–18 cita Jr 31:15. Mt 16:14 registra que alguns viam Jesus como Jeremias. Lamentações é associada a ele pela tradição.",
     "en": "Heb 8:8–12 quotes Jer 31:31–34 in full, and the new covenant appears in Luke 22:20 and 1 Cor 11:25. Matt 2:17–18 quotes Jer 31:15. Matt 16:14 records that some saw Jesus as Jeremiah. Lamentations is associated with him by tradition."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Lugares do ministério de Jeremias, em ordem aproximada do livro. Os pontos vêm do OpenBible e não formam um trajeto único; \"?\" marca localização debatida.",
+      "en": "Places in Jeremiah's ministry, in rough order of the book. Points come from OpenBible and do not form a single route; \"?\" marks a disputed location."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Anatote",
+          "en": "Anathoth"
+        },
+        "lonLat": [
+          35.26,
+          31.81
+        ],
+        "note": {
+          "pt": "Cidade de sacerdotes onde Jeremias nasceu (1:1); os homens dela conspiram contra ele (11:21–23). A localização é debatida.",
+          "en": "Priestly town where Jeremiah was from (1:1); its men plot against him (11:21–23). The location is debated."
+        },
+        "ref": "1:1",
+        "uncertain": true
+      },
+      {
+        "name": {
+          "pt": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        "lonLat": [
+          35.23,
+          31.78
+        ],
+        "note": {
+          "pt": "Onde Jeremias prega no templo (cap. 7) e na porta (cap. 26). Cercada pelos babilônios e tomada (caps. 37–39). Na cidade fica o vale de Hinom, onde se queimavam filhos (7:31; 19:2–6).",
+          "en": "Where Jeremiah preaches at the temple (ch. 7) and at the gate (ch. 26). Besieged by the Babylonians and taken (chs. 37–39). The valley of Hinnom, where children were burned (7:31; 19:2–6), is in the city."
+        },
+        "ref": "1:3"
+      },
+      {
+        "name": {
+          "pt": "Siló",
+          "en": "Shiloh"
+        },
+        "lonLat": [
+          35.29,
+          32.06
+        ],
+        "note": {
+          "pt": "Jeremias lembra a destruição de Siló como advertência para o templo (7:12–14; 26:6).",
+          "en": "Jeremiah recalls the destruction of Shiloh as a warning for the temple (7:12–14; 26:6)."
+        },
+        "ref": "7:12"
+      },
+      {
+        "name": {
+          "pt": "Babilônia",
+          "en": "Babylon"
+        },
+        "lonLat": [
+          44.42,
+          32.54
+        ],
+        "note": {
+          "pt": "Para onde Judá é levado cativo (20:4–6); Jeremias escreve aos exilados (cap. 29). O ponto marca a cidade.",
+          "en": "Where Judah is carried captive (20:4–6); Jeremiah writes to the exiles (ch. 29). The point marks the city."
+        },
+        "ref": "20:4"
+      },
+      {
+        "name": {
+          "pt": "Ribla",
+          "en": "Riblah"
+        },
+        "lonLat": [
+          36.57,
+          34.46
+        ],
+        "note": {
+          "pt": "O rei da Babilônia julga Zedequias aqui (39:5–7; 52:9–11).",
+          "en": "The king of Babylon passes sentence on Zedekiah here (39:5–7; 52:9–11)."
+        },
+        "ref": "39:5"
+      },
+      {
+        "name": {
+          "pt": "Mispá",
+          "en": "Mizpah"
+        },
+        "lonLat": [
+          35.22,
+          31.89
+        ],
+        "note": {
+          "pt": "Gedalias, governador nomeado pelos babilônios, se estabelece aqui e é assassinado (40:6–41:3).",
+          "en": "Gedaliah, governor appointed by the Babylonians, settles here and is murdered (40:6–41:3)."
+        },
+        "ref": "40:6"
+      },
+      {
+        "name": {
+          "pt": "Tafnes",
+          "en": "Tahpanhes"
+        },
+        "lonLat": [
+          32.17,
+          30.86
+        ],
+        "note": {
+          "pt": "Os remanescentes de Judá fogem para o Egito, contra o conselho de Jeremias, e chegam a Tafnes (43:5–7).",
+          "en": "The remnant of Judah flees to Egypt, against Jeremiah's advice, and reaches Tahpanhes (43:5–7)."
+        },
+        "ref": "43:7"
+      }
+    ]
   }
 }

@@ -173,5 +173,59 @@
   "connections": {
     "pt": "Jesus usa a expressão \"Filho do Homem\" de Dn 7:13 (Mt 24:30; 26:64). Mt 24:15 cita a \"abominação da desolação\" (Dn 9:27; 11:31; 12:11). Hb 11:33–34 alude a Daniel e seus companheiros. O Apocalipse usa muitas imagens de Daniel.",
     "en": "Jesus uses the expression \"Son of Man\" from Dan 7:13 (Matt 24:30; 26:64). Matt 24:15 cites the \"abomination of desolation\" (Dan 9:27; 11:31; 12:11). Heb 11:33–34 alludes to Daniel and his companions. Revelation uses many images from Daniel."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Daniel é levado de Jerusalém para a Babilônia e serve sob reis babilônicos e persas. O ponto da Pérsia marca o centro da região.",
+      "en": "Daniel is taken from Jerusalem to Babylon and serves under Babylonian and Persian kings. The Persia point marks the center of the region."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        "lonLat": [
+          35.23,
+          31.78
+        ],
+        "note": {
+          "pt": "Nabucodonosor sitia a cidade e leva Daniel e outros jovens (1:1–4). Daniel ora com as janelas abertas para Jerusalém (6:10).",
+          "en": "Nebuchadnezzar besieges the city and takes Daniel and other young men (1:1–4). Daniel prays with his windows open toward Jerusalem (6:10)."
+        },
+        "ref": "1:1"
+      },
+      {
+        "name": {
+          "pt": "Babilônia",
+          "en": "Babylon"
+        },
+        "lonLat": [
+          44.42,
+          32.54
+        ],
+        "note": {
+          "pt": "Daniel é educado na corte (cap. 1), interpreta sonhos (caps. 2; 4) e ali ocorre o festim de Belsazar (cap. 5).",
+          "en": "Daniel is trained in the court (ch. 1), interprets dreams (chs. 2; 4), and Belshazzar's feast takes place there (ch. 5)."
+        },
+        "ref": "1:1"
+      },
+      {
+        "name": {
+          "pt": "Pérsia",
+          "en": "Persia"
+        },
+        "lonLat": [
+          48.52,
+          34.81
+        ],
+        "note": {
+          "pt": "Daniel tem a última visão no terceiro ano de Ciro, rei da Pérsia (10:1).",
+          "en": "Daniel has his last vision in the third year of Cyrus, king of Persia (10:1)."
+        },
+        "ref": "10:1"
+      }
+    ]
   }
 }

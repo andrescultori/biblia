@@ -118,5 +118,105 @@
   "connections": {
     "pt": "Ap 20:8 menciona Gogue e Magogue, e Ap 21–22 ecoa Ez 40–48 (cidade, rio e árvores). Jo 10 retoma a imagem do pastor de Ez 34. Há paralelos com Daniel e Apocalipse em linguagem visionária.",
     "en": "Rev 20:8 mentions Gog and Magog, and Rev 21–22 echoes Ezek 40–48 (city, river and trees). John 10 takes up the shepherd image of Ezek 34. There are parallels with Daniel and Revelation in visionary language."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Lugares do livro: Ezequiel profetiza entre os exilados na Babilônia e fala de Jerusalém e de outras nações. Os pontos vêm do OpenBible e não formam um trajeto único; \"?\" marca localização debatida.",
+      "en": "Places in the book: Ezekiel prophesies among the exiles in Babylon and speaks about Jerusalem and other nations. Points come from OpenBible and do not form a single route; \"?\" marks a disputed location."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Rio Quebar",
+          "en": "Chebar River"
+        },
+        "lonLat": [
+          45.23,
+          32.13
+        ],
+        "note": {
+          "pt": "Ezequiel recebe a visão inaugural junto ao rio Quebar, entre os exilados (1:1–3; 3:15). A localização exata é debatida; o ponto segue o OpenBible (Shatt en-Nil).",
+          "en": "Ezekiel receives his inaugural vision by the Chebar River among the exiles (1:1–3; 3:15). The exact location is debated; the point follows OpenBible (Shatt en-Nil)."
+        },
+        "ref": "1:1",
+        "uncertain": true
+      },
+      {
+        "name": {
+          "pt": "Babilônia",
+          "en": "Babylon"
+        },
+        "lonLat": [
+          44.42,
+          32.54
+        ],
+        "note": {
+          "pt": "Para onde Judá é levado (12:13; 17:12).",
+          "en": "Where Judah is carried (12:13; 17:12)."
+        },
+        "ref": "12:13"
+      },
+      {
+        "name": {
+          "pt": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        "lonLat": [
+          35.23,
+          31.78
+        ],
+        "note": {
+          "pt": "Alvo dos sinais do cerco (4:1–3) e da visão das abominações no templo (cap. 8); depois, da visão do novo templo (caps. 40–48).",
+          "en": "Target of the signs of the siege (4:1–3) and of the vision of abominations in the temple (ch. 8); later, of the vision of the new temple (chs. 40–48)."
+        },
+        "ref": "4:1"
+      },
+      {
+        "name": {
+          "pt": "Amom",
+          "en": "Ammon"
+        },
+        "lonLat": [
+          35.93,
+          31.95
+        ],
+        "note": {
+          "pt": "Oráculo contra os amonitas (cap. 25); o rei da Babilônia hesita entre Amom e Jerusalém (21:20). O ponto marca o centro da região.",
+          "en": "Oracle against the Ammonites (ch. 25); the king of Babylon hesitates between Ammon and Jerusalem (21:20). The point marks the center of the region."
+        },
+        "ref": "21:20"
+      },
+      {
+        "name": {
+          "pt": "Tiro",
+          "en": "Tyre"
+        },
+        "lonLat": [
+          35.2,
+          33.27
+        ],
+        "note": {
+          "pt": "Oráculos contra Tiro (caps. 26–28).",
+          "en": "Oracles against Tyre (chs. 26–28)."
+        },
+        "ref": "26:2"
+      },
+      {
+        "name": {
+          "pt": "Egito",
+          "en": "Egypt"
+        },
+        "lonLat": [
+          31.31,
+          30.13
+        ],
+        "note": {
+          "pt": "Oráculos contra o faraó e o Egito (caps. 29–32). O ponto marca o centro da região.",
+          "en": "Oracles against Pharaoh and Egypt (chs. 29–32). The point marks the center of the region."
+        },
+        "ref": "29:2"
+      }
+    ]
   }
 }
