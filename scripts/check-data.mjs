@@ -41,6 +41,29 @@ for (const slug of books) {
   if (!Array.isArray(d.outline) || !d.outline.length) err(`${slug}: sem esboço`);
   (d.outline ?? []).forEach((o, i) => { refOk(o.ref, slug, `${slug}.outline[${i}]`); bilingual(o.title, `${slug}.outline[${i}].title`); });
 
+  if (d.structure) {
+    const st = d.structure;
+    const n = chaptersOf(slug);
+    if (st.note) bilingual(st.note, `${slug}.structure.note`);
+    const voiceIds = new Set((st.voices ?? []).map((v) => v.id));
+    (st.voices ?? []).forEach((v) => bilingual(v.name, `${slug}.structure.voices.${v.id}`));
+    const seen = [];
+    (st.parts ?? []).forEach((p, i) => {
+      const w = `${slug}.structure.parts[${i}]`;
+      bilingual(p.title, `${w}.title`);
+      p.ref.split(';').forEach((r) => refOk(r.trim(), slug, `${w}.ref`));
+      if (p.voice && !voiceIds.has(p.voice)) err(`${w}: voz "${p.voice}" não existe`);
+      if (voiceIds.size && !p.voice) err(`${w}: falta a voz`);
+      seen.push(...(p.chapters ?? []));
+    });
+    const sorted = [...seen].sort((a, b) => a - b);
+    if (sorted.length !== n || sorted.some((c, k) => c !== k + 1)) err(`${slug}.structure: as partes devem cobrir os capítulos 1 a ${n}, cada um uma vez`);
+    (st.readings ?? []).forEach((r, i) => {
+      bilingual(r.name, `${slug}.structure.readings[${i}].name`); bilingual(r.summary, `${slug}.structure.readings[${i}].summary`);
+      if (r.view !== null && !['traditional', 'scholarly'].includes(r.view)) err(`${slug}.structure.readings[${i}].view: use traditional, scholarly ou null`);
+    });
+  }
+
   if (d.map) {
     const m = d.map;
     if (typeof m.route !== 'boolean') err(`${slug}.map.route: deve ser true/false`);

@@ -11,6 +11,7 @@ const hasInfo = (slug) => `./data/info/${slug}.json` in INFO;
 // Mapa (d3-geo + costa) só carrega quando a aba é aberta.
 const MapView = lazy(() => import('./MapView.jsx'));
 const PsalmsView = lazy(() => import('./PsalmsView.jsx'));
+const StructureView = lazy(() => import('./StructureView.jsx'));
 
 function useInfo(slug) {
   const [state, setState] = useState({ info: null, error: false });
@@ -34,7 +35,7 @@ export default function BookModal({ book, lang, t, initialTab, initialPlace, onN
   const prev = BOOKS[book.n - 2];
   const next = BOOKS[book.n];
   const { info, error: infoError } = useInfo(book.slug);
-  const tabs = ['summary', 'sheet', ...(info?.map ? ['map'] : []), ...(book.slug === 'psa' ? ['psalms'] : []), 'read'];
+  const tabs = ['summary', 'sheet', ...(info?.map ? ['map'] : []), ...(book.slug === 'psa' ? ['psalms'] : []), ...(info?.structure ? ['structure'] : []), 'read'];
 
   const facts = [
     [t.testament, t[book.testament]],
@@ -80,6 +81,11 @@ export default function BookModal({ book, lang, t, initialTab, initialPlace, onN
           {tab === 'psalms' && book.slug === 'psa' && (
             <Suspense fallback={<p className="soon">{t.loading}</p>}>
               <PsalmsView key={initialTab === 'psalms' ? initialPlace : 'p'} lang={lang} t={t} initialN={initialPlace} onSelect={(n) => sync(hrefs.book('psa', 'psalms', String(n)))} onOpenPerson={onOpenPerson} />
+            </Suspense>
+          )}
+          {tab === 'structure' && info?.structure && (
+            <Suspense fallback={<p className="soon">{t.loading}</p>}>
+              <StructureView book={book} structure={info.structure} lang={lang} t={t} />
             </Suspense>
           )}
           {tab === 'read' && <Reader key={initialTab === 'read' ? initialPlace : 'r'} book={book} lang={lang} t={t} initialChapter={initialTab === 'read' ? Number(initialPlace) : undefined} />}

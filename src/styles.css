@@ -215,3 +215,14 @@ input[type='search'] { flex: 1 1 200px; min-width: 0; border: 1px solid var(--li
 .ps-detail { margin-top: 14px; border-top: 1px solid var(--line); padding-top: 10px; }
 .ps-detail h3 { margin: 0 0 6px; font: 700 1.2rem var(--f-display); }
 .ps-detail h4 { margin: 12px 0 4px; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); font-weight: 600; }
+
+/* estrutura dos livros */
+.st-parts { list-style: none; margin: 12px 0 0; padding: 0; display: grid; gap: 6px; }
+.st-part { width: 100%; display: flex; gap: 10px; align-items: baseline; text-align: left; border: 1px solid var(--line); border-left: 6px solid var(--c); background: var(--panel); color: var(--fg); border-radius: 6px; padding: 7px 10px; cursor: pointer; }
+.st-ref { color: var(--muted); font-size: 0.8rem; white-space: nowrap; min-width: 6.5em; }
+.st-parts [aria-current='true'] .st-part { background: color-mix(in srgb, var(--c) 18%, var(--panel)); }
+.st-read { margin-top: 6px; }
+.st-readings h4 { margin: 18px 0 6px; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); font-weight: 600; }
+.st-reading { border-left: 3px solid var(--line); padding-left: 12px; margin-bottom: 10px; }
+.st-reading p { margin: 0 0 4px; }
+.st-reading i { font-style: normal; color: var(--muted); }
