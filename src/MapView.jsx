@@ -2,6 +2,7 @@ import React, { useLayoutEffect, useMemo, useRef, useState } from 'react';
 import { geoMercator, geoPath } from 'd3-geo';
 import land from './data/land.json';
 import timeline from './data/timeline.json';
+import { people } from './data/people.json';
 import { pick as pickT, range, main } from './timelineUtil.js';
 
 // Nomes de mares exibidos como rótulos de fundo.
@@ -75,7 +76,7 @@ function useWidth(ref) {
   return w;
 }
 
-export default function MapView({ book, map, lang, t, initialPlace, onOpenTimeline }) {
+export default function MapView({ book, map, lang, t, initialPlace, onOpenTimeline, onOpenPerson }) {
   const boxRef = useRef(null);
   const [sel, setSel] = useState(() => Math.max(0, map.places.findIndex((p) => p.name.pt === initialPlace)));
   const [zoom, setZoom] = useState(false);
@@ -127,6 +128,11 @@ export default function MapView({ book, map, lang, t, initialPlace, onOpenTimeli
   }, [places, projection, lang, W, H, fs, sel]);
 
   const color = `var(--s-${book.section})`;
+  // personagens ligados ao lugar selecionado
+  const folks = useMemo(
+    () => people.filter((p) => p.places?.some((x) => x.book === book.slug && x.name === places[sel].name.pt)),
+    [book.slug, places, sel],
+  );
   // eventos da linha do tempo ligados ao lugar selecionado
   const events = useMemo(
     () => timeline.events.filter((e) => e.places?.some((p) => p.book === book.slug && p.name === places[sel].name.pt)),
@@ -186,6 +192,17 @@ export default function MapView({ book, map, lang, t, initialPlace, onOpenTimeli
               <button key={e.id} type="button" className="tl-chip" style={{ '--c': color }} onClick={() => onOpenTimeline(e.id)}>
                 {pickT(e.title, lang)} <small>{range(main(e.dates), lang)}</small>
               </button>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {folks.length > 0 && (
+        <div className="mevents">
+          <h4>{t.people}: {pickText(places[sel].name, lang)}</h4>
+          <div className="tl-chips">
+            {folks.map((p) => (
+              <button key={p.id} type="button" className="tl-chip" style={{ '--c': color }} onClick={() => onOpenPerson(p.id)}>{pickT(p.name, lang)}</button>
             ))}
           </div>
         </div>

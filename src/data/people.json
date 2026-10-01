@@ -1,0 +1,1010 @@
+{
+  "people": [
+    {
+      "id": "abraao",
+      "name": {
+        "pt": "Abraão",
+        "en": "Abraham"
+      },
+      "summary": {
+        "pt": "Pai de Israel, segundo Gênesis. Deus o chama a deixar sua terra e promete terra, descendência e bênção a todas as famílias da terra (Gn 12:1–3). Nasce Isaque, e Deus põe sua fé à prova (Gn 22). No NT é exemplo de fé (Rm 4; Hb 11:8–19; Tg 2:21–24).",
+        "en": "Father of Israel, according to Genesis. God calls him to leave his land and promises land, offspring and blessing to all the families of the earth (Gen 12:1–3). Isaac is born, and God tests his faith (Gen 22). In the NT he is an example of faith (Rom 4; Heb 11:8–19; Jas 2:21–24)."
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Chamado por Deus, com Sara; promessa de terra, descendência e bênção (caps. 12–25)",
+            "en": "Called by God, with Sarah; promise of land, offspring and blessing (chs. 12–25)"
+          }
+        },
+        {
+          "book": "jas",
+          "role": {
+            "pt": "Exemplo de fé e obras, ao lado de Raabe (2:21–25)",
+            "en": "Example of faith and works, alongside Rahab (2:21–25)"
+          }
+        }
+      ],
+      "events": [
+        "abraao"
+      ],
+      "places": [
+        {
+          "book": "gen",
+          "name": "Harã",
+          "en": "Haran"
+        },
+        {
+          "book": "gen",
+          "name": "Hebrom",
+          "en": "Hebron"
+        },
+        {
+          "book": "gen",
+          "name": "Moriá",
+          "en": "Moriah"
+        }
+      ]
+    },
+    {
+      "id": "moises",
+      "name": {
+        "pt": "Moisés",
+        "en": "Moses"
+      },
+      "summary": {
+        "pt": "Libertador e mediador da aliança. Chamado por Deus na sarça (Êx 3), conduz Israel para fora do Egito, recebe a lei no Sinai e guia o povo pelo deserto até as portas de Canaã, onde morre sem entrar (Dt 34). A tradição lhe atribui o Pentateuco; ver as fichas dos cinco livros.",
+        "en": "Deliverer and mediator of the covenant. Called by God at the bush (Exod 3), he leads Israel out of Egypt, receives the law at Sinai and guides the people through the wilderness to the edge of Canaan, where he dies without entering (Deut 34). Tradition ascribes the Pentateuch to him; see the sheets of the five books."
+      },
+      "books": [
+        {
+          "book": "exo",
+          "role": {
+            "pt": "Libertador e mediador da aliança",
+            "en": "Deliverer and mediator of the covenant"
+          }
+        },
+        {
+          "book": "lev",
+          "role": {
+            "pt": "Recebe e transmite as instruções",
+            "en": "Receives and passes on the instructions"
+          }
+        },
+        {
+          "book": "num",
+          "role": {
+            "pt": "Líder do povo e mediador",
+            "en": "Leader of the people and mediator"
+          }
+        },
+        {
+          "book": "deu",
+          "role": {
+            "pt": "Orador de todo o livro; morre no final (cap. 34)",
+            "en": "Speaker of the whole book; dies at the end (ch. 34)"
+          }
+        },
+        {
+          "book": "psa",
+          "role": {
+            "pt": "O Sl 90 traz seu nome no título",
+            "en": "Psalm 90 carries his name in the title"
+          }
+        },
+        {
+          "book": "heb",
+          "role": {
+            "pt": "Comparado a Cristo (3:1–6)",
+            "en": "Compared to Christ (3:1–6)"
+          }
+        }
+      ],
+      "events": [
+        "exodo",
+        "sinai"
+      ],
+      "places": [
+        {
+          "book": "exo",
+          "name": "Monte Sinai",
+          "en": "Mount Sinai"
+        },
+        {
+          "book": "exo",
+          "name": "Mar dos Juncos",
+          "en": "Sea of Reeds"
+        }
+      ]
+    },
+    {
+      "id": "josue",
+      "name": {
+        "pt": "Josué",
+        "en": "Joshua"
+      },
+      "summary": {
+        "pt": "Auxiliar de Moisés e seu sucessor. Um dos espias que confiam na promessa (Nm 14:6–9), lidera Israel na travessia do Jordão e na conquista de Canaã (Js 1–12) e renova a aliança em Siquém (Js 24). Não confundir com o sumo sacerdote Josué de Ageu e Zacarias.",
+        "en": "Moses' assistant and successor. One of the spies who trust the promise (Num 14:6–9), he leads Israel across the Jordan and in the conquest of Canaan (Josh 1–12) and renews the covenant at Shechem (Josh 24). Not to be confused with the high priest Joshua of Haggai and Zechariah."
+      },
+      "books": [
+        {
+          "book": "exo",
+          "role": {
+            "pt": "Auxiliar de Moisés; combate Amaleque (17:9–13)",
+            "en": "Moses' assistant; fights Amalek (17:9–13)"
+          }
+        },
+        {
+          "book": "num",
+          "role": {
+            "pt": "Um dos espias que confiam na promessa, com Calebe (caps. 13–14)",
+            "en": "One of the spies who trust the promise, with Caleb (chs. 13–14)"
+          }
+        },
+        {
+          "book": "deu",
+          "role": {
+            "pt": "Sucessor designado de Moisés (31:1–8; 34:9)",
+            "en": "Moses' designated successor (31:1–8; 34:9)"
+          }
+        },
+        {
+          "book": "jos",
+          "role": {
+            "pt": "Sucessor de Moisés; lidera a entrada em Canaã",
+            "en": "Moses' successor; leads the entry into Canaan"
+          }
+        }
+      ],
+      "events": [
+        "jerico"
+      ],
+      "places": [
+        {
+          "book": "jos",
+          "name": "Jericó",
+          "en": "Jericho"
+        },
+        {
+          "book": "jos",
+          "name": "Gilgal",
+          "en": "Gilgal"
+        },
+        {
+          "book": "jos",
+          "name": "Siquém",
+          "en": "Shechem"
+        }
+      ]
+    },
+    {
+      "id": "josue-sacerdote",
+      "name": {
+        "pt": "Josué, o sumo sacerdote",
+        "en": "Joshua the high priest"
+      },
+      "summary": {
+        "pt": "Sumo sacerdote no tempo da volta do exílio, filho de Jozadaque (Ag 1:1; Zc 3). Em Esdras e Neemias o nome aparece como Jesua (Ed 3:2). É outra pessoa que Josué, sucessor de Moisés; o nome hebraico é o mesmo.",
+        "en": "High priest in the time of the return from exile, son of Jozadak (Hag 1:1; Zech 3). In Ezra and Nehemiah the name appears as Jeshua (Ezra 3:2). He is a different person from Joshua, Moses' successor; the Hebrew name is the same."
+      },
+      "books": [
+        {
+          "book": "hag",
+          "role": {
+            "pt": "Sumo sacerdote",
+            "en": "High priest"
+          }
+        },
+        {
+          "book": "zec",
+          "role": {
+            "pt": "Sumo sacerdote (cap. 3)",
+            "en": "High priest (ch. 3)"
+          }
+        }
+      ],
+      "note": {
+        "pt": "Pessoa distinta do Josué do livro de Josué; a ficha do site usa só \"Josué\" nos dois casos.",
+        "en": "A different person from the Joshua of the book of Joshua; the site's book sheets use just \"Joshua\" in both cases."
+      }
+    },
+    {
+      "id": "davi",
+      "name": {
+        "pt": "Davi",
+        "en": "David"
+      },
+      "summary": {
+        "pt": "Rei de Israel. Pastor de Belém, é ungido por Samuel (1Sm 16), vence Golias (1Sm 17), serve e foge de Saul e reina em Hebrom e depois em Jerusalém (2Sm 2–5). Recebe a promessa de uma casa duradoura (2Sm 7). Muitos salmos trazem seu nome no título; o que isso significa é debatido.",
+        "en": "King of Israel. A shepherd of Bethlehem, he is anointed by Samuel (1 Sam 16), defeats Goliath (1 Sam 17), serves and flees from Saul, and reigns in Hebron and then in Jerusalem (2 Sam 2–5). He receives the promise of a lasting house (2 Sam 7). Many psalms carry his name in the title; what that means is debated."
+      },
+      "books": [
+        {
+          "book": "1sa",
+          "role": {
+            "pt": "Ungido por Samuel; serve Saul e foge dele",
+            "en": "Anointed by Samuel; serves Saul and flees from him"
+          }
+        },
+        {
+          "book": "2sa",
+          "role": {
+            "pt": "Rei de Judá e depois de todo o Israel",
+            "en": "King of Judah and then of all Israel"
+          }
+        },
+        {
+          "book": "1ch",
+          "role": {
+            "pt": "Figura central; prepara o templo",
+            "en": "Central figure; prepares the temple"
+          }
+        },
+        {
+          "book": "psa",
+          "role": {
+            "pt": "Principal salmista na tradição; muitos salmos trazem seu nome no título",
+            "en": "Main psalmist in tradition; many psalms carry his name in the title"
+          }
+        }
+      ],
+      "events": [
+        "davi"
+      ],
+      "places": [
+        {
+          "book": "1sa",
+          "name": "Belém",
+          "en": "Bethlehem"
+        },
+        {
+          "book": "1sa",
+          "name": "Vale de Elá",
+          "en": "Valley of Elah"
+        },
+        {
+          "book": "2sa",
+          "name": "Hebrom",
+          "en": "Hebron"
+        },
+        {
+          "book": "2sa",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "salomao",
+      "name": {
+        "pt": "Salomão",
+        "en": "Solomon"
+      },
+      "summary": {
+        "pt": "Filho e sucessor de Davi. Pede sabedoria a Deus (1Rs 3), constrói o templo em Jerusalém (1Rs 6–8) e, no fim da vida, se desvia por influência de suas mulheres estrangeiras (1Rs 11). Provérbios e Cantares trazem seu nome nos títulos (Pv 1:1; Ct 1:1), e Eclesiastes fala de um \"filho de Davi, rei em Jerusalém\" (Ec 1:1); a autoria é debatida.",
+        "en": "Son and successor of David. He asks God for wisdom (1 Kgs 3), builds the temple in Jerusalem (1 Kgs 6–8) and, late in life, is led astray by his foreign wives (1 Kgs 11). Proverbs and Song of Songs carry his name in the titles (Prov 1:1; Song 1:1), and Ecclesiastes speaks of a \"son of David, king in Jerusalem\" (Eccl 1:1); authorship is debated."
+      },
+      "books": [
+        {
+          "book": "1ki",
+          "role": {
+            "pt": "Rei sábio; constrói o templo; se desvia no fim da vida",
+            "en": "Wise king; builds the temple; turns away late in life"
+          }
+        },
+        {
+          "book": "1ch",
+          "role": {
+            "pt": "Sucessor de Davi, encarregado de construir o templo (caps. 22; 28–29)",
+            "en": "David's successor, charged with building the temple (chs. 22; 28–29)"
+          }
+        },
+        {
+          "book": "2ch",
+          "role": {
+            "pt": "Constrói e dedica o templo (caps. 2–7)",
+            "en": "Builds and dedicates the temple (chs. 2–7)"
+          }
+        },
+        {
+          "book": "psa",
+          "role": {
+            "pt": "Atribuídos a ele os Sl 72 e 127",
+            "en": "Psalms 72 and 127 are ascribed to him"
+          }
+        },
+        {
+          "book": "pro",
+          "role": {
+            "pt": "Nomeado nos títulos de 1:1, 10:1 e 25:1",
+            "en": "Named in the titles of 1:1, 10:1 and 25:1"
+          }
+        }
+      ],
+      "events": [
+        "templo"
+      ],
+      "places": [
+        {
+          "book": "1ki",
+          "name": "Gibeão",
+          "en": "Gibeon"
+        },
+        {
+          "book": "1ki",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "elias",
+      "name": {
+        "pt": "Elias",
+        "en": "Elijah"
+      },
+      "summary": {
+        "pt": "Profeta do reino do norte no tempo de Acabe. Anuncia a seca e é sustentado por uma viúva de Sarepta (1Rs 17), enfrenta os profetas de Baal no Carmelo (1Rs 18) e é levado ao céu num redemoinho (2Rs 2:11). Aparece com Moisés na transfiguração (Mt 17:3).",
+        "en": "Prophet of the northern kingdom in Ahab's time. He announces the drought and is sustained by a widow of Zarephath (1 Kgs 17), confronts the prophets of Baal at Carmel (1 Kgs 18) and is taken up to heaven in a whirlwind (2 Kgs 2:11). He appears with Moses at the transfiguration (Matt 17:3)."
+      },
+      "books": [
+        {
+          "book": "1ki",
+          "role": {
+            "pt": "Profeta que confronta Acabe e os profetas de Baal",
+            "en": "Prophet who confronts Ahab and the prophets of Baal"
+          }
+        },
+        {
+          "book": "2ki",
+          "role": {
+            "pt": "Profeta; sai de cena em 2:1–11",
+            "en": "Prophet; leaves the scene in 2:1–11"
+          }
+        },
+        {
+          "book": "jas",
+          "role": {
+            "pt": "Exemplo de oração, com Jó (5:11, 17)",
+            "en": "Example of prayer, with Job (5:11, 17)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "1ki",
+          "name": "Sarepta",
+          "en": "Zarephath"
+        },
+        {
+          "book": "1ki",
+          "name": "Monte Carmelo",
+          "en": "Mount Carmel"
+        }
+      ]
+    },
+    {
+      "id": "ezequias",
+      "name": {
+        "pt": "Ezequias",
+        "en": "Hezekiah"
+      },
+      "summary": {
+        "pt": "Rei de Judá. Promove reforma religiosa e celebra a Páscoa (2Cr 29–31), resiste ao cerco assírio de Senaqueribe (2Rs 18–19; Is 36–37) e mostra seus tesouros aos enviados da Babilônia (2Rs 20; Is 39).",
+        "en": "King of Judah. He carries out religious reform and celebrates the Passover (2 Chr 29–31), withstands Sennacherib's Assyrian siege (2 Kgs 18–19; Isa 36–37) and shows his treasures to the envoys of Babylon (2 Kgs 20; Isa 39)."
+      },
+      "books": [
+        {
+          "book": "2ki",
+          "role": {
+            "pt": "Rei de Judá; reforma religiosa e cerco de Senaqueribe (caps. 18–20)",
+            "en": "King of Judah; religious reform and Sennacherib's siege (chs. 18–20)"
+          }
+        },
+        {
+          "book": "2ch",
+          "role": {
+            "pt": "Reforma e Páscoa (caps. 29–32)",
+            "en": "Reform and Passover (chs. 29–32)"
+          }
+        },
+        {
+          "book": "isa",
+          "role": {
+            "pt": "Rei de Judá no cerco de Senaqueribe (caps. 36–39)",
+            "en": "King of Judah during Sennacherib's siege (chs. 36–39)"
+          }
+        },
+        {
+          "book": "mic",
+          "role": {
+            "pt": "Rei de Judá, lembrado em Jr 26:18",
+            "en": "King of Judah, recalled in Jer 26:18"
+          }
+        }
+      ],
+      "events": [
+        "senaqueribe"
+      ],
+      "places": [
+        {
+          "book": "2ki",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "josias",
+      "name": {
+        "pt": "Josias",
+        "en": "Josiah"
+      },
+      "summary": {
+        "pt": "Rei de Judá. No 18º ano de seu reinado acha-se o livro da lei no templo, e ele promove uma ampla reforma e celebra a Páscoa (2Rs 22–23; 2Cr 34–35). Morre em Megido (2Rs 23:29).",
+        "en": "King of Judah. In the 18th year of his reign the book of the law is found in the temple, and he carries out a sweeping reform and celebrates the Passover (2 Kgs 22–23; 2 Chr 34–35). He dies at Megiddo (2 Kgs 23:29)."
+      },
+      "books": [
+        {
+          "book": "2ki",
+          "role": {
+            "pt": "Rei de Judá; reforma ao achar o livro da lei (caps. 22–23)",
+            "en": "King of Judah; reform after the book of the law is found (chs. 22–23)"
+          }
+        },
+        {
+          "book": "2ch",
+          "role": {
+            "pt": "Reforma e Páscoa (caps. 34–35)",
+            "en": "Reform and Passover (chs. 34–35)"
+          }
+        },
+        {
+          "book": "zep",
+          "role": {
+            "pt": "Rei de Judá",
+            "en": "King of Judah"
+          }
+        }
+      ],
+      "events": [
+        "josias"
+      ],
+      "places": [
+        {
+          "book": "2ki",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "ciro",
+      "name": {
+        "pt": "Ciro",
+        "en": "Cyrus"
+      },
+      "summary": {
+        "pt": "Rei da Pérsia. Decreta que os judeus voltem e reconstruam o templo (Ed 1:1–4; 2Cr 36:22–23). Isaías o chama de \"ungido\" do Senhor (Is 44:28; 45:1).",
+        "en": "King of Persia. He decrees that the Jews return and rebuild the temple (Ezra 1:1–4; 2 Chr 36:22–23). Isaiah calls him the Lord's \"anointed\" (Isa 44:28; 45:1)."
+      },
+      "books": [
+        {
+          "book": "2ch",
+          "role": {
+            "pt": "Rei da Pérsia; decreta o retorno (36:22–23)",
+            "en": "King of Persia; decrees the return (36:22–23)"
+          }
+        },
+        {
+          "book": "ezr",
+          "role": {
+            "pt": "Rei da Pérsia; decreta o retorno",
+            "en": "King of Persia; decrees the return"
+          }
+        },
+        {
+          "book": "isa",
+          "role": {
+            "pt": "Rei persa chamado \"ungido\" (44:28; 45:1)",
+            "en": "Persian king called \"anointed\" (44:28; 45:1)"
+          }
+        }
+      ],
+      "events": [
+        "babilonia-cai",
+        "ciro"
+      ],
+      "places": [
+        {
+          "book": "ezr",
+          "name": "Pérsia",
+          "en": "Persia"
+        }
+      ]
+    },
+    {
+      "id": "nabucodonosor",
+      "name": {
+        "pt": "Nabucodonosor",
+        "en": "Nebuchadnezzar"
+      },
+      "summary": {
+        "pt": "Rei da Babilônia. Leva Judá cativo em etapas e destrói Jerusalém e o templo (2Rs 24–25). Jeremias o chama de instrumento do juízo (Jr 21), e Daniel o mostra na corte (Dn 1–4).",
+        "en": "King of Babylon. He carries Judah captive in stages and destroys Jerusalem and the temple (2 Kgs 24–25). Jeremiah calls him an instrument of judgment (Jer 21), and Daniel shows him at court (Dan 1–4)."
+      },
+      "books": [
+        {
+          "book": "2ki",
+          "role": {
+            "pt": "Rei da Babilônia que destrói Jerusalém",
+            "en": "King of Babylon who destroys Jerusalem"
+          }
+        },
+        {
+          "book": "jer",
+          "role": {
+            "pt": "Rei da Babilônia",
+            "en": "King of Babylon"
+          }
+        },
+        {
+          "book": "dan",
+          "role": {
+            "pt": "Rei da Babilônia (caps. 1–4)",
+            "en": "King of Babylon (chs. 1–4)"
+          }
+        }
+      ],
+      "events": [
+        "carquemis",
+        "daniel-deportado",
+        "joaquim",
+        "jerusalem-586"
+      ],
+      "places": [
+        {
+          "book": "2ki",
+          "name": "Babilônia",
+          "en": "Babylon"
+        },
+        {
+          "book": "2ki",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "joao-batista",
+      "name": {
+        "pt": "João Batista",
+        "en": "John the Baptist"
+      },
+      "summary": {
+        "pt": "Precursor de Jesus. Prega arrependimento junto ao Jordão e batiza (Mt 3; Mc 1:2–8), batiza Jesus e dá testemunho dele (Jo 1:29–34). É preso por Herodes (Mc 6:17–18).",
+        "en": "Forerunner of Jesus. He preaches repentance by the Jordan and baptizes (Matt 3; Mark 1:2–8), baptizes Jesus and bears witness to him (John 1:29–34). He is imprisoned by Herod (Mark 6:17–18)."
+      },
+      "books": [
+        {
+          "book": "mat",
+          "role": {
+            "pt": "Prepara o caminho (cap. 3)",
+            "en": "Prepares the way (ch. 3)"
+          }
+        },
+        {
+          "book": "mar",
+          "role": {
+            "pt": "Precursor (1:2–8)",
+            "en": "Forerunner (1:2–8)"
+          }
+        },
+        {
+          "book": "joh",
+          "role": {
+            "pt": "Testemunha de Jesus (1:6–8, 19–34)",
+            "en": "Witness to Jesus (1:6–8, 19–34)"
+          }
+        }
+      ],
+      "events": [
+        "ministerio"
+      ],
+      "places": [
+        {
+          "book": "luk",
+          "name": "Rio Jordão",
+          "en": "Jordan River"
+        }
+      ]
+    },
+    {
+      "id": "jesus",
+      "name": {
+        "pt": "Jesus",
+        "en": "Jesus"
+      },
+      "summary": {
+        "pt": "Figura central do Novo Testamento. Os Evangelhos o apresentam como o Messias e Filho de Deus que ensina, cura, é crucificado e ressuscita. Cada Evangelho destaca um aspecto (Mateus, o Messias; Marcos, o que serve e sofre; Lucas, o Salvador; João, a Palavra feita carne). Hebreus o descreve como sumo sacerdote e Apocalipse, como o Cordeiro.",
+        "en": "Central figure of the New Testament. The Gospels present him as the Messiah and Son of God who teaches, heals, is crucified and rises. Each Gospel highlights an aspect (Matthew, the Messiah; Mark, the one who serves and suffers; Luke, the Savior; John, the Word made flesh). Hebrews describes him as high priest and Revelation as the Lamb."
+      },
+      "books": [
+        {
+          "book": "mat",
+          "role": {
+            "pt": "Messias, mestre e Filho de Deus",
+            "en": "Messiah, teacher and Son of God"
+          }
+        },
+        {
+          "book": "mar",
+          "role": {
+            "pt": "Filho de Deus que serve e sofre",
+            "en": "Son of God who serves and suffers"
+          }
+        },
+        {
+          "book": "luk",
+          "role": {
+            "pt": "Salvador e profeta",
+            "en": "Savior and prophet"
+          }
+        },
+        {
+          "book": "joh",
+          "role": {
+            "pt": "A Palavra feita carne",
+            "en": "The Word made flesh"
+          }
+        },
+        {
+          "book": "heb",
+          "role": {
+            "pt": "Filho de Deus e sumo sacerdote",
+            "en": "Son of God and high priest"
+          }
+        },
+        {
+          "book": "1jn",
+          "role": {
+            "pt": "O Filho, o advogado junto ao Pai (2:1)",
+            "en": "The Son, the advocate with the Father (2:1)"
+          }
+        },
+        {
+          "book": "rev",
+          "role": {
+            "pt": "O Cordeiro e Senhor da história (1:5; 5:6)",
+            "en": "The Lamb and Lord of history (1:5; 5:6)"
+          }
+        }
+      ],
+      "events": [
+        "nascimento",
+        "ministerio",
+        "crucificacao"
+      ],
+      "places": [
+        {
+          "book": "luk",
+          "name": "Belém",
+          "en": "Bethlehem"
+        },
+        {
+          "book": "luk",
+          "name": "Nazaré",
+          "en": "Nazareth"
+        },
+        {
+          "book": "luk",
+          "name": "Cafarnaum",
+          "en": "Capernaum"
+        },
+        {
+          "book": "luk",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        {
+          "book": "luk",
+          "name": "Gólgota",
+          "en": "Golgotha"
+        }
+      ]
+    },
+    {
+      "id": "pedro",
+      "name": {
+        "pt": "Pedro",
+        "en": "Peter"
+      },
+      "summary": {
+        "pt": "Um dos Doze, também chamado Cefas. Confessa Jesus como o Cristo (Mt 16:16), nega-o três vezes (Mc 14:66–72), lidera a igreja de Jerusalém nos primeiros capítulos de Atos (At 1–12) e é repreendido por Paulo em Antioquia (Gl 2:11–14). As cartas 1 e 2 Pedro levam seu nome; a autoria é debatida.",
+        "en": "One of the Twelve, also called Cephas. He confesses Jesus as the Christ (Matt 16:16), denies him three times (Mark 14:66–72), leads the Jerusalem church in the first chapters of Acts (Acts 1–12) and is rebuked by Paul in Antioch (Gal 2:11–14). The letters 1 and 2 Peter carry his name; authorship is debated."
+      },
+      "books": [
+        {
+          "book": "mat",
+          "role": {
+            "pt": "Confessa Jesus como Messias (16:16)",
+            "en": "Confesses Jesus as Messiah (16:16)"
+          }
+        },
+        {
+          "book": "mar",
+          "role": {
+            "pt": "Confessa o Messias (8:29) e nega Jesus (14:66–72)",
+            "en": "Confesses the Messiah (8:29) and denies Jesus (14:66–72)"
+          }
+        },
+        {
+          "book": "act",
+          "role": {
+            "pt": "Líder dos apóstolos em Jerusalém (caps. 1–12)",
+            "en": "Leader of the apostles in Jerusalem (chs. 1–12)"
+          }
+        },
+        {
+          "book": "gal",
+          "role": {
+            "pt": "Confrontado por Paulo em Antioquia (2:11–14)",
+            "en": "Confronted by Paul in Antioch (2:11–14)"
+          }
+        },
+        {
+          "book": "1pe",
+          "role": {
+            "pt": "Apóstolo e autor, na leitura tradicional",
+            "en": "Apostle and author, in the traditional reading"
+          }
+        },
+        {
+          "book": "2pe",
+          "role": {
+            "pt": "Autor, na leitura tradicional",
+            "en": "Author, in the traditional reading"
+          }
+        }
+      ],
+      "events": [
+        "pentecostes",
+        "concilio"
+      ],
+      "places": [
+        {
+          "book": "mat",
+          "name": "Cesareia de Filipe",
+          "en": "Caesarea Philippi"
+        },
+        {
+          "book": "act",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "paulo",
+      "name": {
+        "pt": "Paulo",
+        "en": "Paul"
+      },
+      "summary": {
+        "pt": "Apóstolo dos gentios, chamado Saulo antes. Perseguidor da igreja, é chamado no caminho de Damasco (At 9) e faz viagens missionárias pelo Mediterrâneo oriental (At 13–28). Treze cartas do NT levam seu nome; a autoria de algumas (Efésios, Colossenses, 2 Tessalonicenses e as Pastorais) é debatida.",
+        "en": "Apostle to the Gentiles, earlier called Saul. A persecutor of the church, he is called on the road to Damascus (Acts 9) and makes missionary journeys around the eastern Mediterranean (Acts 13–28). Thirteen NT letters carry his name; the authorship of some (Ephesians, Colossians, 2 Thessalonians and the Pastorals) is debated."
+      },
+      "books": [
+        {
+          "book": "act",
+          "role": {
+            "pt": "Perseguidor que se torna apóstolo dos gentios (caps. 9; 13–28)",
+            "en": "Persecutor who becomes apostle to the Gentiles (chs. 9; 13–28)"
+          }
+        },
+        {
+          "book": "rom",
+          "role": {
+            "pt": "Autor da carta",
+            "en": "Author of the letter"
+          }
+        },
+        {
+          "book": "1co",
+          "role": {
+            "pt": "Autor da carta",
+            "en": "Author of the letter"
+          }
+        },
+        {
+          "book": "2co",
+          "role": {
+            "pt": "Autor da carta",
+            "en": "Author of the letter"
+          }
+        },
+        {
+          "book": "gal",
+          "role": {
+            "pt": "Autor da carta",
+            "en": "Author of the letter"
+          }
+        },
+        {
+          "book": "eph",
+          "role": {
+            "pt": "A carta se apresenta como dele; autoria debatida (ver a ficha)",
+            "en": "The letter presents itself as his; authorship debated (see the sheet)"
+          }
+        },
+        {
+          "book": "php",
+          "role": {
+            "pt": "Autor da carta, preso",
+            "en": "Author of the letter, in prison"
+          }
+        },
+        {
+          "book": "col",
+          "role": {
+            "pt": "A carta se apresenta como dele; autoria debatida (ver a ficha)",
+            "en": "The letter presents itself as his; authorship debated (see the sheet)"
+          }
+        },
+        {
+          "book": "1th",
+          "role": {
+            "pt": "Co-remetente, com Silvano e Timóteo (1:1)",
+            "en": "Co-sender, with Silvanus and Timothy (1:1)"
+          }
+        },
+        {
+          "book": "2th",
+          "role": {
+            "pt": "Co-remetente, com Silvano e Timóteo (1:1); autoria debatida",
+            "en": "Co-sender, with Silvanus and Timothy (1:1); authorship debated"
+          }
+        },
+        {
+          "book": "1ti",
+          "role": {
+            "pt": "A carta se apresenta como dele; autoria debatida (ver a ficha)",
+            "en": "The letter presents itself as his; authorship debated (see the sheet)"
+          }
+        },
+        {
+          "book": "2ti",
+          "role": {
+            "pt": "A carta se apresenta como dele, preso; autoria debatida (ver a ficha)",
+            "en": "The letter presents itself as his, in prison; authorship debated (see the sheet)"
+          }
+        },
+        {
+          "book": "tit",
+          "role": {
+            "pt": "A carta se apresenta como dele; autoria debatida (ver a ficha)",
+            "en": "The letter presents itself as his; authorship debated (see the sheet)"
+          }
+        },
+        {
+          "book": "phm",
+          "role": {
+            "pt": "Autor da carta, preso",
+            "en": "Author of the letter, in prison"
+          }
+        },
+        {
+          "book": "2pe",
+          "role": {
+            "pt": "Citado em 3:15–16",
+            "en": "Mentioned in 3:15–16"
+          }
+        }
+      ],
+      "events": [
+        "paulo-conversao",
+        "viagem1",
+        "concilio",
+        "viagem2-3",
+        "galio",
+        "roma-prisao"
+      ],
+      "places": [
+        {
+          "book": "act",
+          "name": "Damasco",
+          "en": "Damascus"
+        },
+        {
+          "book": "act",
+          "name": "Tarso",
+          "en": "Tarsus"
+        },
+        {
+          "book": "act",
+          "name": "Antioquia",
+          "en": "Antioch"
+        },
+        {
+          "book": "act",
+          "name": "Éfeso",
+          "en": "Ephesus"
+        },
+        {
+          "book": "act",
+          "name": "Corinto",
+          "en": "Corinth"
+        },
+        {
+          "book": "act",
+          "name": "Roma",
+          "en": "Rome"
+        }
+      ]
+    },
+    {
+      "id": "timoteo",
+      "name": {
+        "pt": "Timóteo",
+        "en": "Timothy"
+      },
+      "summary": {
+        "pt": "Jovem colaborador de Paulo, de Listra (At 16:1–3). Co-remetente de várias cartas e destinatário de 1 e 2 Timóteo, na leitura em que elas são de Paulo. Hebreus diz que ele foi libertado (Hb 13:23).",
+        "en": "Young coworker of Paul, from Lystra (Acts 16:1–3). Co-sender of several letters and recipient of 1 and 2 Timothy, in the reading where they are Paul's. Hebrews says he was released (Heb 13:23)."
+      },
+      "books": [
+        {
+          "book": "2co",
+          "role": {
+            "pt": "Co-remetente (1:1)",
+            "en": "Co-sender (1:1)"
+          }
+        },
+        {
+          "book": "php",
+          "role": {
+            "pt": "Co-remetente (1:1; 2:19–24)",
+            "en": "Co-sender (1:1; 2:19–24)"
+          }
+        },
+        {
+          "book": "col",
+          "role": {
+            "pt": "Co-remetente (1:1)",
+            "en": "Co-sender (1:1)"
+          }
+        },
+        {
+          "book": "1ti",
+          "role": {
+            "pt": "Jovem colaborador, em Éfeso (1:2–3)",
+            "en": "Young coworker, in Ephesus (1:2–3)"
+          }
+        },
+        {
+          "book": "2ti",
+          "role": {
+            "pt": "Destinatário",
+            "en": "Recipient"
+          }
+        },
+        {
+          "book": "phm",
+          "role": {
+            "pt": "Co-remetente (v. 1)",
+            "en": "Co-sender (v. 1)"
+          }
+        },
+        {
+          "book": "heb",
+          "role": {
+            "pt": "Mencionado como libertado (13:23)",
+            "en": "Mentioned as released (13:23)"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -5,6 +5,7 @@ import BookModal from './BookModal.jsx';
 
 // Linha do tempo só carrega quando aberta.
 const Timeline = lazy(() => import('./Timeline.jsx'));
+const People = lazy(() => import('./People.jsx'));
 
 const store = {
   get(k, d) { try { return localStorage.getItem(k) ?? d; } catch { return d; } },
@@ -22,6 +23,9 @@ export default function App() {
   // Linha do tempo: null (fechada) ou { id } (id opcional do evento em foco). Hash: #timeline ou #timeline/<evento>.
   const hashTimeline = () => (location.hash.startsWith('#timeline') ? { id: location.hash.split('/')[1] ?? null } : null);
   const [timeline, setTimeline] = useState(hashTimeline);
+  // Personagens: null (fechado) ou { id } (id opcional da pessoa). Hash: #person ou #person/<id>.
+  const hashPeople = () => (location.hash.startsWith('#person') ? { id: location.hash.split('/')[1] ?? null } : null);
+  const [peopleView, setPeopleView] = useState(hashPeople);
   // Livro aberto direto numa aba/lugar (vindo da linha do tempo): { tab, place }.
   const [bookOpts, setBookOpts] = useState(null);
   const t = T[lang];
@@ -36,14 +40,17 @@ export default function App() {
     const onHash = () => {
       setOpenSlug(bySlug[location.hash.slice(1)] ? location.hash.slice(1) : null);
       setTimeline(hashTimeline());
+      setPeopleView(hashPeople());
     };
     window.addEventListener('hashchange', onHash);
     return () => window.removeEventListener('hashchange', onHash);
   }, []);
 
-  const open = (slug, opts = null) => { history.replaceState(null, '', `#${slug}`); setTimeline(null); setBookOpts(opts); setOpenSlug(slug); };
+  const open = (slug, opts = null) => { history.replaceState(null, '', `#${slug}`); setTimeline(null); setPeopleView(null); setBookOpts(opts); setOpenSlug(slug); };
   const openMap = (slug, place) => open(slug, { tab: 'map', place });
-  const openTimeline = (id = null) => { history.replaceState(null, '', id ? `#timeline/${id}` : '#timeline'); setOpenSlug(null); setTimeline({ id }); };
+  const openTimeline = (id = null) => { history.replaceState(null, '', id ? `#timeline/${id}` : '#timeline'); setOpenSlug(null); setPeopleView(null); setTimeline({ id }); };
+  const openPerson = (id = null) => { history.replaceState(null, '', id ? `#person/${id}` : '#person'); setOpenSlug(null); setTimeline(null); setPeopleView({ id }); };
+  const closePeople = () => { history.replaceState(null, '', location.pathname + location.search); setPeopleView(null); };
   const closeTimeline = () => { history.replaceState(null, '', location.pathname + location.search); setTimeline(null); };
   const close = () => { history.replaceState(null, '', location.pathname + location.search); setOpenSlug(null); };
 
@@ -86,6 +93,7 @@ export default function App() {
             ))}
           </div>
           <button type="button" className="ghost" onClick={() => openTimeline()}>{t.timeline}</button>
+          <button type="button" className="ghost" onClick={() => openPerson()}>{t.people}</button>
           <input type="search" id="q" value={query} onChange={(e) => setQuery(e.target.value)} placeholder={t.search} aria-label={t.search} />
         </div>
 
@@ -109,10 +117,15 @@ export default function App() {
 
       {timeline && (
         <Suspense fallback={null}>
-          <Timeline key={timeline.id ?? ''} lang={lang} t={t} focusId={timeline.id} onClose={closeTimeline} onOpenBook={open} onOpenMap={openMap} />
+          <Timeline key={timeline.id ?? ''} lang={lang} t={t} focusId={timeline.id} onClose={closeTimeline} onOpenBook={open} onOpenMap={openMap} onOpenPerson={openPerson} />
         </Suspense>
       )}
-      {openSlug && <BookModal key={openSlug} book={bySlug[openSlug]} lang={lang} t={t} initial={bookOpts} onClose={close} onNavigate={(slug) => open(slug)} onOpenTimeline={openTimeline} />}
+      {peopleView && (
+        <Suspense fallback={null}>
+          <People key={peopleView.id ?? ''} lang={lang} t={t} focusId={peopleView.id} onClose={closePeople} onOpenBook={open} onOpenTimeline={openTimeline} onOpenMap={openMap} />
+        </Suspense>
+      )}
+      {openSlug && <BookModal key={openSlug} book={bySlug[openSlug]} lang={lang} t={t} initial={bookOpts} onClose={close} onNavigate={(slug) => open(slug)} onOpenTimeline={openTimeline} onOpenPerson={openPerson} />}
     </>
   );
 }

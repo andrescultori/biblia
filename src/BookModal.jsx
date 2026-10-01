@@ -21,7 +21,7 @@ function useInfo(slug) {
   return state;
 }
 
-export default function BookModal({ book, lang, t, initial, onClose, onNavigate, onOpenTimeline }) {
+export default function BookModal({ book, lang, t, initial, onClose, onNavigate, onOpenTimeline, onOpenPerson }) {
   const ref = useRef(null);
   const [tab, setTab] = useState(initial?.tab ?? 'summary');
   const section = SECTIONS.find((s) => s.id === book.section);
@@ -82,7 +82,7 @@ export default function BookModal({ book, lang, t, initial, onClose, onNavigate,
           {tab === 'sheet' && <Sheet book={book} lang={lang} t={t} info={info} error={infoError} />}
           {tab === 'map' && info?.map && (
             <Suspense fallback={<p className="soon">{t.loading}</p>}>
-              <MapView book={book} map={info.map} lang={lang} t={t} initialPlace={initial?.place} onOpenTimeline={onOpenTimeline} />
+              <MapView book={book} map={info.map} lang={lang} t={t} initialPlace={initial?.place} onOpenTimeline={onOpenTimeline} onOpenPerson={onOpenPerson} />
             </Suspense>
           )}
           {tab === 'read' && <Reader book={book} lang={lang} t={t} />}

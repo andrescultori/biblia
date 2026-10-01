@@ -12,6 +12,7 @@
 - [x] Tema claro/escuro, PT/EN
 - [x] Ficha completa dos 66 livros, PT e EN (autor, data, local, personagens, esboço, tema, contexto, conexões). A revisão de conteúdo é manual e segue em andamento
 - [x] Aba Mapa com legenda e zoom, em 46 dos 66 livros (livros sem `map` na ficha não mostram a aba)
+- [ ] Personagens: estrutura pronta, 16 personagens (em crescimento)
 - [x] Linha do tempo: 13 períodos e 44 eventos (AT e NT); datas e notas aguardam a revisão do André
 - [ ] ARA e NAA (aguardam autorização da SBB)
 
@@ -95,3 +96,19 @@ O botão **Linha do tempo** abre um modal com duas camadas: (1) períodos e even
 - Livros ligados a um período seguem o **cenário que o próprio texto descreve**, não a data de composição. Livros de datação ou ambientação debatida, poéticos e de sabedoria ficam de fora (a tela lista quais).
 - Evento com `attested: true` tem data também atestada por fonte fora da Bíblia (marcado com ◆). `npm run check` valida anos, ordem dos períodos, livros e referências. A base de cada data está em `docs/linha-do-tempo-fontes.md`.
 - **Ligação com o mapa:** um evento pode ter `places: [{ "book": "2ki", "name": "Laquis", "en": "Lachish" }]`, com `name` igual ao nome em PT do lugar no mapa da ficha daquele livro (`npm run check` confere, inclusive o `en`). O evento mostra botões "Ver no mapa" e o lugar, no mapa, lista os eventos ligados a ele. Link direto: `#timeline/<id-do-evento>`.
+
+## Personagens
+
+O botão **Personagens** abre um modal com a lista (busca e filtro por livro) e, para cada pessoa, o resumo, os livros onde aparece (com o papel em cada um), os eventos da linha do tempo e os lugares do mapa. Dados em `src/data/people.json`; componente em `src/People.jsx`. Links diretos: `#person` e `#person/<id>`.
+
+```json
+{ "id": "davi", "name": { "pt": "Davi", "en": "David" }, "summary": { "pt": "...", "en": "..." },
+  "books": [{ "book": "1sa", "role": { "pt": "...", "en": "..." } }],
+  "events": ["davi"],
+  "places": [{ "book": "2sa", "name": "Hebrom", "en": "Hebron" }],
+  "note": { "pt": "...", "en": "..." } }
+```
+
+- `events` usa os ids de `timeline.json`; `places` usa o nome em PT do lugar no mapa da ficha daquele livro (e o `en` igual). `npm run check` confere ids únicos, livros, eventos, lugares e PT/EN.
+- O evento da linha do tempo lista as pessoas ligadas a ele e o lugar do mapa também.
+- O resumo se limita ao que o texto bíblico diz. Pessoas distintas de mesmo nome têm ids distintos (`josue`, `josue-sacerdote`). Genealogia ainda não faz parte.

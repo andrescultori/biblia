@@ -173,3 +173,14 @@ input[type='search'] { flex: 1 1 200px; min-width: 0; border: 1px solid var(--li
 .mevents { margin: 12px 0 0; }
 .mevents h4 { margin: 0 0 6px; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); font-weight: 600; }
 .tl-chip small { color: var(--muted); margin-left: 4px; }
+
+/* personagens */
+.pp-list { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 8px; }
+.pp-card { width: 100%; height: 100%; display: flex; flex-direction: column; gap: 3px; text-align: left; border: 1px solid var(--line); border-top: 4px solid var(--c); background: var(--panel); color: var(--fg); border-radius: 8px; padding: 10px 12px; cursor: pointer; }
+.pp-card span { font-size: 0.85rem; color: var(--muted); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.pp-card small { color: var(--muted); }
+.pp-summary { margin: 12px 0 8px; }
+.pp-books { list-style: none; margin: 0; padding: 0; }
+.pp-books li { display: flex; gap: 8px; align-items: baseline; flex-wrap: wrap; margin-bottom: 6px; }
+.pp-books span { font-size: 0.88rem; color: var(--muted); flex: 1 1 200px; }
+.tl-places small { align-self: center; color: var(--muted); }

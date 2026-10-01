@@ -135,6 +135,39 @@ for (const v of versionIds) {
   });
 }
 
+
+// Personagens: ids, textos, livros, eventos da linha do tempo e lugares do mapa
+{
+  const { people } = read('src/data/people.json');
+  const tl = read('src/data/timeline.json');
+  const eventIds = new Set(tl.events.map((e) => e.id));
+  const seen = new Set();
+  people.forEach((p) => {
+    const w = `people.${p.id}`;
+    if (!/^[a-z0-9]+(-[a-z0-9]+)*$/.test(p.id ?? '')) err(`${w}: id inválido (use minúsculas e hífens)`);
+    if (seen.has(p.id)) err(`${w}: id repetido`);
+    seen.add(p.id);
+    bilingual(p.name, `${w}.name`); bilingual(p.summary, `${w}.summary`);
+    if (p.note) bilingual(p.note, `${w}.note`);
+    if (p.uncertain !== undefined && typeof p.uncertain !== 'boolean') err(`${w}.uncertain: deve ser true/false`);
+    if (!Array.isArray(p.books) || !p.books.length) err(`${w}: sem livros`);
+    const bs = new Set();
+    (p.books ?? []).forEach((b, i) => {
+      if (!books.includes(b.book)) err(`${w}.books[${i}]: livro "${b.book}" não existe`);
+      if (bs.has(b.book)) err(`${w}.books[${i}]: livro "${b.book}" repetido`);
+      bs.add(b.book);
+      bilingual(b.role, `${w}.books[${i}].role`);
+    });
+    (p.events ?? []).forEach((id) => { if (!eventIds.has(id)) err(`${w}: evento "${id}" não existe na linha do tempo`); });
+    (p.places ?? []).forEach((pl, i) => {
+      if (!books.includes(pl.book)) { err(`${w}.places[${i}]: livro "${pl.book}" não existe`); return; }
+      const place = (read(`src/data/info/${pl.book}.json`).map?.places ?? []).find((x) => x.name?.pt === pl.name);
+      if (!place) err(`${w}.places[${i}]: lugar "${pl.name}" não está no mapa de ${pl.book}`);
+      else if (place.name.en !== pl.en) err(`${w}.places[${i}]: "en" deve ser "${place.name.en}"`);
+    });
+  });
+}
+
 if (errors.length) {
   console.error(`${errors.length} problema(s):`);
   errors.slice(0, 60).forEach((e) => console.error(` - ${e}`));
@@ -142,5 +175,6 @@ if (errors.length) {
   process.exit(1);
 }
 const tlData = read('src/data/timeline.json');
+const peopleCount = read('src/data/people.json').people.length;
 const maps = books.filter((s) => read(`src/data/info/${s}.json`).map).length;
-console.log(`OK: ${books.length} fichas (${maps} com mapa), ${versionIds.length} versões (${versionIds.join(', ')}), linha do tempo com ${tlData.periods.length} períodos e ${tlData.events.length} eventos.`);
+console.log(`OK: ${books.length} fichas (${maps} com mapa), ${versionIds.length} versões (${versionIds.join(', ')}), linha do tempo com ${tlData.periods.length} períodos e ${tlData.events.length} eventos, ${peopleCount} personagens.`);
