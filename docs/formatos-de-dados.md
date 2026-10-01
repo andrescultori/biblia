@@ -28,7 +28,7 @@ Para adicionar uma versão: incluir o formato da fonte em `scripts/build-bible-d
 
 ## Mapa
 
-A aba **Mapa** do modal aparece nos livros cuja ficha (`src/data/info/<slug>.json`) tem a chave `map`. O desenho usa `d3-geo` sobre a costa em `src/data/land.json`, sem tiles externos. O visual segue a demo aprovada em `docs/map-demo/`.
+A aba **Mapa** da página do livro aparece nos livros cuja ficha (`src/data/info/<slug>.json`) tem a chave `map`. O desenho usa `d3-geo` sobre a costa em `src/data/land.json`, sem tiles externos. O visual segue a demo aprovada em `docs/map-demo/`.
 
 ```json
 "map": {
@@ -50,7 +50,7 @@ A aba **Mapa** do modal aparece nos livros cuja ficha (`src/data/info/<slug>.jso
 
 ## Linha do tempo
 
-O botão **Linha do tempo** abre um modal com duas camadas: (1) períodos e eventos da história bíblica e (2) os livros ligados a cada período. Dados em `src/data/timeline.json`; componente em `src/Timeline.jsx`.
+O botão **Linha do tempo** abre uma página com duas camadas: (1) períodos e eventos da história bíblica e (2) os livros ligados a cada período. Dados em `src/data/timeline.json`; componente em `src/Timeline.jsx`.
 
 - Anos são inteiros: negativo = a.C., positivo = d.C. (não existe o ano 0). `approx: true` mostra "c.".
 - `dates` é `{start, end?, approx?, note?}` ou, quando a datação é debatida, `{traditional: {...}, scholarly: {...}}` (as duas leituras aparecem lado a lado, como nas fichas).
@@ -61,7 +61,7 @@ O botão **Linha do tempo** abre um modal com duas camadas: (1) períodos e even
 
 ## Personagens
 
-O botão **Personagens** abre um modal com a lista (busca e filtro por livro) e, para cada pessoa, o resumo, os livros onde aparece (com o papel em cada um), os eventos da linha do tempo e os lugares do mapa. Dados em `src/data/people.json`; componente em `src/People.jsx`. Links diretos: `#person` e `#person/<id>`.
+O botão **Personagens** abre uma página com a lista (busca e filtro por livro) e, para cada pessoa, o resumo, os livros onde aparece (com o papel em cada um), os eventos da linha do tempo e os lugares do mapa. Dados em `src/data/people.json`; componente em `src/People.jsx`. Links diretos: `#person` e `#person/<id>`.
 
 ```json
 { "id": "davi", "name": { "pt": "Davi", "en": "David" }, "summary": { "pt": "...", "en": "..." },
@@ -82,3 +82,17 @@ O botão ⚙ abre as preferências de estudo, guardadas no navegador (`localStor
 ## Publicar no GitHub Pages
 
 Settings → Pages → Source: *GitHub Actions*. O workflow em `.github/workflows/deploy.yml` faz o build a cada push na `main`.
+
+## Links e navegação
+
+A navegação usa o hash da URL, sem biblioteca de rotas; o botão voltar do navegador funciona e todo endereço é compartilhável. Livros, linha do tempo e personagens são páginas inteiras (só as Configurações são um popup).
+
+| Endereço | Mostra |
+|---|---|
+| `#` | grade dos 66 livros |
+| `#joh`, `#joh/sheet`, `#joh/read` | livro e aba (`summary`, `sheet`, `map`, `read`) |
+| `#2ki/map/Laquis` | aba Mapa com o lugar selecionado (nome em PT) |
+| `#timeline`, `#timeline/exodo` | linha do tempo, com o evento em foco |
+| `#person`, `#person/davi` | lista de personagens ou a página de uma pessoa |
+
+Trocar de aba ou de lugar atualiza o endereço sem criar entrada no histórico; ir para outra página cria. Ao voltar para a grade, a rolagem é restaurada. O código está em `src/route.js`.
