@@ -1,14 +1,15 @@
 import counts from './counts.json';
 
 // Seções seguem a legenda do TaBíblia Periódica original.
-// DECISÃO PENDENTE (André): Atos está em "evangelhos" (como na imagem original). Alternativa: seção própria.
+// Atos tem seção própria (decisão do André); a imagem original o punha junto dos Evangelhos.
 export const SECTIONS = [
   { id: 'lei', pt: 'Lei', en: 'Law', testament: 'at' },
   { id: 'historicos', pt: 'Históricos', en: 'History', testament: 'at' },
   { id: 'poesia', pt: 'Poesia e Sabedoria', en: 'Poetry & Wisdom', testament: 'at' },
   { id: 'profMaiores', pt: 'Profetas Maiores', en: 'Major Prophets', testament: 'at' },
   { id: 'profMenores', pt: 'Profetas Menores', en: 'Minor Prophets', testament: 'at' },
-  { id: 'evangelhos', pt: 'Evangelhos e Atos', en: 'Gospels & Acts', testament: 'nt' },
+  { id: 'evangelhos', pt: 'Evangelhos', en: 'Gospels', testament: 'nt' },
+  { id: 'atos', pt: 'Atos', en: 'Acts', testament: 'nt' },
   { id: 'paulo', pt: 'Cartas de Paulo', en: 'Letters of Paul', testament: 'nt' },
   { id: 'outras', pt: 'Outras Cartas', en: 'General Letters', testament: 'nt' },
   { id: 'profecia', pt: 'Profecia', en: 'Prophecy', testament: 'nt' },
@@ -59,7 +60,7 @@ const RAW = [
   ['mar', 'Mc', 'Marcos', 'Mar', 'Mark', 'evangelhos'],
   ['luk', 'Lc', 'Lucas', 'Luk', 'Luke', 'evangelhos'],
   ['joh', 'Jo', 'João', 'Joh', 'John', 'evangelhos'],
-  ['act', 'At', 'Atos', 'Act', 'Acts', 'evangelhos'],
+  ['act', 'At', 'Atos', 'Act', 'Acts', 'atos'],
   ['rom', 'Rm', 'Romanos', 'Rom', 'Romans', 'paulo'],
   ['1co', '1Co', '1 Coríntios', '1Co', '1 Corinthians', 'paulo'],
   ['2co', '2Co', '2 Coríntios', '2Co', '2 Corinthians', 'paulo'],

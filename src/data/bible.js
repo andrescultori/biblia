@@ -46,19 +46,6 @@ export const VERSIONS = [
       en: 'In the New Testament this edition follows the critical text (Nestle 1904): some verses of the traditional text are left blank (e.g. Matt 17:21).',
     },
   },
-  {
-    id: 'alm1911', lang: 'pt', label: 'ALM1911', full: 'Almeida (edição de 1911)', available: true,
-    credit: {
-      pt: 'João Ferreira de Almeida, edição de 1911. Texto digital: Project Gutenberg nº 62383.',
-      en: 'João Ferreira de Almeida, 1911 edition. Digital text: Project Gutenberg no. 62383.',
-    },
-    license: PD, attributionRequired: false,
-    sourceUrl: 'https://www.gutenberg.org/ebooks/62383',
-    note: {
-      pt: 'Ortografia da época ("creou", "n\'elle"). Em 2Co 13, os vv. 13 e 14 aparecem fundidos.',
-      en: 'Period Portuguese spelling ("creou", "n\'elle"). In 2 Cor 13, verses 13 and 14 are merged.',
-    },
-  },
 ];
 
 const cache = new Map();
