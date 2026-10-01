@@ -4,6 +4,7 @@ Tabela interativa dos 66 livros da Bíblia (inspirada no "TaBíblia Periódica")
 
 ## Como trabalhar (preferências do André)
 - Em repositório existente: diagnostique antes de aplicar e espere confirmação. Decisões de mérito (nomes, licenças, o que publicar, conteúdo teológico) são dele.
+- Pode abrir PR sem pedir confirmação. O merge continua sendo do André.
 - Respostas diretas e objetivas. Aprofunde só quando pedido.
 - Prefira soluções que reduzam custo operacional (sem APIs pagas nem serviços que cobrem por uso).
 - Se outra ferramenta do ecossistema Claude servir melhor a uma tarefa, diga.
