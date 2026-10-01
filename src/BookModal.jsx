@@ -110,7 +110,7 @@ function Sheet({ book, lang, t, info, error }) {
   const view = (pair) => (
     <>
       <p><b>{t.traditional}.</b> {pick(pair.traditional, lang)}</p>
-      {showScholarly ? <p><b>{t.scholarly}.</b> {pick(pair.scholarly, lang)}</p> : <p className="note">{t.scholarlyHidden}</p>}
+      {showScholarly && <p><b>{t.scholarly}.</b> {pick(pair.scholarly, lang)}</p>}
     </>
   );
   const text = (label, v) => (<section><h3>{label}</h3><p>{pick(v, lang)}</p></section>);

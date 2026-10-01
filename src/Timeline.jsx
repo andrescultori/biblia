@@ -21,7 +21,6 @@ function Dates({ dates, t, lang }) {
       {vs.map(([k, d]) => (
         <p key={k} className="tl-dates"><i>{t[k]}</i><b>{range(d, lang)}</b>{d.note && <span> {pick(d.note, lang)}</span>}</p>
       ))}
-      {vs.length < all.length && <p className="tl-dates tl-hidden">{t.scholarlyHidden}</p>}
     </div>
   );
 }

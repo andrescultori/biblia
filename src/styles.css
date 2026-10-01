@@ -190,4 +190,3 @@ input[type='search'] { flex: 1 1 200px; min-width: 0; border: 1px solid var(--li
 .cfg-row input { margin-top: 4px; width: 18px; height: 18px; flex: none; }
 .cfg-row small { display: block; color: var(--muted); font-size: 0.85rem; margin-top: 2px; }
 .pp-group { margin: 14px 0 6px; font: 700 1rem var(--f-display); }
-.tl-hidden { color: var(--muted); font-style: italic; }
