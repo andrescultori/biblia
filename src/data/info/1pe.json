@@ -1,0 +1,105 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Pedro, \"apóstolo de Jesus Cristo\" (1:1), com Silvano como escriba (5:12). \"Babilônia\" (5:13) é lida tradicionalmente como Roma.",
+      "en": "Peter, \"an apostle of Jesus Christ\" (1:1), with Silvanus as scribe (5:12). \"Babylon\" (5:13) is traditionally read as Rome."
+    },
+    "scholarly": {
+      "pt": "Autoria debatida. Alguns aceitam Pedro, com o auxílio de Silvano. Outros veem uma obra escrita em nome de Pedro, por causa do grego de boa qualidade e do contexto de perseguição. Não há consenso.",
+      "en": "Authorship is debated. Some accept Peter, with the help of Silvanus. Others see a work written in Peter's name, because of the good-quality Greek and the context of persecution. There is no consensus."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Por volta de 62–64 d.C., antes da morte de Pedro, em Roma.",
+      "en": "Around AD 62–64, before Peter's death, in Rome."
+    },
+    "scholarly": {
+      "pt": "Entre c. 64 e 95 d.C., conforme a posição adotada.",
+      "en": "Between c. AD 64 and 95, depending on the position adopted."
+    }
+  },
+  "place": {
+    "pt": "\"Babilônia\" (5:13), em geral entendida como Roma.",
+    "en": "\"Babylon\" (5:13), generally understood as Rome."
+  },
+  "recipients": {
+    "pt": "Cristãos \"estrangeiros e peregrinos\" dispersos no Ponto, Galácia, Capadócia, Ásia e Bitínia (1:1), em parte da atual Turquia.",
+    "en": "Christians who are \"strangers and exiles\" scattered in Pontus, Galatia, Cappadocia, Asia and Bithynia (1:1), in parts of present-day Turkey."
+  },
+  "keyVerse": "2:9",
+  "theme": {
+    "pt": "Esperança e conduta de uma comunidade que sofre injustamente: povo de Deus em meio a uma sociedade hostil, seguindo o exemplo de Cristo.",
+    "en": "Hope and conduct of a community that suffers unjustly: God's people amid a hostile society, following Christ's example."
+  },
+  "historicalContext": {
+    "pt": "As comunidades sofrem hostilidade social, e a carta oferece identidade (\"geração eleita\", 2:9) e orientação (como viver sob autoridades e em casa). A natureza da perseguição (local e social ou oficial) é debatida. 3:19–20 e 4:6 são passagens de interpretação difícil.",
+    "en": "The communities suffer social hostility, and the letter offers identity (\"chosen race\", 2:9) and guidance (how to live under authorities and at home). The nature of the persecution (local and social or official) is debated. 3:19–20 and 4:6 are passages of difficult interpretation."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Pedro",
+        "en": "Peter"
+      },
+      "role": {
+        "pt": "Apóstolo e autor, na leitura tradicional",
+        "en": "Apostle and author, in the traditional reading"
+      }
+    },
+    {
+      "name": {
+        "pt": "Silvano",
+        "en": "Silvanus"
+      },
+      "role": {
+        "pt": "Escriba ou portador (5:12)",
+        "en": "Scribe or carrier (5:12)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Marcos",
+        "en": "Mark"
+      },
+      "role": {
+        "pt": "Mencionado em 5:13 como \"meu filho\"",
+        "en": "Mentioned in 5:13 as \"my son\""
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–2:10",
+      "title": {
+        "pt": "Esperança viva e povo de Deus",
+        "en": "Living hope and God's people"
+      }
+    },
+    {
+      "ref": "2:11–3:12",
+      "title": {
+        "pt": "A conduta diante da sociedade",
+        "en": "Conduct before society"
+      }
+    },
+    {
+      "ref": "3:13–5:11",
+      "title": {
+        "pt": "Sofrimento e fidelidade",
+        "en": "Suffering and faithfulness"
+      }
+    },
+    {
+      "ref": "5:12–14",
+      "title": {
+        "pt": "Despedida",
+        "en": "Farewell"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Tem afinidades com Efésios, Romanos e Tiago. Cita Isaías 53 em 2:22–25. 2 Pedro 3:1 fala de uma \"segunda carta\".",
+    "en": "It has affinities with Ephesians, Romans and James. Quotes Isaiah 53 in 2:22–25. 2 Peter 3:1 speaks of a \"second letter\"."
+  }
+}
