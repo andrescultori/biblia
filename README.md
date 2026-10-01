@@ -12,7 +12,7 @@
 - [x] Tema claro/escuro, PT/EN
 - [x] Ficha completa dos 66 livros, PT e EN (autor, data, local, personagens, esboço, tema, contexto, conexões). A revisão de conteúdo é manual e segue em andamento
 - [x] Aba Mapa com legenda e zoom, em 46 dos 66 livros (livros sem `map` na ficha não mostram a aba)
-- [ ] Linha do tempo: estrutura e períodos prontos; eventos em andamento
+- [ ] Linha do tempo: estrutura, períodos e eventos do AT prontos; eventos do NT em andamento
 - [ ] ARA e NAA (aguardam autorização da SBB)
 
 ## Rodar localmente
@@ -93,4 +93,4 @@ O botão **Linha do tempo** abre um modal com duas camadas: (1) períodos e even
 - `dates` é `{start, end?, approx?, note?}` ou, quando a datação é debatida, `{traditional: {...}, scholarly: {...}}` (as duas leituras aparecem lado a lado, como nas fichas).
 - A **escala muda por bloco** (`blocks[].ppy` = pixels por ano); períodos curtos ganham largura mínima. A tela avisa disso.
 - Livros ligados a um período seguem o **cenário que o próprio texto descreve**, não a data de composição. Livros de datação ou ambientação debatida, poéticos e de sabedoria ficam de fora (a tela lista quais).
-- Evento com `attested: true` tem data também atestada por fonte fora da Bíblia (marcado com ◆). `npm run check` valida anos, ordem dos períodos, livros e referências.
+- Evento com `attested: true` tem data também atestada por fonte fora da Bíblia (marcado com ◆). `npm run check` valida anos, ordem dos períodos, livros e referências. A base de cada data está em `docs/linha-do-tempo-fontes.md`.
