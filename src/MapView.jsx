@@ -164,6 +164,13 @@ export default function MapView({ book, map, lang, t }) {
         </svg>
       </div>
 
+      <ul className="maplegend" aria-label={t.mapLegend}>
+        <li><svg width="16" height="16" aria-hidden="true"><circle cx="8" cy="8" r="6" fill={color} stroke="var(--panel)" strokeWidth="2" /></svg>{t.mapKnown}</li>
+        {places.some((p) => p.uncertain) && (
+          <li><svg width="16" height="16" aria-hidden="true"><circle cx="8" cy="8" r="6" fill={color} stroke="var(--panel)" strokeWidth="2" strokeDasharray="3 2" /></svg>{t.mapUncertain} (?)</li>
+        )}
+      </ul>
+
       <div className="mplaces">
         {places.map((p, i) => (
           <button key={pickText(p.name, lang)} type="button" className="place" aria-current={i === sel} onClick={() => choose(i)}>
