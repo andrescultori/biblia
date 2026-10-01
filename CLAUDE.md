@@ -12,11 +12,11 @@ Tabela interativa dos 66 livros da Bíblia (inspirada no "TaBíblia Periódica")
 
 ## Estrutura
 - `README.md` (PT) e `README.en.md` (EN): README de portfólio, espelhados; mexer nos dois juntos. Formatos de dados e detalhes técnicos em `docs/formatos-de-dados.md`. Capturas em `docs/images/`. Contagens (livros com mapa, eventos, personagens) aparecem nos dois README: atualizar ao mudar.
-- `src/data/books.js`: os 66 livros (slug, siglas e nomes PT/EN, seção, testamento). A ordem canônica é o número do livro (1 a 66), igual ao nome dos arquivos de texto.
+- `src/data/books.js`: os 66 livros (slug, siglas e nomes PT/EN, seção, testamento). Atos tem seção própria (`atos`), por decisão do André. A ordem canônica é o número do livro (1 a 66), igual ao nome dos arquivos de texto.
 - `src/data/counts.json`: capítulos e versículos por livro. É gerado pelo script, não editar à mão.
 - `src/data/bible.js`: versões de texto disponíveis (com crédito e licença mostrados no leitor) e carregamento por livro. Dentro de cada idioma, a primeira da lista é a padrão.
 - `public/bible/<versão>/<n>.json`: texto por livro (array de capítulos; cada capítulo é um array em que a posição i é o versículo i+1; versículo ausente na versão é `null`).
-- `scripts/build-bible-data.mjs`: gera o texto por livro a partir da fonte de cada versão (`kjv`, `web`, `asv`, `alm1911`, `blivre`). Só a KJV recalcula `counts.json` e aplica `scripts/data/kjv-fixes.json` (notas de margem removidas da fonte).
+- `scripts/build-bible-data.mjs`: gera o texto por livro a partir da fonte de cada versão (`kjv`, `web`, `asv`, `blivre`). Só a KJV recalcula `counts.json` e aplica `scripts/data/kjv-fixes.json` (notas de margem removidas da fonte).
 - `src/i18n.js`: textos da interface (PT/EN). Novo idioma = nova chave em `T` e em `LANGS`.
 - `src/data/info/<slug>.json`: ficha de cada livro (PT/EN), com a chave opcional `map` (lugares do mapa; formato no README).
 - `src/data/land.json`: costa em vetor (Natural Earth 50m, recortada). Não editar à mão.
@@ -38,15 +38,14 @@ Tabela interativa dos 66 livros da Bíblia (inspirada no "TaBíblia Periódica")
 - Não reproduzir a arte do TaBíblia Periódica original. O design deste projeto é próprio.
 
 ## Decisões em aberto
-- Atos está na seção "Evangelhos e Atos" (como na imagem original). Alternativa: seção própria.
-- Versões em português: no site, Bíblia Livre (CC BY 4.0, atribuição obrigatória) e Almeida 1911. ARA e NAA aguardam autorização da SBB (André vai pedir). TB não entra (a SBB declara copyright sobre a edição de 2010). ARC de 1898: sem fonte digital confiável. Detalhes em `docs/licencas-texto-biblico.md`.
+- Versões em português: no site, Bíblia Livre (CC BY 4.0, atribuição obrigatória). A Almeida 1911 foi retirada a pedido do André (ortografia antiga); o André quer pensar numa versão melhor. ARA e NAA aguardam autorização da SBB (André vai pedir). TB não entra (a SBB declara copyright sobre a edição de 2010). ARC de 1898: sem fonte digital confiável. Detalhes em `docs/licencas-texto-biblico.md`.
 - ESV e NKJV: avaliadas, não adicionadas. ESV só via API não comercial e exigiria proxy; NKJV exige permissão escrita.
 
 ## Roadmap
 1. Publicar o repositório e o GitHub Pages. **Feito.**
 2. Fichas completas por livro: autor, data, local, destinatários, versículo-chave, tema, contexto histórico, personagens, esboço, conexões. **Rascunho dos 66 livros pronto**; a revisão do André é manual e segue em andamento (pontos de atenção: autoria das cartas do NT, datação de Daniel, versículos-chave, traduções em EN).
 3. Mapa: costa em vetor com d3 (sem tiles externos). **Aba pronta** (demo em `docs/map-demo/`); **mapas feitos para todas as seções**, com revisão do André em andamento. Sem mapa de propósito: Jó, Salmos, Provérbios, Eclesiastes, Cantares (adiados a pedido do André), Lamentações, Joel, Habacuque, Ageu, Malaquias, Efésios, 2 Tessalonicenses, Filemom, Hebreus, Tiago, 2 Pedro, 1–3 João e Judas (poucos ou nenhum lugar distinto no OpenBible). **Linha do tempo: pronta** (`src/Timeline.jsx`, dados em `src/data/timeline.json`, base das datas em `docs/linha-do-tempo-fontes.md`; revisão do André pendente).
-4. Textos: **KJV, WEB, ASV, Bíblia Livre e Almeida 1911 no site.** Pendentes: ARA e NAA (autorização da SBB) e, se aparecer fonte confiável, a ARC de 1898.
+4. Textos: **KJV, WEB, ASV e Bíblia Livre no site** (Almeida 1911 retirada; buscar uma versão em português melhor). Pendentes: ARA e NAA (autorização da SBB) e, se aparecer fonte confiável, a ARC de 1898.
 5. Páginas de personagens bíblicos (`src/People.jsx`, dados em `src/data/people.json`). **Em andamento:** estrutura pronta e 113 personagens (AT e NT, seleção de principais; os Doze completos); faltam os demais, por seção, com revisão do André. Cada personagem liga a livros, eventos da linha do tempo e lugares do mapa (nos dois sentidos). Resumos só com o que o texto bíblico diz. **Genealogia (pai, filho, cônjuge) fica para mais adiante**, por exigir fontes e decisões de mérito. Outros conteúdos: a definir.
 6. Integração linha do tempo ↔ mapas: **feita** (evento → lugares do mapa; lugar → eventos). Cada evento pode ter `places: [{book, name, en}]`, validado contra o mapa da ficha. Os três (linha do tempo, mapa e personagens) já se ligam nos dois sentidos.
 

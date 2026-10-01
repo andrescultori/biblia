@@ -5,7 +5,6 @@
 //   kjv     JSON do thiagobodruk/bible (json/en_kjv.json)                        [domínio público]
 //   web     eng-web.usfx.xml do seven1m/open-bibles (vem do eBible.org)          [domínio público]
 //   asv     pasta usx-english-only/ do openbibleinfo/American-Standard-Version-Bible  [domínio público]
-//   alm1911 pasta data/canonical/ALM1911/ do damarals/biblias                     [domínio público; texto do Project Gutenberg #62383]
 //   blivre  pasta data/canonical/BLIVRE/ do damarals/biblias                      [CC BY 3.0 Brasil; exige atribuição]
 //
 // Saída: public/bible/<id>/<n>.json (n = 1..66, ordem canônica). Cada arquivo é um array de capítulos; cada capítulo
@@ -115,7 +114,7 @@ function fixKjv(data) {
   }
 }
 
-const FORMAT = { kjv: 'json', web: 'usfx', asv: 'usx', alm1911: 'damarals', blivre: 'damarals' };
+const FORMAT = { kjv: 'json', web: 'usfx', asv: 'usx', blivre: 'damarals' };
 
 const [version, source] = process.argv.slice(2);
 if (!FORMAT[version] || !source) {
