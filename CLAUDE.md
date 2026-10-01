@@ -15,7 +15,7 @@ Tabela interativa dos 66 livros da Bíblia (inspirada no "TaBíblia Periódica")
 - `src/data/counts.json`: capítulos e versículos por livro. É gerado pelo script, não editar à mão.
 - `src/data/bible.js`: versões de texto disponíveis (com crédito e licença mostrados no leitor) e carregamento por livro. Dentro de cada idioma, a primeira da lista é a padrão.
 - `public/bible/<versão>/<n>.json`: texto por livro (array de capítulos; cada capítulo é um array em que a posição i é o versículo i+1; versículo ausente na versão é `null`).
-- `scripts/build-bible-data.mjs`: gera o texto por livro a partir da fonte de cada versão (`kjv`, `web`, `asv`, `alm1911`, `blivre`). Só a KJV recalcula `counts.json`.
+- `scripts/build-bible-data.mjs`: gera o texto por livro a partir da fonte de cada versão (`kjv`, `web`, `asv`, `alm1911`, `blivre`). Só a KJV recalcula `counts.json` e aplica `scripts/data/kjv-fixes.json` (notas de margem removidas da fonte).
 - `src/i18n.js`: textos da interface (PT/EN). Novo idioma = nova chave em `T` e em `LANGS`.
 - `src/data/info/<slug>.json`: ficha de cada livro (PT/EN), com a chave opcional `map` (lugares do mapa; formato no README).
 - `src/data/land.json`: costa em vetor (Natural Earth 50m, recortada). Não editar à mão.

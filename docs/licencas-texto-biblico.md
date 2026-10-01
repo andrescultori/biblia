@@ -34,7 +34,7 @@ Levantamento de 01/10/2026. `ebible.org`, `sbb.org.br`, `gutenberg.org` e as pá
 | TB (não adicionada) | As páginas da [SBB](https://www.sbb.org.br/biblia/TB/GEN.12) exibem "Tradução Brasileira © 1917, 2010 Sociedade Bíblica do Brasil". | A tradução de 1917 provavelmente é domínio público, mas o arquivo disponível é a edição de 2010 da SBB, de ortografia modernizada. Fora, até haver uma fonte do texto de 1917. |
 | ARC 1898 | Não foi encontrada fonte digital confiável. | Há escaneamentos de edições de 1904 e 1914 no Internet Archive, que exigiriam OCR e revisão. A "ARC" dos aplicativos é a revisão da SBB de 1995, com direitos. |
 
-Fontes de arquivo descartadas: o `en_web.json` do `thiagobodruk/bible` (nota de rodapé vazada dentro do versículo e pontuação quebrada). A KJV desse mesmo repositório, já no site, tem cerca de 4.300 versículos com espaço antes da pontuação (ex.: "the LORD ."); vale regenerá-la de uma fonte mais limpa.
+Fontes de arquivo descartadas: o `en_web.json` do `thiagobodruk/bible` (nota de rodapé vazada dentro do versículo e pontuação quebrada). A KJV desse mesmo repositório tinha cerca de 4.300 versículos com espaço antes da pontuação (ex.: "the LORD .") e 40 com notas de margem vazadas no texto (ex.: "I am the LORD : : or, JEHOVAH"). Foi corrigida em `scripts/data/kjv-fixes.json` e no script, sem trocar nenhuma palavra do texto. A alternativa testada, `eng-kjv.osis.xml` do `open-bibles`, foi descartada: duplica trechos (1Cr 11:2, Ez 17:24), padroniza a grafia (Cæsar → Caesar) e traz variantes de edição (ex.: Gn 50:23 "the son Manasseh").
 
 ## SBB (ARA e NAA): como pedir autorização
 

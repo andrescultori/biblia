@@ -12,6 +12,9 @@
 //        é um array em que a posição i guarda o versículo i+1. Versículo ausente nessa versão (por exemplo, os que a
 //        ASV omite) fica como null, para o número mostrado no leitor continuar certo. Nulos no fim do capítulo são cortados.
 // Só a KJV (referência de numeração do site) recalcula src/data/counts.json.
+// A fonte da KJV tem defeitos de origem: espaço antes da pontuação ("the LORD .") e notas de margem vazadas no texto
+// ("I am the LORD : : or, JEHOVAH"). O script tira o espaço e aplica scripts/data/kjv-fixes.json (ref, texto original
+// esperado e texto final), que recusa corrigir se a fonte não bater com o texto esperado.
 import fs from 'node:fs';
 import path from 'node:path';
 
@@ -96,6 +99,22 @@ const readers = {
   },
 };
 
+// KJV: corrige a fonte (ver cabeçalho). Só mexe em espaçamento e nas notas listadas; nenhuma palavra do texto é trocada.
+function fixKjv(data) {
+  const fixes = JSON.parse(fs.readFileSync(new URL('./data/kjv-fixes.json', import.meta.url), 'utf8'));
+  for (const f of fixes) {
+    const [code, cv] = f.ref.split(' ');
+    const [c, v] = cv.split(':');
+    if (data[code]?.[c]?.[v] !== f.from) throw new Error(`kjv-fixes: ${f.ref} não bate com a fonte (a fonte mudou?)`);
+    data[code][c][v] = f.to;
+  }
+  for (const book of Object.values(data)) {
+    for (const ch of Object.values(book)) {
+      for (const v of Object.keys(ch)) ch[v] = ch[v].replace(/\s+([,.;:?!])/g, '$1');
+    }
+  }
+}
+
 const FORMAT = { kjv: 'json', web: 'usfx', asv: 'usx', alm1911: 'damarals', blivre: 'damarals' };
 
 const [version, source] = process.argv.slice(2);
@@ -105,6 +124,7 @@ if (!FORMAT[version] || !source) {
 }
 
 const data = readers[FORMAT[version]](source);
+if (version === 'kjv') fixKjv(data);
 const outDir = path.join('public', 'bible', version);
 fs.mkdirSync(outDir, { recursive: true });
 
