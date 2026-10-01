@@ -37,6 +37,7 @@ Do Êxodo na linha do tempo, por exemplo, um clique leva ao mapa de Êxodo já n
 - **Mapa** em 46 livros, com costa em vetor própria (sem tiles externos), rótulos sem colisão, zoom por região, legenda e marcação de localização debatida.
 - **Linha do tempo** com 13 períodos e 44 eventos, em escala por bloco, datas aproximadas marcadas e cronologias debatidas (como a do Êxodo) mostradas lado a lado. Os livros ficam ligados ao período que o texto descreve.
 - **Personagens**: 113 pessoas, com resumo, livros onde aparecem, eventos e lugares; lista por ordem alfabética ou por livro.
+- **Salmos como tabela**: os 150 salmos coloridos por livro do Saltério, título ou gênero, com os salmos de título histórico ligados a Davi, aos personagens e à linha do tempo.
 - **Leitor de texto** em KJV, WEB e ASV (inglês), Bíblia Livre e Almeida 1911 (português), com crédito e licença de cada uma.
 - Tema claro e escuro, PT e EN.
 

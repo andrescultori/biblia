@@ -37,6 +37,7 @@ From the Exodus on the timeline, for example, one click opens the Exodus map alr
 - **A map** in 46 books, with its own vector coastline (no external tiles), collision-free labels, regional zoom, a legend and flags for debated locations.
 - **A timeline** with 13 periods and 44 events, on a per-block scale, with approximate dates marked and debated chronologies (such as the Exodus) shown side by side. Books are tied to the period their text describes.
 - **People**: 113 people, with a summary, the books they appear in, events and places; the list sorts alphabetically or by book.
+- **Psalms as a table**: the 150 psalms colored by book of the Psalter, title or genre, with the psalms that have a historical title linked to David, the people and the timeline.
 - **A text reader** in KJV, WEB and ASV (English), Bíblia Livre and Almeida 1911 (Portuguese), with the credit and license of each.
 - Light and dark theme, PT and EN.
 

@@ -186,6 +186,38 @@ for (const v of versionIds) {
   }
 }
 
+
+// Salmos: 150, com livro do Saltério, título e (nos 13 de título histórico) pessoas e referências existentes
+{
+  const { psalms } = read('src/data/psalms.json');
+  const people = new Set(read('src/data/people.json').people.map((p) => p.id));
+  const events = new Set(read('src/data/timeline.json').events.map((e) => e.id));
+  const AUTHORS = ['david', 'asaph', 'korah', 'solomon', 'moses', 'heman', 'ethan'];
+  const GENRES = ['hino', 'lamento-ind', 'lamento-col', 'confianca', 'acao-gracas', 'real', 'sapiencial', 'historico', 'liturgia'];
+  if (psalms.length !== 150) err(`psalms.json: esperava 150 salmos, achei ${psalms.length}`);
+  psalms.forEach((p, i) => {
+    const w = `psalms[${i + 1}]`;
+    if (p.n !== i + 1) err(`${w}: n deve ser ${i + 1}`);
+    const book = p.n <= 41 ? 1 : p.n <= 72 ? 2 : p.n <= 89 ? 3 : p.n <= 106 ? 4 : 5;
+    if (p.book !== book) err(`${w}: livro do Saltério deve ser ${book}`);
+    (p.by ?? []).forEach((a) => { if (!AUTHORS.includes(a)) err(`${w}: autor "${a}" inválido`); });
+    if (!GENRES.includes(p.genre)) err(`${w}: gênero "${p.genre}" inválido`);
+    if (p.hist) {
+      bilingual(p.hist.text, `${w}.hist.text`);
+      (p.hist.people ?? []).forEach((id) => { if (!people.has(id)) err(`${w}: personagem "${id}" não existe`); });
+      (p.hist.events ?? []).forEach((id) => { if (!events.has(id)) err(`${w}: evento "${id}" não existe`); });
+      if (p.hist.ref) {
+        if (!books.includes(p.hist.ref.book)) err(`${w}.hist.ref: livro inválido`);
+        else p.hist.ref.ref.split(';').forEach((r) => refOk(r.trim(), p.hist.ref.book, `${w}.hist.ref`));
+      }
+      (p.hist.places ?? []).forEach((pl) => {
+        const place = (read(`src/data/info/${pl.book}.json`).map?.places ?? []).find((x) => x.name?.pt === pl.name);
+        if (!place || place.name.en !== pl.en) err(`${w}.hist.places: "${pl.name}" não confere com o mapa de ${pl.book}`);
+      });
+    }
+  });
+}
+
 if (errors.length) {
   console.error(`${errors.length} problema(s):`);
   errors.slice(0, 60).forEach((e) => console.error(` - ${e}`));
