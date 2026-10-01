@@ -3389,6 +3389,694 @@
           "en": "Jerusalem"
         }
       ]
+    },
+    {
+      "id": "andre",
+      "name": {
+        "pt": "André",
+        "en": "Andrew"
+      },
+      "summary": {
+        "pt": "Pescador de Betsaida, irmão de Simão Pedro e um dos Doze. Discípulo de João Batista, leva o irmão a Jesus (Jo 1:35–42) e apresenta o menino com os pães e peixes (Jo 6:8–9).",
+        "en": "A fisherman of Bethsaida, brother of Simon Peter and one of the Twelve. A disciple of John the Baptist, he brings his brother to Jesus (John 1:35–42) and points out the boy with the loaves and fish (John 6:8–9)."
+      },
+      "books": [
+        {
+          "book": "mat",
+          "role": {
+            "pt": "Pescador chamado com seu irmão Pedro (4:18–20)",
+            "en": "Fisherman called with his brother Peter (4:18–20)"
+          }
+        },
+        {
+          "book": "joh",
+          "role": {
+            "pt": "Leva Pedro a Jesus (1:40–42)",
+            "en": "Brings Peter to Jesus (1:40–42)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "mat",
+          "name": "Mar da Galileia",
+          "en": "Sea of Galilee"
+        }
+      ]
+    },
+    {
+      "id": "tiago-zebedeu",
+      "name": {
+        "pt": "Tiago, filho de Zebedeu",
+        "en": "James, son of Zebedee"
+      },
+      "summary": {
+        "pt": "Um dos Doze, irmão de João, pescador. Faz parte do círculo mais próximo de Jesus e é morto à espada por Herodes (At 12:2), o primeiro dos Doze a morrer segundo o NT.",
+        "en": "One of the Twelve, brother of John, a fisherman. He is part of Jesus' innermost circle and is killed with the sword by Herod (Acts 12:2), the first of the Twelve to die according to the NT."
+      },
+      "books": [
+        {
+          "book": "mat",
+          "role": {
+            "pt": "Pescador chamado com seu irmão João (4:21–22)",
+            "en": "Fisherman called with his brother John (4:21–22)"
+          }
+        },
+        {
+          "book": "act",
+          "role": {
+            "pt": "Morto por Herodes (12:2)",
+            "en": "Killed by Herod (12:2)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "act",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ],
+      "note": {
+        "pt": "Distinto de Tiago, o líder da igreja de Jerusalém, e de Tiago, filho de Alfeu.",
+        "en": "Distinct from James, leader of the Jerusalem church, and from James, son of Alphaeus."
+      }
+    },
+    {
+      "id": "joao-apostolo",
+      "name": {
+        "pt": "João, o apóstolo",
+        "en": "John the apostle"
+      },
+      "summary": {
+        "pt": "Pescador, filho de Zebedeu e irmão de Tiago; um dos Doze (Mc 3:17). Segundo Gl 2:9, é uma das \"colunas\" da igreja em Jerusalém. A tradição lhe atribui o quarto Evangelho, as três cartas de João e o Apocalipse; a autoria desses livros é debatida (ver as fichas).",
+        "en": "A fisherman, son of Zebedee and brother of James; one of the Twelve (Mark 3:17). According to Gal 2:9, he is one of the \"pillars\" of the church in Jerusalem. Tradition ascribes to him the fourth Gospel, the three letters of John and Revelation; authorship of those books is debated (see the sheets)."
+      },
+      "books": [
+        {
+          "book": "mar",
+          "role": {
+            "pt": "Pescador chamado com seu irmão Tiago (1:19–20)",
+            "en": "Fisherman called with his brother James (1:19–20)"
+          }
+        },
+        {
+          "book": "gal",
+          "role": {
+            "pt": "\"Coluna\" da igreja de Jerusalém (2:9)",
+            "en": "\"Pillar\" of the Jerusalem church (2:9)"
+          }
+        },
+        {
+          "book": "rev",
+          "role": {
+            "pt": "Vidente em Patmos, na leitura tradicional (1:9)",
+            "en": "Seer on Patmos, in the traditional reading (1:9)"
+          }
+        }
+      ],
+      "events": [
+        "apocalipse"
+      ],
+      "places": [
+        {
+          "book": "rev",
+          "name": "Patmos",
+          "en": "Patmos"
+        }
+      ],
+      "uncertain": true,
+      "note": {
+        "pt": "A identificação do \"João\" do Apocalipse e do \"discípulo amado\" do quarto Evangelho com este apóstolo é debatida.",
+        "en": "The identification of the \"John\" of Revelation and of the \"beloved disciple\" of the fourth Gospel with this apostle is debated."
+      }
+    },
+    {
+      "id": "mateus",
+      "name": {
+        "pt": "Mateus (Levi)",
+        "en": "Matthew (Levi)"
+      },
+      "summary": {
+        "pt": "Cobrador de impostos em Cafarnaum, chamado por Jesus para segui-lo e contado entre os Doze (Mt 9:9; 10:3). Marcos e Lucas contam o mesmo chamado com o nome Levi (Mc 2:14; Lc 5:27). A tradição lhe atribui o primeiro Evangelho; a autoria é debatida (ver a ficha).",
+        "en": "A tax collector in Capernaum, called by Jesus to follow him and counted among the Twelve (Matt 9:9; 10:3). Mark and Luke tell the same call with the name Levi (Mark 2:14; Luke 5:27). Tradition ascribes the first Gospel to him; authorship is debated (see the sheet)."
+      },
+      "books": [
+        {
+          "book": "mat",
+          "role": {
+            "pt": "Cobrador de impostos chamado por Jesus (9:9)",
+            "en": "Tax collector called by Jesus (9:9)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "mat",
+          "name": "Cafarnaum",
+          "en": "Capernaum"
+        }
+      ]
+    },
+    {
+      "id": "filipe-apostolo",
+      "name": {
+        "pt": "Filipe, o apóstolo",
+        "en": "Philip the apostle"
+      },
+      "summary": {
+        "pt": "De Betsaida, um dos Doze. Chamado por Jesus na Galileia, leva Natanael a ele (Jo 1:43–46); aparece na multiplicação dos pães e na ceia (Jo 6:5–7; 14:8–9).",
+        "en": "From Bethsaida, one of the Twelve. Called by Jesus in Galilee, he brings Nathanael to him (John 1:43–46); he appears at the feeding of the multitude and at the supper (John 6:5–7; 14:8–9)."
+      },
+      "books": [
+        {
+          "book": "joh",
+          "role": {
+            "pt": "Discípulo de Betsaida (1:43–46; 6:5–7; 14:8–9)",
+            "en": "Disciple from Bethsaida (1:43–46; 6:5–7; 14:8–9)"
+          }
+        }
+      ],
+      "note": {
+        "pt": "Distinto de Filipe, o evangelista de At 6 e 8.",
+        "en": "Distinct from Philip the evangelist of Acts 6 and 8."
+      }
+    },
+    {
+      "id": "judas-iscariotes",
+      "name": {
+        "pt": "Judas Iscariotes",
+        "en": "Judas Iscariot"
+      },
+      "summary": {
+        "pt": "Um dos Doze e tesoureiro do grupo (Jo 12:4–6). Entrega Jesus aos sacerdotes por trinta moedas de prata (Mt 26:14–16) e morre depois (Mt 27:3–5; At 1:16–20).",
+        "en": "One of the Twelve and treasurer of the group (John 12:4–6). He hands Jesus over to the priests for thirty pieces of silver (Matt 26:14–16) and dies afterward (Matt 27:3–5; Acts 1:16–20)."
+      },
+      "books": [
+        {
+          "book": "mat",
+          "role": {
+            "pt": "Entrega Jesus (26:14–16; 27:3–5)",
+            "en": "Betrays Jesus (26:14–16; 27:3–5)"
+          }
+        },
+        {
+          "book": "joh",
+          "role": {
+            "pt": "Tesoureiro dos Doze (12:4–6)",
+            "en": "Treasurer of the Twelve (12:4–6)"
+          }
+        },
+        {
+          "book": "act",
+          "role": {
+            "pt": "Sua morte e a escolha do substituto (1:15–26)",
+            "en": "His death and the choice of a replacement (1:15–26)"
+          }
+        }
+      ],
+      "events": [
+        "crucificacao"
+      ],
+      "places": [
+        {
+          "book": "mat",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "matias",
+      "name": {
+        "pt": "Matias",
+        "en": "Matthias"
+      },
+      "summary": {
+        "pt": "Escolhido por sorteio para ocupar o lugar de Judas entre os Doze, depois da ascensão (At 1:21–26).",
+        "en": "Chosen by lot to take Judas' place among the Twelve, after the ascension (Acts 1:21–26)."
+      },
+      "books": [
+        {
+          "book": "act",
+          "role": {
+            "pt": "Escolhido para completar os Doze (1:21–26)",
+            "en": "Chosen to complete the Twelve (1:21–26)"
+          }
+        }
+      ],
+      "events": [
+        "pentecostes"
+      ],
+      "places": [
+        {
+          "book": "act",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "filipe-evangelista",
+      "name": {
+        "pt": "Filipe, o evangelista",
+        "en": "Philip the evangelist"
+      },
+      "summary": {
+        "pt": "Um dos sete escolhidos para servir em Jerusalém (At 6:5). Prega em Samaria e batiza o oficial etíope (At 8). Mais tarde hospeda Paulo em Cesareia e é chamado \"o evangelista\", pai de quatro filhas que profetizavam (At 21:8–9).",
+        "en": "One of the seven chosen to serve in Jerusalem (Acts 6:5). He preaches in Samaria and baptizes the Ethiopian official (Acts 8). Later he hosts Paul in Caesarea and is called \"the evangelist\", father of four daughters who prophesied (Acts 21:8–9)."
+      },
+      "books": [
+        {
+          "book": "act",
+          "role": {
+            "pt": "Evangelista em Samaria e junto ao etíope (cap. 8)",
+            "en": "Evangelist in Samaria and with the Ethiopian (ch. 8)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "act",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ],
+      "note": {
+        "pt": "Distinto de Filipe, o apóstolo, dos Evangelhos.",
+        "en": "Distinct from Philip the apostle of the Gospels."
+      }
+    },
+    {
+      "id": "silas",
+      "name": {
+        "pt": "Silas (Silvano)",
+        "en": "Silas (Silvanus)"
+      },
+      "summary": {
+        "pt": "Líder da igreja de Jerusalém enviado a Antioquia com a decisão do concílio (At 15:22). Acompanha Paulo na segunda viagem e é preso com ele em Filipos (At 15:40; 16:19–40). Aparece como Silvano nas cartas (1Ts 1:1; 2Co 1:19; 1Pe 5:12).",
+        "en": "A leader of the Jerusalem church sent to Antioch with the council's decision (Acts 15:22). He accompanies Paul on the second journey and is jailed with him in Philippi (Acts 15:40; 16:19–40). He appears as Silvanus in the letters (1 Thess 1:1; 2 Cor 1:19; 1 Pet 5:12)."
+      },
+      "books": [
+        {
+          "book": "act",
+          "role": {
+            "pt": "Companheiro de Paulo na segunda viagem (15:22–18:5)",
+            "en": "Paul's companion on the second journey (15:22–18:5)"
+          }
+        },
+        {
+          "book": "1th",
+          "role": {
+            "pt": "Co-remetente, com Paulo e Timóteo (1:1)",
+            "en": "Co-sender, with Paul and Timothy (1:1)"
+          }
+        },
+        {
+          "book": "1pe",
+          "role": {
+            "pt": "Escriba ou portador (5:12)",
+            "en": "Scribe or bearer (5:12)"
+          }
+        }
+      ],
+      "events": [
+        "viagem2-3"
+      ],
+      "places": [
+        {
+          "book": "act",
+          "name": "Filipos",
+          "en": "Philippi"
+        }
+      ]
+    },
+    {
+      "id": "joao-marcos",
+      "name": {
+        "pt": "João Marcos",
+        "en": "John Mark"
+      },
+      "summary": {
+        "pt": "De Jerusalém, filho de Maria, cuja casa reunia a igreja (At 12:12); primo de Barnabé (Cl 4:10). Vai com Barnabé e Paulo na primeira viagem, mas volta (At 13:5, 13); por causa dele Paulo e Barnabé se separam (At 15:37–39). Paulo depois o chama de útil (2Tm 4:11). A tradição lhe atribui o segundo Evangelho; a autoria é debatida.",
+        "en": "From Jerusalem, son of Mary, whose house gathered the church (Acts 12:12); cousin of Barnabas (Col 4:10). He goes with Barnabas and Paul on the first journey but turns back (Acts 13:5, 13); Paul and Barnabas part ways over him (Acts 15:37–39). Paul later calls him useful (2 Tim 4:11). Tradition ascribes the second Gospel to him; authorship is debated."
+      },
+      "books": [
+        {
+          "book": "act",
+          "role": {
+            "pt": "Companheiro de Barnabé e Paulo (12:12; 13:5, 13; 15:37–39)",
+            "en": "Companion of Barnabas and Paul (12:12; 13:5, 13; 15:37–39)"
+          }
+        },
+        {
+          "book": "col",
+          "role": {
+            "pt": "Primo de Barnabé (4:10)",
+            "en": "Cousin of Barnabas (4:10)"
+          }
+        },
+        {
+          "book": "1pe",
+          "role": {
+            "pt": "Mencionado em 5:13 como \"meu filho\"",
+            "en": "Mentioned in 5:13 as \"my son\""
+          }
+        }
+      ],
+      "events": [
+        "viagem1"
+      ],
+      "places": [
+        {
+          "book": "act",
+          "name": "Antioquia",
+          "en": "Antioch"
+        },
+        {
+          "book": "act",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ],
+      "uncertain": true,
+      "note": {
+        "pt": "A identificação do autor do segundo Evangelho com este Marcos é tradicional, mas debatida.",
+        "en": "The identification of the author of the second Gospel with this Mark is traditional but debated."
+      }
+    },
+    {
+      "id": "lucas",
+      "name": {
+        "pt": "Lucas",
+        "en": "Luke"
+      },
+      "summary": {
+        "pt": "Médico e colaborador de Paulo, chamado \"o médico amado\" (Cl 4:14; Fm 24; 2Tm 4:11). A tradição lhe atribui o terceiro Evangelho e Atos; as passagens de Atos em \"nós\" sugerem que o autor viajou com Paulo (At 16:10–17; 20:5–21:18; 27–28). A autoria é debatida (ver as fichas).",
+        "en": "Physician and coworker of Paul, called \"the beloved physician\" (Col 4:14; Phlm 24; 2 Tim 4:11). Tradition ascribes the third Gospel and Acts to him; the \"we\" passages in Acts suggest the author traveled with Paul (Acts 16:10–17; 20:5–21:18; 27–28). Authorship is debated (see the sheets)."
+      },
+      "books": [
+        {
+          "book": "col",
+          "role": {
+            "pt": "Médico amado, colaborador de Paulo (4:14)",
+            "en": "Beloved physician, Paul's coworker (4:14)"
+          }
+        },
+        {
+          "book": "2ti",
+          "role": {
+            "pt": "Único que está com Paulo (4:11)",
+            "en": "The only one with Paul (4:11)"
+          }
+        },
+        {
+          "book": "phm",
+          "role": {
+            "pt": "Colaborador de Paulo (v. 24)",
+            "en": "Paul's coworker (v. 24)"
+          }
+        }
+      ],
+      "uncertain": true
+    },
+    {
+      "id": "lidia",
+      "name": {
+        "pt": "Lídia",
+        "en": "Lydia"
+      },
+      "summary": {
+        "pt": "Vendedora de púrpura, de Tiatira, que adora a Deus. Em Filipos, ouve Paulo junto ao rio, é batizada com a família e hospeda os missionários (At 16:11–15, 40).",
+        "en": "A seller of purple goods, from Thyatira, who worships God. In Philippi she hears Paul by the river, is baptized with her household and hosts the missionaries (Acts 16:11–15, 40)."
+      },
+      "books": [
+        {
+          "book": "act",
+          "role": {
+            "pt": "Primeira convertida em Filipos (16:14–15)",
+            "en": "First convert in Philippi (16:14–15)"
+          }
+        }
+      ],
+      "events": [
+        "viagem2-3"
+      ],
+      "places": [
+        {
+          "book": "act",
+          "name": "Filipos",
+          "en": "Philippi"
+        }
+      ]
+    },
+    {
+      "id": "cornelio",
+      "name": {
+        "pt": "Cornélio",
+        "en": "Cornelius"
+      },
+      "summary": {
+        "pt": "Centurião romano em Cesareia, temente a Deus. Pedro vai à sua casa depois de uma visão, e a casa dele recebe o Espírito e é batizada: o início da missão entre os gentios (At 10–11).",
+        "en": "A Roman centurion in Caesarea, a God-fearer. Peter goes to his house after a vision, and his household receives the Spirit and is baptized: the start of the mission among the Gentiles (Acts 10–11)."
+      },
+      "books": [
+        {
+          "book": "act",
+          "role": {
+            "pt": "Centurião que recebe Pedro (caps. 10–11)",
+            "en": "Centurion who receives Peter (chs. 10–11)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "filemom",
+      "name": {
+        "pt": "Filemom",
+        "en": "Philemon"
+      },
+      "summary": {
+        "pt": "Destinatário da carta de Paulo. Tem uma igreja em sua casa (Fm 2) e é dono de Onésimo, que Paulo pede que seja recebido \"como irmão amado\" (Fm 10–16).",
+        "en": "Recipient of Paul's letter. He has a church in his house (Phlm 2) and is the owner of Onesimus, whom Paul asks him to receive \"as a beloved brother\" (Phlm 10–16)."
+      },
+      "books": [
+        {
+          "book": "phm",
+          "role": {
+            "pt": "Destinatário; dono de Onésimo",
+            "en": "Recipient; owner of Onesimus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tiquico",
+      "name": {
+        "pt": "Tíquico",
+        "en": "Tychicus"
+      },
+      "summary": {
+        "pt": "Colaborador de Paulo, da Ásia (At 20:4). Leva as cartas aos Efésios e aos Colossenses e informa as igrejas sobre Paulo (Ef 6:21–22; Cl 4:7–9); aparece também em 2Tm 4:12 e Tt 3:12.",
+        "en": "Paul's coworker, from Asia (Acts 20:4). He carries the letters to the Ephesians and the Colossians and informs the churches about Paul (Eph 6:21–22; Col 4:7–9); he also appears in 2 Tim 4:12 and Titus 3:12."
+      },
+      "books": [
+        {
+          "book": "eph",
+          "role": {
+            "pt": "Portador da carta (6:21–22)",
+            "en": "Bearer of the letter (6:21–22)"
+          }
+        },
+        {
+          "book": "col",
+          "role": {
+            "pt": "Portador da carta (4:7)",
+            "en": "Bearer of the letter (4:7)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "act",
+          "name": "Éfeso",
+          "en": "Ephesus"
+        }
+      ]
+    },
+    {
+      "id": "epafras",
+      "name": {
+        "pt": "Epafras",
+        "en": "Epaphras"
+      },
+      "summary": {
+        "pt": "De Colossos, servo de Cristo e quem trouxe o evangelho à cidade (Cl 1:7; 4:12–13). Está com Paulo preso (Fm 23).",
+        "en": "From Colossae, a servant of Christ and the one who brought the gospel to the city (Col 1:7; 4:12–13). He is with Paul in prison (Phlm 23)."
+      },
+      "books": [
+        {
+          "book": "col",
+          "role": {
+            "pt": "Fundador da igreja de Colossos (1:7; 4:12)",
+            "en": "Founder of the church in Colossae (1:7; 4:12)"
+          }
+        },
+        {
+          "book": "phm",
+          "role": {
+            "pt": "Companheiro de prisão de Paulo (v. 23)",
+            "en": "Paul's fellow prisoner (v. 23)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "col",
+          "name": "Colossos",
+          "en": "Colossae"
+        },
+        {
+          "book": "col",
+          "name": "Laodiceia",
+          "en": "Laodicea"
+        },
+        {
+          "book": "col",
+          "name": "Hierápolis",
+          "en": "Hierapolis"
+        }
+      ]
+    },
+    {
+      "id": "epafrodito",
+      "name": {
+        "pt": "Epafrodito",
+        "en": "Epaphroditus"
+      },
+      "summary": {
+        "pt": "Enviado pela igreja de Filipos a Paulo preso, com uma oferta. Adoece gravemente e Paulo o manda de volta com a carta (Fp 2:25–30; 4:18).",
+        "en": "Sent by the church in Philippi to Paul in prison, with a gift. He becomes gravely ill, and Paul sends him back with the letter (Phil 2:25–30; 4:18)."
+      },
+      "books": [
+        {
+          "book": "php",
+          "role": {
+            "pt": "Enviado pela igreja de Filipos (2:25–30)",
+            "en": "Sent by the church in Philippi (2:25–30)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "php",
+          "name": "Filipos",
+          "en": "Philippi"
+        }
+      ]
+    },
+    {
+      "id": "lazaro",
+      "name": {
+        "pt": "Lázaro",
+        "en": "Lazarus"
+      },
+      "summary": {
+        "pt": "Irmão de Marta e Maria, de Betânia, amigo de Jesus. Jesus o ressuscita depois de quatro dias no túmulo (Jo 11).",
+        "en": "Brother of Martha and Mary, of Bethany, a friend of Jesus. Jesus raises him after four days in the tomb (John 11)."
+      },
+      "books": [
+        {
+          "book": "joh",
+          "role": {
+            "pt": "Amigo de Jesus em Betânia, com Marta e Maria (cap. 11)",
+            "en": "Friend of Jesus in Bethany, with Martha and Mary (ch. 11)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "joh",
+          "name": "Betânia",
+          "en": "Bethany"
+        }
+      ],
+      "note": {
+        "pt": "Não confundir com o Lázaro da parábola de Lc 16:19–31.",
+        "en": "Not to be confused with the Lazarus of the parable in Luke 16:19–31."
+      }
+    },
+    {
+      "id": "marta",
+      "name": {
+        "pt": "Marta",
+        "en": "Martha"
+      },
+      "summary": {
+        "pt": "Irmã de Maria e Lázaro, de Betânia. Recebe Jesus em casa e é gentilmente repreendida por sua pressa (Lc 10:38–42); confessa que ele é o Cristo antes da ressurreição de Lázaro (Jo 11:20–27).",
+        "en": "Sister of Mary and Lazarus, of Bethany. She welcomes Jesus into her home and is gently corrected for her busyness (Luke 10:38–42); she confesses that he is the Christ before Lazarus is raised (John 11:20–27)."
+      },
+      "books": [
+        {
+          "book": "luk",
+          "role": {
+            "pt": "Recebe Jesus em casa (10:38–42)",
+            "en": "Welcomes Jesus into her home (10:38–42)"
+          }
+        },
+        {
+          "book": "joh",
+          "role": {
+            "pt": "Amiga de Jesus em Betânia (cap. 11)",
+            "en": "Friend of Jesus in Bethany (ch. 11)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "joh",
+          "name": "Betânia",
+          "en": "Bethany"
+        }
+      ]
+    },
+    {
+      "id": "maria-de-betania",
+      "name": {
+        "pt": "Maria de Betânia",
+        "en": "Mary of Bethany"
+      },
+      "summary": {
+        "pt": "Irmã de Marta e Lázaro. Senta-se aos pés de Jesus para ouvi-lo (Lc 10:39) e o unge com perfume caro seis dias antes da Páscoa (Jo 12:1–8).",
+        "en": "Sister of Martha and Lazarus. She sits at Jesus' feet to listen to him (Luke 10:39) and anoints him with costly perfume six days before the Passover (John 12:1–8)."
+      },
+      "books": [
+        {
+          "book": "luk",
+          "role": {
+            "pt": "Ouve Jesus aos seus pés (10:39)",
+            "en": "Listens to Jesus at his feet (10:39)"
+          }
+        },
+        {
+          "book": "joh",
+          "role": {
+            "pt": "Unge Jesus (12:1–8)",
+            "en": "Anoints Jesus (12:1–8)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "joh",
+          "name": "Betânia",
+          "en": "Bethany"
+        }
+      ],
+      "note": {
+        "pt": "Não confundir com Maria, mãe de Jesus, nem com Maria Madalena. A unção de Jo 12 é por vezes comparada à de Mt 26:6–13 e Mc 14:3–9.",
+        "en": "Not to be confused with Mary, mother of Jesus, or Mary Magdalene. The anointing of John 12 is sometimes compared with Matt 26:6–13 and Mark 14:3–9."
+      }
     }
   ]
 }
