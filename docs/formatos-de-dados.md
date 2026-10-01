@@ -99,3 +99,7 @@ Trocar de aba ou de lugar atualiza o endereço sem criar entrada no histórico; 
 ## Salmos
 
 `src/data/psalms.json` tem os 150 salmos (numeração da KJV): `book` (1 a 5, do Saltério), `by` (autores no título: `david`, `asaph`, `korah`, `solomon`, `moses`, `heman`, `ethan`), `genre` (classificação de Gunkel e Westermann; `mixed: true` quando o salmo é misto), `pilgrim` (Sl 120–134, "cântico de romagem") e, nos 13 salmos de título histórico, `hist` (`text`, `ref`, `people`, `events`, `places`). O gênero é uma leitura acadêmica e só aparece com a posição acadêmica ligada. `npm run check` valida a contagem, o livro do Saltério, as pessoas, eventos e lugares ligados.
+
+## Estrutura dos livros de sabedoria
+
+A chave opcional `structure` da ficha (`src/data/info/<slug>.json`) mostra a aba Estrutura: `parts` (cada uma com `ref`, `title` PT/EN, `chapters` e, em Jó, `voice`), `voices` (só em Jó), `note` e `readings` (`name`, `summary` e `view`: `traditional`, `scholarly` ou `null`). Cada capítulo do livro deve estar em exatamente uma parte; o `npm run check` confere isso e as referências. Hoje existe em Jó, Provérbios, Eclesiastes e Cantares.

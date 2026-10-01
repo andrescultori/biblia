@@ -38,6 +38,7 @@ From the Exodus on the timeline, for example, one click opens the Exodus map alr
 - **A timeline** with 13 periods and 44 events, on a per-block scale, with approximate dates marked and debated chronologies (such as the Exodus) shown side by side. Books are tied to the period their text describes.
 - **People**: 113 people, with a summary, the books they appear in, events and places; the list sorts alphabetically or by book.
 - **Psalms as a table**: the 150 psalms colored by book of the Psalter, title or genre, with the psalms that have a historical title linked to David, the people and the timeline.
+- **Structure of Job, Proverbs, Ecclesiastes and Song of Songs**: chapters colored by part (in Job, by speaker), the list of parts and, in Ecclesiastes and Song of Songs, the readings side by side.
 - **A text reader** in KJV, WEB and ASV (English), Bíblia Livre (Portuguese), with the credit and license of each.
 - Light and dark theme, PT and EN.
 
