@@ -82,7 +82,7 @@ export default function App() {
             ))}
           </div>
           <button type="button" className="ghost" onClick={() => setShowSettings(true)} aria-label={t.settings} title={t.settings}>⚙</button>
-          <button type="button" className="ghost" onClick={cycleTheme} aria-label={t.theme} title={`${t.theme}: ${theme}`}>
+          <button type="button" className="ghost" onClick={cycleTheme} aria-label={t.toggleTheme} title={`${t.toggleTheme}: ${theme}`}>
             {theme === 'auto' ? 'Auto' : theme === 'dark' ? '☾' : '☀'}
           </button>
         </div>
@@ -116,7 +116,6 @@ export default function App() {
             </div>
           </section>
         ))}
-        <p className="note">{t.legendNote}</p>
       </main>
       )}
 
