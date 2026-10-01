@@ -1,0 +1,379 @@
+{
+  "blocks": [
+    {
+      "id": "b1",
+      "title": {
+        "pt": "Origens a Juízes",
+        "en": "Origins to Judges"
+      },
+      "ppy": 0.25
+    },
+    {
+      "id": "b2",
+      "title": {
+        "pt": "Monarquia",
+        "en": "Monarchy"
+      },
+      "ppy": 1.0
+    },
+    {
+      "id": "b3",
+      "title": {
+        "pt": "Exílio a Jesus",
+        "en": "Exile to Jesus"
+      },
+      "ppy": 0.8
+    },
+    {
+      "id": "b4",
+      "title": {
+        "pt": "Novo Testamento",
+        "en": "New Testament"
+      },
+      "ppy": 4
+    }
+  ],
+  "periods": [
+    {
+      "id": "origens",
+      "block": "b1",
+      "title": {
+        "pt": "Origens",
+        "en": "Origins"
+      },
+      "summary": {
+        "pt": "Criação, queda, dilúvio e Babel (Gênesis 1–11). O texto não dá datas e as tentativas de datar variam enormemente.",
+        "en": "Creation, fall, flood and Babel (Genesis 1–11). The text gives no dates and attempts to date it vary enormously."
+      },
+      "books": [
+        "gen"
+      ],
+      "undated": true
+    },
+    {
+      "id": "patriarcas",
+      "block": "b1",
+      "title": {
+        "pt": "Patriarcas",
+        "en": "Patriarchs"
+      },
+      "summary": {
+        "pt": "Abraão, Isaque, Jacó e José (Gênesis 12–50).",
+        "en": "Abraham, Isaac, Jacob and Joseph (Genesis 12–50)."
+      },
+      "dates": {
+        "traditional": {
+          "start": -2100,
+          "end": -1876,
+          "approx": true,
+          "note": {
+            "pt": "Da chamada de Abraão à descida de Jacó ao Egito, contando os 430 anos de Êx 12:40 a partir do Êxodo c. 1446 a.C. A contagem é debatida (a versão grega inclui o tempo em Canaã).",
+            "en": "From Abraham's call to Jacob's descent into Egypt, counting the 430 years of Exod 12:40 back from the Exodus c. 1446 BC. The count is debated (the Greek version includes the time in Canaan)."
+          }
+        },
+        "scholarly": {
+          "start": -2000,
+          "end": -1600,
+          "approx": true,
+          "note": {
+            "pt": "Quem aceita um núcleo histórico costuma situar os patriarcas no Bronze Médio. Muitos pesquisadores consideram as narrativas não datáveis.",
+            "en": "Those who accept a historical core usually place the patriarchs in the Middle Bronze Age. Many scholars consider the narratives undatable."
+          }
+        }
+      },
+      "books": [
+        "gen"
+      ],
+      "uncertain": true
+    },
+    {
+      "id": "egito-exodo",
+      "block": "b1",
+      "title": {
+        "pt": "Egito e Êxodo",
+        "en": "Egypt and Exodus"
+      },
+      "summary": {
+        "pt": "Israel no Egito, o Êxodo e os quarenta anos no deserto (Êxodo a Deuteronômio).",
+        "en": "Israel in Egypt, the Exodus and the forty years in the wilderness (Exodus to Deuteronomy)."
+      },
+      "dates": {
+        "traditional": {
+          "start": -1876,
+          "end": -1406,
+          "approx": true,
+          "note": {
+            "pt": "Cronologia alta: Êxodo c. 1446 a.C., a partir de 1Rs 6:1.",
+            "en": "Early chronology: Exodus c. 1446 BC, based on 1 Kgs 6:1."
+          }
+        },
+        "scholarly": {
+          "start": -1300,
+          "end": -1200,
+          "approx": true,
+          "note": {
+            "pt": "Cronologia baixa: Êxodo no séc. XIII a.C. (c. 1260–1250), no tempo dos ramessidas. Alguns pesquisadores veem nas narrativas apenas a memória de um grupo menor.",
+            "en": "Late chronology: Exodus in the 13th century BC (c. 1260–1250), in the Ramesside period. Some scholars see in the narratives only the memory of a smaller group."
+          }
+        }
+      },
+      "books": [
+        "exo",
+        "lev",
+        "num",
+        "deu"
+      ],
+      "uncertain": true
+    },
+    {
+      "id": "conquista-juizes",
+      "block": "b1",
+      "title": {
+        "pt": "Conquista e Juízes",
+        "en": "Conquest and Judges"
+      },
+      "summary": {
+        "pt": "A entrada em Canaã e o período dos juízes, até a monarquia.",
+        "en": "The entry into Canaan and the period of the judges, up to the monarchy."
+      },
+      "dates": {
+        "traditional": {
+          "start": -1406,
+          "end": -1050,
+          "approx": true
+        },
+        "scholarly": {
+          "start": -1220,
+          "end": -1050,
+          "approx": true,
+          "note": {
+            "pt": "A estela de Merneptá (c. 1208 a.C.) é a mais antiga menção a Israel fora da Bíblia.",
+            "en": "The Merneptah stele (c. 1208 BC) is the earliest mention of Israel outside the Bible."
+          }
+        }
+      },
+      "books": [
+        "jos",
+        "jdg",
+        "rut"
+      ],
+      "uncertain": true
+    },
+    {
+      "id": "monarquia-unida",
+      "block": "b2",
+      "title": {
+        "pt": "Monarquia unida",
+        "en": "United monarchy"
+      },
+      "summary": {
+        "pt": "Saul, Davi e Salomão reinam sobre todo o Israel.",
+        "en": "Saul, David and Solomon rule over all Israel."
+      },
+      "dates": {
+        "start": -1050,
+        "end": -931,
+        "approx": true
+      },
+      "books": [
+        "1sa",
+        "2sa",
+        "1ki",
+        "1ch",
+        "2ch"
+      ]
+    },
+    {
+      "id": "reino-dividido",
+      "block": "b2",
+      "title": {
+        "pt": "Reino dividido",
+        "en": "Divided kingdom"
+      },
+      "summary": {
+        "pt": "Israel (norte) e Judá (sul) como reinos separados, até a queda de Samaria.",
+        "en": "Israel (north) and Judah (south) as separate kingdoms, until the fall of Samaria."
+      },
+      "dates": {
+        "start": -931,
+        "end": -722
+      },
+      "books": [
+        "1ki",
+        "2ki",
+        "2ch",
+        "hos",
+        "amo",
+        "jon",
+        "mic",
+        "isa"
+      ]
+    },
+    {
+      "id": "juda",
+      "block": "b2",
+      "title": {
+        "pt": "Judá sozinho",
+        "en": "Judah alone"
+      },
+      "summary": {
+        "pt": "Depois de Samaria, Judá sobrevive até a queda de Jerusalém.",
+        "en": "After Samaria, Judah survives until the fall of Jerusalem."
+      },
+      "dates": {
+        "start": -722,
+        "end": -586
+      },
+      "books": [
+        "2ki",
+        "2ch",
+        "isa",
+        "mic",
+        "nah",
+        "zep",
+        "hab",
+        "jer"
+      ]
+    },
+    {
+      "id": "exilio",
+      "block": "b3",
+      "title": {
+        "pt": "Exílio",
+        "en": "Exile"
+      },
+      "summary": {
+        "pt": "Deportações para a Babilônia, destruição de Jerusalém e do templo e vida no exílio.",
+        "en": "Deportations to Babylon, destruction of Jerusalem and the temple, and life in exile."
+      },
+      "dates": {
+        "start": -586,
+        "end": -538
+      },
+      "books": [
+        "jer",
+        "lam",
+        "eze",
+        "dan"
+      ]
+    },
+    {
+      "id": "restauracao",
+      "block": "b3",
+      "title": {
+        "pt": "Retorno e restauração",
+        "en": "Return and restoration"
+      },
+      "summary": {
+        "pt": "O decreto de Ciro, a reconstrução do templo e das muralhas e o fim do período do AT.",
+        "en": "Cyrus's decree, the rebuilding of the temple and the walls, and the end of the OT period."
+      },
+      "dates": {
+        "start": -538,
+        "end": -400,
+        "approx": true
+      },
+      "books": [
+        "ezr",
+        "neh",
+        "est",
+        "hag",
+        "zec",
+        "mal"
+      ]
+    },
+    {
+      "id": "intertestamentario",
+      "block": "b3",
+      "title": {
+        "pt": "Entre os Testamentos",
+        "en": "Between the Testaments"
+      },
+      "summary": {
+        "pt": "Domínio persa, grego e romano. Os livros desse período (deuterocanônicos) não fazem parte desta tabela.",
+        "en": "Persian, Greek and Roman rule. The books of this period (deuterocanonical) are not part of this table."
+      },
+      "dates": {
+        "start": -400,
+        "end": -6,
+        "approx": true
+      },
+      "books": []
+    },
+    {
+      "id": "jesus",
+      "block": "b4",
+      "title": {
+        "pt": "Vida de Jesus",
+        "en": "Life of Jesus"
+      },
+      "summary": {
+        "pt": "Do nascimento ao ministério, morte e ressurreição.",
+        "en": "From birth to ministry, death and resurrection."
+      },
+      "dates": {
+        "start": -6,
+        "end": 30,
+        "approx": true,
+        "note": {
+          "pt": "Jesus nasceu antes da morte de Herodes (4 a.C.). Sua morte é situada em 30 ou 33 d.C.",
+          "en": "Jesus was born before Herod's death (4 BC). His death is placed in AD 30 or 33."
+        }
+      },
+      "books": [
+        "mat",
+        "mar",
+        "luk",
+        "joh"
+      ]
+    },
+    {
+      "id": "igreja",
+      "block": "b4",
+      "title": {
+        "pt": "Igreja primitiva",
+        "en": "Early church"
+      },
+      "summary": {
+        "pt": "De Pentecostes às viagens de Paulo e à prisão em Roma (Atos).",
+        "en": "From Pentecost to Paul's journeys and imprisonment in Rome (Acts)."
+      },
+      "dates": {
+        "start": 30,
+        "end": 62,
+        "approx": true
+      },
+      "books": [
+        "act",
+        "gal",
+        "1th",
+        "1co",
+        "2co",
+        "rom",
+        "php"
+      ]
+    },
+    {
+      "id": "fim-seculo",
+      "block": "b4",
+      "title": {
+        "pt": "Fim do século I",
+        "en": "Late first century"
+      },
+      "summary": {
+        "pt": "Destruição do templo (70 d.C.) e o fim do período apostólico.",
+        "en": "Destruction of the temple (AD 70) and the end of the apostolic period."
+      },
+      "dates": {
+        "start": 62,
+        "end": 100,
+        "approx": true
+      },
+      "books": [
+        "rev"
+      ],
+      "uncertain": true
+    }
+  ],
+  "events": []
+}

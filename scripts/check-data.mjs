@@ -80,11 +80,60 @@ for (const v of versionIds) {
   if (!fs.existsSync(path.join(root, `public/bible/${v}/LICENSE.txt`)) && v !== 'kjv') err(`public/bible/${v}: falta LICENSE.txt`);
 }
 
+
+// Linha do tempo: blocos, períodos e eventos
+{
+  const tl = read('src/data/timeline.json');
+  const year = (y) => Number.isInteger(y) && y !== 0 && y >= -5000 && y <= 120; // não existe o ano 0
+  const dateOk = (d, where) => {
+    if (!d || !year(d.start)) { err(`${where}: start inválido`); return null; }
+    if (d.end !== undefined && (!year(d.end) || d.end < d.start)) err(`${where}: end inválido ou antes de start`);
+    if (d.approx !== undefined && typeof d.approx !== 'boolean') err(`${where}.approx: deve ser true/false`);
+    if (d.note) bilingual(d.note, `${where}.note`);
+    return d;
+  };
+  // {start,end?} ou {traditional:{...}, scholarly:{...}}
+  const datesOk = (dates, where) => {
+    if (dates?.start !== undefined) return dateOk(dates, where);
+    if (!dates?.traditional || !dates?.scholarly) { err(`${where}: use start/end ou traditional + scholarly`); return null; }
+    dateOk(dates.scholarly, `${where}.scholarly`);
+    return dateOk(dates.traditional, `${where}.traditional`);
+  };
+  const blockIds = new Set((tl.blocks ?? []).map((b) => b.id));
+  (tl.blocks ?? []).forEach((b) => { bilingual(b.title, `timeline.blocks.${b.id}.title`); if (!(b.ppy > 0)) err(`timeline.blocks.${b.id}: ppy deve ser > 0`); });
+  const periodIds = new Set();
+  let prev = -Infinity;
+  (tl.periods ?? []).forEach((p) => {
+    const w = `timeline.periods.${p.id}`;
+    if (periodIds.has(p.id)) err(`${w}: id repetido`);
+    periodIds.add(p.id);
+    if (!blockIds.has(p.block)) err(`${w}: bloco "${p.block}" não existe`);
+    bilingual(p.title, `${w}.title`); bilingual(p.summary, `${w}.summary`);
+    if (!p.undated) {
+      const m = datesOk(p.dates, `${w}.dates`);
+      if (m) { if (m.start < prev) err(`${w}: períodos fora de ordem cronológica`); prev = m.start; if (m.end === undefined) err(`${w}: período precisa de end`); }
+    }
+    (p.books ?? []).forEach((b) => { if (!books.includes(b)) err(`${w}: livro "${b}" não existe`); });
+  });
+  const eventIds = new Set();
+  (tl.events ?? []).forEach((e) => {
+    const w = `timeline.events.${e.id}`;
+    if (eventIds.has(e.id)) err(`${w}: id repetido`);
+    eventIds.add(e.id);
+    if (!periodIds.has(e.period)) err(`${w}: período "${e.period}" não existe`);
+    bilingual(e.title, `${w}.title`); bilingual(e.note, `${w}.note`);
+    datesOk(e.dates, `${w}.dates`);
+    if (e.ref) { if (!books.includes(e.ref.book)) err(`${w}.ref: livro "${e.ref.book}" não existe`); else refOk(e.ref.ref, e.ref.book, `${w}.ref`); }
+    for (const k of ['attested', 'uncertain']) if (e[k] !== undefined && typeof e[k] !== 'boolean') err(`${w}.${k}: deve ser true/false`);
+  });
+}
+
 if (errors.length) {
   console.error(`${errors.length} problema(s):`);
   errors.slice(0, 60).forEach((e) => console.error(` - ${e}`));
   if (errors.length > 60) console.error(` … e mais ${errors.length - 60}`);
   process.exit(1);
 }
+const tlData = read('src/data/timeline.json');
 const maps = books.filter((s) => read(`src/data/info/${s}.json`).map).length;
-console.log(`OK: ${books.length} fichas (${maps} com mapa), ${versionIds.length} versões (${versionIds.join(', ')}).`);
+console.log(`OK: ${books.length} fichas (${maps} com mapa), ${versionIds.length} versões (${versionIds.join(', ')}), linha do tempo com ${tlData.periods.length} períodos e ${tlData.events.length} eventos.`);

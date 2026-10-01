@@ -12,7 +12,7 @@
 - [x] Tema claro/escuro, PT/EN
 - [x] Ficha completa dos 66 livros, PT e EN (autor, data, local, personagens, esboço, tema, contexto, conexões). A revisão de conteúdo é manual e segue em andamento
 - [x] Aba Mapa com legenda e zoom, em 46 dos 66 livros (livros sem `map` na ficha não mostram a aba)
-- [ ] Linha do tempo
+- [ ] Linha do tempo: estrutura e períodos prontos; eventos em andamento
 - [ ] ARA e NAA (aguardam autorização da SBB)
 
 ## Rodar localmente
@@ -84,3 +84,13 @@ A aba **Mapa** do modal aparece nos livros cuja ficha (`src/data/info/<slug>.jso
 - Textos: WEB ([eBible.org](https://ebible.org/eng-web/), domínio público); ASV (domínio público, edição digital de [openbibleinfo](https://github.com/openbibleinfo/American-Standard-Version-Bible)); Almeida 1911 (domínio público, [Project Gutenberg nº 62383](https://www.gutenberg.org/ebooks/62383)); **Bíblia Livre (BLIVRE), © 2018 Diego Santos, Mario Sérgio e Marco Teles, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**, [fonte](https://github.com/blivre/BibliaLivre).
 
 Ideia original da tabela: "TaBíblia Periódica" (Grupo de Jovens Conquistando as Nações; fonte indicada: Sociedade Bíblica do Brasil). Este projeto tem design e código próprios.
+
+## Linha do tempo
+
+O botão **Linha do tempo** abre um modal com duas camadas: (1) períodos e eventos da história bíblica e (2) os livros ligados a cada período. Dados em `src/data/timeline.json`; componente em `src/Timeline.jsx`.
+
+- Anos são inteiros: negativo = a.C., positivo = d.C. (não existe o ano 0). `approx: true` mostra "c.".
+- `dates` é `{start, end?, approx?, note?}` ou, quando a datação é debatida, `{traditional: {...}, scholarly: {...}}` (as duas leituras aparecem lado a lado, como nas fichas).
+- A **escala muda por bloco** (`blocks[].ppy` = pixels por ano); períodos curtos ganham largura mínima. A tela avisa disso.
+- Livros ligados a um período seguem o **cenário que o próprio texto descreve**, não a data de composição. Livros de datação ou ambientação debatida, poéticos e de sabedoria ficam de fora (a tela lista quais).
+- Evento com `attested: true` tem data também atestada por fonte fora da Bíblia (marcado com ◆). `npm run check` valida anos, ordem dos períodos, livros e referências.
