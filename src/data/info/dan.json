@@ -1,0 +1,177 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Daniel, jovem judeu levado à Babilônia (c. 605 a.C.) e depois funcionário da corte (1:1–6). O livro fala dele em terceira pessoa nos caps. 1–6 e em primeira nos caps. 7–12.",
+      "en": "Daniel, a young Jew taken to Babylon (c. 605 BC) and later a court official (1:1–6). The book speaks of him in the third person in chs. 1–6 and in the first person in chs. 7–12."
+    },
+    "scholarly": {
+      "pt": "A maioria dos estudiosos vê o livro como obra anônima de c. 167–164 a.C., no tempo da perseguição de Antíoco IV Epifânio. Os argumentos incluem a língua (hebraico e aramaico), o vocabulário grego e imprecisões históricas sobre o período babilônico. Há estudiosos que sustentam a posição tradicional.",
+      "en": "Most scholars see the book as an anonymous work of c. 167–164 BC, during the persecution by Antiochus IV Epiphanes. The arguments include the language (Hebrew and Aramaic), Greek vocabulary and historical inaccuracies about the Babylonian period. Some scholars hold the traditional position."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Séc. VI a.C., durante o exílio babilônico e o início do período persa (c. 605–530 a.C.).",
+      "en": "6th century BC, during the Babylonian exile and the beginning of the Persian period (c. 605–530 BC)."
+    },
+    "scholarly": {
+      "pt": "Forma final em c. 167–164 a.C., com tradições mais antigas incorporadas nos caps. 1–6, na posição acadêmica majoritária.",
+      "en": "Final form c. 167–164 BC, with older traditions incorporated in chs. 1–6, in the majority scholarly position."
+    }
+  },
+  "place": {
+    "pt": "Babilônia e a corte persa. Na posição acadêmica majoritária, a composição se deu na Judeia.",
+    "en": "Babylon and the Persian court. In the majority scholarly position, the composition took place in Judea."
+  },
+  "recipients": {
+    "pt": "Os judeus em dispersão ou, na leitura acadêmica, os judeus da Judeia sob Antíoco IV.",
+    "en": "Jews in dispersion or, in the scholarly reading, the Jews of Judea under Antiochus IV."
+  },
+  "keyVerse": "7:13–14",
+  "theme": {
+    "pt": "Fidelidade sob pressão e soberania de Deus sobre os impérios: os relatos de Daniel e seus companheiros e as visões do fim das potências e do reino que Deus dá.",
+    "en": "Faithfulness under pressure and God's sovereignty over empires: the stories of Daniel and his companions and the visions of the end of the powers and the kingdom God gives."
+  },
+  "historicalContext": {
+    "pt": "O livro é bilíngue: hebraico (1:1–2:4a; caps. 8–12) e aramaico (2:4b–7:28). Na Bíblia hebraica está entre os Escritos, e na Septuaginta há acréscimos (Susana, Bel e o Dragão, e a Oração de Azarias com o Cântico dos Três), tidos como deuterocanônicos. As visões dos caps. 7–12 usam linguagem apocalíptica e seguem a sucessão de impérios, com intensa discussão sobre sua identificação.",
+    "en": "The book is bilingual: Hebrew (1:1–2:4a; chs. 8–12) and Aramaic (2:4b–7:28). In the Hebrew Bible it is among the Writings, and the Septuagint has additions (Susanna, Bel and the Dragon, and the Prayer of Azariah with the Song of the Three), held to be deuterocanonical. The visions of chs. 7–12 use apocalyptic language and follow the succession of empires, with intense discussion of their identification."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Daniel",
+        "en": "Daniel"
+      },
+      "role": {
+        "pt": "Sábio e intérprete de sonhos na corte",
+        "en": "Sage and interpreter of dreams at court"
+      }
+    },
+    {
+      "name": {
+        "pt": "Hananias, Misael e Azarias",
+        "en": "Hananiah, Mishael and Azariah"
+      },
+      "role": {
+        "pt": "Companheiros de Daniel; chamados Sadraque, Mesaque e Abede-Nego (cap. 3)",
+        "en": "Daniel's companions; called Shadrach, Meshach and Abednego (ch. 3)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Nabucodonosor",
+        "en": "Nebuchadnezzar"
+      },
+      "role": {
+        "pt": "Rei da Babilônia (caps. 1–4)",
+        "en": "King of Babylon (chs. 1–4)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Belsazar",
+        "en": "Belshazzar"
+      },
+      "role": {
+        "pt": "Rei no festim do cap. 5",
+        "en": "King at the feast of ch. 5"
+      }
+    },
+    {
+      "name": {
+        "pt": "Dario, o medo",
+        "en": "Darius the Mede"
+      },
+      "role": {
+        "pt": "Rei do cap. 6; sua identificação é debatida",
+        "en": "King of ch. 6; his identification is debated"
+      }
+    },
+    {
+      "name": {
+        "pt": "Gabriel",
+        "en": "Gabriel"
+      },
+      "role": {
+        "pt": "Anjo que interpreta visões (8:16; 9:21)",
+        "en": "Angel who interprets visions (8:16; 9:21)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–21",
+      "title": {
+        "pt": "Daniel e seus companheiros na corte",
+        "en": "Daniel and his companions at court"
+      }
+    },
+    {
+      "ref": "2:1–49",
+      "title": {
+        "pt": "O sonho da estátua",
+        "en": "The dream of the statue"
+      }
+    },
+    {
+      "ref": "3:1–30",
+      "title": {
+        "pt": "A fornalha ardente",
+        "en": "The fiery furnace"
+      }
+    },
+    {
+      "ref": "4:1–37",
+      "title": {
+        "pt": "O sonho da árvore e a humilhação de Nabucodonosor",
+        "en": "The dream of the tree and Nebuchadnezzar's humbling"
+      }
+    },
+    {
+      "ref": "5:1–31",
+      "title": {
+        "pt": "O festim de Belsazar",
+        "en": "Belshazzar's feast"
+      }
+    },
+    {
+      "ref": "6:1–28",
+      "title": {
+        "pt": "A cova dos leões",
+        "en": "The lions' den"
+      }
+    },
+    {
+      "ref": "7:1–28",
+      "title": {
+        "pt": "Os quatro animais e o Filho do Homem",
+        "en": "The four beasts and the Son of Man"
+      }
+    },
+    {
+      "ref": "8:1–27",
+      "title": {
+        "pt": "O carneiro e o bode",
+        "en": "The ram and the goat"
+      }
+    },
+    {
+      "ref": "9:1–27",
+      "title": {
+        "pt": "A oração de Daniel e as setenta semanas",
+        "en": "Daniel's prayer and the seventy weeks"
+      }
+    },
+    {
+      "ref": "10:1–12:13",
+      "title": {
+        "pt": "A visão final",
+        "en": "The final vision"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Jesus usa a expressão \"Filho do Homem\" de Dn 7:13 (Mt 24:30; 26:64). Mt 24:15 cita a \"abominação da desolação\" (Dn 9:27; 11:31; 12:11). Hb 11:33–34 alude a Daniel e seus companheiros. O Apocalipse usa muitas imagens de Daniel.",
+    "en": "Jesus uses the expression \"Son of Man\" from Dan 7:13 (Matt 24:30; 26:64). Matt 24:15 cites the \"abomination of desolation\" (Dan 9:27; 11:31; 12:11). Heb 11:33–34 alludes to Daniel and his companions. Revelation uses many images from Daniel."
+  }
+}

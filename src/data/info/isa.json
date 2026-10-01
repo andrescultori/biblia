@@ -1,0 +1,146 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Isaías, filho de Amoz (1:1; 2:1), profeta em Jerusalém. A tradição o situa no séc. VIII a.C. e lhe atribui o livro inteiro. O Talmude (Baba Batra 15a) diz que Ezequias e seus homens o puseram por escrito.",
+      "en": "Isaiah, son of Amoz (1:1; 2:1), a prophet in Jerusalem. Tradition places him in the 8th century BC and attributes the whole book to him. The Talmud (Baba Batra 15a) says Hezekiah and his men put it in writing."
+    },
+    "scholarly": {
+      "pt": "A maioria vê o livro como obra de mais de uma mão ou escola: caps. 1–39 (séc. VIII a.C.), caps. 40–55 (exílio, quando Ciro é nomeado em 44:28 e 45:1) e caps. 56–66 (pós-exílio). Há estudiosos que defendem a unidade, e outros que veem uma composição em etapas dentro de uma mesma tradição. Não há consenso.",
+      "en": "Most see the book as the work of more than one hand or school: chs. 1–39 (8th century BC), chs. 40–55 (exile, where Cyrus is named in 44:28 and 45:1) and chs. 56–66 (post-exile). Some scholars defend its unity, and others see a composition in stages within a single tradition. There is no consensus."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Ministério de Isaías no reinado de Uzias a Ezequias (c. 740–700 a.C.), segundo 1:1.",
+      "en": "Isaiah's ministry from the reign of Uzziah to Hezekiah (c. 740–700 BC), according to 1:1."
+    },
+    "scholarly": {
+      "pt": "Caps. 1–39: séc. VIII a.C. com edição posterior; caps. 40–55: c. meados do séc. VI a.C. (exílio); caps. 56–66: séc. VI–V a.C. (pós-exílio).",
+      "en": "Chs. 1–39: 8th century BC with later editing; chs. 40–55: c. mid-6th century BC (exile); chs. 56–66: 6th–5th centuries BC (post-exile)."
+    }
+  },
+  "place": {
+    "pt": "Jerusalém e Judá. Os caps. 40–55 pressupõem os exilados na Babilônia.",
+    "en": "Jerusalem and Judah. Chapters 40–55 presuppose the exiles in Babylon."
+  },
+  "recipients": {
+    "pt": "Judá e Jerusalém; na leitura acadêmica, também os exilados na Babilônia e a comunidade pós-exílica.",
+    "en": "Judah and Jerusalem; in the scholarly reading, also the exiles in Babylon and the post-exilic community."
+  },
+  "keyVerse": "6:8",
+  "theme": {
+    "pt": "Juízo e salvação: a santidade de Deus, o juízo sobre Judá e as nações, e a esperança de consolo, restauração e do Servo do Senhor.",
+    "en": "Judgment and salvation: the holiness of God, judgment on Judah and the nations, and the hope of comfort, restoration and the Servant of the Lord."
+  },
+  "historicalContext": {
+    "pt": "O ministério do profeta é situado em Judá, ameaçada pela Assíria (guerra siro-efraimita, c. 734 a.C.; invasão de Senaqueribe, 701 a.C.). Os caps. 36–39 são paralelos a 2Rs 18–20. Os caps. 40–55 pressupõem o exílio e o crescimento do poder persa. As \"canções do Servo\" (por exemplo, 42:1–4; 49:1–6; 52:13–53:12) são muito debatidas quanto à identidade do Servo.",
+    "en": "The prophet's ministry is set in Judah, threatened by Assyria (Syro-Ephraimite war, c. 734 BC; Sennacherib's invasion, 701 BC). Chapters 36–39 parallel 2 Kgs 18–20. Chapters 40–55 presuppose the exile and the growing power of Persia. The \"Servant songs\" (for example, 42:1–4; 49:1–6; 52:13–53:12) are much debated regarding the Servant's identity."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Isaías",
+        "en": "Isaiah"
+      },
+      "role": {
+        "pt": "Profeta em Jerusalém; seu chamado está no cap. 6",
+        "en": "Prophet in Jerusalem; his call is in ch. 6"
+      }
+    },
+    {
+      "name": {
+        "pt": "Acaz",
+        "en": "Ahaz"
+      },
+      "role": {
+        "pt": "Rei de Judá a quem Isaías fala (cap. 7)",
+        "en": "King of Judah to whom Isaiah speaks (ch. 7)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Ezequias",
+        "en": "Hezekiah"
+      },
+      "role": {
+        "pt": "Rei de Judá no cerco de Senaqueribe (caps. 36–39)",
+        "en": "King of Judah during Sennacherib's siege (chs. 36–39)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Ciro",
+        "en": "Cyrus"
+      },
+      "role": {
+        "pt": "Rei persa chamado \"ungido\" (44:28; 45:1)",
+        "en": "Persian king called \"anointed\" (44:28; 45:1)"
+      }
+    },
+    {
+      "name": {
+        "pt": "O Servo do Senhor",
+        "en": "The Servant of the Lord"
+      },
+      "role": {
+        "pt": "Figura dos caps. 40–55, de identidade debatida",
+        "en": "Figure of chs. 40–55, whose identity is debated"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–12:6",
+      "title": {
+        "pt": "Juízo e esperança em Judá",
+        "en": "Judgment and hope in Judah"
+      }
+    },
+    {
+      "ref": "13:1–23:18",
+      "title": {
+        "pt": "Oráculos contra as nações",
+        "en": "Oracles against the nations"
+      }
+    },
+    {
+      "ref": "24:1–27:13",
+      "title": {
+        "pt": "O chamado \"apocalipse de Isaías\"",
+        "en": "The so-called \"Isaiah apocalypse\""
+      }
+    },
+    {
+      "ref": "28:1–35:10",
+      "title": {
+        "pt": "Ais e promessas",
+        "en": "Woes and promises"
+      }
+    },
+    {
+      "ref": "36:1–39:8",
+      "title": {
+        "pt": "Ezequias e Senaqueribe",
+        "en": "Hezekiah and Sennacherib"
+      }
+    },
+    {
+      "ref": "40:1–55:13",
+      "title": {
+        "pt": "Consolo para os exilados e o Servo",
+        "en": "Comfort for the exiles and the Servant"
+      }
+    },
+    {
+      "ref": "56:1–66:24",
+      "title": {
+        "pt": "Restauração e novos céus e nova terra",
+        "en": "Restoration and new heavens and a new earth"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "É um dos livros mais citados no Novo Testamento: Mt 3:3 (Is 40:3), Lc 4:17–19 (Is 61:1–2), At 8:32–33 (Is 53:7–8) e Rm 10:16 (Is 53:1). Mt 1:23 cita Is 7:14. Ap 21–22 ecoa Is 65:17.",
+    "en": "It is one of the books most quoted in the New Testament: Matt 3:3 (Isa 40:3), Luke 4:17–19 (Isa 61:1–2), Acts 8:32–33 (Isa 53:7–8) and Rom 10:16 (Isa 53:1). Matt 1:23 quotes Isa 7:14. Rev 21–22 echoes Isa 65:17."
+  }
+}

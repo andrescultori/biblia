@@ -1,0 +1,156 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Jeremias, filho de Hilquias, sacerdote de Anatote (1:1). O escriba Baruque registrou suas palavras (cap. 36). O Talmude (Baba Batra 15a) lhe atribui também Reis e Lamentações.",
+      "en": "Jeremiah, son of Hilkiah, a priest of Anathoth (1:1). The scribe Baruch recorded his words (ch. 36). The Talmud (Baba Batra 15a) also attributes Kings and Lamentations to him."
+    },
+    "scholarly": {
+      "pt": "Livro de composição complexa, formado por poemas, discursos em prosa e narrativas, com edições sucessivas. A versão grega (Septuaginta) é cerca de um oitavo mais curta que o texto hebraico e tem outra ordem dos oráculos contra as nações. Debate-se quanto vem do profeta e quanto de editores, em especial os de linha deuteronomista.",
+      "en": "A book of complex composition, made of poems, prose speeches and narratives, with successive editions. The Greek version (Septuagint) is about one-eighth shorter than the Hebrew text and has a different order for the oracles against the nations. Scholars debate how much comes from the prophet and how much from editors, especially in the Deuteronomistic line."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Ministério de c. 627 a.C. (décimo terceiro ano de Josias, 1:2) até depois da queda de Jerusalém, em 586 a.C.",
+      "en": "Ministry from c. 627 BC (thirteenth year of Josiah, 1:2) to after the fall of Jerusalem in 586 BC."
+    },
+    "scholarly": {
+      "pt": "Material do séc. VII–VI a.C., com forma final no exílio ou depois.",
+      "en": "Material of the 7th–6th centuries BC, with final form in the exile or later."
+    }
+  },
+  "place": {
+    "pt": "Anatote e Jerusalém; depois Mispá e o Egito, para onde o profeta é levado (caps. 42–44).",
+    "en": "Anathoth and Jerusalem; later Mizpah and Egypt, where the prophet is taken (chs. 42–44)."
+  },
+  "recipients": {
+    "pt": "Judá e Jerusalém; depois os exilados na Babilônia (cap. 29).",
+    "en": "Judah and Jerusalem; later the exiles in Babylon (ch. 29)."
+  },
+  "keyVerse": "31:31",
+  "theme": {
+    "pt": "Juízo e esperança em tempos de colapso: Jeremias anuncia a queda de Jerusalém, sofre por sua mensagem e promete uma nova aliança.",
+    "en": "Judgment and hope in a time of collapse: Jeremiah announces the fall of Jerusalem, suffers for his message and promises a new covenant."
+  },
+  "historicalContext": {
+    "pt": "O livro cobre o fim do reino de Judá, sob a pressão da Assíria, do Egito e da Babilônia, até a queda de Jerusalém em 586 a.C. Jeremias é o profeta mais autobiográfico, e suas \"confissões\" (por exemplo, 15:10–21; 20:7–18) dão voz ao seu conflito interior. A carta aos exilados (cap. 29) orienta a vida na Babilônia.",
+    "en": "The book covers the end of the kingdom of Judah, under pressure from Assyria, Egypt and Babylon, up to the fall of Jerusalem in 586 BC. Jeremiah is the most autobiographical of the prophets, and his \"confessions\" (for example, 15:10–21; 20:7–18) give voice to his inner conflict. The letter to the exiles (ch. 29) guides life in Babylon."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Jeremias",
+        "en": "Jeremiah"
+      },
+      "role": {
+        "pt": "Profeta; sofre perseguição e prisão",
+        "en": "Prophet; suffers persecution and imprisonment"
+      }
+    },
+    {
+      "name": {
+        "pt": "Baruque",
+        "en": "Baruch"
+      },
+      "role": {
+        "pt": "Escriba de Jeremias (cap. 36)",
+        "en": "Jeremiah's scribe (ch. 36)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Josias, Jeoaquim e Zedequias",
+        "en": "Josiah, Jehoiakim and Zedekiah"
+      },
+      "role": {
+        "pt": "Reis de Judá do período",
+        "en": "Kings of Judah of the period"
+      }
+    },
+    {
+      "name": {
+        "pt": "Hananias",
+        "en": "Hananiah"
+      },
+      "role": {
+        "pt": "Profeta que se opõe a Jeremias (cap. 28)",
+        "en": "Prophet who opposes Jeremiah (ch. 28)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Nabucodonosor",
+        "en": "Nebuchadnezzar"
+      },
+      "role": {
+        "pt": "Rei da Babilônia",
+        "en": "King of Babylon"
+      }
+    },
+    {
+      "name": {
+        "pt": "Gedalias",
+        "en": "Gedaliah"
+      },
+      "role": {
+        "pt": "Governador de Judá após a queda (caps. 40–41)",
+        "en": "Governor of Judah after the fall (chs. 40–41)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–19",
+      "title": {
+        "pt": "Chamado de Jeremias",
+        "en": "Jeremiah's call"
+      }
+    },
+    {
+      "ref": "2:1–25:38",
+      "title": {
+        "pt": "Oráculos contra Judá e Jerusalém",
+        "en": "Oracles against Judah and Jerusalem"
+      }
+    },
+    {
+      "ref": "26:1–29:32",
+      "title": {
+        "pt": "Conflitos com profetas e carta aos exilados",
+        "en": "Conflicts with prophets and the letter to the exiles"
+      }
+    },
+    {
+      "ref": "30:1–33:26",
+      "title": {
+        "pt": "O livro da consolação e a nova aliança",
+        "en": "The book of consolation and the new covenant"
+      }
+    },
+    {
+      "ref": "34:1–45:5",
+      "title": {
+        "pt": "O cerco, a queda e suas consequências",
+        "en": "The siege, the fall and its aftermath"
+      }
+    },
+    {
+      "ref": "46:1–51:64",
+      "title": {
+        "pt": "Oráculos contra as nações",
+        "en": "Oracles against the nations"
+      }
+    },
+    {
+      "ref": "52:1–34",
+      "title": {
+        "pt": "Apêndice histórico",
+        "en": "Historical appendix"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Hb 8:8–12 cita Jr 31:31–34 por extenso, e a nova aliança aparece em Lc 22:20 e 1Co 11:25. Mt 2:17–18 cita Jr 31:15. Mt 16:14 registra que alguns viam Jesus como Jeremias. Lamentações é associada a ele pela tradição.",
+    "en": "Heb 8:8–12 quotes Jer 31:31–34 in full, and the new covenant appears in Luke 22:20 and 1 Cor 11:25. Matt 2:17–18 quotes Jer 31:15. Matt 16:14 records that some saw Jesus as Jeremiah. Lamentations is associated with him by tradition."
+  }
+}
