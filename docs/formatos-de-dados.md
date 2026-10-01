@@ -103,3 +103,7 @@ Trocar de aba ou de lugar atualiza o endereço sem criar entrada no histórico; 
 ## Estrutura dos livros de sabedoria
 
 A chave opcional `structure` da ficha (`src/data/info/<slug>.json`) mostra a aba Estrutura: `parts` (cada uma com `ref`, `title` PT/EN, `chapters` e, em Jó, `voice`), `voices` (só em Jó), `note` e `readings` (`name`, `summary` e `view`: `traditional`, `scholarly` ou `null`). Cada capítulo do livro deve estar em exatamente uma parte; o `npm run check` confere isso e as referências. Hoje existe em Jó, Provérbios, Eclesiastes e Cantares.
+
+## Versões parciais
+
+Uma versão em `src/data/bible.js` pode ter `books: [19, 43]` (números 1 a 66). Ela só aparece no leitor desses livros, e o `npm run check` só exige os arquivos deles. É o caso da Almeida 1911 atualizada, em piloto (`docs/ortografia-alm1911.md`).

@@ -86,11 +86,14 @@ for (const slug of books) {
 }
 
 // Textos bíblicos: 66 livros por versão, mesmos capítulos da KJV; versículo é texto ou null
-const bibleSrc = fs.readFileSync(path.join(root, 'src/data/bible.js'), 'utf8');
-const versionIds = [...bibleSrc.matchAll(/^\s*id: '(\w+)'/gm)].map((m) => m[1]);
+const { VERSIONS } = await import(new URL('../src/data/bible.js', import.meta.url).href);
+const versionIds = VERSIONS.map((v) => v.id);
 if (!versionIds.length) err('bible.js: nenhuma versão encontrada');
-for (const v of versionIds) {
+for (const ver of VERSIONS) {
+  const v = ver.id;
+  // `books` (números 1 a 66) marca versões parciais, como a Almeida 1911 atualizada em revisão
   books.forEach((slug, i) => {
+    if (ver.books && !ver.books.includes(i + 1)) return;
     const f = `public/bible/${v}/${i + 1}.json`;
     if (!fs.existsSync(path.join(root, f))) { err(`${f}: ausente`); return; }
     const chs = read(f);
