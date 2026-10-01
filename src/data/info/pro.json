@@ -1,0 +1,129 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Salomão, segundo o título (1:1) e a tradição, com contribuições de \"sábios\" (22:17; 24:23), de Agur (cap. 30) e de Lemuel (31:1). Os homens de Ezequias copiaram provérbios de Salomão (25:1).",
+      "en": "Solomon, according to the title (1:1) and tradition, with contributions from \"the wise\" (22:17; 24:23), Agur (ch. 30) and Lemuel (31:1). The men of Hezekiah copied proverbs of Solomon (25:1)."
+    },
+    "scholarly": {
+      "pt": "Coleção de seções de origens diversas, reunida em etapas. Muitos admitem material antigo (da monarquia) e edição final no período persa. Os caps. 1–9 costumam ser vistos como o prólogo mais tardio. Há paralelos com a literatura egípcia (como a Instrução de Amenemope em 22:17–24:22).",
+      "en": "A collection of sections of diverse origin, assembled in stages. Many allow for early material (from the monarchy) and a final edition in the Persian period. Chapters 1–9 are often seen as the later prologue. There are parallels with Egyptian literature (such as the Instruction of Amenemope in 22:17–24:22)."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Parte dos provérbios seria do reinado de Salomão (séc. X a.C.), e a coleção foi ampliada no tempo de Ezequias (séc. VIII–VII a.C.).",
+      "en": "Part of the proverbs would date from Solomon's reign (10th century BC), and the collection was expanded in the time of Hezekiah (8th–7th centuries BC)."
+    },
+    "scholarly": {
+      "pt": "Séc. X–V a.C., com edição final no período persa, conforme a posição adotada.",
+      "en": "10th–5th centuries BC, with final edition in the Persian period, depending on the position adopted."
+    }
+  },
+  "place": {
+    "pt": "Jerusalém, ambiente da corte e dos escribas. O local de composição não é indicado.",
+    "en": "Jerusalem, the setting of the court and scribes. The place of composition is not stated."
+  },
+  "recipients": {
+    "pt": "Em especial os jovens que se formam na sabedoria (1:4–8), mas o livro também se dirige ao governante.",
+    "en": "Especially young people being formed in wisdom (1:4–8), but the book also addresses the ruler."
+  },
+  "keyVerse": "1:7",
+  "theme": {
+    "pt": "A sabedoria prática, que começa com o temor do Senhor, e as consequências das escolhas no dia a dia: justiça, trabalho, fala, família e riqueza.",
+    "en": "Practical wisdom, which begins with the fear of the Lord, and the consequences of daily choices: justice, work, speech, family and wealth."
+  },
+  "historicalContext": {
+    "pt": "O livro pertence à literatura sapiencial do Antigo Oriente Próximo. Seus provérbios descrevem tendências gerais da vida, não promessas absolutas, e dialogam com Jó e Eclesiastes, que questionam leituras simplistas. A personificação da Sabedoria (caps. 1; 8–9) é um dos traços mais notáveis.",
+    "en": "The book belongs to the wisdom literature of the ancient Near East. Its proverbs describe general tendencies of life, not absolute promises, and are in dialogue with Job and Ecclesiastes, which question simplistic readings. The personification of Wisdom (chs. 1; 8–9) is one of its most notable features."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "A Sabedoria",
+        "en": "Wisdom"
+      },
+      "role": {
+        "pt": "Personificada como mestra e como mulher que chama (caps. 1; 8–9)",
+        "en": "Personified as teacher and as a woman who calls out (chs. 1; 8–9)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Salomão",
+        "en": "Solomon"
+      },
+      "role": {
+        "pt": "Nomeado nos títulos de 1:1, 10:1 e 25:1",
+        "en": "Named in the titles of 1:1, 10:1 and 25:1"
+      }
+    },
+    {
+      "name": {
+        "pt": "Agur",
+        "en": "Agur"
+      },
+      "role": {
+        "pt": "Autor do cap. 30",
+        "en": "Author of ch. 30"
+      }
+    },
+    {
+      "name": {
+        "pt": "Lemuel",
+        "en": "Lemuel"
+      },
+      "role": {
+        "pt": "Rei a quem a mãe instrui (31:1–9)",
+        "en": "King instructed by his mother (31:1–9)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–9:18",
+      "title": {
+        "pt": "Discursos de sabedoria",
+        "en": "Speeches of wisdom"
+      }
+    },
+    {
+      "ref": "10:1–22:16",
+      "title": {
+        "pt": "Provérbios de Salomão",
+        "en": "Proverbs of Solomon"
+      }
+    },
+    {
+      "ref": "22:17–24:34",
+      "title": {
+        "pt": "Palavras dos sábios",
+        "en": "Sayings of the wise"
+      }
+    },
+    {
+      "ref": "25:1–29:27",
+      "title": {
+        "pt": "Provérbios de Salomão copiados pelos homens de Ezequias",
+        "en": "Proverbs of Solomon copied by the men of Hezekiah"
+      }
+    },
+    {
+      "ref": "30:1–33",
+      "title": {
+        "pt": "Palavras de Agur",
+        "en": "Words of Agur"
+      }
+    },
+    {
+      "ref": "31:1–31",
+      "title": {
+        "pt": "Lemuel e a mulher virtuosa",
+        "en": "Lemuel and the capable woman"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Hb 12:5–6 cita Pv 3:11–12. Tg 4:6 e 1Pe 5:5 citam Pv 3:34. Rm 12:20 cita Pv 25:21–22. A figura da Sabedoria foi relida de várias formas na tradição cristã.",
+    "en": "Heb 12:5–6 quotes Prov 3:11–12. Jas 4:6 and 1 Pet 5:5 quote Prov 3:34. Rom 12:20 quotes Prov 25:21–22. The figure of Wisdom has been reread in various ways in Christian tradition."
+  }
+}

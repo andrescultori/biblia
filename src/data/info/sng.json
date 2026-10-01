@@ -1,0 +1,119 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Salomão, segundo a tradição e o título (1:1: \"Cântico dos Cânticos, de Salomão\"). A preposição hebraica do título pode indicar autoria, dedicatória ou tema.",
+      "en": "Solomon, according to tradition and the title (1:1: \"Song of Songs, of Solomon\"). The Hebrew preposition in the title can indicate authorship, dedication or subject."
+    },
+    "scholarly": {
+      "pt": "Coleção anônima de poemas de amor. A data e a unidade do livro são debatidas, e há quem veja nele vários poemas reunidos em uma antologia.",
+      "en": "An anonymous collection of love poems. The date and unity of the book are debated, and some see in it several poems gathered into an anthology."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Reinado de Salomão (séc. X a.C.), se a atribuição tradicional é aceita.",
+      "en": "The reign of Solomon (10th century BC), if the traditional attribution is accepted."
+    },
+    "scholarly": {
+      "pt": "Entre o séc. X e o séc. III a.C. Alguns termos de origem persa ou grega sustentam datas tardias, mas o ponto é discutido.",
+      "en": "Between the 10th and 3rd centuries BC. Some terms of Persian or Greek origin support late dates, but the point is discussed."
+    }
+  },
+  "place": {
+    "pt": "Cenários de Israel, com imagens de jardins, campos e Jerusalém. O local de composição não é indicado.",
+    "en": "Settings in Israel, with images of gardens, fields and Jerusalem. The place of composition is not stated."
+  },
+  "recipients": {
+    "pt": "Não indicados no texto.",
+    "en": "Not stated in the text."
+  },
+  "keyVerse": "8:6",
+  "theme": {
+    "pt": "O amor humano em poesia: o encontro, o desejo e a fidelidade entre a amada e o amado, celebrados como dom.",
+    "en": "Human love in poetry: the encounter, desire and faithfulness between the lover and the beloved, celebrated as a gift."
+  },
+  "historicalContext": {
+    "pt": "Há três grandes linhas de leitura: a literal (poesia de amor humano), a alegórica (o amor de Deus por Israel, ou de Cristo pela Igreja) e as que combinam as duas. A tradição judaica e a cristã, historicamente, deram peso grande à leitura alegórica; muitos estudiosos hoje enfatizam o sentido literal. O livro tem paralelos com a poesia de amor egípcia.",
+    "en": "There are three main lines of reading: the literal (human love poetry), the allegorical (God's love for Israel, or Christ's for the Church) and those that combine the two. Jewish and Christian traditions historically gave great weight to the allegorical reading; many scholars today emphasize the literal sense. The book has parallels with Egyptian love poetry."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "A amada",
+        "en": "The woman"
+      },
+      "role": {
+        "pt": "Voz principal do poema",
+        "en": "The main voice of the poem"
+      }
+    },
+    {
+      "name": {
+        "pt": "O amado",
+        "en": "The man"
+      },
+      "role": {
+        "pt": "Seu parceiro no diálogo",
+        "en": "Her partner in dialogue"
+      }
+    },
+    {
+      "name": {
+        "pt": "As filhas de Jerusalém",
+        "en": "The daughters of Jerusalem"
+      },
+      "role": {
+        "pt": "Coro a quem a amada se dirige",
+        "en": "A chorus whom the woman addresses"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–2:7",
+      "title": {
+        "pt": "Primeiros encontros e declarações",
+        "en": "First meetings and declarations"
+      }
+    },
+    {
+      "ref": "2:8–3:5",
+      "title": {
+        "pt": "A primavera e a busca",
+        "en": "Spring and the search"
+      }
+    },
+    {
+      "ref": "3:6–5:1",
+      "title": {
+        "pt": "O cortejo e o casamento",
+        "en": "The procession and the wedding"
+      }
+    },
+    {
+      "ref": "5:2–6:3",
+      "title": {
+        "pt": "Ausência e reencontro",
+        "en": "Absence and reunion"
+      }
+    },
+    {
+      "ref": "6:4–8:4",
+      "title": {
+        "pt": "Elogios e retornos",
+        "en": "Praises and returns"
+      }
+    },
+    {
+      "ref": "8:5–14",
+      "title": {
+        "pt": "O amor forte como a morte",
+        "en": "Love as strong as death"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "O livro não é citado diretamente no Novo Testamento. Na tradição judaica, é lido na Páscoa. O rabino Akiva teria dito que o livro é \"o santo dos santos\" (Mishná, Yadayim 3:5). A divisão em seções é uma entre várias propostas.",
+    "en": "The book is not directly quoted in the New Testament. In Jewish tradition, it is read at Passover. Rabbi Akiva is reported to have called it \"the holy of holies\" (Mishnah, Yadayim 3:5). The division into sections is one among several proposals."
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Desconhecido. A tradição judaica (Talmude, Baba Batra 15a) atribui a obra aos homens da Grande Assembleia. O livro cita Mardoqueu escrevendo (9:20) sem nomear o autor.",
+      "en": "Unknown. Jewish tradition (Talmud, Baba Batra 15a) attributes the work to the men of the Great Assembly. The book mentions Mordecai writing (9:20) without naming the author."
+    },
+    "scholarly": {
+      "pt": "Obra anônima. A data e a natureza do livro (relato histórico, narrativa exemplar ou novela) são debatidas.",
+      "en": "An anonymous work. The date and the nature of the book (historical account, exemplary narrative or novella) are debated."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Depois dos eventos narrados, no reinado de Assuero. A maioria identifica Assuero com Xerxes I (486–465 a.C.).",
+      "en": "After the events narrated, in the reign of Ahasuerus. Most identify Ahasuerus with Xerxes I (486–465 BC)."
+    },
+    "scholarly": {
+      "pt": "Entre o período persa (séc. V a.C.) e o helenístico (séc. IV–II a.C.), conforme a posição adotada.",
+      "en": "Between the Persian period (5th century BC) and the Hellenistic period (4th–2nd centuries BC), depending on the position adopted."
+    }
+  },
+  "place": {
+    "pt": "Susã, capital persa.",
+    "en": "Susa, the Persian capital."
+  },
+  "recipients": {
+    "pt": "Os judeus da diáspora no império persa.",
+    "en": "The Jews of the diaspora in the Persian empire."
+  },
+  "keyVerse": "4:14",
+  "theme": {
+    "pt": "Livramento do povo judeu na diáspora, por meio da coragem de Ester e Mardoqueu, e a origem da festa de Purim.",
+    "en": "The deliverance of the Jewish people in the diaspora through the courage of Esther and Mordecai, and the origin of the festival of Purim."
+  },
+  "historicalContext": {
+    "pt": "O livro se passa na corte persa. O nome de Deus não aparece no texto hebraico, e a Bíblia grega (Septuaginta) acrescenta trechos com oração e referências a Deus, considerados deuterocanônicos por parte das tradições. O livro explica o Purim, festa judaica ainda celebrada.",
+    "en": "The book is set in the Persian court. God's name does not appear in the Hebrew text, and the Greek Bible (Septuagint) adds passages with prayer and references to God, considered deuterocanonical by some traditions. The book explains Purim, a Jewish festival still observed."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Ester",
+        "en": "Esther"
+      },
+      "role": {
+        "pt": "Rainha judia que intercede pelo seu povo",
+        "en": "Jewish queen who intercedes for her people"
+      }
+    },
+    {
+      "name": {
+        "pt": "Mardoqueu",
+        "en": "Mordecai"
+      },
+      "role": {
+        "pt": "Primo e tutor de Ester",
+        "en": "Esther's cousin and guardian"
+      }
+    },
+    {
+      "name": {
+        "pt": "Hamã",
+        "en": "Haman"
+      },
+      "role": {
+        "pt": "Oficial persa que planeja exterminar os judeus",
+        "en": "Persian official who plots to exterminate the Jews"
+      }
+    },
+    {
+      "name": {
+        "pt": "Assuero",
+        "en": "Ahasuerus"
+      },
+      "role": {
+        "pt": "Rei da Pérsia (identificado com Xerxes I)",
+        "en": "King of Persia (identified with Xerxes I)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Vasti",
+        "en": "Vashti"
+      },
+      "role": {
+        "pt": "Rainha que perde o posto (cap. 1)",
+        "en": "Queen who loses her position (ch. 1)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–2:23",
+      "title": {
+        "pt": "Vasti é deposta; Ester torna-se rainha",
+        "en": "Vashti is deposed; Esther becomes queen"
+      }
+    },
+    {
+      "ref": "3:1–4:17",
+      "title": {
+        "pt": "O decreto de Hamã e o apelo de Mardoqueu",
+        "en": "Haman's decree and Mordecai's appeal"
+      }
+    },
+    {
+      "ref": "5:1–7:10",
+      "title": {
+        "pt": "Os banquetes de Ester e a queda de Hamã",
+        "en": "Esther's banquets and Haman's fall"
+      }
+    },
+    {
+      "ref": "8:1–10:3",
+      "title": {
+        "pt": "O contradecreto, a vitória dos judeus e o Purim",
+        "en": "The counter-decree, the victory of the Jews and Purim"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "No cânon hebraico, Ester é um dos cinco rolos (Megilot) e é lida no Purim. Não é citada diretamente no Novo Testamento.",
+    "en": "In the Hebrew canon, Esther is one of the five scrolls (Megillot) and is read at Purim. It is not directly quoted in the New Testament."
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Moisés, segundo a tradição. O próprio livro registra que Moisés escreveu partes (Êx 17:14; 24:4), mas não nomeia o autor da obra inteira.",
+      "en": "Moses, according to tradition. The book itself records that Moses wrote parts (Exod 17:14; 24:4), but it does not name the author of the whole work."
+    },
+    "scholarly": {
+      "pt": "Obra composta, em geral atribuída a fontes J, E e P, com redação final posterior. Há debate sobre quais partes são antigas e sobre o modelo de composição; não há consenso.",
+      "en": "A composite work, usually attributed to sources J, E and P, with later final editing. There is debate about which parts are early and about the model of composition; there is no consensus."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Época de Moisés, após o Êxodo. A data depende da cronologia do Êxodo: c. 1446 a.C. (cronologia alta, a partir de 1Rs 6:1) ou séc. XIII a.C. (cronologia baixa, ligada à menção de Ramessés em Êx 1:11).",
+      "en": "The time of Moses, after the Exodus. The date depends on the chronology of the Exodus: c. 1446 BC (early, based on 1 Kgs 6:1) or the 13th century BC (late, linked to the mention of Rameses in Exod 1:11)."
+    },
+    "scholarly": {
+      "pt": "Forma final geralmente situada no exílio ou no pós-exílio (séc. VI–V a.C.), com tradições mais antigas incorporadas. A historicidade do Êxodo e sua data são debatidas.",
+      "en": "Final form generally placed in the exilic or post-exilic period (6th–5th centuries BC), incorporating earlier traditions. The historicity and date of the Exodus are debated."
+    }
+  },
+  "place": {
+    "pt": "O livro não indica o local de composição. Os cenários da narrativa são o Egito (Gósen), o caminho pelo deserto e o monte Sinai (Horebe). A localização exata do Sinai é debatida.",
+    "en": "The book does not state where it was written. The settings of the narrative are Egypt (Goshen), the route through the wilderness and Mount Sinai (Horeb). The exact location of Sinai is debated."
+  },
+  "recipients": {
+    "pt": "Israel. Na leitura tradicional, a geração do Êxodo e do Sinai; na leitura acadêmica, a comunidade que preservou e redigiu a tradição.",
+    "en": "Israel. In the traditional reading, the generation of the Exodus and Sinai; in the scholarly reading, the community that preserved and edited the tradition."
+  },
+  "keyVerse": "20:2",
+  "theme": {
+    "pt": "Libertação e aliança: Deus liberta Israel da escravidão no Egito, firma uma aliança no Sinai e passa a habitar no meio do povo (o tabernáculo).",
+    "en": "Liberation and covenant: God frees Israel from slavery in Egypt, makes a covenant at Sinai and comes to dwell among the people (the tabernacle)."
+  },
+  "historicalContext": {
+    "pt": "O cenário é o Egito do Novo Reino, na leitura mais comum, com trabalho forçado em obras (Êx 1:11). O faraó não é nomeado no texto, e sua identificação depende da cronologia adotada. O Decálogo e as leis da aliança têm sido comparados a formas jurídicas e a tratados do Antigo Oriente Próximo.",
+    "en": "The setting is New Kingdom Egypt, in the most common reading, with forced labor on building projects (Exod 1:11). The pharaoh is not named in the text, and his identification depends on the chronology adopted. The Decalogue and the covenant laws have been compared with legal forms and treaties of the ancient Near East."
+  },
+  "characters": [
+    { "name": { "pt": "Moisés", "en": "Moses" }, "role": { "pt": "Libertador e mediador da aliança", "en": "Deliverer and mediator of the covenant" } },
+    { "name": { "pt": "Arão", "en": "Aaron" }, "role": { "pt": "Irmão de Moisés; primeiro sumo sacerdote", "en": "Moses' brother; first high priest" } },
+    { "name": { "pt": "Miriã", "en": "Miriam" }, "role": { "pt": "Irmã de Moisés; chamada profetisa (15:20)", "en": "Moses' sister; called a prophetess (15:20)" } },
+    { "name": { "pt": "Faraó (não nomeado)", "en": "Pharaoh (unnamed)" }, "role": { "pt": "Rei do Egito que se opõe à libertação", "en": "King of Egypt who resists the liberation" } },
+    { "name": { "pt": "Jetro", "en": "Jethro" }, "role": { "pt": "Sogro de Moisés; sacerdote de Midiã (caps. 3 e 18)", "en": "Moses' father-in-law; priest of Midian (chs. 3 and 18)" } },
+    { "name": { "pt": "Josué", "en": "Joshua" }, "role": { "pt": "Auxiliar de Moisés; combate Amaleque (17:9–13)", "en": "Moses' assistant; fights Amalek (17:9–13)" } },
+    { "name": { "pt": "Bezalel", "en": "Bezalel" }, "role": { "pt": "Artesão encarregado da obra do tabernáculo (31:1–5)", "en": "Craftsman in charge of the tabernacle work (31:1–5)" } }
+  ],
+  "outline": [
+    { "ref": "1:1–2:25", "title": { "pt": "Opressão no Egito e nascimento de Moisés", "en": "Oppression in Egypt and the birth of Moses" } },
+    { "ref": "3:1–4:31", "title": { "pt": "Chamado de Moisés", "en": "The call of Moses" } },
+    { "ref": "5:1–11:10", "title": { "pt": "Confronto com o Faraó e as pragas", "en": "Confrontation with Pharaoh and the plagues" } },
+    { "ref": "12:1–15:21", "title": { "pt": "Páscoa, saída e travessia do mar", "en": "Passover, departure and crossing of the sea" } },
+    { "ref": "15:22–18:27", "title": { "pt": "Do mar ao Sinai", "en": "From the sea to Sinai" } },
+    { "ref": "19:1–24:18", "title": { "pt": "A aliança no Sinai: Decálogo e leis", "en": "The covenant at Sinai: Decalogue and laws" } },
+    { "ref": "25:1–31:18", "title": { "pt": "Instruções para o tabernáculo e o sacerdócio", "en": "Instructions for the tabernacle and priesthood" } },
+    { "ref": "32:1–34:35", "title": { "pt": "O bezerro de ouro e a renovação da aliança", "en": "The golden calf and the renewal of the covenant" } },
+    { "ref": "35:1–40:38", "title": { "pt": "Construção do tabernáculo", "en": "Building the tabernacle" } }
+  ],
+  "connections": {
+    "pt": "Continua Gênesis (os filhos de Jacó no Egito) e leva a Levítico, que se passa no Sinai. Dt retoma o Sinai (Horebe). A Páscoa é lida em 1Co 5:7 e nos relatos da última ceia; Hb 3 compara Moisés e Cristo.",
+    "en": "Continues Genesis (Jacob's sons in Egypt) and leads into Leviticus, which is set at Sinai. Deuteronomy revisits Sinai (Horeb). The Passover is read in 1 Cor 5:7 and in the accounts of the Last Supper; Heb 3 compares Moses and Christ."
+  }
+}

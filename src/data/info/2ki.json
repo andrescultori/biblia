@@ -1,0 +1,166 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Desconhecido. A tradição judaica (Talmude, Baba Batra 15a) indica Jeremias. O livro não nomeia o autor.",
+      "en": "Unknown. Jewish tradition (Talmud, Baba Batra 15a) points to Jeremiah. The book does not name its author."
+    },
+    "scholarly": {
+      "pt": "Obra anônima, parte da História Deuteronomista, concluída depois do último evento narrado, a libertação do rei Joaquim, c. 561 a.C. (25:27–30).",
+      "en": "An anonymous work, part of the Deuteronomistic History, completed after the last event narrated, the release of King Jehoiachin, c. 561 BC (25:27–30)."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Os eventos cobrem de c. 850 a.C. até o exílio (586 a.C. e depois). A data de redação depende da posição adotada sobre a autoria.",
+      "en": "The events span from c. 850 BC to the exile (586 BC and after). The date of writing depends on the position adopted on authorship."
+    },
+    "scholarly": {
+      "pt": "Forma final no exílio (c. meados do séc. VI a.C.).",
+      "en": "Final form in the exile (c. mid-6th century BC)."
+    }
+  },
+  "place": {
+    "pt": "Israel (Samaria) e Judá (Jerusalém), terminando na Babilônia.",
+    "en": "Israel (Samaria) and Judah (Jerusalem), ending in Babylon."
+  },
+  "recipients": {
+    "pt": "Israel e Judá, lidos à luz do exílio.",
+    "en": "Israel and Judah, read in light of the exile."
+  },
+  "keyVerse": "17:22–23",
+  "theme": {
+    "pt": "O declínio e a queda de Israel (Samaria, c. 722 a.C.) e de Judá (Jerusalém, 586 a.C.), vistos como consequência da infidelidade à aliança.",
+    "en": "The decline and fall of Israel (Samaria, c. 722 BC) and of Judah (Jerusalem, 586 BC), seen as a consequence of unfaithfulness to the covenant."
+  },
+  "historicalContext": {
+    "pt": "O livro cobre a ascensão da Assíria e da Babilônia. A queda de Samaria é situada em c. 722/721 a.C., e a de Jerusalém em 586 a.C. A invasão de Senaqueribe (cap. 18) é conhecida também por fontes assírias, e a narrativa de Isaías 36–39 é paralela à de 2Rs 18–20. A reforma de Josias (caps. 22–23) é tema central na pesquisa sobre a História Deuteronomista.",
+    "en": "The book covers the rise of Assyria and Babylon. The fall of Samaria is placed in c. 722/721 BC, and that of Jerusalem in 586 BC. Sennacherib's invasion (ch. 18) is also known from Assyrian sources, and the narrative of Isaiah 36–39 parallels that of 2 Kgs 18–20. Josiah's reform (chs. 22–23) is a central topic in research on the Deuteronomistic History."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Elias",
+        "en": "Elijah"
+      },
+      "role": {
+        "pt": "Profeta; sai de cena em 2:1–11",
+        "en": "Prophet; leaves the scene in 2:1–11"
+      }
+    },
+    {
+      "name": {
+        "pt": "Eliseu",
+        "en": "Elisha"
+      },
+      "role": {
+        "pt": "Sucessor de Elias; profeta de milagres",
+        "en": "Elijah's successor; prophet of miracles"
+      }
+    },
+    {
+      "name": {
+        "pt": "Naamã",
+        "en": "Naaman"
+      },
+      "role": {
+        "pt": "Comandante arameu curado da lepra (cap. 5)",
+        "en": "Aramean commander healed of leprosy (ch. 5)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Jeú",
+        "en": "Jehu"
+      },
+      "role": {
+        "pt": "Rei de Israel; extermina a casa de Acabe (caps. 9–10)",
+        "en": "King of Israel; wipes out the house of Ahab (chs. 9–10)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Ezequias",
+        "en": "Hezekiah"
+      },
+      "role": {
+        "pt": "Rei de Judá; reforma religiosa e cerco de Senaqueribe (caps. 18–20)",
+        "en": "King of Judah; religious reform and Sennacherib's siege (chs. 18–20)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Josias",
+        "en": "Josiah"
+      },
+      "role": {
+        "pt": "Rei de Judá; reforma ao achar o livro da lei (caps. 22–23)",
+        "en": "King of Judah; reform after the book of the law is found (chs. 22–23)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Nabucodonosor",
+        "en": "Nebuchadnezzar"
+      },
+      "role": {
+        "pt": "Rei da Babilônia que destrói Jerusalém",
+        "en": "King of Babylon who destroys Jerusalem"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–8:29",
+      "title": {
+        "pt": "Elias e Eliseu",
+        "en": "Elijah and Elisha"
+      }
+    },
+    {
+      "ref": "9:1–10:36",
+      "title": {
+        "pt": "A revolta de Jeú",
+        "en": "Jehu's revolt"
+      }
+    },
+    {
+      "ref": "11:1–16:20",
+      "title": {
+        "pt": "Reis de Israel e de Judá",
+        "en": "Kings of Israel and Judah"
+      }
+    },
+    {
+      "ref": "17:1–41",
+      "title": {
+        "pt": "A queda de Samaria",
+        "en": "The fall of Samaria"
+      }
+    },
+    {
+      "ref": "18:1–20:21",
+      "title": {
+        "pt": "Ezequias e Senaqueribe",
+        "en": "Hezekiah and Sennacherib"
+      }
+    },
+    {
+      "ref": "21:1–23:30",
+      "title": {
+        "pt": "Manassés, Amom e a reforma de Josias",
+        "en": "Manasseh, Amon and Josiah's reform"
+      }
+    },
+    {
+      "ref": "23:31–25:30",
+      "title": {
+        "pt": "A queda de Jerusalém e o exílio",
+        "en": "The fall of Jerusalem and the exile"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Continua 1 Reis. Is 36–39 paralela 2Rs 18–20. Jr e Ez são do mesmo período. Jesus menciona Naamã em Lc 4:27.",
+    "en": "Continues 1 Kings. Isa 36–39 parallels 2 Kgs 18–20. Jeremiah and Ezekiel belong to the same period. Jesus mentions Naaman in Luke 4:27."
+  }
+}

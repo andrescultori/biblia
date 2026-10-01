@@ -1,0 +1,132 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Desconhecido. A tradição judaica (Talmude, Baba Batra 14b) indica Samuel. O livro não nomeia o autor.",
+      "en": "Unknown. Jewish tradition (Talmud, Baba Batra 14b) points to Samuel. The book does not name its author."
+    },
+    "scholarly": {
+      "pt": "Obra anônima. A data de composição é debatida: alguns a situam na monarquia (a menção a Davi em 4:17–22 seria prova de redação posterior a ele), outros no período pós-exílico. Não há consenso.",
+      "en": "An anonymous work. The date of composition is debated: some place it in the monarchy (the mention of David in 4:17–22 shows it was written after him), others in the post-exilic period. There is no consensus."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Redação a partir da época de Davi, c. séc. X a.C. ou depois. Os eventos se passam no tempo dos juízes.",
+      "en": "Written from the time of David, c. 10th century BC or later. The events take place in the time of the judges."
+    },
+    "scholarly": {
+      "pt": "Séc. X a.C. ou período pós-exílico (séc. V a.C.), conforme a posição adotada.",
+      "en": "10th century BC or the post-exilic period (5th century BC), depending on the position adopted."
+    }
+  },
+  "place": {
+    "pt": "Moabe e Belém de Judá.",
+    "en": "Moab and Bethlehem of Judah."
+  },
+  "recipients": {
+    "pt": "Israel. Não há destinatários indicados no texto.",
+    "en": "Israel. No recipients are named in the text."
+  },
+  "keyVerse": "1:16",
+  "theme": {
+    "pt": "Fidelidade e redenção: a lealdade de Rute a Noemi e a atuação de Boaz como resgatador (go'el) levam a uma família a se refazer, e dela virá Davi.",
+    "en": "Faithfulness and redemption: Ruth's loyalty to Naomi and Boaz's role as kinsman-redeemer (go'el) lead a family to be restored, and from it comes David."
+  },
+  "historicalContext": {
+    "pt": "A narrativa se passa \"nos dias em que os juízes governavam\" (1:1). Rute é moabita, e Dt 23:3 restringe a entrada de moabitas na assembleia; a história é lida por alguns como contraponto a esse tipo de exclusão, mas a interpretação é debatida. O resgate e o casamento de levirato aparecem em Lv 25:25 e Dt 25:5–10.",
+    "en": "The narrative is set \"in the days when the judges ruled\" (1:1). Ruth is a Moabite, and Deut 23:3 restricts Moabites from entering the assembly; some read the story as a counterpoint to that kind of exclusion, but the interpretation is debated. Redemption and levirate marriage appear in Lev 25:25 and Deut 25:5–10."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Rute",
+        "en": "Ruth"
+      },
+      "role": {
+        "pt": "Moabita que fica com a sogra e se casa com Boaz",
+        "en": "Moabite who stays with her mother-in-law and marries Boaz"
+      }
+    },
+    {
+      "name": {
+        "pt": "Noemi",
+        "en": "Naomi"
+      },
+      "role": {
+        "pt": "Viúva de Belém que volta de Moabe",
+        "en": "Widow of Bethlehem who returns from Moab"
+      }
+    },
+    {
+      "name": {
+        "pt": "Boaz",
+        "en": "Boaz"
+      },
+      "role": {
+        "pt": "Parente de Elimeleque; resgata a terra e se casa com Rute",
+        "en": "Relative of Elimelech; redeems the land and marries Ruth"
+      }
+    },
+    {
+      "name": {
+        "pt": "Orfa",
+        "en": "Orpah"
+      },
+      "role": {
+        "pt": "Nora de Noemi; volta para Moabe (cap. 1)",
+        "en": "Naomi's daughter-in-law; returns to Moab (ch. 1)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Obede",
+        "en": "Obed"
+      },
+      "role": {
+        "pt": "Filho de Rute e Boaz; avô de Davi (4:17)",
+        "en": "Son of Ruth and Boaz; grandfather of David (4:17)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–22",
+      "title": {
+        "pt": "Noemi e Rute voltam a Belém",
+        "en": "Naomi and Ruth return to Bethlehem"
+      }
+    },
+    {
+      "ref": "2:1–23",
+      "title": {
+        "pt": "Rute respiga no campo de Boaz",
+        "en": "Ruth gleans in Boaz's field"
+      }
+    },
+    {
+      "ref": "3:1–18",
+      "title": {
+        "pt": "Rute e Boaz na eira",
+        "en": "Ruth and Boaz at the threshing floor"
+      }
+    },
+    {
+      "ref": "4:1–12",
+      "title": {
+        "pt": "O resgate junto às portas da cidade",
+        "en": "The redemption at the city gate"
+      }
+    },
+    {
+      "ref": "4:13–22",
+      "title": {
+        "pt": "Casamento, o nascimento de Obede e a genealogia de Davi",
+        "en": "Marriage, the birth of Obed and the genealogy of David"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "No cânon hebraico, Rute está entre os Escritos; nas Bíblias cristãs vem depois de Juízes. A genealogia final liga o livro a Davi, e Rute é citada na genealogia de Jesus em Mt 1:5.",
+    "en": "In the Hebrew canon, Ruth is among the Writings; in Christian Bibles it follows Judges. The final genealogy ties the book to David, and Ruth is named in the genealogy of Jesus in Matt 1:5."
+  }
+}

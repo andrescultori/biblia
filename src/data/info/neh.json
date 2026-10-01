@@ -1,0 +1,122 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Neemias, segundo a própria tradição do livro, que abre com \"palavras de Neemias\" (1:1) e usa a primeira pessoa em muitas passagens (as \"memórias de Neemias\").",
+      "en": "Nehemiah, according to the book's own tradition, which opens with \"the words of Nehemiah\" (1:1) and uses the first person in many passages (the \"Nehemiah memoir\")."
+    },
+    "scholarly": {
+      "pt": "As memórias de Neemias são vistas como fonte antiga, incorporada à obra do Cronista ou de seu círculo. A unidade com Crônicas e Esdras é debatida.",
+      "en": "The Nehemiah memoir is seen as an early source, incorporated into the work of the Chronicler or his circle. The unity with Chronicles and Ezra is debated."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "A missão de Neemias é datada no vigésimo ano de Artaxerxes I (1:1; 2:1), isto é, 445 a.C., com retorno à Pérsia e segunda visita no trigésimo segundo ano (13:6), c. 433 a.C.",
+      "en": "Nehemiah's mission is dated to the twentieth year of Artaxerxes I (1:1; 2:1), that is, 445 BC, with a return to Persia and a second visit in the thirty-second year (13:6), c. 433 BC."
+    },
+    "scholarly": {
+      "pt": "Séc. V–IV a.C., período persa. A redação final é situada depois dos eventos, com variação entre os autores.",
+      "en": "5th–4th centuries BC, Persian period. The final composition is placed after the events, with variation among scholars."
+    }
+  },
+  "place": {
+    "pt": "Susã (capital persa) e Jerusalém.",
+    "en": "Susa (the Persian capital) and Jerusalem."
+  },
+  "recipients": {
+    "pt": "A comunidade de Jerusalém.",
+    "en": "The community of Jerusalem."
+  },
+  "keyVerse": "8:10",
+  "theme": {
+    "pt": "A reconstrução dos muros de Jerusalém, a leitura pública da lei e a renovação da comunidade em torno da aliança.",
+    "en": "The rebuilding of Jerusalem's walls, the public reading of the law and the renewal of the community around the covenant."
+  },
+  "historicalContext": {
+    "pt": "Neemias, copeiro do rei, é nomeado governador de Judá. A reconstrução da muralha é concluída em 52 dias (6:15), apesar de oposição local. O livro é uma das principais fontes sobre Jerusalém no período persa.",
+    "en": "Nehemiah, the king's cupbearer, is appointed governor of Judah. The wall is completed in 52 days (6:15) despite local opposition. The book is one of the main sources for Jerusalem in the Persian period."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Neemias",
+        "en": "Nehemiah"
+      },
+      "role": {
+        "pt": "Copeiro do rei e governador de Judá",
+        "en": "The king's cupbearer and governor of Judah"
+      }
+    },
+    {
+      "name": {
+        "pt": "Artaxerxes",
+        "en": "Artaxerxes"
+      },
+      "role": {
+        "pt": "Rei da Pérsia; autoriza a missão",
+        "en": "King of Persia; authorizes the mission"
+      }
+    },
+    {
+      "name": {
+        "pt": "Esdras",
+        "en": "Ezra"
+      },
+      "role": {
+        "pt": "Escriba que lê a lei (cap. 8)",
+        "en": "Scribe who reads the law (ch. 8)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Sambalate e Tobias",
+        "en": "Sanballat and Tobiah"
+      },
+      "role": {
+        "pt": "Opositores da reconstrução",
+        "en": "Opponents of the rebuilding"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–2:20",
+      "title": {
+        "pt": "A oração de Neemias e sua chegada a Jerusalém",
+        "en": "Nehemiah's prayer and arrival in Jerusalem"
+      }
+    },
+    {
+      "ref": "3:1–7:73",
+      "title": {
+        "pt": "A reconstrução dos muros e a oposição",
+        "en": "Rebuilding the walls and the opposition"
+      }
+    },
+    {
+      "ref": "8:1–10:39",
+      "title": {
+        "pt": "A leitura da lei e a renovação da aliança",
+        "en": "The reading of the law and the renewal of the covenant"
+      }
+    },
+    {
+      "ref": "11:1–12:47",
+      "title": {
+        "pt": "O repovoamento e a dedicação dos muros",
+        "en": "The resettlement and the dedication of the walls"
+      }
+    },
+    {
+      "ref": "13:1–31",
+      "title": {
+        "pt": "As reformas finais de Neemias",
+        "en": "Nehemiah's final reforms"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Continua Esdras e fecha os livros históricos do Antigo Testamento na ordem das Bíblias cristãs, com Ester em seguida. Ml é lido como contemporâneo ao período.",
+    "en": "Continues Ezra and, in Christian Bibles, is followed by Esther. Malachi is often read as contemporary with the period."
+  }
+}

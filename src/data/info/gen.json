@@ -1,0 +1,61 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Moisés, segundo a tradição judaica e cristã. O livro não nomeia o seu autor; a atribuição se apoia em textos que mostram Moisés escrevendo (por exemplo, Êx 17:14; 24:4; Dt 31:9).",
+      "en": "Moses, according to Jewish and Christian tradition. The book does not name its author; the attribution rests on texts that show Moses writing (for example, Exod 17:14; 24:4; Deut 31:9)."
+    },
+    "scholarly": {
+      "pt": "Obra anônima, formada por tradições de origens diversas. A hipótese documentária (fontes J, E e P) é a mais conhecida, mas há modelos concorrentes (fragmentário, suplementar) e debate contínuo; não há consenso.",
+      "en": "An anonymous work built from traditions of varied origin. The documentary hypothesis (sources J, E and P) is the best known, but competing models exist (fragmentary, supplementary) and debate continues; there is no consensus."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Durante a vida de Moisés, no período do Êxodo e da peregrinação no deserto. A data absoluta depende da cronologia do Êxodo: c. 1446 a.C. (cronologia alta, a partir de 1Rs 6:1) ou séc. XIII a.C. (cronologia baixa).",
+      "en": "During the life of Moses, in the period of the Exodus and the wilderness wanderings. The absolute date depends on the chronology of the Exodus: c. 1446 BC (early, based on 1 Kgs 6:1) or the 13th century BC (late)."
+    },
+    "scholarly": {
+      "pt": "Material composto e transmitido ao longo de séculos. A forma final costuma ser situada no período do exílio ou do pós-exílio (séc. VI–V a.C.), com ampla variação entre os autores.",
+      "en": "Material composed and transmitted over centuries. The final form is usually placed in the exilic or post-exilic period (6th–5th centuries BC), with wide variation among scholars."
+    }
+  },
+  "place": {
+    "pt": "O livro não indica o local de composição. Na leitura tradicional, o deserto (Sinai ou planícies de Moabe). Os cenários da narrativa são a Mesopotâmia, Canaã e o Egito.",
+    "en": "The book does not state where it was written. In the traditional reading, the wilderness (Sinai or the plains of Moab). The settings of the narrative are Mesopotamia, Canaan and Egypt."
+  },
+  "recipients": {
+    "pt": "Israel. Na leitura tradicional, a geração que saiu do Egito e se preparava para entrar em Canaã; na leitura acadêmica, a comunidade de Israel/Judá no contexto de sua redação final.",
+    "en": "Israel. In the traditional reading, the generation that left Egypt and was preparing to enter Canaan; in the scholarly reading, the community of Israel/Judah in the context of its final composition."
+  },
+  "keyVerse": "12:2–3",
+  "theme": {
+    "pt": "Origens: da criação do mundo e da humanidade até a eleição de Abraão e a formação da família de Israel, que termina no Egito.",
+    "en": "Origins: from the creation of the world and humanity to the calling of Abraham and the formation of the family of Israel, ending in Egypt."
+  },
+  "historicalContext": {
+    "pt": "O livro dialoga com o mundo do Antigo Oriente Próximo. Há paralelos literários com relatos mesopotâmicos de criação e de dilúvio (como o Atra-Hasis e a Epopeia de Gilgamesh). Os patriarcas são situados, na leitura tradicional, no início do segundo milênio a.C.; a historicidade dessas narrativas e sua datação são debatidas.",
+    "en": "The book engages the world of the ancient Near East. There are literary parallels with Mesopotamian accounts of creation and flood (such as Atrahasis and the Epic of Gilgamesh). The patriarchs are placed, in the traditional reading, in the early second millennium BC; the historicity and dating of these narratives are debated."
+  },
+  "characters": [
+    { "name": { "pt": "Adão e Eva", "en": "Adam and Eve" }, "role": { "pt": "Primeiro casal; a queda (cap. 3)", "en": "First couple; the fall (ch. 3)" } },
+    { "name": { "pt": "Caim e Abel", "en": "Cain and Abel" }, "role": { "pt": "Filhos de Adão e Eva; o primeiro homicídio (cap. 4)", "en": "Sons of Adam and Eve; the first murder (ch. 4)" } },
+    { "name": { "pt": "Noé", "en": "Noah" }, "role": { "pt": "Constrói a arca; aliança após o dilúvio (caps. 6–9)", "en": "Builds the ark; covenant after the flood (chs. 6–9)" } },
+    { "name": { "pt": "Abraão e Sara", "en": "Abraham and Sarah" }, "role": { "pt": "Chamados por Deus; promessa de terra, descendência e bênção (caps. 12–25)", "en": "Called by God; promise of land, offspring and blessing (chs. 12–25)" } },
+    { "name": { "pt": "Isaque e Rebeca", "en": "Isaac and Rebekah" }, "role": { "pt": "Filho da promessa e sua esposa", "en": "Son of the promise and his wife" } },
+    { "name": { "pt": "Jacó (Israel)", "en": "Jacob (Israel)" }, "role": { "pt": "Recebe o nome Israel; pai dos doze filhos (caps. 25–50)", "en": "Receives the name Israel; father of twelve sons (chs. 25–50)" } },
+    { "name": { "pt": "Esaú", "en": "Esau" }, "role": { "pt": "Irmão gêmeo de Jacó; ancestral de Edom (cap. 36)", "en": "Jacob's twin brother; ancestor of Edom (ch. 36)" } },
+    { "name": { "pt": "José", "en": "Joseph" }, "role": { "pt": "Vendido pelos irmãos; chega ao governo do Egito (caps. 37–50)", "en": "Sold by his brothers; rises to rule in Egypt (chs. 37–50)" } }
+  ],
+  "outline": [
+    { "ref": "1:1–2:3", "title": { "pt": "Criação", "en": "Creation" } },
+    { "ref": "2:4–4:26", "title": { "pt": "Éden, queda e primeiras gerações", "en": "Eden, the fall and the first generations" } },
+    { "ref": "5:1–11:26", "title": { "pt": "Noé, dilúvio, Babel e genealogias", "en": "Noah, the flood, Babel and genealogies" } },
+    { "ref": "11:27–25:11", "title": { "pt": "Abraão e Sara", "en": "Abraham and Sarah" } },
+    { "ref": "25:12–36:43", "title": { "pt": "Isaque, Jacó e Esaú", "en": "Isaac, Jacob and Esau" } },
+    { "ref": "37:1–50:26", "title": { "pt": "José e a descida ao Egito", "en": "Joseph and the descent to Egypt" } }
+  ],
+  "connections": {
+    "pt": "Prepara o Êxodo, que começa com os descendentes de Jacó no Egito. Jo 1:1 ecoa Gn 1:1. Paulo usa Abraão em Rm 4 e Gl 3:6–9, e Hb 11:8–22 recorda os patriarcas.",
+    "en": "Sets up Exodus, which begins with Jacob's descendants in Egypt. John 1:1 echoes Gen 1:1. Paul uses Abraham in Rom 4 and Gal 3:6–9, and Heb 11:8–22 recalls the patriarchs."
+  }
+}

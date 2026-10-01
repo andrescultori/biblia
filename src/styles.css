@@ -88,3 +88,11 @@ input[type='search'] { flex: 1 1 200px; min-width: 0; border: 1px solid var(--li
 .pager { justify-content: space-between; margin-top: 14px; margin-bottom: 0; }
 
 @media (prefers-reduced-motion: reduce) { .tile { transition: none; } }
+
+.sheetinfo section { margin: 0 0 14px; }
+.sheetinfo h3 { margin: 0 0 4px; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); font-weight: 600; }
+.sheetinfo p { margin: 0 0 6px; }
+.sheetinfo ul, .sheetinfo ol { margin: 0; padding-left: 1.2em; }
+.sheetinfo li { margin-bottom: 3px; }
+.outline { list-style: none; padding-left: 0 !important; }
+.outline span { font-variant-numeric: tabular-nums; color: var(--muted); margin-right: 6px; }

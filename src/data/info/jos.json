@@ -1,0 +1,132 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Josué, segundo a tradição judaica (Talmude, Baba Batra 14b), com o relato final da morte dele acrescentado por outra mão. O livro não nomeia o autor.",
+      "en": "Joshua, according to Jewish tradition (Talmud, Baba Batra 14b), with the final account of his death added by another hand. The book does not name its author."
+    },
+    "scholarly": {
+      "pt": "Obra anônima, em geral entendida como parte da História Deuteronomista (Josué a Reis), reunindo tradições antigas e editada em etapas. A redação final costuma ser situada entre o séc. VII e o exílio; não há consenso.",
+      "en": "An anonymous work, generally understood as part of the Deuteronomistic History (Joshua to Kings), gathering early traditions and edited in stages. The final composition is usually placed between the 7th century BC and the exile; there is no consensus."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Logo após os eventos que narra, a entrada em Canaã. A data depende da cronologia do Êxodo (conquista na segunda metade do séc. XV a.C. ou no séc. XIII a.C.).",
+      "en": "Soon after the events it narrates, the entry into Canaan. The date depends on the chronology of the Exodus (conquest in the second half of the 15th century BC or in the 13th century BC)."
+    },
+    "scholarly": {
+      "pt": "Forma final geralmente situada entre o séc. VII a.C. e o exílio (séc. VI a.C.). A historicidade da conquista e o quadro arqueológico (por exemplo, Jericó e Ai) são amplamente debatidos.",
+      "en": "Final form generally placed between the 7th century BC and the exile (6th century BC). The historicity of the conquest and the archaeological picture (for example, Jericho and Ai) are widely debated."
+    }
+  },
+  "place": {
+    "pt": "Canaã, a oeste do Jordão: Gilgal, Jericó, Ai, Gibeão, Siló e Siquém.",
+    "en": "Canaan, west of the Jordan: Gilgal, Jericho, Ai, Gibeon, Shiloh and Shechem."
+  },
+  "recipients": {
+    "pt": "Israel, apresentado como povo que recebe a terra prometida e é chamado a permanecer fiel à aliança.",
+    "en": "Israel, presented as a people receiving the promised land and called to remain faithful to the covenant."
+  },
+  "keyVerse": "24:15",
+  "theme": {
+    "pt": "A entrada em Canaã, a distribuição da terra entre as tribos e o chamado à fidelidade à aliança.",
+    "en": "The entry into Canaan, the distribution of the land among the tribes and the call to covenant faithfulness."
+  },
+  "historicalContext": {
+    "pt": "O livro continua Deuteronômio com a liderança de Josué. A narrativa da conquista contém passagens de destruição total (herem) que a leitura moderna discute do ponto de vista histórico e ético. Os textos de Josué e Juízes apresentam quadros diferentes da ocupação da terra.",
+    "en": "The book continues Deuteronomy under Joshua's leadership. The conquest narrative contains passages of total destruction (herem) that modern readers discuss from historical and ethical standpoints. Joshua and Judges present different pictures of the occupation of the land."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Josué",
+        "en": "Joshua"
+      },
+      "role": {
+        "pt": "Sucessor de Moisés; lidera a entrada em Canaã",
+        "en": "Moses' successor; leads the entry into Canaan"
+      }
+    },
+    {
+      "name": {
+        "pt": "Raabe",
+        "en": "Rahab"
+      },
+      "role": {
+        "pt": "Mulher de Jericó que abriga os espias (caps. 2 e 6)",
+        "en": "Woman of Jericho who shelters the spies (chs. 2 and 6)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Calebe",
+        "en": "Caleb"
+      },
+      "role": {
+        "pt": "Pede e recebe Hebrom (14:6–15)",
+        "en": "Asks for and receives Hebron (14:6–15)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Acã",
+        "en": "Achan"
+      },
+      "role": {
+        "pt": "Toma do que era consagrado; derrota em Ai (cap. 7)",
+        "en": "Takes what was devoted; defeat at Ai (ch. 7)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Eleazar e Fineias",
+        "en": "Eleazar and Phinehas"
+      },
+      "role": {
+        "pt": "Sacerdotes da geração da conquista",
+        "en": "Priests of the conquest generation"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–5:15",
+      "title": {
+        "pt": "Preparação e travessia do Jordão",
+        "en": "Preparation and crossing of the Jordan"
+      }
+    },
+    {
+      "ref": "6:1–12:24",
+      "title": {
+        "pt": "A conquista de Canaã",
+        "en": "The conquest of Canaan"
+      }
+    },
+    {
+      "ref": "13:1–21:45",
+      "title": {
+        "pt": "A divisão da terra entre as tribos",
+        "en": "The division of the land among the tribes"
+      }
+    },
+    {
+      "ref": "22:1–34",
+      "title": {
+        "pt": "O altar das tribos da Transjordânia",
+        "en": "The altar of the Transjordan tribes"
+      }
+    },
+    {
+      "ref": "23:1–24:33",
+      "title": {
+        "pt": "Despedida de Josué e renovação da aliança em Siquém",
+        "en": "Joshua's farewell and covenant renewal at Shechem"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Continua Deuteronômio e leva a Juízes. Raabe aparece em Mt 1:5, Hb 11:31 e Tg 2:25. Hb 4:8 menciona Josué ao tratar do descanso.",
+    "en": "Continues Deuteronomy and leads into Judges. Rahab appears in Matt 1:5, Heb 11:31 and Jas 2:25. Heb 4:8 mentions Joshua when discussing rest."
+  }
+}
