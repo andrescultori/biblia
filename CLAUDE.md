@@ -11,6 +11,7 @@ Tabela interativa dos 66 livros da Bíblia (inspirada no "TaBíblia Periódica")
 - Se outra ferramenta do ecossistema Claude servir melhor a uma tarefa, diga.
 
 ## Estrutura
+- `README.md` (PT) e `README.en.md` (EN): README de portfólio, espelhados; mexer nos dois juntos. Formatos de dados e detalhes técnicos em `docs/formatos-de-dados.md`. Capturas em `docs/images/`. Contagens (livros com mapa, eventos, personagens) aparecem nos dois README: atualizar ao mudar.
 - `src/data/books.js`: os 66 livros (slug, siglas e nomes PT/EN, seção, testamento). A ordem canônica é o número do livro (1 a 66), igual ao nome dos arquivos de texto.
 - `src/data/counts.json`: capítulos e versículos por livro. É gerado pelo script, não editar à mão.
 - `src/data/bible.js`: versões de texto disponíveis (com crédito e licença mostrados no leitor) e carregamento por livro. Dentro de cada idioma, a primeira da lista é a padrão.
