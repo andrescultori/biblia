@@ -42,7 +42,7 @@ Tabela interativa dos 66 livros da Bíblia (inspirada no "TaBíblia Periódica")
 3. Mapa: costa em vetor com d3 (sem tiles externos). **Aba pronta** (demo em `docs/map-demo/`); **mapas feitos para todas as seções**, com revisão do André em andamento. Sem mapa de propósito: Jó, Salmos, Provérbios, Eclesiastes, Cantares (adiados a pedido do André), Lamentações, Joel, Habacuque, Ageu, Malaquias, Efésios, 2 Tessalonicenses, Filemom, Hebreus, Tiago, 2 Pedro, 1–3 João e Judas (poucos ou nenhum lugar distinto no OpenBible). **Linha do tempo: pronta** (`src/Timeline.jsx`, dados em `src/data/timeline.json`, base das datas em `docs/linha-do-tempo-fontes.md`; revisão do André pendente).
 4. Textos: **KJV, WEB, ASV, Bíblia Livre e Almeida 1911 no site.** Pendentes: ARA e NAA (autorização da SBB) e, se aparecer fonte confiável, a ARC de 1898.
 5. Páginas de personagens bíblicos e outros conteúdos.
-6. Integrar linha do tempo e mapas nos dois sentidos: evento com lugar abre o mapa do livro (ou um mapa do evento) já no lugar certo, e lugar do mapa mostra os eventos e o período em que aconteceu. Exige um vínculo explícito entre `timeline.json` e os lugares de `src/data/info/<slug>.json` (hoje não existe). Ainda não detalhado: diagnosticar e esperar a confirmação do André antes de implementar.
+6. Integração linha do tempo ↔ mapas: **feita** (evento → lugares do mapa; lugar → eventos). Cada evento pode ter `places: [{book, name, en}]`, validado contra o mapa da ficha. Quando existirem as páginas de personagens, integrar os três (linha do tempo, mapa e personagens).
 
 ## Comandos
 - `npm install` e `npm run dev`: desenvolvimento.
