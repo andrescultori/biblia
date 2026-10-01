@@ -1,0 +1,61 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Moisés, segundo a tradição. O livro diz que Moisés registrou as etapas da viagem (Nm 33:2), mas não nomeia o autor da obra inteira.",
+      "en": "Moses, according to tradition. The book says that Moses recorded the stages of the journey (Num 33:2), but it does not name the author of the whole work."
+    },
+    "scholarly": {
+      "pt": "Obra composta, em geral atribuída a fontes J, E e P combinadas, com material antigo citado de outras obras (por exemplo, o Livro das Guerras do Senhor, Nm 21:14). Há debate sobre o processo de composição; não há consenso.",
+      "en": "A composite work, generally attributed to combined sources J, E and P, with early material quoted from other works (for example, the Book of the Wars of the Lord, Num 21:14). The process of composition is debated; there is no consensus."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Época de Moisés, ao longo dos cerca de quarenta anos no deserto. A data absoluta depende da cronologia do Êxodo (c. 1446 a.C. ou séc. XIII a.C.).",
+      "en": "The time of Moses, across the roughly forty years in the wilderness. The absolute date depends on the chronology of the Exodus (c. 1446 BC or the 13th century BC)."
+    },
+    "scholarly": {
+      "pt": "Forma final geralmente situada no exílio ou no pós-exílio (séc. VI–V a.C.), com tradições anteriores incorporadas.",
+      "en": "Final form generally placed in the exilic or post-exilic period (6th–5th centuries BC), incorporating earlier traditions."
+    }
+  },
+  "place": {
+    "pt": "O livro percorre o Sinai, o deserto de Parã, Cades e termina nas planícies de Moabe (Nm 22:1; 36:13). O local de composição não é indicado.",
+    "en": "The book moves through Sinai, the wilderness of Paran and Kadesh, and ends on the plains of Moab (Num 22:1; 36:13). The place of composition is not stated."
+  },
+  "recipients": {
+    "pt": "Israel, em especial a nova geração que se prepara para entrar na terra prometida.",
+    "en": "Israel, especially the new generation preparing to enter the promised land."
+  },
+  "keyVerse": "6:24–26",
+  "theme": {
+    "pt": "A jornada no deserto: o povo é organizado no Sinai, tropeça na desconfiança e na rebelião, e uma nova geração se aproxima da terra prometida, sustentada pela fidelidade de Deus.",
+    "en": "The wilderness journey: the people are organized at Sinai, stumble in distrust and rebellion, and a new generation approaches the promised land, sustained by God's faithfulness."
+  },
+  "historicalContext": {
+    "pt": "O título em português vem dos recenseamentos (caps. 1 e 26); o título hebraico tradicional (Bemidbar) significa \"no deserto\". A viagem é situada entre o Sinai e Moabe. A historicidade e o roteiro exato da peregrinação, assim como a identificação de muitos lugares, são debatidos.",
+    "en": "The English title comes from the censuses (chs. 1 and 26); the traditional Hebrew title (Bemidbar) means \"in the wilderness\". The journey is set between Sinai and Moab. The historicity and exact route of the wandering, as well as the identification of many places, are debated."
+  },
+  "characters": [
+    { "name": { "pt": "Moisés", "en": "Moses" }, "role": { "pt": "Líder do povo e mediador", "en": "Leader of the people and mediator" } },
+    { "name": { "pt": "Arão e Miriã", "en": "Aaron and Miriam" }, "role": { "pt": "Irmãos de Moisés; Miriã e Arão o questionam (cap. 12)", "en": "Moses' siblings; Miriam and Aaron challenge him (ch. 12)" } },
+    { "name": { "pt": "Josué e Calebe", "en": "Joshua and Caleb" }, "role": { "pt": "Espias que confiam na promessa (caps. 13–14)", "en": "Spies who trust the promise (chs. 13–14)" } },
+    { "name": { "pt": "Corá", "en": "Korah" }, "role": { "pt": "Lidera uma rebelião contra Moisés e Arão (cap. 16)", "en": "Leads a rebellion against Moses and Aaron (ch. 16)" } },
+    { "name": { "pt": "Balaão e Balaque", "en": "Balaam and Balak" }, "role": { "pt": "Adivinho convocado por um rei de Moabe (caps. 22–24)", "en": "A diviner summoned by a king of Moab (chs. 22–24)" } },
+    { "name": { "pt": "Eleazar e Fineias", "en": "Eleazar and Phinehas" }, "role": { "pt": "Sacerdotes da nova geração (caps. 20; 25)", "en": "Priests of the new generation (chs. 20; 25)" } },
+    { "name": { "pt": "As filhas de Zelofeade", "en": "The daughters of Zelophehad" }, "role": { "pt": "Reivindicam direito de herança (caps. 27 e 36)", "en": "Claim a right of inheritance (chs. 27 and 36)" } }
+  ],
+  "outline": [
+    { "ref": "1:1–10:10", "title": { "pt": "Recenseamento e organização do povo no Sinai", "en": "Census and organization of the people at Sinai" } },
+    { "ref": "10:11–12:16", "title": { "pt": "Partida do Sinai e primeiras murmurações", "en": "Departure from Sinai and the first complaints" } },
+    { "ref": "13:1–14:45", "title": { "pt": "Os espias e a rebelião em Cades", "en": "The spies and the rebellion at Kadesh" } },
+    { "ref": "15:1–19:22", "title": { "pt": "Leis diversas e a rebelião de Corá", "en": "Assorted laws and the rebellion of Korah" } },
+    { "ref": "20:1–21:35", "title": { "pt": "Fim da peregrinação: Meribá, a morte de Arão e as primeiras vitórias", "en": "End of the wandering: Meribah, the death of Aaron and first victories" } },
+    { "ref": "22:1–25:18", "title": { "pt": "Balaão e o episódio de Baal-Peor", "en": "Balaam and the episode of Baal-Peor" } },
+    { "ref": "26:1–36:13", "title": { "pt": "Novo recenseamento e preparação para entrar na terra", "en": "A new census and preparation to enter the land" } }
+  ],
+  "connections": {
+    "pt": "Continua Levítico (o Sinai) e leva a Deuteronômio (Moabe). A serpente de bronze (Nm 21:4–9) é lembrada em Jo 3:14. 1Co 10:1–11 usa a experiência do deserto como advertência, e Jd 11 menciona Balaão e Corá.",
+    "en": "Continues Leviticus (Sinai) and leads into Deuteronomy (Moab). The bronze serpent (Num 21:4–9) is recalled in John 3:14. 1 Cor 10:1–11 uses the wilderness experience as a warning, and Jude 11 mentions Balaam and Korah."
+  }
+}

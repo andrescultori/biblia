@@ -1,0 +1,59 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Moisés, segundo a tradição. O livro apresenta suas leis como palavras de Deus a Moisés (por exemplo, Lv 1:1; 27:34), sem nomear quem as registrou.",
+      "en": "Moses, according to tradition. The book presents its laws as God's words to Moses (for example, Lev 1:1; 27:34), without naming who recorded them."
+    },
+    "scholarly": {
+      "pt": "Em geral atribuído à tradição sacerdotal (P), com o chamado Código de Santidade (caps. 17–26, às vezes designado H). Discute-se se H é uma camada de P ou uma fonte distinta e quão antigo é o material; não há consenso.",
+      "en": "Generally attributed to the priestly tradition (P), with the so-called Holiness Code (chs. 17–26, sometimes called H). Scholars debate whether H is a layer of P or a distinct source and how old the material is; there is no consensus."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Época de Moisés, durante a permanência em Sinai, após a construção do tabernáculo. A data absoluta depende da cronologia do Êxodo (c. 1446 a.C. ou séc. XIII a.C.).",
+      "en": "The time of Moses, during the stay at Sinai, after the tabernacle was built. The absolute date depends on the chronology of the Exodus (c. 1446 BC or the 13th century BC)."
+    },
+    "scholarly": {
+      "pt": "Forma final geralmente situada no exílio ou no pós-exílio (séc. VI–V a.C.). Muitos admitem material ritual mais antigo incorporado.",
+      "en": "Final form generally placed in the exilic or post-exilic period (6th–5th centuries BC). Many allow for earlier ritual material incorporated into it."
+    }
+  },
+  "place": {
+    "pt": "O monte Sinai, segundo o próprio livro (Lv 7:38; 25:1; 26:46; 27:34).",
+    "en": "Mount Sinai, according to the book itself (Lev 7:38; 25:1; 26:46; 27:34)."
+  },
+  "recipients": {
+    "pt": "Os sacerdotes (Arão e seus filhos) e o povo de Israel.",
+    "en": "The priests (Aaron and his sons) and the people of Israel."
+  },
+  "keyVerse": "19:2",
+  "theme": {
+    "pt": "Santidade: como um povo impuro pode se aproximar de um Deus santo e viver na sua presença, por meio de sacrifícios, sacerdócio, leis de pureza e justiça no cotidiano.",
+    "en": "Holiness: how an unclean people can approach a holy God and live in his presence, through sacrifices, priesthood, purity laws and justice in daily life."
+  },
+  "historicalContext": {
+    "pt": "O livro se passa no Sinai, entre a construção do tabernáculo (Êx 40) e a partida do povo (Nm 10). Seu vocabulário de sacrifícios e de pureza tem paralelos em práticas de culto do Antigo Oriente Próximo, mas a teologia do livro é própria. O Dia da Expiação (cap. 16) e o ano do jubileu (cap. 25) são regulamentações centrais.",
+    "en": "The book is set at Sinai, between the building of the tabernacle (Exod 40) and the people's departure (Num 10). Its vocabulary of sacrifice and purity has parallels in ancient Near Eastern cult practice, but the theology of the book is its own. The Day of Atonement (ch. 16) and the jubilee year (ch. 25) are central regulations."
+  },
+  "characters": [
+    { "name": { "pt": "Moisés", "en": "Moses" }, "role": { "pt": "Recebe e transmite as instruções", "en": "Receives and relays the instructions" } },
+    { "name": { "pt": "Arão", "en": "Aaron" }, "role": { "pt": "Sumo sacerdote; consagrado nos caps. 8–9", "en": "High priest; consecrated in chs. 8–9" } },
+    { "name": { "pt": "Nadabe e Abiú", "en": "Nadab and Abihu" }, "role": { "pt": "Filhos de Arão; morrem ao oferecer fogo estranho (cap. 10)", "en": "Sons of Aaron; die after offering unauthorized fire (ch. 10)" } },
+    { "name": { "pt": "Eleazar e Itamar", "en": "Eleazar and Ithamar" }, "role": { "pt": "Filhos de Arão que seguem no sacerdócio (cap. 10)", "en": "Sons of Aaron who continue in the priesthood (ch. 10)" } }
+  ],
+  "outline": [
+    { "ref": "1:1–7:38", "title": { "pt": "As ofertas e os sacrifícios", "en": "The offerings and sacrifices" } },
+    { "ref": "8:1–10:20", "title": { "pt": "Consagração dos sacerdotes e a morte de Nadabe e Abiú", "en": "Consecration of the priests and the death of Nadab and Abihu" } },
+    { "ref": "11:1–15:33", "title": { "pt": "Leis do puro e do impuro", "en": "Laws of clean and unclean" } },
+    { "ref": "16:1–34", "title": { "pt": "O Dia da Expiação", "en": "The Day of Atonement" } },
+    { "ref": "17:1–20:27", "title": { "pt": "Santidade na vida do povo", "en": "Holiness in the life of the people" } },
+    { "ref": "21:1–24:23", "title": { "pt": "Sacerdotes, festas e normas diversas", "en": "Priests, festivals and various regulations" } },
+    { "ref": "25:1–26:46", "title": { "pt": "Ano sabático, jubileu, bênçãos e maldições", "en": "Sabbath year, jubilee, blessings and curses" } },
+    { "ref": "27:1–34", "title": { "pt": "Votos e dízimos", "en": "Vows and tithes" } }
+  ],
+  "connections": {
+    "pt": "Continua Êxodo (o tabernáculo) e leva a Números (a partida do Sinai). Hb 7–10 relê o sacerdócio e o Dia da Expiação. Lv 19:18 é citado em Mt 22:39, Gl 5:14 e Tg 2:8, e 1Pe 1:16 cita o chamado à santidade.",
+    "en": "Continues Exodus (the tabernacle) and leads into Numbers (the departure from Sinai). Heb 7–10 rereads the priesthood and the Day of Atonement. Lev 19:18 is quoted in Matt 22:39, Gal 5:14 and Jas 2:8, and 1 Pet 1:16 cites the call to holiness."
+  }
+}
