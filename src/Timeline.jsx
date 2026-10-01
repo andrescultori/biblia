@@ -1,6 +1,7 @@
 import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { BOOKS, bySlug } from './data/books.js';
 import data from './data/timeline.json';
+import { people } from './data/people.json';
 import { pick, range, views, main } from './timelineUtil.js';
 
 const MIN_W = 132; // largura mínima de um período na faixa, em px (cabe o título)
@@ -21,7 +22,7 @@ function Dates({ dates, t, lang }) {
   );
 }
 
-export default function Timeline({ lang, t, focusId, onClose, onOpenBook, onOpenMap }) {
+export default function Timeline({ lang, t, focusId, onClose, onOpenBook, onOpenMap, onOpenPerson }) {
   const ref = useRef(null);
   const focused = data.events.find((e) => e.id === focusId);
   const [sel, setSel] = useState(focused?.period ?? data.periods[0].id);
@@ -124,6 +125,14 @@ export default function Timeline({ lang, t, focusId, onClose, onOpenBook, onOpen
                     <Dates dates={e.dates} t={t} lang={lang} />
                     <p>{pick(e.note, lang)}</p>
                     {e.ref && <small>{bySlug[e.ref.book].ab[lang]} {e.ref.ref}</small>}
+                    {people.some((p) => p.events?.includes(e.id)) && (
+                      <div className="tl-places">
+                        <small>{t.peopleOnTimeline}:</small>
+                        {people.filter((p) => p.events?.includes(e.id)).map((p) => (
+                          <button key={p.id} type="button" className="tl-place" onClick={() => onOpenPerson(p.id)}>{pick(p.name, lang)}</button>
+                        ))}
+                      </div>
+                    )}
                     {e.places?.length > 0 && (
                       <div className="tl-places">
                         {e.places.map((pl) => (

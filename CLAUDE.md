@@ -21,9 +21,11 @@ Tabela interativa dos 66 livros da Bíblia (inspirada no "TaBíblia Periódica")
 - `src/data/land.json`: costa em vetor (Natural Earth 50m, recortada). Não editar à mão.
 - `src/MapView.jsx`: aba Mapa (d3-geo, SVG em pixels reais, rótulos sem colisão, botão "Ampliar região"). Carregada sob demanda.
 - `src/Timeline.jsx`: modal da linha do tempo (períodos, eventos, livros por período; escala por bloco). Carregada sob demanda; link `#timeline`.
+- `src/People.jsx`: modal de personagens (lista com busca e filtro por livro; detalhe com livros, eventos e lugares). Carregada sob demanda; links `#person` e `#person/<id>`.
 - `src/BookModal.jsx`: modal do livro (abas Resumo, Ficha, Mapa e Ler). `src/App.jsx`: grade, filtros, tema, idioma, link direto por hash (`#joh`).
 
 ## Regras de conteúdo
+- Personagens: o resumo se limita ao que o texto bíblico diz, com referências; onde a identidade, a autoria ou a datação são debatidas, usar `note`. Pessoas distintas de mesmo nome têm ids distintos (ex.: `josue` e `josue-sacerdote`).
 - Linha do tempo: nunca inventar datas. Cada data tem base (texto bíblico ou registro externo) em `docs/linha-do-tempo-fontes.md`; onde a cronologia é debatida, mostrar as duas leituras. Livros ligados a um período seguem o cenário do texto, não a data de composição.
 - Texto bíblico em português só entra com licença clara. ARA e NAA pertencem à Sociedade Bíblica do Brasil (SBB) e aguardam autorização (contato do termo de uso: direitos@sbb.org.br). A KJV é de domínio público. Só a edição original de 1898 da ARC é de domínio público; a ARC da SBB (1995) tem direitos.
 - Antes de adicionar qualquer versão, leia `docs/licencas-texto-biblico.md` (situação de cada versão, regras da SBB, ESV e NKJV) e confirme a licença em fonte primária. Mostre a evidência ao André e espere a confirmação dele.
@@ -41,7 +43,7 @@ Tabela interativa dos 66 livros da Bíblia (inspirada no "TaBíblia Periódica")
 2. Fichas completas por livro: autor, data, local, destinatários, versículo-chave, tema, contexto histórico, personagens, esboço, conexões. **Rascunho dos 66 livros pronto**; a revisão do André é manual e segue em andamento (pontos de atenção: autoria das cartas do NT, datação de Daniel, versículos-chave, traduções em EN).
 3. Mapa: costa em vetor com d3 (sem tiles externos). **Aba pronta** (demo em `docs/map-demo/`); **mapas feitos para todas as seções**, com revisão do André em andamento. Sem mapa de propósito: Jó, Salmos, Provérbios, Eclesiastes, Cantares (adiados a pedido do André), Lamentações, Joel, Habacuque, Ageu, Malaquias, Efésios, 2 Tessalonicenses, Filemom, Hebreus, Tiago, 2 Pedro, 1–3 João e Judas (poucos ou nenhum lugar distinto no OpenBible). **Linha do tempo: pronta** (`src/Timeline.jsx`, dados em `src/data/timeline.json`, base das datas em `docs/linha-do-tempo-fontes.md`; revisão do André pendente).
 4. Textos: **KJV, WEB, ASV, Bíblia Livre e Almeida 1911 no site.** Pendentes: ARA e NAA (autorização da SBB) e, se aparecer fonte confiável, a ARC de 1898.
-5. Páginas de personagens bíblicos e outros conteúdos.
+5. Páginas de personagens bíblicos (`src/People.jsx`, dados em `src/data/people.json`). **Em andamento:** estrutura pronta e primeira seleção (16); faltam o resto do AT e do NT, por seção, com revisão do André. Cada personagem liga a livros, eventos da linha do tempo e lugares do mapa (nos dois sentidos). Resumos só com o que o texto bíblico diz. **Genealogia (pai, filho, cônjuge) fica para mais adiante**, por exigir fontes e decisões de mérito. Outros conteúdos: a definir.
 6. Integração linha do tempo ↔ mapas: **feita** (evento → lugares do mapa; lugar → eventos). Cada evento pode ter `places: [{book, name, en}]`, validado contra o mapa da ficha. Quando existirem as páginas de personagens, integrar os três (linha do tempo, mapa e personagens).
 
 ## Comandos

@@ -1,0 +1,121 @@
+import React, { useEffect, useMemo, useRef, useState } from 'react';
+import { BOOKS, bySlug } from './data/books.js';
+import { people } from './data/people.json';
+import timeline from './data/timeline.json';
+import { pick, range, main } from './timelineUtil.js';
+
+const norm = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+const byId = Object.fromEntries(people.map((p) => [p.id, p]));
+const evById = Object.fromEntries(timeline.events.map((e) => [e.id, e]));
+
+export default function People({ lang, t, focusId, onClose, onOpenBook, onOpenTimeline, onOpenMap }) {
+  const ref = useRef(null);
+  const [sel, setSel] = useState(byId[focusId] ? focusId : null);
+  const [query, setQuery] = useState('');
+  const [bookFilter, setBookFilter] = useState('all');
+
+  useEffect(() => {
+    const d = ref.current;
+    if (d && !d.open) d.showModal();
+    const handle = () => onClose();
+    d?.addEventListener('close', handle);
+    return () => { d?.removeEventListener('close', handle); if (d?.open) d.close(); };
+  }, []);
+
+  const bookOptions = useMemo(() => BOOKS.filter((b) => people.some((p) => p.books.some((x) => x.book === b.slug))), []);
+  const list = useMemo(() => {
+    const q = norm(query.trim());
+    return people
+      .filter((p) => bookFilter === 'all' || p.books.some((b) => b.book === bookFilter))
+      .filter((p) => !q || norm(p.name.pt).includes(q) || norm(p.name.en).includes(q))
+      .sort((a, b) => pick(a.name, lang).localeCompare(pick(b.name, lang), lang));
+  }, [query, bookFilter, lang]);
+
+  const person = byId[sel];
+  const choose = (id) => { setSel(id); history.replaceState(null, '', id ? `#person/${id}` : '#person'); };
+
+  return (
+    <dialog ref={ref} className="modal wide" aria-labelledby="pp-title" onClick={(e) => { if (e.target === ref.current) ref.current.close(); }}>
+      <div className="sheet" style={{ '--c': 'var(--s-paulo)' }}>
+        <div className="head">
+          <div className="ttl">
+            <h2 id="pp-title">{person ? pick(person.name, lang) : t.people}</h2>
+            <p>{person ? t.people : t.peopleSub}</p>
+          </div>
+          <button type="button" className="ghost close" onClick={() => ref.current.close()} aria-label={t.close}>✕</button>
+        </div>
+
+        {!person && (
+          <>
+            <div className="controls">
+              <input type="search" value={query} onChange={(e) => setQuery(e.target.value)} placeholder={t.peopleSearch} aria-label={t.peopleSearch} />
+              <select value={bookFilter} onChange={(e) => setBookFilter(e.target.value)} aria-label={t.peopleBook}>
+                <option value="all">{t.peopleAllBooks}</option>
+                {bookOptions.map((b) => <option key={b.slug} value={b.slug}>{b.name[lang]}</option>)}
+              </select>
+            </div>
+            <div className="body">
+              {list.length === 0 && <p className="soon">{t.noResults}</p>}
+              <ul className="pp-list">
+                {list.map((p) => (
+                  <li key={p.id}>
+                    <button type="button" className="pp-card" onClick={() => choose(p.id)}>
+                      <b>{pick(p.name, lang)}</b>
+                      <span>{pick(p.summary, lang).split(/(?<=[.!?])\s/)[0]}</span>
+                      <small>{p.books.length} {p.books.length === 1 ? t.peopleBookOne : t.peopleBooks}</small>
+                    </button>
+                  </li>
+                ))}
+              </ul>
+              <p className="tl-scalenote">{t.peopleNote}</p>
+            </div>
+          </>
+        )}
+
+        {person && (
+          <div className="body tl-detail">
+            <button type="button" className="ghost" onClick={() => choose(null)}>← {t.peopleBack}</button>
+            <p className="pp-summary">{pick(person.summary, lang)}</p>
+            {person.note && <p className="tl-warn">{pick(person.note, lang)}</p>}
+
+            <h4>{t.peopleInBooks}</h4>
+            <ul className="pp-books">
+              {person.books.map((b) => (
+                <li key={b.book}>
+                  <button type="button" className="tl-chip" style={{ '--c': `var(--s-${bySlug[b.book].section})` }} onClick={() => onOpenBook(b.book)}>{bySlug[b.book].name[lang]}</button>
+                  <span>{pick(b.role, lang)}</span>
+                </li>
+              ))}
+            </ul>
+
+            {person.events?.length > 0 && (
+              <>
+                <h4>{t.timelineEvents}</h4>
+                <div className="tl-chips">
+                  {person.events.map((id) => evById[id]).sort((a, b) => main(a.dates).start - main(b.dates).start).map((e) => (
+                    <button key={e.id} type="button" className="tl-chip" style={{ '--c': 'var(--s-historicos)' }} onClick={() => onOpenTimeline(e.id)}>
+                      {pick(e.title, lang)} <small>{range(main(e.dates), lang)}</small>
+                    </button>
+                  ))}
+                </div>
+              </>
+            )}
+
+            {person.places?.length > 0 && (
+              <>
+                <h4>{t.peoplePlaces}</h4>
+                <div className="tl-places">
+                  {person.places.map((pl) => (
+                    <button key={pl.book + pl.name} type="button" className="tl-place" onClick={() => onOpenMap(pl.book, pl.name)}>
+                      {lang === 'pt' ? pl.name : pl.en} ({bySlug[pl.book].ab[lang]})
+                    </button>
+                  ))}
+                </div>
+              </>
+            )}
+          </div>
+        )}
+      </div>
+    </dialog>
+  );
+}
