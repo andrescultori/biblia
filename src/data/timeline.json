@@ -1012,6 +1012,310 @@
         "ref": "2:1"
       },
       "attested": true
+    },
+    {
+      "id": "nascimento",
+      "period": "jesus",
+      "title": {
+        "pt": "Nascimento de Jesus",
+        "en": "Birth of Jesus"
+      },
+      "note": {
+        "pt": "Jesus nasce em Belém, no reinado de Herodes (Mt 2:1; Lc 2:4–7). Como Herodes morreu em 4 a.C., o nascimento é situado entre 6 e 4 a.C.",
+        "en": "Jesus is born in Bethlehem during Herod's reign (Matt 2:1; Luke 2:4–7). Since Herod died in 4 BC, the birth is placed between 6 and 4 BC."
+      },
+      "dates": {
+        "start": -6,
+        "end": -4,
+        "approx": true
+      },
+      "ref": {
+        "book": "luk",
+        "ref": "2:7"
+      },
+      "uncertain": true
+    },
+    {
+      "id": "ministerio",
+      "period": "jesus",
+      "title": {
+        "pt": "Batismo e início do ministério",
+        "en": "Baptism and start of the ministry"
+      },
+      "note": {
+        "pt": "João Batista começa a pregar no 15º ano de Tibério (Lc 3:1–2), o que dá 28–29 d.C.; Jesus é batizado e começa seu ministério.",
+        "en": "John the Baptist begins to preach in the 15th year of Tiberius (Luke 3:1–2), which gives AD 28–29; Jesus is baptized and begins his ministry."
+      },
+      "dates": {
+        "start": 28,
+        "end": 29,
+        "approx": true
+      },
+      "ref": {
+        "book": "luk",
+        "ref": "3:1"
+      },
+      "uncertain": true
+    },
+    {
+      "id": "crucificacao",
+      "period": "jesus",
+      "title": {
+        "pt": "Crucificação e ressurreição",
+        "en": "Crucifixion and resurrection"
+      },
+      "note": {
+        "pt": "Jesus é crucificado sob Pôncio Pilatos, que governou a Judeia de 26 a 36 d.C.; Tácito também cita a execução. O ano exato é debatido: 30 ou 33 d.C.",
+        "en": "Jesus is crucified under Pontius Pilate, who governed Judea from AD 26 to 36; Tacitus also mentions the execution. The exact year is debated: AD 30 or 33."
+      },
+      "dates": {
+        "start": 30,
+        "approx": true,
+        "note": {
+          "pt": "Alguns situam em 33 d.C.",
+          "en": "Some place it in AD 33."
+        }
+      },
+      "ref": {
+        "book": "luk",
+        "ref": "23:33"
+      },
+      "uncertain": true
+    },
+    {
+      "id": "pentecostes",
+      "period": "igreja",
+      "title": {
+        "pt": "Pentecostes",
+        "en": "Pentecost"
+      },
+      "note": {
+        "pt": "O Espírito desce sobre os discípulos em Jerusalém e a igreja começa a crescer (At 2). A data depende do ano da crucificação.",
+        "en": "The Spirit descends on the disciples in Jerusalem and the church begins to grow (Acts 2). The date depends on the year of the crucifixion."
+      },
+      "dates": {
+        "start": 30,
+        "approx": true
+      },
+      "ref": {
+        "book": "act",
+        "ref": "2:1"
+      },
+      "uncertain": true
+    },
+    {
+      "id": "paulo-conversao",
+      "period": "igreja",
+      "title": {
+        "pt": "Conversão e chamado de Paulo",
+        "en": "Conversion and call of Paul"
+      },
+      "note": {
+        "pt": "No caminho de Damasco (At 9). Gálatas 1:15–18 diz que ele subiu a Jerusalém três anos depois. Data estimada por essa contagem.",
+        "en": "On the road to Damascus (Acts 9). Galatians 1:15–18 says he went up to Jerusalem three years later. Date estimated from that count."
+      },
+      "dates": {
+        "start": 33,
+        "end": 36,
+        "approx": true
+      },
+      "ref": {
+        "book": "act",
+        "ref": "9:3"
+      },
+      "uncertain": true
+    },
+    {
+      "id": "viagem1",
+      "period": "igreja",
+      "title": {
+        "pt": "Primeira viagem missionária",
+        "en": "First missionary journey"
+      },
+      "note": {
+        "pt": "Paulo e Barnabé vão de Antioquia a Chipre e à Galácia (At 13–14). Datas das viagens são reconstruções aproximadas.",
+        "en": "Paul and Barnabas go from Antioch to Cyprus and Galatia (Acts 13–14). Dates of the journeys are approximate reconstructions."
+      },
+      "dates": {
+        "start": 46,
+        "end": 48,
+        "approx": true
+      },
+      "ref": {
+        "book": "act",
+        "ref": "13:2"
+      },
+      "uncertain": true
+    },
+    {
+      "id": "concilio",
+      "period": "igreja",
+      "title": {
+        "pt": "Concílio de Jerusalém",
+        "en": "Council of Jerusalem"
+      },
+      "note": {
+        "pt": "A igreja decide que os gentios não precisam ser circuncidados (At 15; Gl 2:1–10, se for o mesmo encontro). Data aproximada.",
+        "en": "The church decides that Gentiles need not be circumcised (Acts 15; Gal 2:1–10, if it is the same meeting). Approximate date."
+      },
+      "dates": {
+        "start": 49,
+        "approx": true
+      },
+      "ref": {
+        "book": "act",
+        "ref": "15:6"
+      },
+      "uncertain": true
+    },
+    {
+      "id": "claudio",
+      "period": "igreja",
+      "title": {
+        "pt": "Édito de Cláudio contra judeus de Roma",
+        "en": "Claudius's edict against Jews in Rome"
+      },
+      "note": {
+        "pt": "Priscila e Áquila, expulsos de Roma por ordem de Cláudio, encontram Paulo em Corinto (At 18:2). Suetônio cita o édito; o ano (por volta de 49 d.C.) é debatido.",
+        "en": "Priscilla and Aquila, expelled from Rome by Claudius, meet Paul in Corinth (Acts 18:2). Suetonius mentions the edict; the year (around AD 49) is debated."
+      },
+      "dates": {
+        "start": 49,
+        "approx": true
+      },
+      "ref": {
+        "book": "act",
+        "ref": "18:2"
+      },
+      "attested": true,
+      "uncertain": true
+    },
+    {
+      "id": "viagem2-3",
+      "period": "igreja",
+      "title": {
+        "pt": "Segunda e terceira viagens",
+        "en": "Second and third journeys"
+      },
+      "note": {
+        "pt": "Segunda viagem: Macedônia, Atenas e Corinto (At 15:36–18:22), c. 49–52. Terceira: Éfeso e a coleta para Jerusalém (At 18:23–21:17), c. 53–57. Datas aproximadas.",
+        "en": "Second journey: Macedonia, Athens and Corinth (Acts 15:36–18:22), c. 49–52. Third: Ephesus and the collection for Jerusalem (Acts 18:23–21:17), c. 53–57. Approximate dates."
+      },
+      "dates": {
+        "start": 49,
+        "end": 57,
+        "approx": true
+      },
+      "ref": {
+        "book": "act",
+        "ref": "18:23"
+      },
+      "uncertain": true
+    },
+    {
+      "id": "galio",
+      "period": "igreja",
+      "title": {
+        "pt": "Paulo diante de Gálio, em Corinto",
+        "en": "Paul before Gallio in Corinth"
+      },
+      "note": {
+        "pt": "Gálio é procônsul da Acaia quando os judeus levam Paulo ao tribunal (At 18:12). Uma inscrição de Delfos situa o mandato de Gálio em 51–52 d.C., o ponto mais firme da cronologia de Paulo.",
+        "en": "Gallio is proconsul of Achaia when the Jews bring Paul to court (Acts 18:12). An inscription from Delphi places Gallio's term in AD 51–52, the firmest point of Pauline chronology."
+      },
+      "dates": {
+        "start": 51,
+        "end": 52,
+        "approx": true
+      },
+      "ref": {
+        "book": "act",
+        "ref": "18:12"
+      },
+      "attested": true
+    },
+    {
+      "id": "roma-prisao",
+      "period": "igreja",
+      "title": {
+        "pt": "Paulo preso em Roma",
+        "en": "Paul imprisoned in Rome"
+      },
+      "note": {
+        "pt": "Atos termina com Paulo em Roma, pregando durante dois anos em prisão domiciliar (At 28:30–31). Data aproximada.",
+        "en": "Acts ends with Paul in Rome, preaching for two years under house arrest (Acts 28:30–31). Approximate date."
+      },
+      "dates": {
+        "start": 60,
+        "end": 62,
+        "approx": true
+      },
+      "ref": {
+        "book": "act",
+        "ref": "28:30"
+      },
+      "uncertain": true
+    },
+    {
+      "id": "nero",
+      "period": "fim-seculo",
+      "title": {
+        "pt": "Nero persegue cristãos em Roma",
+        "en": "Nero persecutes Christians in Rome"
+      },
+      "note": {
+        "pt": "Depois do incêndio de Roma, Nero culpa os cristãos. Tácito descreve a perseguição, por volta de 64 d.C.",
+        "en": "After the fire of Rome, Nero blames the Christians. Tacitus describes the persecution, around AD 64."
+      },
+      "dates": {
+        "start": 64
+      },
+      "attested": true
+    },
+    {
+      "id": "templo-70",
+      "period": "fim-seculo",
+      "title": {
+        "pt": "Destruição de Jerusalém e do templo",
+        "en": "Destruction of Jerusalem and the temple"
+      },
+      "note": {
+        "pt": "Tito destrói Jerusalém e o templo (Josefo). Jesus havia anunciado que não ficaria pedra sobre pedra (Mt 24:2).",
+        "en": "Titus destroys Jerusalem and the temple (Josephus). Jesus had said that not one stone would be left on another (Matt 24:2)."
+      },
+      "dates": {
+        "start": 70
+      },
+      "ref": {
+        "book": "mat",
+        "ref": "24:2"
+      },
+      "attested": true
+    },
+    {
+      "id": "apocalipse",
+      "period": "fim-seculo",
+      "title": {
+        "pt": "Apocalipse",
+        "en": "Revelation"
+      },
+      "note": {
+        "pt": "João recebe a visão em Patmos (Ap 1:9). A tradição antiga e a maioria dos pesquisadores situam a obra no fim do reinado de Domiciano (c. 95 d.C.); alguns propõem c. 68–69, sob Nero.",
+        "en": "John receives the vision on Patmos (Rev 1:9). Early tradition and most scholars place the work at the end of Domitian's reign (c. AD 95); some propose c. AD 68–69, under Nero."
+      },
+      "dates": {
+        "start": 95,
+        "approx": true,
+        "note": {
+          "pt": "Alternativa: c. 68–69 d.C.",
+          "en": "Alternative: c. AD 68–69."
+        }
+      },
+      "ref": {
+        "book": "rev",
+        "ref": "1:9"
+      },
+      "uncertain": true
     }
   ]
 }
