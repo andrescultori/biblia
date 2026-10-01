@@ -134,7 +134,7 @@ input[type='search'] { flex: 1 1 200px; min-width: 0; border: 1px solid var(--li
 
 /* linha do tempo */
 .modal.wide { width: min(980px, calc(100vw - 24px)); }
-.tl-strip { display: flex; gap: 14px; overflow-x: auto; padding-bottom: 6px; scrollbar-width: thin; }
+.tl-strip { flex: none; display: flex; gap: 14px; overflow-x: auto; padding-bottom: 6px; scrollbar-width: thin; }
 .tl-block { flex: none; }
 .tl-blabel { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); font-weight: 600; margin-bottom: 4px; padding-left: 2px; }
 .tl-row { display: flex; gap: 2px; }
@@ -163,3 +163,7 @@ input[type='search'] { flex: 1 1 200px; min-width: 0; border: 1px solid var(--li
 .tl-legend { font-size: 0.78rem; color: var(--muted); }
 .tl-unplaced { margin-top: 18px; font-size: 0.85rem; color: var(--muted); }
 .tl-unplaced summary { cursor: pointer; }
+.tl-etitle { margin: 0 0 2px; }
+.tl-events .tl-dates { margin: 0 0 4px; }
+.tl-events p { font-size: 0.92rem; }
+.tl-q { color: var(--muted); }

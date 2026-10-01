@@ -135,8 +135,8 @@ export default function Timeline({ lang, t, onClose, onOpenBook }) {
               <ol className="tl-events">
                 {events.map((e) => (
                   <li key={e.id} id={`ev-${e.id}`} ref={(el) => { refs.current[e.id] = el; }}>
+                    <p className="tl-etitle"><b>{pick(e.title, lang)}</b>{e.attested && <abbr className="tl-att" title={t.timelineAttested}> ◆</abbr>}{e.uncertain && <span className="tl-q" title={t.timelineUncertain}> ?</span>}</p>
                     <Dates dates={e.dates} t={t} lang={lang} />
-                    <p><b>{pick(e.title, lang)}</b>{e.attested && <abbr className="tl-att" title={t.timelineAttested}> ◆</abbr>}{e.uncertain && ' ?'}</p>
                     <p>{pick(e.note, lang)}</p>
                     {e.ref && <small>{bySlug[e.ref.book].ab[lang]} {e.ref.ref}</small>}
                   </li>
