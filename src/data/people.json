@@ -2750,6 +2750,645 @@
           "en": "Colossae"
         }
       ]
+    },
+    {
+      "id": "caim",
+      "name": {
+        "pt": "Caim",
+        "en": "Cain"
+      },
+      "summary": {
+        "pt": "Primeiro filho de Adão e Eva, lavrador. Mata o irmão Abel por inveja e é expulso, marcado por Deus para ser protegido (Gn 4).",
+        "en": "First son of Adam and Eve, a farmer. He kills his brother Abel out of envy and is driven away, marked by God for protection (Gen 4)."
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Filho de Adão e Eva; o primeiro homicídio (cap. 4)",
+            "en": "Son of Adam and Eve; the first murder (ch. 4)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "abel",
+      "name": {
+        "pt": "Abel",
+        "en": "Abel"
+      },
+      "summary": {
+        "pt": "Segundo filho de Adão e Eva, pastor. Sua oferta agrada a Deus e ele é morto por Caim (Gn 4). Hebreus o cita como exemplo de fé (Hb 11:4).",
+        "en": "Second son of Adam and Eve, a shepherd. His offering pleases God and he is killed by Cain (Gen 4). Hebrews cites him as an example of faith (Heb 11:4)."
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Filho de Adão e Eva; morto por Caim (cap. 4)",
+            "en": "Son of Adam and Eve; killed by Cain (ch. 4)"
+          }
+        },
+        {
+          "book": "heb",
+          "role": {
+            "pt": "Exemplo de fé (11:4)",
+            "en": "Example of faith (11:4)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "esau",
+      "name": {
+        "pt": "Esaú",
+        "en": "Esau"
+      },
+      "summary": {
+        "pt": "Irmão gêmeo de Jacó, caçador. Vende a primogenitura por um prato de lentilhas (Gn 25:29–34), perde a bênção do pai (Gn 27) e é tido como ancestral de Edom (Gn 36).",
+        "en": "Jacob's twin brother, a hunter. He sells his birthright for a bowl of lentil stew (Gen 25:29–34), loses his father's blessing (Gen 27) and is regarded as the ancestor of Edom (Gen 36)."
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Irmão gêmeo de Jacó; ancestral de Edom (cap. 36)",
+            "en": "Jacob's twin; ancestor of Edom (ch. 36)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "rebeca",
+      "name": {
+        "pt": "Rebeca",
+        "en": "Rebekah"
+      },
+      "summary": {
+        "pt": "Esposa de Isaque, trazida da família de Abraão na Mesopotâmia (Gn 24). Mãe de Esaú e Jacó, favorece Jacó na bênção (Gn 27).",
+        "en": "Isaac's wife, brought from Abraham's family in Mesopotamia (Gen 24). Mother of Esau and Jacob, she favors Jacob in the blessing (Gen 27)."
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Esposa de Isaque (caps. 24–27)",
+            "en": "Isaac's wife (chs. 24–27)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "jetro",
+      "name": {
+        "pt": "Jetro",
+        "en": "Jethro"
+      },
+      "summary": {
+        "pt": "Sacerdote de Midiã e sogro de Moisés (Êx 3:1). Visita Moisés no deserto e o aconselha a repartir o julgamento do povo (Êx 18).",
+        "en": "Priest of Midian and Moses' father-in-law (Exod 3:1). He visits Moses in the wilderness and advises him to share the judging of the people (Exod 18)."
+      },
+      "books": [
+        {
+          "book": "exo",
+          "role": {
+            "pt": "Sogro de Moisés; sacerdote de Midiã (caps. 3 e 18)",
+            "en": "Moses' father-in-law; priest of Midian (chs. 3 and 18)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "jefte",
+      "name": {
+        "pt": "Jefté",
+        "en": "Jephthah"
+      },
+      "summary": {
+        "pt": "Juiz de Gileade, filho de uma prostituta e expulso pelos irmãos. Chamado pelos anciãos para liderar contra Amom, faz um voto e vence (Jz 10:6–12:7).",
+        "en": "Judge of Gilead, son of a prostitute and driven out by his brothers. Called by the elders to lead against Ammon, he makes a vow and wins (Judg 10:6–12:7)."
+      },
+      "books": [
+        {
+          "book": "jdg",
+          "role": {
+            "pt": "Juiz de Gileade; faz um voto (10:6–12:7)",
+            "en": "Judge of Gilead; makes a vow (10:6–12:7)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "jdg",
+          "name": "Gileade",
+          "en": "Gilead"
+        }
+      ]
+    },
+    {
+      "id": "jael",
+      "name": {
+        "pt": "Jael",
+        "en": "Jael"
+      },
+      "summary": {
+        "pt": "Mulher de Héber, o queneu. Recebe o general Sísera em sua tenda e o mata (Jz 4:17–22); Débora a louva em seu cântico (Jz 5:24–27).",
+        "en": "Wife of Heber the Kenite. She receives the general Sisera in her tent and kills him (Judg 4:17–22); Deborah praises her in her song (Judg 5:24–27)."
+      },
+      "books": [
+        {
+          "book": "jdg",
+          "role": {
+            "pt": "Mata Sísera (caps. 4–5)",
+            "en": "Kills Sisera (chs. 4–5)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ana",
+      "name": {
+        "pt": "Ana",
+        "en": "Hannah"
+      },
+      "summary": {
+        "pt": "Mulher estéril de Elcana. Ora em Siló e promete dedicar o filho ao Senhor; nasce Samuel (1Sm 1). Seu cântico está em 1Sm 2:1–10.",
+        "en": "Elkanah's barren wife. She prays at Shiloh and vows to dedicate her son to the Lord; Samuel is born (1 Sam 1). Her song is in 1 Sam 2:1–10."
+      },
+      "books": [
+        {
+          "book": "1sa",
+          "role": {
+            "pt": "Mãe de Samuel; seu cântico está no cap. 2",
+            "en": "Mother of Samuel; her song is in ch. 2"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "1sa",
+          "name": "Siló",
+          "en": "Shiloh"
+        }
+      ]
+    },
+    {
+      "id": "eli",
+      "name": {
+        "pt": "Eli",
+        "en": "Eli"
+      },
+      "summary": {
+        "pt": "Sacerdote em Siló, que cria Samuel. Seus filhos Hofni e Finéias desonram o ofício; Eli morre ao saber que a arca foi tomada pelos filisteus (1Sm 1–4).",
+        "en": "Priest at Shiloh, who raises Samuel. His sons Hophni and Phinehas dishonor the office; Eli dies on hearing that the ark has been taken by the Philistines (1 Sam 1–4)."
+      },
+      "books": [
+        {
+          "book": "1sa",
+          "role": {
+            "pt": "Sacerdote em Siló",
+            "en": "Priest at Shiloh"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "1sa",
+          "name": "Siló",
+          "en": "Shiloh"
+        }
+      ]
+    },
+    {
+      "id": "golias",
+      "name": {
+        "pt": "Golias",
+        "en": "Goliath"
+      },
+      "summary": {
+        "pt": "Guerreiro filisteu, de Gate, que desafia o exército de Israel; é vencido por Davi com uma funda no vale de Elá (1Sm 17).",
+        "en": "A Philistine warrior from Gath who challenges Israel's army; he is defeated by David with a sling in the valley of Elah (1 Sam 17)."
+      },
+      "books": [
+        {
+          "book": "1sa",
+          "role": {
+            "pt": "Guerreiro filisteu derrotado por Davi (cap. 17)",
+            "en": "Philistine warrior defeated by David (ch. 17)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "1sa",
+          "name": "Gate",
+          "en": "Gath"
+        },
+        {
+          "book": "1sa",
+          "name": "Vale de Elá",
+          "en": "Valley of Elah"
+        }
+      ]
+    },
+    {
+      "id": "joabe",
+      "name": {
+        "pt": "Joabe",
+        "en": "Joab"
+      },
+      "summary": {
+        "pt": "Comandante do exército de Davi (2Sm 8:16). Conquista Rabá (2Sm 12:26–29), mata Abner (2Sm 3:27) e Absalão (2Sm 18:14).",
+        "en": "Commander of David's army (2 Sam 8:16). He captures Rabbah (2 Sam 12:26–29), kills Abner (2 Sam 3:27) and Absalom (2 Sam 18:14)."
+      },
+      "books": [
+        {
+          "book": "2sa",
+          "role": {
+            "pt": "Comandante do exército",
+            "en": "Commander of the army"
+          }
+        },
+        {
+          "book": "1ch",
+          "role": {
+            "pt": "Comandante do exército de Davi",
+            "en": "Commander of David's army"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "2sa",
+          "name": "Rabá",
+          "en": "Rabbah"
+        }
+      ]
+    },
+    {
+      "id": "bate-seba",
+      "name": {
+        "pt": "Bate-Seba",
+        "en": "Bathsheba"
+      },
+      "summary": {
+        "pt": "Esposa de Urias, o heteu. Davi a toma e manda matar o marido (2Sm 11); depois ela é esposa de Davi e mãe de Salomão (2Sm 12:24). Intercede para que Salomão seja rei (1Rs 1).",
+        "en": "Wife of Uriah the Hittite. David takes her and has her husband killed (2 Sam 11); she later becomes David's wife and Solomon's mother (2 Sam 12:24). She intercedes for Solomon to be king (1 Kgs 1)."
+      },
+      "books": [
+        {
+          "book": "2sa",
+          "role": {
+            "pt": "Envolvida no pecado de Davi (caps. 11–12)",
+            "en": "Involved in David's sin (chs. 11–12)"
+          }
+        },
+        {
+          "book": "1ki",
+          "role": {
+            "pt": "Intercede para que Salomão reine (cap. 1)",
+            "en": "Intercedes for Solomon to reign (ch. 1)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "2sa",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "hirao",
+      "name": {
+        "pt": "Hirão",
+        "en": "Hiram"
+      },
+      "summary": {
+        "pt": "Rei de Tiro, aliado de Davi e Salomão. Fornece cedro, cipreste e artesãos para o templo (1Rs 5; 7:13–14).",
+        "en": "King of Tyre, ally of David and Solomon. He supplies cedar, cypress and craftsmen for the temple (1 Kgs 5; 7:13–14)."
+      },
+      "books": [
+        {
+          "book": "1ki",
+          "role": {
+            "pt": "Rei de Tiro que fornece madeira para o templo",
+            "en": "King of Tyre who supplies timber for the temple"
+          }
+        },
+        {
+          "book": "2ch",
+          "role": {
+            "pt": "Fornece madeira e um artesão para o templo (cap. 2)",
+            "en": "Supplies timber and a craftsman for the temple (ch. 2)"
+          }
+        }
+      ],
+      "events": [
+        "templo"
+      ],
+      "places": [
+        {
+          "book": "1ki",
+          "name": "Tiro",
+          "en": "Tyre"
+        }
+      ]
+    },
+    {
+      "id": "jeroboao",
+      "name": {
+        "pt": "Jeroboão I",
+        "en": "Jeroboam I"
+      },
+      "summary": {
+        "pt": "Primeiro rei do reino do norte. Escolhido pelas tribos em Siquém depois da recusa de Roboão (1Rs 11:26–12:20), ergue bezerros de ouro em Betel e Dã (1Rs 12:25–33).",
+        "en": "First king of the northern kingdom. Chosen by the tribes at Shechem after Rehoboam's refusal (1 Kgs 11:26–12:20), he sets up golden calves at Bethel and Dan (1 Kgs 12:25–33)."
+      },
+      "books": [
+        {
+          "book": "1ki",
+          "role": {
+            "pt": "Primeiro rei do reino do norte",
+            "en": "First king of the northern kingdom"
+          }
+        }
+      ],
+      "events": [
+        "divisao"
+      ],
+      "places": [
+        {
+          "book": "1ki",
+          "name": "Siquém",
+          "en": "Shechem"
+        },
+        {
+          "book": "1ki",
+          "name": "Betel",
+          "en": "Bethel"
+        },
+        {
+          "book": "1ki",
+          "name": "Dã",
+          "en": "Dan"
+        }
+      ],
+      "note": {
+        "pt": "Não confundir com Jeroboão II, rei de Israel no tempo de Amós e Oseias.",
+        "en": "Not to be confused with Jeroboam II, king of Israel in the time of Amos and Hosea."
+      }
+    },
+    {
+      "id": "roboao",
+      "name": {
+        "pt": "Roboão",
+        "en": "Rehoboam"
+      },
+      "summary": {
+        "pt": "Filho de Salomão. Em Siquém, rejeita o conselho dos anciãos e responde com dureza ao povo; as tribos do norte se separam e ele fica com Judá (1Rs 12).",
+        "en": "Solomon's son. At Shechem he rejects the elders' advice and answers the people harshly; the northern tribes break away and he is left with Judah (1 Kgs 12)."
+      },
+      "books": [
+        {
+          "book": "1ki",
+          "role": {
+            "pt": "Filho de Salomão; rei de Judá",
+            "en": "Solomon's son; king of Judah"
+          }
+        }
+      ],
+      "events": [
+        "divisao"
+      ],
+      "places": [
+        {
+          "book": "1ki",
+          "name": "Siquém",
+          "en": "Shechem"
+        },
+        {
+          "book": "1ki",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "naama",
+      "name": {
+        "pt": "Naamã",
+        "en": "Naaman"
+      },
+      "summary": {
+        "pt": "Comandante do exército de Arã. Leproso, procura Eliseu em Israel e é curado ao mergulhar sete vezes no Jordão (2Rs 5).",
+        "en": "Commander of the army of Aram. A leper, he seeks Elisha in Israel and is healed by dipping seven times in the Jordan (2 Kgs 5)."
+      },
+      "books": [
+        {
+          "book": "2ki",
+          "role": {
+            "pt": "Comandante arameu curado da lepra (cap. 5)",
+            "en": "Aramean commander healed of leprosy (ch. 5)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "2ki",
+          "name": "Damasco",
+          "en": "Damascus"
+        },
+        {
+          "book": "2ki",
+          "name": "Samaria",
+          "en": "Samaria"
+        }
+      ]
+    },
+    {
+      "id": "mardoqueu",
+      "name": {
+        "pt": "Mardoqueu",
+        "en": "Mordecai"
+      },
+      "summary": {
+        "pt": "Judeu de Susã, primo e tutor de Ester (Et 2:5–7). Denuncia uma conspiração contra o rei, recusa-se a se curvar a Hamã (Et 3) e é honrado depois (Et 6; 8). Institui o Purim com Ester (Et 9).",
+        "en": "A Jew of Susa, Esther's cousin and guardian (Esth 2:5–7). He reports a plot against the king, refuses to bow to Haman (Esth 3) and is honored afterward (Esth 6; 8). He establishes Purim with Esther (Esth 9)."
+      },
+      "books": [
+        {
+          "book": "est",
+          "role": {
+            "pt": "Primo e tutor de Ester",
+            "en": "Esther's cousin and guardian"
+          }
+        }
+      ],
+      "events": [
+        "ester"
+      ],
+      "places": [
+        {
+          "book": "est",
+          "name": "Susã",
+          "en": "Susa"
+        }
+      ]
+    },
+    {
+      "id": "hama",
+      "name": {
+        "pt": "Hamã",
+        "en": "Haman"
+      },
+      "summary": {
+        "pt": "Oficial de alto escalão do rei Assuero, chamado agagita. Planeja exterminar os judeus (Et 3) e é enforcado na forca que preparou para Mardoqueu (Et 7).",
+        "en": "A high official of King Ahasuerus, called the Agagite. He plots to destroy the Jews (Esth 3) and is hanged on the gallows he prepared for Mordecai (Esth 7)."
+      },
+      "books": [
+        {
+          "book": "est",
+          "role": {
+            "pt": "Oficial persa que planeja exterminar os judeus",
+            "en": "Persian official who plots to destroy the Jews"
+          }
+        }
+      ],
+      "events": [
+        "ester"
+      ],
+      "places": [
+        {
+          "book": "est",
+          "name": "Susã",
+          "en": "Susa"
+        }
+      ]
+    },
+    {
+      "id": "oseias",
+      "name": {
+        "pt": "Oseias",
+        "en": "Hosea"
+      },
+      "summary": {
+        "pt": "Profeta do reino do norte. Sua vida conjugal com Gômer é sinal da infidelidade de Israel e do amor constante de Deus (Os 1–3).",
+        "en": "Prophet of the northern kingdom. His married life with Gomer is a sign of Israel's unfaithfulness and God's steady love (Hos 1–3)."
+      },
+      "books": [
+        {
+          "book": "hos",
+          "role": {
+            "pt": "Profeta; sua vida conjugal é sinal para Israel",
+            "en": "Prophet; his married life is a sign for Israel"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "hos",
+          "name": "Jezreel",
+          "en": "Jezreel"
+        },
+        {
+          "book": "hos",
+          "name": "Samaria",
+          "en": "Samaria"
+        }
+      ]
+    },
+    {
+      "id": "amos",
+      "name": {
+        "pt": "Amós",
+        "en": "Amos"
+      },
+      "summary": {
+        "pt": "Pastor e cultivador de sicômoros, de Tecoa, chamado a profetizar a Israel (Am 1:1; 7:14–15). Denuncia a injustiça social e é mandado embora de Betel por Amazias (Am 7:10–17).",
+        "en": "Shepherd and tender of sycamore figs, from Tekoa, called to prophesy to Israel (Amos 1:1; 7:14–15). He denounces social injustice and is sent away from Bethel by Amaziah (Amos 7:10–17)."
+      },
+      "books": [
+        {
+          "book": "amo",
+          "role": {
+            "pt": "Pastor de Tecoa chamado a profetizar",
+            "en": "Shepherd of Tekoa called to prophesy"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "amo",
+          "name": "Betel",
+          "en": "Bethel"
+        },
+        {
+          "book": "amo",
+          "name": "Samaria",
+          "en": "Samaria"
+        }
+      ]
+    },
+    {
+      "id": "miqueias",
+      "name": {
+        "pt": "Miqueias",
+        "en": "Micah"
+      },
+      "summary": {
+        "pt": "Profeta de Moresete, no tempo de Jotão, Acaz e Ezequias (Mq 1:1). Denuncia a injustiça em Samaria e Jerusalém e anuncia que um governante sairá de Belém (Mq 5:2).",
+        "en": "Prophet of Moresheth, in the time of Jotham, Ahaz and Hezekiah (Mic 1:1). He denounces injustice in Samaria and Jerusalem and announces that a ruler will come from Bethlehem (Mic 5:2)."
+      },
+      "books": [
+        {
+          "book": "mic",
+          "role": {
+            "pt": "Profeta de Moresete",
+            "en": "Prophet of Moresheth"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "mic",
+          "name": "Moresete-Gate",
+          "en": "Moresheth-gath"
+        },
+        {
+          "book": "mic",
+          "name": "Belém",
+          "en": "Bethlehem"
+        }
+      ]
+    },
+    {
+      "id": "baruque",
+      "name": {
+        "pt": "Baruque",
+        "en": "Baruch"
+      },
+      "summary": {
+        "pt": "Escriba de Jeremias. Escreve em um rolo as profecias ditadas por ele e as lê no templo (Jr 36); acompanha Jeremias depois da queda de Jerusalém (Jr 43).",
+        "en": "Jeremiah's scribe. He writes on a scroll the prophecies dictated by Jeremiah and reads them in the temple (Jer 36); he accompanies Jeremiah after the fall of Jerusalem (Jer 43)."
+      },
+      "books": [
+        {
+          "book": "jer",
+          "role": {
+            "pt": "Escriba de Jeremias (cap. 36)",
+            "en": "Jeremiah's scribe (ch. 36)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "jer",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
     }
   ]
 }
