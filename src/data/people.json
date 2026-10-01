@@ -4077,6 +4077,250 @@
         "pt": "Não confundir com Maria, mãe de Jesus, nem com Maria Madalena. A unção de Jo 12 é por vezes comparada à de Mt 26:6–13 e Mc 14:3–9.",
         "en": "Not to be confused with Mary, mother of Jesus, or Mary Magdalene. The anointing of John 12 is sometimes compared with Matt 26:6–13 and Mark 14:3–9."
       }
+    },
+    {
+      "id": "bartolomeu",
+      "name": {
+        "pt": "Bartolomeu",
+        "en": "Bartholomew"
+      },
+      "summary": {
+        "pt": "Um dos Doze. O NT só o cita nas listas dos apóstolos, sempre ao lado de Filipe (Mt 10:3; Mc 3:18; Lc 6:14; At 1:13); nenhuma narrativa trata dele.",
+        "en": "One of the Twelve. The NT mentions him only in the lists of the apostles, always next to Philip (Matt 10:3; Mark 3:18; Luke 6:14; Acts 1:13); no narrative deals with him."
+      },
+      "books": [
+        {
+          "book": "mat",
+          "role": {
+            "pt": "Nomeado entre os Doze (10:2–4)",
+            "en": "Named among the Twelve (10:2–4)"
+          }
+        },
+        {
+          "book": "mar",
+          "role": {
+            "pt": "Nomeado entre os Doze (3:16–19)",
+            "en": "Named among the Twelve (3:16–19)"
+          }
+        },
+        {
+          "book": "luk",
+          "role": {
+            "pt": "Nomeado entre os Doze (6:14–16)",
+            "en": "Named among the Twelve (6:14–16)"
+          }
+        },
+        {
+          "book": "act",
+          "role": {
+            "pt": "Entre os discípulos em Jerusalém depois da ascensão (1:13)",
+            "en": "Among the disciples in Jerusalem after the ascension (1:13)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "act",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ],
+      "uncertain": true,
+      "note": {
+        "pt": "Uma leitura antiga identifica Bartolomeu com Natanael (Jo 1:45–51), por ele vir logo depois de Filipe nas listas e Natanael ser trazido por Filipe. O texto bíblico não faz essa identificação, e ela é debatida.",
+        "en": "An old reading identifies Bartholomew with Nathanael (John 1:45–51), because he follows Philip in the lists and Nathanael is brought by Philip. The biblical text does not make that identification, and it is debated."
+      }
+    },
+    {
+      "id": "natanael",
+      "name": {
+        "pt": "Natanael",
+        "en": "Nathanael"
+      },
+      "summary": {
+        "pt": "De Caná da Galileia (Jo 21:2). Filipe o leva a Jesus; Jesus o chama de \"verdadeiro israelita\" e diz tê-lo visto debaixo da figueira, e ele confessa: \"Tu és o Filho de Deus, tu és o Rei de Israel\" (Jo 1:45–51). Está entre os discípulos que pescam no mar da Galileia depois da ressurreição (Jo 21:2).",
+        "en": "From Cana of Galilee (John 21:2). Philip brings him to Jesus; Jesus calls him \"an Israelite indeed\" and says he saw him under the fig tree, and he confesses: \"You are the Son of God! You are the King of Israel!\" (John 1:45–51). He is among the disciples fishing at the Sea of Galilee after the resurrection (John 21:2)."
+      },
+      "books": [
+        {
+          "book": "joh",
+          "role": {
+            "pt": "Discípulo trazido por Filipe (1:45–51; 21:2)",
+            "en": "Disciple brought by Philip (1:45–51; 21:2)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "joh",
+          "name": "Caná",
+          "en": "Cana"
+        }
+      ],
+      "uncertain": true,
+      "note": {
+        "pt": "Só João cita Natanael; ele não aparece nas listas dos Doze. A identificação com Bartolomeu é tradicional, mas debatida.",
+        "en": "Only John mentions Nathanael; he does not appear in the lists of the Twelve. The identification with Bartholomew is traditional but debated."
+      }
+    },
+    {
+      "id": "simao-zelote",
+      "name": {
+        "pt": "Simão, o zelote",
+        "en": "Simon the Zealot"
+      },
+      "summary": {
+        "pt": "Um dos Doze. Aparece só nas listas dos apóstolos, como \"o zelote\" (Lc 6:15; At 1:13) ou \"o cananita\" (Mt 10:4; Mc 3:18). O título pode indicar ligação com o movimento zelote ou apenas zelo religioso; é debatido.",
+        "en": "One of the Twelve. He appears only in the lists of the apostles, as \"the Zealot\" (Luke 6:15; Acts 1:13) or \"the Cananaean\" (Matt 10:4; Mark 3:18). The title may point to a link with the Zealot movement or simply to religious zeal; this is debated."
+      },
+      "books": [
+        {
+          "book": "mat",
+          "role": {
+            "pt": "Nomeado entre os Doze (10:2–4)",
+            "en": "Named among the Twelve (10:2–4)"
+          }
+        },
+        {
+          "book": "mar",
+          "role": {
+            "pt": "Nomeado entre os Doze (3:16–19)",
+            "en": "Named among the Twelve (3:16–19)"
+          }
+        },
+        {
+          "book": "luk",
+          "role": {
+            "pt": "Nomeado entre os Doze (6:14–16)",
+            "en": "Named among the Twelve (6:14–16)"
+          }
+        },
+        {
+          "book": "act",
+          "role": {
+            "pt": "Entre os discípulos em Jerusalém depois da ascensão (1:13)",
+            "en": "Among the disciples in Jerusalem after the ascension (1:13)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "act",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ],
+      "uncertain": true,
+      "note": {
+        "pt": "Não confundir com Simão Pedro, Simão de Cirene (Mc 15:21), Simão, o leproso (Mt 26:6), Simão, o fariseu (Lc 7:36–40) nem com Simão, irmão de Jesus (Mt 13:55).",
+        "en": "Not to be confused with Simon Peter, Simon of Cyrene (Mark 15:21), Simon the leper (Matt 26:6), Simon the Pharisee (Luke 7:36–40) or Simon, brother of Jesus (Matt 13:55)."
+      }
+    },
+    {
+      "id": "tadeu",
+      "name": {
+        "pt": "Tadeu (Judas, filho de Tiago)",
+        "en": "Thaddaeus (Judas, son of James)"
+      },
+      "summary": {
+        "pt": "Um dos Doze. Mateus e Marcos o chamam Tadeu (Mt 10:3; Mc 3:18; alguns manuscritos de Mt: \"Lebeu, chamado Tadeu\"); Lucas e Atos, \"Judas, filho de Tiago\" (Lc 6:16; At 1:13). Em Jo 14:22 aparece \"Judas, não o Iscariotes\", que pergunta a Jesus por que ele se revelaria só aos discípulos.",
+        "en": "One of the Twelve. Matthew and Mark call him Thaddaeus (Matt 10:3; Mark 3:18; some manuscripts of Matthew: \"Lebbaeus, called Thaddaeus\"); Luke and Acts, \"Judas, son of James\" (Luke 6:16; Acts 1:13). In John 14:22 \"Judas (not Iscariot)\" appears, asking Jesus why he will reveal himself only to the disciples."
+      },
+      "books": [
+        {
+          "book": "mat",
+          "role": {
+            "pt": "Nomeado entre os Doze (10:2–4)",
+            "en": "Named among the Twelve (10:2–4)"
+          }
+        },
+        {
+          "book": "mar",
+          "role": {
+            "pt": "Nomeado entre os Doze (3:16–19)",
+            "en": "Named among the Twelve (3:16–19)"
+          }
+        },
+        {
+          "book": "luk",
+          "role": {
+            "pt": "Nomeado entre os Doze (6:14–16)",
+            "en": "Named among the Twelve (6:14–16)"
+          }
+        },
+        {
+          "book": "act",
+          "role": {
+            "pt": "Entre os discípulos em Jerusalém depois da ascensão (1:13)",
+            "en": "Among the disciples in Jerusalem after the ascension (1:13)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "act",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ],
+      "uncertain": true,
+      "note": {
+        "pt": "A identificação de Tadeu com Judas, filho de Tiago, é a leitura usual, mas harmoniza listas diferentes. Não confundir com Judas Iscariotes nem, sem mais, com o Judas \"irmão de Tiago\" que se apresenta na carta de Judas.",
+        "en": "The identification of Thaddaeus with Judas, son of James, is the usual reading, but it harmonizes different lists. Not to be confused with Judas Iscariot nor, without more, with the Judas \"brother of James\" who introduces himself in the letter of Jude."
+      }
+    },
+    {
+      "id": "tiago-alfeu",
+      "name": {
+        "pt": "Tiago, filho de Alfeu",
+        "en": "James, son of Alphaeus"
+      },
+      "summary": {
+        "pt": "Um dos Doze, citado só nas listas dos apóstolos (Mt 10:3; Mc 3:18; Lc 6:15; At 1:13), como filho de Alfeu.",
+        "en": "One of the Twelve, mentioned only in the lists of the apostles, as son of Alphaeus (Matt 10:3; Mark 3:18; Luke 6:15; Acts 1:13)."
+      },
+      "books": [
+        {
+          "book": "mat",
+          "role": {
+            "pt": "Nomeado entre os Doze (10:2–4)",
+            "en": "Named among the Twelve (10:2–4)"
+          }
+        },
+        {
+          "book": "mar",
+          "role": {
+            "pt": "Nomeado entre os Doze (3:16–19)",
+            "en": "Named among the Twelve (3:16–19)"
+          }
+        },
+        {
+          "book": "luk",
+          "role": {
+            "pt": "Nomeado entre os Doze (6:14–16)",
+            "en": "Named among the Twelve (6:14–16)"
+          }
+        },
+        {
+          "book": "act",
+          "role": {
+            "pt": "Entre os discípulos em Jerusalém depois da ascensão (1:13)",
+            "en": "Among the disciples in Jerusalem after the ascension (1:13)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "act",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ],
+      "uncertain": true,
+      "note": {
+        "pt": "Costuma-se identificá-lo com \"Tiago, o menor\" de Mc 15:40, mas o texto não diz isso, e a identificação é debatida. Distinto de Tiago, filho de Zebedeu, e de Tiago, o líder da igreja de Jerusalém.",
+        "en": "He is often identified with \"James the younger\" of Mark 15:40, but the text does not say so, and the identification is debated. Distinct from James, son of Zebedee, and from James, leader of the Jerusalem church."
+      }
     }
   ]
 }
