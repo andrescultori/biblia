@@ -135,5 +135,196 @@
   "connections": {
     "pt": "Forma, com Atos, uma obra de dois volumes (At 1:1). Com Mateus e Marcos compõe os Sinóticos. O Magnificat (1:46–55) ecoa o cântico de Ana em 1Sm 2.",
     "en": "Forms, with Acts, a two-volume work (Acts 1:1). With Matthew and Mark it makes up the Synoptics. The Magnificat (1:46–55) echoes Hannah's song in 1 Sam 2."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Lugares do evangelho de Lucas, em ordem aproximada da narrativa. Os pontos vêm do OpenBible e não formam um trajeto único; \"?\" marca localização debatida.",
+      "en": "Places in the Gospel of Luke, in rough order of the narrative. Points come from OpenBible and do not form a single route; \"?\" marks a disputed location."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Nazaré",
+          "en": "Nazareth"
+        },
+        "lonLat": [
+          35.3,
+          32.7
+        ],
+        "note": {
+          "pt": "O anjo anuncia a Maria em Nazaré (1:26–38); Jesus cresce ali (2:39–40) e é rejeitado na sinagoga (4:16–30).",
+          "en": "The angel announces to Mary in Nazareth (1:26–38); Jesus grows up there (2:39–40) and is rejected in the synagogue (4:16–30)."
+        },
+        "ref": "1:26"
+      },
+      {
+        "name": {
+          "pt": "Belém",
+          "en": "Bethlehem"
+        },
+        "lonLat": [
+          35.21,
+          31.7
+        ],
+        "note": {
+          "pt": "Jesus nasce em Belém e os pastores o visitam (2:4–20).",
+          "en": "Jesus is born in Bethlehem and the shepherds visit him (2:4–20)."
+        },
+        "ref": "2:4"
+      },
+      {
+        "name": {
+          "pt": "Rio Jordão",
+          "en": "Jordan River"
+        },
+        "lonLat": [
+          35.56,
+          31.76
+        ],
+        "note": {
+          "pt": "João prega às margens do Jordão (3:3).",
+          "en": "John preaches along the Jordan (3:3)."
+        },
+        "ref": "3:3"
+      },
+      {
+        "name": {
+          "pt": "Cafarnaum",
+          "en": "Capernaum"
+        },
+        "lonLat": [
+          35.58,
+          32.88
+        ],
+        "note": {
+          "pt": "Jesus ensina na sinagoga e cura o servo do centurião (4:31–37; 7:1–10).",
+          "en": "Jesus teaches in the synagogue and heals the centurion's servant (4:31–37; 7:1–10)."
+        },
+        "ref": "4:31"
+      },
+      {
+        "name": {
+          "pt": "Naim",
+          "en": "Nain"
+        },
+        "lonLat": [
+          35.35,
+          32.63
+        ],
+        "note": {
+          "pt": "Jesus ressuscita o filho da viúva (7:11–17).",
+          "en": "Jesus raises the widow's son (7:11–17)."
+        },
+        "ref": "7:11"
+      },
+      {
+        "name": {
+          "pt": "Gerasa",
+          "en": "Gerasa"
+        },
+        "lonLat": [
+          35.89,
+          32.27
+        ],
+        "note": {
+          "pt": "Jesus liberta o endemoninhado na região dos gerasenos (8:26–39). Os manuscritos e os evangelhos variam entre Gerasa, Gadara e Gergesa.",
+          "en": "Jesus frees the demon-possessed man in the region of the Gerasenes (8:26–39). Manuscripts and gospels vary between Gerasa, Gadara and Gergesa."
+        },
+        "ref": "8:26"
+      },
+      {
+        "name": {
+          "pt": "Betsaida",
+          "en": "Bethsaida"
+        },
+        "lonLat": [
+          35.63,
+          32.91
+        ],
+        "note": {
+          "pt": "Jesus se retira para Betsaida e alimenta a multidão (9:10–17).",
+          "en": "Jesus withdraws to Bethsaida and feeds the crowd (9:10–17)."
+        },
+        "ref": "9:10"
+      },
+      {
+        "name": {
+          "pt": "Samaria",
+          "en": "Samaria"
+        },
+        "lonLat": [
+          35.2,
+          32.28
+        ],
+        "note": {
+          "pt": "Jesus passa pela região de Samaria e Galileia e cura dez leprosos (17:11–19). O ponto marca o centro da região.",
+          "en": "Jesus passes through the region between Samaria and Galilee and heals ten lepers (17:11–19). The point marks the center of the region."
+        },
+        "ref": "17:11"
+      },
+      {
+        "name": {
+          "pt": "Jericó",
+          "en": "Jericho"
+        },
+        "lonLat": [
+          35.44,
+          31.85
+        ],
+        "note": {
+          "pt": "Jesus cura um cego ao se aproximar de Jericó e hospeda-se com Zaqueu (18:35–19:10).",
+          "en": "Jesus heals a blind man near Jericho and stays with Zacchaeus (18:35–19:10)."
+        },
+        "ref": "18:35"
+      },
+      {
+        "name": {
+          "pt": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        "lonLat": [
+          35.23,
+          31.78
+        ],
+        "note": {
+          "pt": "Jesus é apresentado no templo (2:22–38), sobe a Jerusalém (9:51; 19:28) e ali é julgado e crucificado. Betânia e o monte das Oliveiras ficam perto (19:29; 22:39).",
+          "en": "Jesus is presented in the temple (2:22–38), goes up to Jerusalem (9:51; 19:28) and is tried and crucified there. Bethany and the Mount of Olives are nearby (19:29; 22:39)."
+        },
+        "ref": "2:22"
+      },
+      {
+        "name": {
+          "pt": "Gólgota",
+          "en": "Golgotha"
+        },
+        "lonLat": [
+          35.23,
+          31.78
+        ],
+        "note": {
+          "pt": "Local da crucificação. A tradição aponta a região da Igreja do Santo Sepulcro; há outras propostas. (23:33)",
+          "en": "Place of the crucifixion. Tradition points to the area of the Church of the Holy Sepulchre; other proposals exist. (23:33)"
+        },
+        "ref": "23:33",
+        "uncertain": true
+      },
+      {
+        "name": {
+          "pt": "Emaús",
+          "en": "Emmaus"
+        },
+        "lonLat": [
+          35.16,
+          31.79
+        ],
+        "note": {
+          "pt": "O Cristo ressuscitado caminha com dois discípulos a caminho de Emaús (24:13–35). A localização é debatida.",
+          "en": "The risen Christ walks with two disciples on the road to Emmaus (24:13–35). The location is debated."
+        },
+        "ref": "24:13",
+        "uncertain": true
+      }
+    ]
   }
 }
