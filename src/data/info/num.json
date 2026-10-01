@@ -57,5 +57,178 @@
   "connections": {
     "pt": "Continua Levítico (o Sinai) e leva a Deuteronômio (Moabe). A serpente de bronze (Nm 21:4–9) é lembrada em Jo 3:14. 1Co 10:1–11 usa a experiência do deserto como advertência, e Jd 11 menciona Balaão e Corá.",
     "en": "Continues Leviticus (Sinai) and leads into Deuteronomy (Moab). The bronze serpent (Num 21:4–9) is recalled in John 3:14. 1 Cor 10:1–11 uses the wilderness experience as a warning, and Jude 11 mentions Balaam and Korah."
+  },
+  "map": {
+    "route": true,
+    "note": {
+      "pt": "Rota simplificada em linha reta entre os lugares, na ordem em que aparecem; não é o trajeto exato dos quarenta anos no deserto. Várias localizações são debatidas (\"?\").",
+      "en": "Simplified straight-line route between the places, in the order they appear; it is not the exact path of the forty years in the wilderness. Several locations are disputed (\"?\")."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Sinai",
+          "en": "Sinai"
+        },
+        "lonLat": [
+          33.97,
+          28.54
+        ],
+        "note": {
+          "pt": "Israel acampa no deserto do Sinai, onde é recenseado e organizado (1:1; 10:11–12). Localização debatida; o mapa usa Jebel Musa.",
+          "en": "Israel camps in the wilderness of Sinai, where it is counted and organized (1:1; 10:11–12). The location is debated; the map uses Jebel Musa."
+        },
+        "ref": "1:1",
+        "label": [
+          10,
+          4,
+          "start"
+        ],
+        "uncertain": true
+      },
+      {
+        "name": {
+          "pt": "Cades-Barnéia",
+          "en": "Kadesh-barnea"
+        },
+        "lonLat": [
+          34.42,
+          30.65
+        ],
+        "note": {
+          "pt": "Os espias voltam aqui (13:26) e o povo se recusa a entrar na terra (cap. 14); Miriã morre aqui (20:1).",
+          "en": "The spies return here (13:26) and the people refuse to enter the land (ch. 14); Miriam dies here (20:1)."
+        },
+        "ref": "13:26",
+        "label": [
+          -8,
+          -10,
+          "end"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Monte Hor",
+          "en": "Mount Hor"
+        },
+        "lonLat": [
+          35.06,
+          30.83
+        ],
+        "note": {
+          "pt": "Arão morre no monte Hor e Eleazar assume o sacerdócio (20:22–29; 33:38).",
+          "en": "Aaron dies on Mount Hor and Eleazar takes over the priesthood (20:22–29; 33:38)."
+        },
+        "ref": "20:22",
+        "label": [
+          8,
+          6,
+          "start"
+        ],
+        "uncertain": true
+      },
+      {
+        "name": {
+          "pt": "Hormá",
+          "en": "Hormah"
+        },
+        "lonLat": [
+          34.96,
+          31.21
+        ],
+        "note": {
+          "pt": "Israel derrota os cananeus de Arade e o lugar passa a se chamar Hormá (21:1–3).",
+          "en": "Israel defeats the Canaanites of Arad and the place is named Hormah (21:1–3)."
+        },
+        "ref": "21:3",
+        "label": [
+          -8,
+          -8,
+          "end"
+        ],
+        "uncertain": true
+      },
+      {
+        "name": {
+          "pt": "Hesbom",
+          "en": "Heshbon"
+        },
+        "lonLat": [
+          35.81,
+          31.8
+        ],
+        "note": {
+          "pt": "Cidade de Seom, rei dos amorreus, conquistada por Israel (21:21–26).",
+          "en": "City of Sihon, king of the Amorites, conquered by Israel (21:21–26)."
+        },
+        "ref": "21:25",
+        "label": [
+          8,
+          12,
+          "start"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Edrei",
+          "en": "Edrei"
+        },
+        "lonLat": [
+          36.11,
+          32.63
+        ],
+        "note": {
+          "pt": "Israel derrota Ogue, rei de Basã, em Edrei (21:33–35).",
+          "en": "Israel defeats Og, king of Bashan, at Edrei (21:33–35)."
+        },
+        "ref": "21:33",
+        "label": [
+          8,
+          -8,
+          "start"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Planícies de Moabe",
+          "en": "Plains of Moab"
+        },
+        "lonLat": [
+          35.67,
+          31.84
+        ],
+        "note": {
+          "pt": "Israel acampa junto ao Jordão, defronte de Jericó (22:1); aqui se faz o novo recenseamento (cap. 26).",
+          "en": "Israel camps by the Jordan, opposite Jericho (22:1); the new census is taken here (ch. 26)."
+        },
+        "ref": "22:1",
+        "label": [
+          -8,
+          16,
+          "end"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Pisga",
+          "en": "Pisgah"
+        },
+        "lonLat": [
+          35.73,
+          31.77
+        ],
+        "note": {
+          "pt": "Balaque leva Balaão ao cume do Pisga para amaldiçoar Israel (23:14).",
+          "en": "Balak takes Balaam to the top of Pisgah to curse Israel (23:14)."
+        },
+        "ref": "23:14",
+        "label": [
+          8,
+          16,
+          "start"
+        ],
+        "uncertain": true
+      }
+    ]
   }
 }

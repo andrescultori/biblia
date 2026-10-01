@@ -101,7 +101,7 @@ input[type='search'] { flex: 1 1 200px; min-width: 0; border: 1px solid var(--li
 .outline span { font-variant-numeric: tabular-nums; color: var(--muted); margin-right: 6px; }
 
 /* mapa */
-.mapbox { background: var(--sea); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+.mapbox { position: relative; background: var(--sea); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
 .mapbox svg { display: block; max-width: 100%; }
 .mapbox .land { fill: var(--land); stroke: var(--coast); stroke-width: 0.8; }
 .mapbox .route { fill: none; stroke-width: 2; stroke-dasharray: 5 5; opacity: 0.85; }
@@ -125,3 +125,7 @@ input[type='search'] { flex: 1 1 200px; min-width: 0; border: 1px solid var(--li
 .credit { color: var(--muted); font-size: 0.8rem; margin-top: 12px; }
 .credit p { margin: 0 0 4px; }
 .credit a { color: inherit; }
+
+.mapzoom { position: absolute; bottom: 8px; right: 8px; z-index: 1; font: 600 0.75rem var(--f-body); color: var(--fg); background: var(--panel); border: 1px solid var(--line); border-radius: 999px; padding: 5px 11px; cursor: pointer; }
+.mapzoom:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.mapzoom[aria-pressed='true'] { background: var(--fg); color: var(--bg); }

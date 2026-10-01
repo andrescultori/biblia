@@ -53,5 +53,177 @@
   "connections": {
     "pt": "Fecha o Pentateuco e leva a Josué. Jesus cita Dt 8:3, 6:13 e 6:16 nas tentações (Mt 4), e Mc 12:29–30 recorda o Shemá (Dt 6:4–5). Dt 18:15 é lido em At 3:22 como referência ao profeta que viria.",
     "en": "Closes the Pentateuch and leads into Joshua. Jesus quotes Deut 8:3, 6:13 and 6:16 in the temptations (Matt 4), and Mark 12:29–30 recalls the Shema (Deut 6:4–5). Deut 18:15 is read in Acts 3:22 as referring to the prophet to come."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Os discursos de Moisés acontecem em Moabe, além do Jordão (1:5). Os outros lugares são recordados na história que ele conta ou marcam o fim do livro.",
+      "en": "Moses' speeches take place in Moab, beyond the Jordan (1:5). The other places are recalled in the history he tells or mark the end of the book."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Horebe",
+          "en": "Horeb"
+        },
+        "lonLat": [
+          33.97,
+          28.54
+        ],
+        "note": {
+          "pt": "O monte onde o Senhor fez aliança com Israel (5:2). Deuteronômio chama de Horebe o monte Sinai. Localização debatida.",
+          "en": "The mountain where the Lord made a covenant with Israel (5:2). Deuteronomy calls Mount Sinai \"Horeb\". The location is debated."
+        },
+        "ref": "5:2",
+        "label": [
+          10,
+          4,
+          "start"
+        ],
+        "uncertain": true
+      },
+      {
+        "name": {
+          "pt": "Cades-Barnéia",
+          "en": "Kadesh-barnea"
+        },
+        "lonLat": [
+          34.42,
+          30.65
+        ],
+        "note": {
+          "pt": "Dali os espias foram enviados (1:19–25) e a geração do êxodo se recusou a entrar na terra (1:26–46).",
+          "en": "From here the spies were sent (1:19–25) and the exodus generation refused to enter the land (1:26–46)."
+        },
+        "ref": "1:19",
+        "label": [
+          -8,
+          -10,
+          "end"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Hesbom",
+          "en": "Heshbon"
+        },
+        "lonLat": [
+          35.81,
+          31.8
+        ],
+        "note": {
+          "pt": "Seom, rei de Hesbom, é derrotado (2:24–37).",
+          "en": "Sihon, king of Heshbon, is defeated (2:24–37)."
+        },
+        "ref": "2:24",
+        "label": [
+          -8,
+          14,
+          "end"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Edrei",
+          "en": "Edrei"
+        },
+        "lonLat": [
+          36.11,
+          32.63
+        ],
+        "note": {
+          "pt": "Ogue, rei de Basã, é derrotado em Edrei (3:1–3).",
+          "en": "Og, king of Bashan, is defeated at Edrei (3:1–3)."
+        },
+        "ref": "3:1",
+        "label": [
+          8,
+          -8,
+          "start"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Planícies de Moabe",
+          "en": "Plains of Moab"
+        },
+        "lonLat": [
+          35.67,
+          31.84
+        ],
+        "note": {
+          "pt": "Moisés fala ao povo além do Jordão, na terra de Moabe (1:5); dali sobe ao Nebo (34:1).",
+          "en": "Moses speaks to the people beyond the Jordan, in the land of Moab (1:5); from there he climbs Nebo (34:1)."
+        },
+        "ref": "34:1",
+        "label": [
+          -8,
+          16,
+          "end"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Bete-Peor",
+          "en": "Beth-peor"
+        },
+        "lonLat": [
+          35.74,
+          31.78
+        ],
+        "note": {
+          "pt": "O vale defronte de Bete-Peor, onde Moisés é sepultado (3:29; 34:6).",
+          "en": "The valley opposite Beth-peor, where Moses is buried (3:29; 34:6)."
+        },
+        "ref": "34:6",
+        "label": [
+          -8,
+          2,
+          "end"
+        ],
+        "uncertain": true
+      },
+      {
+        "name": {
+          "pt": "Monte Nebo",
+          "en": "Mount Nebo"
+        },
+        "lonLat": [
+          35.75,
+          31.77
+        ],
+        "note": {
+          "pt": "Moisés sobe ao Nebo, vê a terra prometida e morre (32:49–50; 34:1–5).",
+          "en": "Moses climbs Nebo, sees the promised land and dies (32:49–50; 34:1–5)."
+        },
+        "ref": "34:1",
+        "label": [
+          8,
+          14,
+          "start"
+        ],
+        "uncertain": true
+      },
+      {
+        "name": {
+          "pt": "Monte Ebal",
+          "en": "Mount Ebal"
+        },
+        "lonLat": [
+          35.27,
+          32.23
+        ],
+        "note": {
+          "pt": "Israel deve proclamar bênçãos e maldições sobre os montes Gerizim e Ebal e erguer ali um altar (11:29; 27:1–13).",
+          "en": "Israel is to proclaim blessings and curses on Mount Gerizim and Mount Ebal and build an altar there (11:29; 27:1–13)."
+        },
+        "ref": "27:4",
+        "label": [
+          8,
+          -8,
+          "start"
+        ]
+      }
+    ]
   }
 }

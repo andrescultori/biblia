@@ -19,7 +19,7 @@ Tabela interativa dos 66 livros da Bíblia (inspirada no "TaBíblia Periódica")
 - `src/i18n.js`: textos da interface (PT/EN). Novo idioma = nova chave em `T` e em `LANGS`.
 - `src/data/info/<slug>.json`: ficha de cada livro (PT/EN), com a chave opcional `map` (lugares do mapa; formato no README).
 - `src/data/land.json`: costa em vetor (Natural Earth 50m, recortada). Não editar à mão.
-- `src/MapView.jsx`: aba Mapa (d3-geo, SVG em pixels reais). Carregada sob demanda.
+- `src/MapView.jsx`: aba Mapa (d3-geo, SVG em pixels reais, rótulos sem colisão, botão "Ampliar região"). Carregada sob demanda.
 - `src/BookModal.jsx`: modal do livro (abas Resumo, Ficha, Mapa e Ler). `src/App.jsx`: grade, filtros, tema, idioma, link direto por hash (`#joh`).
 
 ## Regras de conteúdo
