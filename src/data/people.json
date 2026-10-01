@@ -1005,6 +1005,1141 @@
           }
         }
       ]
+    },
+    {
+      "id": "adao",
+      "name": {
+        "pt": "Adão",
+        "en": "Adam"
+      },
+      "summary": {
+        "pt": "O primeiro homem, formado do pó e posto no jardim do Éden (Gn 2). Com Eva, desobedece à ordem de Deus e é expulso do jardim (Gn 3). Paulo o compara a Cristo em Rm 5:12–21.",
+        "en": "The first man, formed from the dust and placed in the garden of Eden (Gen 2). With Eve, he disobeys God's command and is driven out of the garden (Gen 3). Paul compares him to Christ in Rom 5:12–21."
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Primeiro homem; a queda (cap. 3)",
+            "en": "First man; the fall (ch. 3)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "eva",
+      "name": {
+        "pt": "Eva",
+        "en": "Eve"
+      },
+      "summary": {
+        "pt": "A primeira mulher, \"mãe de todos os viventes\" (Gn 3:20). Come do fruto proibido e é expulsa do jardim com Adão. Mãe de Caim, Abel e Sete (Gn 4).",
+        "en": "The first woman, \"the mother of all living\" (Gen 3:20). She eats the forbidden fruit and is driven out of the garden with Adam. Mother of Cain, Abel and Seth (Gen 4)."
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Primeira mulher; a queda (cap. 3)",
+            "en": "First woman; the fall (ch. 3)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "noe",
+      "name": {
+        "pt": "Noé",
+        "en": "Noah"
+      },
+      "summary": {
+        "pt": "Homem justo em sua geração. Constrói a arca por ordem de Deus, sobrevive ao dilúvio com a família e recebe a aliança do arco-íris (Gn 6–9).",
+        "en": "A righteous man in his generation. He builds the ark at God's command, survives the flood with his family and receives the covenant of the rainbow (Gen 6–9)."
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Constrói a arca; aliança após o dilúvio (caps. 6–9)",
+            "en": "Builds the ark; covenant after the flood (chs. 6–9)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sara",
+      "name": {
+        "pt": "Sara",
+        "en": "Sarah"
+      },
+      "summary": {
+        "pt": "Esposa de Abraão. Estéril durante muito tempo, recebe a promessa de um filho e dá à luz Isaque já idosa (Gn 17–21). É sepultada em Macpela, perto de Hebrom (Gn 23).",
+        "en": "Abraham's wife. Barren for a long time, she receives the promise of a son and bears Isaac in old age (Gen 17–21). She is buried at Machpelah, near Hebron (Gen 23)."
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Esposa de Abraão; mãe de Isaque (caps. 12–25)",
+            "en": "Abraham's wife; mother of Isaac (chs. 12–25)"
+          }
+        }
+      ],
+      "events": [
+        "abraao"
+      ],
+      "places": [
+        {
+          "book": "gen",
+          "name": "Hebrom",
+          "en": "Hebron"
+        }
+      ]
+    },
+    {
+      "id": "isaque",
+      "name": {
+        "pt": "Isaque",
+        "en": "Isaac"
+      },
+      "summary": {
+        "pt": "Filho da promessa de Abraão e Sara. Quase é oferecido em Moriá (Gn 22), casa-se com Rebeca e é pai de Esaú e Jacó (Gn 24–27).",
+        "en": "Son of the promise to Abraham and Sarah. He is nearly offered at Moriah (Gen 22), marries Rebekah and is father of Esau and Jacob (Gen 24–27)."
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Filho da promessa e sua esposa Rebeca",
+            "en": "Son of the promise, and his wife Rebekah"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "gen",
+          "name": "Moriá",
+          "en": "Moriah"
+        },
+        {
+          "book": "gen",
+          "name": "Gerar",
+          "en": "Gerar"
+        },
+        {
+          "book": "gen",
+          "name": "Berseba",
+          "en": "Beersheba"
+        }
+      ]
+    },
+    {
+      "id": "jaco",
+      "name": {
+        "pt": "Jacó (Israel)",
+        "en": "Jacob (Israel)"
+      },
+      "summary": {
+        "pt": "Filho de Isaque e Rebeca, irmão gêmeo de Esaú. Sonha com a escada em Betel (Gn 28), luta com Deus em Peniel e recebe o nome Israel (Gn 32). Pai dos doze filhos que dão nome às tribos; desce ao Egito na velhice (Gn 46).",
+        "en": "Son of Isaac and Rebekah, twin brother of Esau. He dreams of the ladder at Bethel (Gen 28), wrestles with God at Peniel and receives the name Israel (Gen 32). Father of the twelve sons who give their names to the tribes; he goes down to Egypt in old age (Gen 46)."
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Recebe o nome Israel; pai dos doze filhos (caps. 25–50)",
+            "en": "Receives the name Israel; father of the twelve sons (chs. 25–50)"
+          }
+        }
+      ],
+      "events": [
+        "jaco-egito"
+      ],
+      "places": [
+        {
+          "book": "gen",
+          "name": "Betel",
+          "en": "Bethel"
+        },
+        {
+          "book": "gen",
+          "name": "Peniel",
+          "en": "Penuel"
+        },
+        {
+          "book": "gen",
+          "name": "Egito",
+          "en": "Egypt"
+        }
+      ]
+    },
+    {
+      "id": "jose",
+      "name": {
+        "pt": "José, filho de Jacó",
+        "en": "Joseph, son of Jacob"
+      },
+      "summary": {
+        "pt": "Filho preferido de Jacó. Vendido pelos irmãos, chega a governador do Egito e salva a família da fome (Gn 37–50).",
+        "en": "Jacob's favorite son. Sold by his brothers, he rises to governor of Egypt and saves the family from famine (Gen 37–50)."
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Vendido pelos irmãos; chega ao governo do Egito (caps. 37–50)",
+            "en": "Sold by his brothers; rises to govern Egypt (chs. 37–50)"
+          }
+        }
+      ],
+      "events": [
+        "jaco-egito"
+      ],
+      "places": [
+        {
+          "book": "gen",
+          "name": "Dotã",
+          "en": "Dothan"
+        },
+        {
+          "book": "gen",
+          "name": "Egito",
+          "en": "Egypt"
+        },
+        {
+          "book": "gen",
+          "name": "Gósen",
+          "en": "Goshen"
+        }
+      ],
+      "note": {
+        "pt": "Não confundir com José, marido de Maria, nos Evangelhos.",
+        "en": "Not to be confused with Joseph, husband of Mary, in the Gospels."
+      }
+    },
+    {
+      "id": "arao",
+      "name": {
+        "pt": "Arão",
+        "en": "Aaron"
+      },
+      "summary": {
+        "pt": "Irmão de Moisés e seu porta-voz diante do faraó. Torna-se o primeiro sumo sacerdote de Israel (Êx 28–29; Lv 8).",
+        "en": "Brother of Moses and his spokesman before Pharaoh. He becomes Israel's first high priest (Exod 28–29; Lev 8)."
+      },
+      "books": [
+        {
+          "book": "exo",
+          "role": {
+            "pt": "Irmão de Moisés; primeiro sumo sacerdote",
+            "en": "Brother of Moses; first high priest"
+          }
+        }
+      ],
+      "events": [
+        "exodo",
+        "sinai"
+      ]
+    },
+    {
+      "id": "miria",
+      "name": {
+        "pt": "Miriã",
+        "en": "Miriam"
+      },
+      "summary": {
+        "pt": "Irmã de Moisés, chamada profetisa (Êx 15:20). Lidera as mulheres no cântico depois da travessia do mar.",
+        "en": "Sister of Moses, called a prophetess (Exod 15:20). She leads the women in song after the crossing of the sea."
+      },
+      "books": [
+        {
+          "book": "exo",
+          "role": {
+            "pt": "Irmã de Moisés; chamada profetisa (15:20)",
+            "en": "Sister of Moses; called a prophetess (15:20)"
+          }
+        }
+      ],
+      "events": [
+        "exodo"
+      ]
+    },
+    {
+      "id": "calebe",
+      "name": {
+        "pt": "Calebe",
+        "en": "Caleb"
+      },
+      "summary": {
+        "pt": "Um dos espias que confiam na promessa (Nm 13–14). Recebe Hebrom como herança (Js 14:6–15).",
+        "en": "One of the spies who trust the promise (Num 13–14). He receives Hebron as his inheritance (Josh 14:6–15)."
+      },
+      "books": [
+        {
+          "book": "num",
+          "role": {
+            "pt": "Um dos espias que confiam na promessa, com Josué (caps. 13–14)",
+            "en": "One of the spies who trust the promise, with Joshua (chs. 13–14)"
+          }
+        },
+        {
+          "book": "deu",
+          "role": {
+            "pt": "Citado como fiel (1:36)",
+            "en": "Mentioned as faithful (1:36)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "jos",
+          "name": "Hebrom",
+          "en": "Hebron"
+        }
+      ]
+    },
+    {
+      "id": "debora",
+      "name": {
+        "pt": "Débora",
+        "en": "Deborah"
+      },
+      "summary": {
+        "pt": "Profetisa e juíza de Israel. Convoca Baraque e, com ele, vence o exército de Sísera (Jz 4–5).",
+        "en": "Prophetess and judge of Israel. She summons Barak and, with him, defeats Sisera's army (Judg 4–5)."
+      },
+      "books": [
+        {
+          "book": "jdg",
+          "role": {
+            "pt": "Profetisa e juíza; com Baraque (caps. 4–5)",
+            "en": "Prophetess and judge; with Barak (chs. 4–5)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "jdg",
+          "name": "Monte Tabor",
+          "en": "Mount Tabor"
+        }
+      ]
+    },
+    {
+      "id": "gideao",
+      "name": {
+        "pt": "Gideão",
+        "en": "Gideon"
+      },
+      "summary": {
+        "pt": "Juiz de Israel. Chamado em Ofra, derrota Midiã com trezentos homens (Jz 6–8).",
+        "en": "Judge of Israel. Called at Ophrah, he defeats Midian with three hundred men (Judg 6–8)."
+      },
+      "books": [
+        {
+          "book": "jdg",
+          "role": {
+            "pt": "Derrota Midiã com trezentos homens (caps. 6–8)",
+            "en": "Defeats Midian with three hundred men (chs. 6–8)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "jdg",
+          "name": "Ofra",
+          "en": "Ophrah"
+        }
+      ]
+    },
+    {
+      "id": "sansao",
+      "name": {
+        "pt": "Sansão",
+        "en": "Samson"
+      },
+      "summary": {
+        "pt": "Nazireu e juiz contra os filisteus. Dotado de grande força, é traído por Dalila e morre derrubando o templo em Gaza (Jz 13–16).",
+        "en": "Nazirite and judge against the Philistines. Given great strength, he is betrayed by Delilah and dies bringing down the temple in Gaza (Judg 13–16)."
+      },
+      "books": [
+        {
+          "book": "jdg",
+          "role": {
+            "pt": "Nazireu e juiz contra os filisteus (caps. 13–16)",
+            "en": "Nazirite and judge against the Philistines (chs. 13–16)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "jdg",
+          "name": "Zorá",
+          "en": "Zorah"
+        },
+        {
+          "book": "jdg",
+          "name": "Gaza",
+          "en": "Gaza"
+        }
+      ]
+    },
+    {
+      "id": "rute",
+      "name": {
+        "pt": "Rute",
+        "en": "Ruth"
+      },
+      "summary": {
+        "pt": "Moabita que fica com a sogra Noemi e se casa com Boaz, em Belém. Entra na linhagem de Davi (Rt 4:13–22).",
+        "en": "A Moabite who stays with her mother-in-law Naomi and marries Boaz in Bethlehem. She enters David's line (Ruth 4:13–22)."
+      },
+      "books": [
+        {
+          "book": "rut",
+          "role": {
+            "pt": "Moabita que fica com a sogra e se casa com Boaz",
+            "en": "A Moabite who stays with her mother-in-law and marries Boaz"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "rut",
+          "name": "Belém",
+          "en": "Bethlehem"
+        },
+        {
+          "book": "rut",
+          "name": "Moabe",
+          "en": "Moab"
+        }
+      ]
+    },
+    {
+      "id": "noemi",
+      "name": {
+        "pt": "Noemi",
+        "en": "Naomi"
+      },
+      "summary": {
+        "pt": "Viúva de Belém que vai a Moabe com a família e volta com Rute (Rt 1).",
+        "en": "A widow of Bethlehem who goes to Moab with her family and returns with Ruth (Ruth 1)."
+      },
+      "books": [
+        {
+          "book": "rut",
+          "role": {
+            "pt": "Viúva de Belém que volta de Moabe",
+            "en": "Widow of Bethlehem who returns from Moab"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "rut",
+          "name": "Belém",
+          "en": "Bethlehem"
+        },
+        {
+          "book": "rut",
+          "name": "Moabe",
+          "en": "Moab"
+        }
+      ]
+    },
+    {
+      "id": "boaz",
+      "name": {
+        "pt": "Boaz",
+        "en": "Boaz"
+      },
+      "summary": {
+        "pt": "Parente de Elimeleque, de Belém. Resgata a terra de Noemi e se casa com Rute (Rt 2–4).",
+        "en": "A relative of Elimelech, of Bethlehem. He redeems Naomi's land and marries Ruth (Ruth 2–4)."
+      },
+      "books": [
+        {
+          "book": "rut",
+          "role": {
+            "pt": "Parente de Elimeleque; resgata a terra e se casa com Rute",
+            "en": "Relative of Elimelech; redeems the land and marries Ruth"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "rut",
+          "name": "Belém",
+          "en": "Bethlehem"
+        }
+      ]
+    },
+    {
+      "id": "samuel",
+      "name": {
+        "pt": "Samuel",
+        "en": "Samuel"
+      },
+      "summary": {
+        "pt": "Último juiz e profeta. Dado por Ana ao Senhor em Siló (1Sm 1–3), unge Saul e depois Davi (1Sm 10; 16).",
+        "en": "Last judge and a prophet. Given by Hannah to the Lord at Shiloh (1 Sam 1–3), he anoints Saul and later David (1 Sam 10; 16)."
+      },
+      "books": [
+        {
+          "book": "1sa",
+          "role": {
+            "pt": "Último juiz e profeta; unge Saul e Davi",
+            "en": "Last judge and prophet; anoints Saul and David"
+          }
+        }
+      ],
+      "events": [
+        "saul"
+      ],
+      "places": [
+        {
+          "book": "1sa",
+          "name": "Siló",
+          "en": "Shiloh"
+        },
+        {
+          "book": "1sa",
+          "name": "Ramá",
+          "en": "Ramah"
+        },
+        {
+          "book": "1sa",
+          "name": "Mispá",
+          "en": "Mizpah"
+        }
+      ]
+    },
+    {
+      "id": "saul",
+      "name": {
+        "pt": "Saul",
+        "en": "Saul"
+      },
+      "summary": {
+        "pt": "Primeiro rei de Israel, de Gibeá. Ungido por Samuel, é depois rejeitado por desobediência (1Sm 13; 15). Persegue Davi e morre no monte Gilboa (1Sm 31).",
+        "en": "First king of Israel, from Gibeah. Anointed by Samuel, he is later rejected for disobedience (1 Sam 13; 15). He pursues David and dies on Mount Gilboa (1 Sam 31)."
+      },
+      "books": [
+        {
+          "book": "1sa",
+          "role": {
+            "pt": "Primeiro rei de Israel",
+            "en": "First king of Israel"
+          }
+        }
+      ],
+      "events": [
+        "saul"
+      ],
+      "places": [
+        {
+          "book": "1sa",
+          "name": "Gibeá",
+          "en": "Gibeah"
+        },
+        {
+          "book": "1sa",
+          "name": "Monte Gilboa",
+          "en": "Mount Gilboa"
+        }
+      ],
+      "note": {
+        "pt": "Não confundir com Saulo de Tarso, o apóstolo Paulo (At 9).",
+        "en": "Not to be confused with Saul of Tarsus, the apostle Paul (Acts 9)."
+      }
+    },
+    {
+      "id": "jonatas",
+      "name": {
+        "pt": "Jônatas",
+        "en": "Jonathan"
+      },
+      "summary": {
+        "pt": "Filho de Saul e amigo fiel de Davi (1Sm 18–20). Morre com o pai em Gilboa; Davi lamenta sua morte (2Sm 1:17–27).",
+        "en": "Saul's son and David's faithful friend (1 Sam 18–20). He dies with his father at Gilboa; David laments his death (2 Sam 1:17–27)."
+      },
+      "books": [
+        {
+          "book": "1sa",
+          "role": {
+            "pt": "Filho de Saul; amigo de Davi",
+            "en": "Saul's son; David's friend"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "1sa",
+          "name": "Monte Gilboa",
+          "en": "Mount Gilboa"
+        }
+      ]
+    },
+    {
+      "id": "nata",
+      "name": {
+        "pt": "Natã",
+        "en": "Nathan"
+      },
+      "summary": {
+        "pt": "Profeta no tempo de Davi. Entrega a promessa da casa de Davi (2Sm 7) e o confronta depois do caso com Bate-Seba (2Sm 12).",
+        "en": "Prophet in David's time. He delivers the promise of David's house (2 Sam 7) and confronts him after the affair with Bathsheba (2 Sam 12)."
+      },
+      "books": [
+        {
+          "book": "2sa",
+          "role": {
+            "pt": "Profeta; entrega a promessa e confronta Davi (caps. 7 e 12)",
+            "en": "Prophet; delivers the promise and confronts David (chs. 7 and 12)"
+          }
+        }
+      ],
+      "events": [
+        "davi"
+      ]
+    },
+    {
+      "id": "absalao",
+      "name": {
+        "pt": "Absalão",
+        "en": "Absalom"
+      },
+      "summary": {
+        "pt": "Filho de Davi. Mata Amnom, foge para Gesur e depois lidera uma rebelião contra o pai; morre na batalha (2Sm 13–18).",
+        "en": "David's son. He kills Amnon, flees to Geshur and later leads a rebellion against his father; he dies in battle (2 Sam 13–18)."
+      },
+      "books": [
+        {
+          "book": "2sa",
+          "role": {
+            "pt": "Filho de Davi; lidera uma rebelião (caps. 15–18)",
+            "en": "Son of David; leads a rebellion (chs. 15–18)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "2sa",
+          "name": "Gesur",
+          "en": "Geshur"
+        },
+        {
+          "book": "2sa",
+          "name": "Maanaim",
+          "en": "Mahanaim"
+        }
+      ]
+    },
+    {
+      "id": "acabe",
+      "name": {
+        "pt": "Acabe",
+        "en": "Ahab"
+      },
+      "summary": {
+        "pt": "Rei de Israel, casado com Jezabel. Promove o culto a Baal, é confrontado por Elias e morre em Ramote-Gileade (1Rs 16–22).",
+        "en": "King of Israel, married to Jezebel. He promotes Baal worship, is confronted by Elijah and dies at Ramoth-gilead (1 Kgs 16–22)."
+      },
+      "books": [
+        {
+          "book": "1ki",
+          "role": {
+            "pt": "Rei de Israel; promotor do culto a Baal, com Jezabel",
+            "en": "King of Israel; promoter of Baal worship, with Jezebel"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "1ki",
+          "name": "Samaria",
+          "en": "Samaria"
+        },
+        {
+          "book": "1ki",
+          "name": "Jezreel",
+          "en": "Jezreel"
+        },
+        {
+          "book": "1ki",
+          "name": "Ramote-Gileade",
+          "en": "Ramoth-gilead"
+        }
+      ]
+    },
+    {
+      "id": "jezabel",
+      "name": {
+        "pt": "Jezabel",
+        "en": "Jezebel"
+      },
+      "summary": {
+        "pt": "Esposa de Acabe, filha do rei dos sidônios. Promove o culto a Baal, persegue os profetas do Senhor (1Rs 18; 21) e morre em Jezreel por ordem de Jeú (2Rs 9:30–37).",
+        "en": "Wife of Ahab, daughter of the king of the Sidonians. She promotes Baal worship, persecutes the Lord's prophets (1 Kgs 18; 21) and dies at Jezreel on Jehu's orders (2 Kgs 9:30–37)."
+      },
+      "books": [
+        {
+          "book": "1ki",
+          "role": {
+            "pt": "Esposa de Acabe; promotora do culto a Baal",
+            "en": "Wife of Ahab; promoter of Baal worship"
+          }
+        }
+      ],
+      "events": [
+        "jeu"
+      ],
+      "places": [
+        {
+          "book": "1ki",
+          "name": "Jezreel",
+          "en": "Jezreel"
+        }
+      ]
+    },
+    {
+      "id": "eliseu",
+      "name": {
+        "pt": "Eliseu",
+        "en": "Elisha"
+      },
+      "summary": {
+        "pt": "Sucessor de Elias e profeta de milagres. Cura Naamã (2Rs 5) e manda ungir Jeú (2Rs 9).",
+        "en": "Elijah's successor and a prophet of miracles. He heals Naaman (2 Kgs 5) and has Jehu anointed (2 Kgs 9)."
+      },
+      "books": [
+        {
+          "book": "2ki",
+          "role": {
+            "pt": "Sucessor de Elias; profeta de milagres",
+            "en": "Elijah's successor; prophet of miracles"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "2ki",
+          "name": "Betel",
+          "en": "Bethel"
+        },
+        {
+          "book": "2ki",
+          "name": "Jericó",
+          "en": "Jericho"
+        },
+        {
+          "book": "2ki",
+          "name": "Suném",
+          "en": "Shunem"
+        },
+        {
+          "book": "2ki",
+          "name": "Samaria",
+          "en": "Samaria"
+        }
+      ]
+    },
+    {
+      "id": "jeu",
+      "name": {
+        "pt": "Jeú",
+        "en": "Jehu"
+      },
+      "summary": {
+        "pt": "Rei de Israel. Ungido por ordem de Eliseu, extermina a casa de Acabe (2Rs 9–10). Seu tributo à Assíria aparece no Obelisco Negro de Salmanasar III.",
+        "en": "King of Israel. Anointed on Elisha's order, he wipes out the house of Ahab (2 Kgs 9–10). His tribute to Assyria appears on the Black Obelisk of Shalmaneser III."
+      },
+      "books": [
+        {
+          "book": "2ki",
+          "role": {
+            "pt": "Rei de Israel; extermina a casa de Acabe (caps. 9–10)",
+            "en": "King of Israel; wipes out the house of Ahab (chs. 9–10)"
+          }
+        }
+      ],
+      "events": [
+        "jeu"
+      ],
+      "places": [
+        {
+          "book": "2ki",
+          "name": "Ramote-Gileade",
+          "en": "Ramoth-gilead"
+        },
+        {
+          "book": "2ki",
+          "name": "Jezreel",
+          "en": "Jezreel"
+        }
+      ]
+    },
+    {
+      "id": "isaias",
+      "name": {
+        "pt": "Isaías",
+        "en": "Isaiah"
+      },
+      "summary": {
+        "pt": "Profeta em Jerusalém no tempo de Uzias a Ezequias. Vê o Senhor no templo (Is 6), anuncia o Emanuel (Is 7) e aconselha Ezequias no cerco assírio (Is 36–37). A unidade de autoria do livro é debatida; ver a ficha.",
+        "en": "Prophet in Jerusalem from the time of Uzziah to Hezekiah. He sees the Lord in the temple (Isa 6), announces Immanuel (Isa 7) and advises Hezekiah in the Assyrian siege (Isa 36–37). The unity of authorship of the book is debated; see the sheet."
+      },
+      "books": [
+        {
+          "book": "isa",
+          "role": {
+            "pt": "Profeta em Jerusalém; seu chamado está no cap. 6",
+            "en": "Prophet in Jerusalem; his call is in ch. 6"
+          }
+        }
+      ],
+      "events": [
+        "senaqueribe"
+      ],
+      "places": [
+        {
+          "book": "isa",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "jeremias",
+      "name": {
+        "pt": "Jeremias",
+        "en": "Jeremiah"
+      },
+      "summary": {
+        "pt": "Profeta de Anatote, chamado ainda jovem. Anuncia o juízo sobre Judá, sofre perseguição e prisão (Jr 1; 20; 37–38) e permanece em Judá depois da queda de Jerusalém, mas é levado ao Egito (Jr 43).",
+        "en": "Prophet from Anathoth, called while young. He announces judgment on Judah, suffers persecution and imprisonment (Jer 1; 20; 37–38) and stays in Judah after the fall of Jerusalem, but is taken to Egypt (Jer 43)."
+      },
+      "books": [
+        {
+          "book": "jer",
+          "role": {
+            "pt": "Profeta; sofre perseguição e prisão",
+            "en": "Prophet; suffers persecution and imprisonment"
+          }
+        }
+      ],
+      "events": [
+        "carquemis",
+        "jerusalem-586"
+      ],
+      "places": [
+        {
+          "book": "jer",
+          "name": "Anatote",
+          "en": "Anathoth"
+        },
+        {
+          "book": "jer",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        {
+          "book": "jer",
+          "name": "Mispá",
+          "en": "Mizpah"
+        },
+        {
+          "book": "jer",
+          "name": "Tafnes",
+          "en": "Tahpanhes"
+        }
+      ]
+    },
+    {
+      "id": "ezequiel",
+      "name": {
+        "pt": "Ezequiel",
+        "en": "Ezekiel"
+      },
+      "summary": {
+        "pt": "Sacerdote e profeta entre os exilados na Babilônia. Recebe a visão inaugural junto ao rio Quebar (Ez 1), profetiza sobre Jerusalém antes e depois de sua queda e vê o novo templo (Ez 40–48).",
+        "en": "Priest and prophet among the exiles in Babylon. He receives his inaugural vision by the Chebar River (Ezek 1), prophesies about Jerusalem before and after its fall and sees the new temple (Ezek 40–48)."
+      },
+      "books": [
+        {
+          "book": "eze",
+          "role": {
+            "pt": "Sacerdote e profeta no exílio",
+            "en": "Priest and prophet in exile"
+          }
+        }
+      ],
+      "events": [
+        "joaquim"
+      ],
+      "places": [
+        {
+          "book": "eze",
+          "name": "Rio Quebar",
+          "en": "Chebar River"
+        },
+        {
+          "book": "eze",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "daniel",
+      "name": {
+        "pt": "Daniel",
+        "en": "Daniel"
+      },
+      "summary": {
+        "pt": "Jovem judeu levado à Babilônia, serve na corte como sábio e intérprete de sonhos. É lançado na cova dos leões (Dn 6) e recebe visões sobre o futuro (Dn 7–12). A datação do livro é debatida; ver a ficha.",
+        "en": "A young Jew taken to Babylon, who serves at court as a sage and interpreter of dreams. He is thrown into the lions' den (Dan 6) and receives visions of the future (Dan 7–12). The dating of the book is debated; see the sheet."
+      },
+      "books": [
+        {
+          "book": "dan",
+          "role": {
+            "pt": "Sábio e intérprete de sonhos na corte",
+            "en": "Sage and interpreter of dreams at court"
+          }
+        }
+      ],
+      "events": [
+        "daniel-deportado",
+        "babilonia-cai"
+      ],
+      "places": [
+        {
+          "book": "dan",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        {
+          "book": "dan",
+          "name": "Babilônia",
+          "en": "Babylon"
+        },
+        {
+          "book": "dan",
+          "name": "Pérsia",
+          "en": "Persia"
+        }
+      ]
+    },
+    {
+      "id": "jonas",
+      "name": {
+        "pt": "Jonas",
+        "en": "Jonah"
+      },
+      "summary": {
+        "pt": "Profeta enviado a Nínive. Foge para Társis, é lançado ao mar e engolido por um grande peixe; depois prega em Nínive e a cidade se arrepende (Jn 1–3). Já aparece em 2Rs 14:25.",
+        "en": "Prophet sent to Nineveh. He flees toward Tarshish, is thrown into the sea and swallowed by a great fish; then he preaches in Nineveh and the city repents (Jonah 1–3). He already appears in 2 Kgs 14:25."
+      },
+      "books": [
+        {
+          "book": "jon",
+          "role": {
+            "pt": "Profeta que foge da missão de ir a Nínive",
+            "en": "Prophet who flees from the mission to Nineveh"
+          }
+        }
+      ],
+      "events": [
+        "ninive"
+      ],
+      "places": [
+        {
+          "book": "jon",
+          "name": "Jope",
+          "en": "Joppa"
+        },
+        {
+          "book": "jon",
+          "name": "Társis",
+          "en": "Tarshish"
+        },
+        {
+          "book": "jon",
+          "name": "Nínive",
+          "en": "Nineveh"
+        }
+      ]
+    },
+    {
+      "id": "ester",
+      "name": {
+        "pt": "Ester",
+        "en": "Esther"
+      },
+      "summary": {
+        "pt": "Jovem judia que se torna rainha da Pérsia e intercede junto ao rei Assuero pelo seu povo, ameaçado por Hamã (Et 2–8). A festa de Purim lembra o livramento.",
+        "en": "A young Jewish woman who becomes queen of Persia and pleads with King Ahasuerus for her people, threatened by Haman (Esth 2–8). The feast of Purim recalls the deliverance."
+      },
+      "books": [
+        {
+          "book": "est",
+          "role": {
+            "pt": "Rainha judia que intercede pelo seu povo",
+            "en": "Jewish queen who pleads for her people"
+          }
+        }
+      ],
+      "events": [
+        "ester"
+      ],
+      "places": [
+        {
+          "book": "est",
+          "name": "Susã",
+          "en": "Susa"
+        }
+      ]
+    },
+    {
+      "id": "esdras",
+      "name": {
+        "pt": "Esdras",
+        "en": "Ezra"
+      },
+      "summary": {
+        "pt": "Sacerdote e escriba, versado na lei de Moisés. Chega a Jerusalém com um grupo de exilados e conduz a reforma (Ed 7–10), e lê a lei ao povo (Ne 8). A data de sua chegada é debatida (ver a linha do tempo).",
+        "en": "Priest and scribe, learned in the law of Moses. He arrives in Jerusalem with a group of exiles and leads reform (Ezra 7–10), and reads the law to the people (Neh 8). The date of his arrival is debated (see the timeline)."
+      },
+      "books": [
+        {
+          "book": "ezr",
+          "role": {
+            "pt": "Sacerdote e escriba; ensina a lei",
+            "en": "Priest and scribe; teaches the law"
+          }
+        },
+        {
+          "book": "neh",
+          "role": {
+            "pt": "Escriba que lê a lei (cap. 8)",
+            "en": "Scribe who reads the law (ch. 8)"
+          }
+        }
+      ],
+      "events": [
+        "esdras"
+      ],
+      "places": [
+        {
+          "book": "ezr",
+          "name": "Babilônia",
+          "en": "Babylon"
+        },
+        {
+          "book": "ezr",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "neemias",
+      "name": {
+        "pt": "Neemias",
+        "en": "Nehemiah"
+      },
+      "summary": {
+        "pt": "Copeiro do rei da Pérsia em Susã. Obtém licença para ir a Jerusalém, reconstrói o muro em cinquenta e dois dias apesar da oposição (Ne 1–6) e governa Judá.",
+        "en": "Cupbearer of the king of Persia at Susa. He obtains leave to go to Jerusalem, rebuilds the wall in fifty-two days despite opposition (Neh 1–6) and governs Judah."
+      },
+      "books": [
+        {
+          "book": "neh",
+          "role": {
+            "pt": "Copeiro do rei e governador de Judá",
+            "en": "Cupbearer of the king and governor of Judah"
+          }
+        }
+      ],
+      "events": [
+        "neemias"
+      ],
+      "places": [
+        {
+          "book": "neh",
+          "name": "Susã",
+          "en": "Susa"
+        },
+        {
+          "book": "neh",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        {
+          "book": "neh",
+          "name": "Ono",
+          "en": "Ono"
+        }
+      ]
+    },
+    {
+      "id": "zorobabel",
+      "name": {
+        "pt": "Zorobabel",
+        "en": "Zerubbabel"
+      },
+      "summary": {
+        "pt": "Líder judeu do primeiro retorno do exílio, com o sumo sacerdote Jesua. Reconstrói o altar e o templo (Ed 3–6), animado pelos profetas Ageu e Zacarias.",
+        "en": "Jewish leader of the first return from exile, with the high priest Jeshua. He rebuilds the altar and the temple (Ezra 3–6), encouraged by the prophets Haggai and Zechariah."
+      },
+      "books": [
+        {
+          "book": "ezr",
+          "role": {
+            "pt": "Líder do primeiro retorno e da reconstrução do templo, com Jesua",
+            "en": "Leader of the first return and of the temple rebuilding, with Jeshua"
+          }
+        }
+      ],
+      "events": [
+        "templo-516"
+      ],
+      "places": [
+        {
+          "book": "ezr",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "jo",
+      "name": {
+        "pt": "Jó",
+        "en": "Job"
+      },
+      "summary": {
+        "pt": "Homem íntegro de Uz que perde bens e filhos e questiona o sentido do sofrimento, diante de amigos que o acusam (Jó 1–37). Deus responde nos caps. 38–41, e Jó é restaurado. Tiago o cita como exemplo de perseverança (Tg 5:11). Época e lugar do livro são debatidos; ver a ficha.",
+        "en": "An upright man of Uz who loses his possessions and children and questions the meaning of suffering, before friends who accuse him (Job 1–37). God answers in chs. 38–41, and Job is restored. James cites him as an example of perseverance (Jas 5:11). The time and place of the book are debated; see the sheet."
+      },
+      "books": [
+        {
+          "book": "job",
+          "role": {
+            "pt": "Homem íntegro de Uz que perde bens e filhos",
+            "en": "Upright man of Uz who loses his possessions and children"
+          }
+        },
+        {
+          "book": "jas",
+          "role": {
+            "pt": "Exemplo de perseverança, com Elias (5:11, 17)",
+            "en": "Example of perseverance, with Elijah (5:11, 17)"
+          }
+        }
+      ]
     }
   ]
 }
