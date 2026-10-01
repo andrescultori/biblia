@@ -35,12 +35,14 @@ Tabela interativa dos 66 livros da Bíblia (inspirada no "TaBíblia Periódica")
 - ESV e NKJV: avaliadas, não adicionadas. ESV só via API não comercial e exigiria proxy; NKJV exige permissão escrita.
 
 ## Roadmap
-1. Publicar o repositório e o GitHub Pages.
-2. Fichas completas por livro, revisadas por seção (começando pela Lei): autor, data, local, destinatários, versículo-chave, tema, contexto histórico, personagens, esboço, conexões.
-3. Mapa: costa em vetor com d3 (sem tiles externos) e linha do tempo. A demo aprovada está em `docs/map-demo/` (abrir `mapa-biblico.html`; o README explica a origem dos dados e como implementar no app).
-4. Páginas de personagens bíblicos e outros conteúdos.
+1. Publicar o repositório e o GitHub Pages. **Feito.**
+2. Fichas completas por livro: autor, data, local, destinatários, versículo-chave, tema, contexto histórico, personagens, esboço, conexões. **Rascunho dos 66 livros pronto**; a revisão do André é manual e segue em andamento (pontos de atenção: autoria das cartas do NT, datação de Daniel, versículos-chave, traduções em EN).
+3. Mapa: costa em vetor com d3 (sem tiles externos). **Aba pronta** (demo em `docs/map-demo/`); os lugares entram por seção, livro a livro, com revisão do André. **Linha do tempo: pendente.**
+4. Textos: **KJV, WEB, ASV, Bíblia Livre e Almeida 1911 no site.** Pendentes: ARA e NAA (autorização da SBB) e, se aparecer fonte confiável, a ARC de 1898.
+5. Páginas de personagens bíblicos e outros conteúdos.
 
 ## Comandos
 - `npm install` e `npm run dev`: desenvolvimento.
-- `npm run build`: build de produção em `dist/`.
+- `npm run check`: confere fichas (campos PT/EN, referências de capítulo), lugares do mapa (coordenadas dentro da costa, nome repetido) e textos bíblicos (66 livros, capítulos iguais aos da KJV, null só onde falta versículo). Rode antes de abrir PR.
+- `npm run build`: build de produção em `dist/`. O CI (`.github/workflows/ci.yml`) roda `check` e `build` em todo PR.
 - `node scripts/build-bible-data.mjs <id> <caminho-da-fonte>`: regenera os dados de uma versão. Fontes e formatos no README (seção "Dados do texto bíblico").

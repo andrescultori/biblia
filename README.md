@@ -10,8 +10,8 @@
 - [x] Ficha com dados básicos (testamento, seção, capítulos, versículos)
 - [x] Leitor de texto: KJV, WEB e ASV (inglês); Bíblia Livre e Almeida 1911 (português)
 - [x] Tema claro/escuro, PT/EN
-- [ ] Ficha completa por livro (autor, data, local, personagens, esboço, tema, contexto, conexões)
-- [x] Aba Mapa por livro, com costa vetorial e lugares da ficha (Êxodo, Atos e Apocalipse; demais livros em andamento)
+- [x] Ficha completa dos 66 livros, PT e EN (autor, data, local, personagens, esboço, tema, contexto, conexões). A revisão de conteúdo é manual e segue em andamento
+- [ ] Aba Mapa: pronta; os lugares entram por seção (livros sem `map` na ficha não mostram a aba)
 - [ ] Linha do tempo
 - [ ] ARA e NAA (aguardam autorização da SBB)
 
@@ -20,7 +20,11 @@
 ```bash
 npm install
 npm run dev
+npm run check   # confere fichas, mapas e textos
+npm run build
 ```
+
+Todo pull request roda `npm run check` e `npm run build` (`.github/workflows/ci.yml`). O deploy no Pages só acontece no push para a `main`.
 
 ## Dados do texto bíblico
 
