@@ -2140,6 +2140,616 @@
           }
         }
       ]
+    },
+    {
+      "id": "maria-mae-de-jesus",
+      "name": {
+        "pt": "Maria, mãe de Jesus",
+        "en": "Mary, mother of Jesus"
+      },
+      "summary": {
+        "pt": "Jovem de Nazaré a quem o anjo anuncia que dará à luz o Filho de Deus (Lc 1:26–38). Dá à luz em Belém (Lc 2), está aos pés da cruz (Jo 19:25–27) e aparece entre os discípulos em Jerusalém depois da ascensão (At 1:14).",
+        "en": "A young woman of Nazareth to whom the angel announces that she will bear the Son of God (Luke 1:26–38). She gives birth in Bethlehem (Luke 2), stands at the foot of the cross (John 19:25–27) and appears among the disciples in Jerusalem after the ascension (Acts 1:14)."
+      },
+      "books": [
+        {
+          "book": "mat",
+          "role": {
+            "pt": "Mãe de Jesus, com José (caps. 1–2)",
+            "en": "Mother of Jesus, with Joseph (chs. 1–2)"
+          }
+        },
+        {
+          "book": "luk",
+          "role": {
+            "pt": "Mãe de Jesus, com Isabel, mãe de João (caps. 1–2)",
+            "en": "Mother of Jesus, with Elizabeth, mother of John (chs. 1–2)"
+          }
+        },
+        {
+          "book": "joh",
+          "role": {
+            "pt": "Aos pés da cruz (19:25–27)",
+            "en": "At the foot of the cross (19:25–27)"
+          }
+        },
+        {
+          "book": "act",
+          "role": {
+            "pt": "Entre os discípulos em Jerusalém (1:14)",
+            "en": "Among the disciples in Jerusalem (1:14)"
+          }
+        }
+      ],
+      "events": [
+        "nascimento"
+      ],
+      "places": [
+        {
+          "book": "luk",
+          "name": "Nazaré",
+          "en": "Nazareth"
+        },
+        {
+          "book": "luk",
+          "name": "Belém",
+          "en": "Bethlehem"
+        }
+      ],
+      "note": {
+        "pt": "Não confundir com Maria Madalena nem com Maria de Betânia.",
+        "en": "Not to be confused with Mary Magdalene or Mary of Bethany."
+      }
+    },
+    {
+      "id": "jose-marido-de-maria",
+      "name": {
+        "pt": "José, marido de Maria",
+        "en": "Joseph, husband of Mary"
+      },
+      "summary": {
+        "pt": "Descendente de Davi, de Nazaré. Um anjo lhe diz em sonho que aceite Maria e dê ao menino o nome Jesus (Mt 1:18–25); leva a família ao Egito para fugir de Herodes e depois a Nazaré (Mt 2). Aparece em Lc 2.",
+        "en": "A descendant of David, from Nazareth. An angel tells him in a dream to take Mary and name the child Jesus (Matt 1:18–25); he takes the family to Egypt to flee Herod and later to Nazareth (Matt 2). He appears in Luke 2."
+      },
+      "books": [
+        {
+          "book": "mat",
+          "role": {
+            "pt": "Pai legal de Jesus (caps. 1–2)",
+            "en": "Legal father of Jesus (chs. 1–2)"
+          }
+        },
+        {
+          "book": "luk",
+          "role": {
+            "pt": "Vai a Belém com Maria para o recenseamento (cap. 2)",
+            "en": "Goes to Bethlehem with Mary for the census (ch. 2)"
+          }
+        }
+      ],
+      "events": [
+        "nascimento"
+      ],
+      "places": [
+        {
+          "book": "mat",
+          "name": "Belém",
+          "en": "Bethlehem"
+        },
+        {
+          "book": "mat",
+          "name": "Egito",
+          "en": "Egypt"
+        },
+        {
+          "book": "mat",
+          "name": "Nazaré",
+          "en": "Nazareth"
+        }
+      ],
+      "note": {
+        "pt": "Não confundir com José, filho de Jacó, em Gênesis.",
+        "en": "Not to be confused with Joseph, son of Jacob, in Genesis."
+      }
+    },
+    {
+      "id": "pilatos",
+      "name": {
+        "pt": "Pôncio Pilatos",
+        "en": "Pontius Pilate"
+      },
+      "summary": {
+        "pt": "Governador romano da Judeia, que condena Jesus à crucificação (Mt 27; Mc 15; Lc 23; Jo 18–19). Governou de 26 a 36 d.C.; Tácito também o cita.",
+        "en": "Roman governor of Judea who sentences Jesus to crucifixion (Matt 27; Mark 15; Luke 23; John 18–19). He governed from AD 26 to 36; Tacitus also mentions him."
+      },
+      "books": [
+        {
+          "book": "mat",
+          "role": {
+            "pt": "Governador romano que condena Jesus (cap. 27)",
+            "en": "Roman governor who condemns Jesus (ch. 27)"
+          }
+        },
+        {
+          "book": "mar",
+          "role": {
+            "pt": "Governador romano (cap. 15)",
+            "en": "Roman governor (ch. 15)"
+          }
+        },
+        {
+          "book": "luk",
+          "role": {
+            "pt": "Governador que julga Jesus (cap. 23)",
+            "en": "Governor who tries Jesus (ch. 23)"
+          }
+        },
+        {
+          "book": "joh",
+          "role": {
+            "pt": "Governador que julga Jesus (caps. 18–19)",
+            "en": "Governor who tries Jesus (chs. 18–19)"
+          }
+        }
+      ],
+      "events": [
+        "crucificacao"
+      ],
+      "places": [
+        {
+          "book": "luk",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "nicodemos",
+      "name": {
+        "pt": "Nicodemos",
+        "en": "Nicodemus"
+      },
+      "summary": {
+        "pt": "Fariseu e membro do conselho dos judeus. Procura Jesus de noite (Jo 3), pede justiça para ele no conselho (Jo 7:50–51) e ajuda a sepultá-lo (Jo 19:39–42).",
+        "en": "A Pharisee and member of the Jewish council. He seeks out Jesus at night (John 3), asks for fairness for him in the council (John 7:50–51) and helps bury him (John 19:39–42)."
+      },
+      "books": [
+        {
+          "book": "joh",
+          "role": {
+            "pt": "Fariseu que procura Jesus à noite (cap. 3)",
+            "en": "Pharisee who seeks Jesus at night (ch. 3)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "joh",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "maria-madalena",
+      "name": {
+        "pt": "Maria Madalena",
+        "en": "Mary Magdalene"
+      },
+      "summary": {
+        "pt": "Seguidora de Jesus, de quem ele expulsou sete demônios (Lc 8:2). Está na cruz e é a primeira a ver o Ressuscitado (Jo 20:1–18).",
+        "en": "A follower of Jesus, from whom he drove out seven demons (Luke 8:2). She is at the cross and is the first to see the risen Lord (John 20:1–18)."
+      },
+      "books": [
+        {
+          "book": "luk",
+          "role": {
+            "pt": "Seguidora de Jesus (8:2)",
+            "en": "Follower of Jesus (8:2)"
+          }
+        },
+        {
+          "book": "joh",
+          "role": {
+            "pt": "Primeira a ver o Ressuscitado (cap. 20)",
+            "en": "First to see the risen Lord (ch. 20)"
+          }
+        }
+      ],
+      "events": [
+        "crucificacao"
+      ],
+      "places": [
+        {
+          "book": "luk",
+          "name": "Gólgota",
+          "en": "Golgotha"
+        }
+      ],
+      "note": {
+        "pt": "O texto bíblico não a identifica com a mulher pecadora de Lc 7:36–50.",
+        "en": "The biblical text does not identify her with the sinful woman of Luke 7:36–50."
+      }
+    },
+    {
+      "id": "tome",
+      "name": {
+        "pt": "Tomé",
+        "en": "Thomas"
+      },
+      "summary": {
+        "pt": "Um dos Doze. Só crê na ressurreição ao ver as marcas de Jesus e confessa: \"Senhor meu e Deus meu\" (Jo 20:24–29).",
+        "en": "One of the Twelve. He believes in the resurrection only on seeing Jesus' wounds and confesses: \"My Lord and my God\" (John 20:24–29)."
+      },
+      "books": [
+        {
+          "book": "joh",
+          "role": {
+            "pt": "Discípulo que duvida e depois confessa (cap. 20)",
+            "en": "Disciple who doubts and then confesses (ch. 20)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "zaqueu",
+      "name": {
+        "pt": "Zaqueu",
+        "en": "Zacchaeus"
+      },
+      "summary": {
+        "pt": "Chefe dos cobradores de impostos em Jericó. Sobe a um sicômoro para ver Jesus, que se hospeda em sua casa; ele promete devolver o que tomou (Lc 19:1–10).",
+        "en": "Chief tax collector in Jericho. He climbs a sycamore to see Jesus, who stays at his house; he promises to repay what he took (Luke 19:1–10)."
+      },
+      "books": [
+        {
+          "book": "luk",
+          "role": {
+            "pt": "Cobrador de impostos de Jericó (19:1–10)",
+            "en": "Tax collector of Jericho (19:1–10)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "luk",
+          "name": "Jericó",
+          "en": "Jericho"
+        }
+      ]
+    },
+    {
+      "id": "estevao",
+      "name": {
+        "pt": "Estêvão",
+        "en": "Stephen"
+      },
+      "summary": {
+        "pt": "Um dos sete escolhidos para servir (At 6). Preso, faz um longo discurso e é apedrejado, o primeiro mártir; Saulo aprova a execução (At 7:54–8:1).",
+        "en": "One of the seven chosen to serve (Acts 6). Arrested, he gives a long speech and is stoned, the first martyr; Saul approves the execution (Acts 7:54–8:1)."
+      },
+      "books": [
+        {
+          "book": "act",
+          "role": {
+            "pt": "Primeiro mártir (caps. 6–7)",
+            "en": "First martyr (chs. 6–7)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "act",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "barnabe",
+      "name": {
+        "pt": "Barnabé",
+        "en": "Barnabas"
+      },
+      "summary": {
+        "pt": "Levita de Chipre chamado José, apelidado Barnabé pelos apóstolos (At 4:36). Apresenta Saulo aos apóstolos (At 9:27), vai com ele na primeira viagem e se separa dele por causa de Marcos (At 13–15).",
+        "en": "A Levite from Cyprus named Joseph, nicknamed Barnabas by the apostles (Acts 4:36). He introduces Saul to the apostles (Acts 9:27), goes with him on the first journey and parts from him over Mark (Acts 13–15)."
+      },
+      "books": [
+        {
+          "book": "act",
+          "role": {
+            "pt": "Companheiro de Paulo na primeira viagem",
+            "en": "Paul's companion on the first journey"
+          }
+        },
+        {
+          "book": "gal",
+          "role": {
+            "pt": "Companheiro de Paulo (2:1, 13)",
+            "en": "Paul's companion (2:1, 13)"
+          }
+        }
+      ],
+      "events": [
+        "viagem1",
+        "concilio"
+      ],
+      "places": [
+        {
+          "book": "act",
+          "name": "Antioquia",
+          "en": "Antioch"
+        },
+        {
+          "book": "act",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "tiago-jerusalem",
+      "name": {
+        "pt": "Tiago, o líder da igreja de Jerusalém",
+        "en": "James, leader of the Jerusalem church"
+      },
+      "summary": {
+        "pt": "Líder da igreja de Jerusalém em Atos (At 12:17; 15:13–21; 21:18) e uma das \"colunas\" (Gl 2:9). Paulo o chama de \"irmão do Senhor\" (Gl 1:19). A carta de Tiago leva o nome de um Tiago; a leitura tradicional o identifica com este.",
+        "en": "Leader of the Jerusalem church in Acts (Acts 12:17; 15:13–21; 21:18) and one of the \"pillars\" (Gal 2:9). Paul calls him \"the Lord's brother\" (Gal 1:19). The letter of James carries the name of a James; the traditional reading identifies him with this one."
+      },
+      "books": [
+        {
+          "book": "act",
+          "role": {
+            "pt": "Líder da igreja de Jerusalém (cap. 15)",
+            "en": "Leader of the Jerusalem church (ch. 15)"
+          }
+        },
+        {
+          "book": "gal",
+          "role": {
+            "pt": "\"Coluna\" da igreja de Jerusalém (1:19; 2:9)",
+            "en": "\"Pillar\" of the Jerusalem church (1:19; 2:9)"
+          }
+        },
+        {
+          "book": "jas",
+          "role": {
+            "pt": "Autor, na leitura tradicional",
+            "en": "Author, in the traditional reading"
+          }
+        }
+      ],
+      "events": [
+        "concilio"
+      ],
+      "places": [
+        {
+          "book": "act",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ],
+      "uncertain": true,
+      "note": {
+        "pt": "Há outros Tiagos no NT (o filho de Zebedeu, At 12:2; o filho de Alfeu, Mt 10:3). A identificação do autor da carta é debatida; ver a ficha de Tiago.",
+        "en": "There are other Jameses in the NT (the son of Zebedee, Acts 12:2; the son of Alphaeus, Matt 10:3). The identification of the letter's author is debated; see the sheet of James."
+      }
+    },
+    {
+      "id": "tito",
+      "name": {
+        "pt": "Tito",
+        "en": "Titus"
+      },
+      "summary": {
+        "pt": "Colaborador de Paulo, grego não circuncidado (Gl 2:1–3). Faz a ponte entre Paulo e Corinto (2Co 7:6; 8:16–23). Segundo a carta a ele dirigida, foi deixado em Creta (Tt 1:5).",
+        "en": "Paul's coworker, an uncircumcised Greek (Gal 2:1–3). He is a go-between for Paul and Corinth (2 Cor 7:6; 8:16–23). According to the letter addressed to him, he was left in Crete (Titus 1:5)."
+      },
+      "books": [
+        {
+          "book": "2co",
+          "role": {
+            "pt": "Mensageiro de Paulo a Corinto (7:6; 8:16–23)",
+            "en": "Paul's messenger to Corinth (7:6; 8:16–23)"
+          }
+        },
+        {
+          "book": "gal",
+          "role": {
+            "pt": "Grego que acompanha Paulo a Jerusalém (2:1–3)",
+            "en": "Greek who goes with Paul to Jerusalem (2:1–3)"
+          }
+        },
+        {
+          "book": "2ti",
+          "role": {
+            "pt": "Foi para a Dalmácia (4:10)",
+            "en": "Has gone to Dalmatia (4:10)"
+          }
+        },
+        {
+          "book": "tit",
+          "role": {
+            "pt": "Colaborador de Paulo, em Creta",
+            "en": "Paul's coworker, in Crete"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "tit",
+          "name": "Creta",
+          "en": "Crete"
+        },
+        {
+          "book": "tit",
+          "name": "Nicópolis",
+          "en": "Nicopolis"
+        }
+      ]
+    },
+    {
+      "id": "febe",
+      "name": {
+        "pt": "Febe",
+        "en": "Phoebe"
+      },
+      "summary": {
+        "pt": "Serva (diaconisa) da igreja de Cencreia e \"auxiliadora de muitos\" (Rm 16:1–2). Provável portadora da carta aos Romanos.",
+        "en": "Servant (deacon) of the church in Cenchreae and \"a patron of many\" (Rom 16:1–2). Probable bearer of the letter to the Romans."
+      },
+      "books": [
+        {
+          "book": "rom",
+          "role": {
+            "pt": "Diaconisa de Cencreia, provável portadora da carta (16:1–2)",
+            "en": "Deacon of Cenchreae, probable bearer of the letter (16:1–2)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "rom",
+          "name": "Cencreia",
+          "en": "Cenchreae"
+        }
+      ]
+    },
+    {
+      "id": "priscila-aquila",
+      "name": {
+        "pt": "Priscila e Áquila",
+        "en": "Priscilla and Aquila"
+      },
+      "summary": {
+        "pt": "Casal judeu que trabalha com Paulo como fazedor de tendas em Corinto, depois de expulso de Roma por Cláudio (At 18:1–3). Instrui Apolo em Éfeso (At 18:26) e é saudado nas cartas (Rm 16:3–5; 1Co 16:19).",
+        "en": "A Jewish couple who work with Paul as tentmakers in Corinth after being expelled from Rome by Claudius (Acts 18:1–3). They instruct Apollos in Ephesus (Acts 18:26) and are greeted in the letters (Rom 16:3–5; 1 Cor 16:19)."
+      },
+      "books": [
+        {
+          "book": "act",
+          "role": {
+            "pt": "Casal que hospeda e ajuda Paulo em Corinto e em Éfeso (cap. 18)",
+            "en": "Couple who host and help Paul in Corinth and Ephesus (ch. 18)"
+          }
+        },
+        {
+          "book": "rom",
+          "role": {
+            "pt": "Colaboradores de Paulo (16:3–5)",
+            "en": "Paul's coworkers (16:3–5)"
+          }
+        },
+        {
+          "book": "1co",
+          "role": {
+            "pt": "Saúdam os coríntios (16:19)",
+            "en": "Send greetings to the Corinthians (16:19)"
+          }
+        }
+      ],
+      "events": [
+        "claudio"
+      ],
+      "places": [
+        {
+          "book": "act",
+          "name": "Roma",
+          "en": "Rome"
+        },
+        {
+          "book": "act",
+          "name": "Corinto",
+          "en": "Corinth"
+        },
+        {
+          "book": "act",
+          "name": "Éfeso",
+          "en": "Ephesus"
+        }
+      ]
+    },
+    {
+      "id": "apolo",
+      "name": {
+        "pt": "Apolo",
+        "en": "Apollos"
+      },
+      "summary": {
+        "pt": "Judeu de Alexandria, eloquente e versado nas Escrituras. Em Éfeso é instruído por Priscila e Áquila e depois vai à Acaia (At 18:24–28). Em Corinto, é um dos líderes em torno dos quais a igreja se divide (1Co 1:12; 3:4–6).",
+        "en": "A Jew from Alexandria, eloquent and learned in the Scriptures. In Ephesus he is instructed by Priscilla and Aquila and then goes to Achaia (Acts 18:24–28). In Corinth, he is one of the leaders around whom the church divides (1 Cor 1:12; 3:4–6)."
+      },
+      "books": [
+        {
+          "book": "act",
+          "role": {
+            "pt": "Mestre judeu de Alexandria (18:24–28)",
+            "en": "Jewish teacher from Alexandria (18:24–28)"
+          }
+        },
+        {
+          "book": "1co",
+          "role": {
+            "pt": "Mestre em Corinto (3:4–6)",
+            "en": "Teacher in Corinth (3:4–6)"
+          }
+        },
+        {
+          "book": "tit",
+          "role": {
+            "pt": "Mencionado em 3:13",
+            "en": "Mentioned in 3:13"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "act",
+          "name": "Éfeso",
+          "en": "Ephesus"
+        },
+        {
+          "book": "act",
+          "name": "Corinto",
+          "en": "Corinth"
+        }
+      ]
+    },
+    {
+      "id": "onesimo",
+      "name": {
+        "pt": "Onésimo",
+        "en": "Onesimus"
+      },
+      "summary": {
+        "pt": "Escravo de Filemom que está com Paulo na prisão. Paulo o devolve a Filemom e pede que o receba \"como irmão amado\" (Fm 10–16). Colossenses o chama de \"fiel e amado irmão\" (Cl 4:9).",
+        "en": "Philemon's slave who is with Paul in prison. Paul sends him back to Philemon and asks him to receive him \"as a beloved brother\" (Phlm 10–16). Colossians calls him \"a faithful and beloved brother\" (Col 4:9)."
+      },
+      "books": [
+        {
+          "book": "col",
+          "role": {
+            "pt": "Acompanha Tíquico (4:9)",
+            "en": "Goes with Tychicus (4:9)"
+          }
+        },
+        {
+          "book": "phm",
+          "role": {
+            "pt": "Escravo de Filemom que está com Paulo",
+            "en": "Philemon's slave who is with Paul"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "col",
+          "name": "Colossos",
+          "en": "Colossae"
+        }
+      ]
     }
   ]
 }

@@ -12,7 +12,7 @@
 - [x] Tema claro/escuro, PT/EN
 - [x] Ficha completa dos 66 livros, PT e EN (autor, data, local, personagens, esboço, tema, contexto, conexões). A revisão de conteúdo é manual e segue em andamento
 - [x] Aba Mapa com legenda e zoom, em 46 dos 66 livros (livros sem `map` na ficha não mostram a aba)
-- [ ] Personagens: estrutura pronta, 51 personagens (em crescimento)
+- [ ] Personagens: estrutura pronta, 66 personagens (em crescimento)
 - [x] Linha do tempo: 13 períodos e 44 eventos (AT e NT); datas e notas aguardam a revisão do André
 - [ ] ARA e NAA (aguardam autorização da SBB)
 
