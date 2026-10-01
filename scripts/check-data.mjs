@@ -124,6 +124,13 @@ for (const v of versionIds) {
     bilingual(e.title, `${w}.title`); bilingual(e.note, `${w}.note`);
     datesOk(e.dates, `${w}.dates`);
     if (e.ref) { if (!books.includes(e.ref.book)) err(`${w}.ref: livro "${e.ref.book}" não existe`); else refOk(e.ref.ref, e.ref.book, `${w}.ref`); }
+    // lugares ligados ao mapa: precisam existir (nome em PT) no mapa da ficha do livro
+    (e.places ?? []).forEach((pl, i) => {
+      if (!books.includes(pl.book)) { err(`${w}.places[${i}]: livro "${pl.book}" não existe`); return; }
+      const place = (read(`src/data/info/${pl.book}.json`).map?.places ?? []).find((x) => x.name?.pt === pl.name);
+      if (!place) err(`${w}.places[${i}]: lugar "${pl.name}" não está no mapa de ${pl.book}`);
+      else if (place.name.en !== pl.en) err(`${w}.places[${i}]: "en" deve ser "${place.name.en}"`);
+    });
     for (const k of ['attested', 'uncertain']) if (e[k] !== undefined && typeof e[k] !== 'boolean') err(`${w}.${k}: deve ser true/false`);
   });
 }

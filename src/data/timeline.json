@@ -395,7 +395,14 @@
         "book": "gen",
         "ref": "12:1"
       },
-      "uncertain": true
+      "uncertain": true,
+      "places": [
+        {
+          "book": "gen",
+          "name": "Harã",
+          "en": "Haran"
+        }
+      ]
     },
     {
       "id": "jaco-egito",
@@ -416,7 +423,14 @@
         "book": "gen",
         "ref": "46:1"
       },
-      "uncertain": true
+      "uncertain": true,
+      "places": [
+        {
+          "book": "gen",
+          "name": "Egito",
+          "en": "Egypt"
+        }
+      ]
     },
     {
       "id": "exodo",
@@ -451,7 +465,19 @@
         "book": "exo",
         "ref": "12:31"
       },
-      "uncertain": true
+      "uncertain": true,
+      "places": [
+        {
+          "book": "exo",
+          "name": "Ramessés",
+          "en": "Rameses"
+        },
+        {
+          "book": "exo",
+          "name": "Mar dos Juncos",
+          "en": "Sea of Reeds"
+        }
+      ]
     },
     {
       "id": "sinai",
@@ -478,7 +504,14 @@
         "book": "exo",
         "ref": "19:1"
       },
-      "uncertain": true
+      "uncertain": true,
+      "places": [
+        {
+          "book": "exo",
+          "name": "Monte Sinai",
+          "en": "Mount Sinai"
+        }
+      ]
     },
     {
       "id": "jerico",
@@ -505,7 +538,14 @@
         "book": "jos",
         "ref": "6:20"
       },
-      "uncertain": true
+      "uncertain": true,
+      "places": [
+        {
+          "book": "jos",
+          "name": "Jericó",
+          "en": "Jericho"
+        }
+      ]
     },
     {
       "id": "merneptah",
@@ -565,7 +605,19 @@
         "book": "2sa",
         "ref": "5:4"
       },
-      "uncertain": true
+      "uncertain": true,
+      "places": [
+        {
+          "book": "2sa",
+          "name": "Hebrom",
+          "en": "Hebron"
+        },
+        {
+          "book": "2sa",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
     },
     {
       "id": "templo",
@@ -585,7 +637,14 @@
       "ref": {
         "book": "1ki",
         "ref": "6:1"
-      }
+      },
+      "places": [
+        {
+          "book": "1ki",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
     },
     {
       "id": "divisao",
@@ -605,7 +664,14 @@
       "ref": {
         "book": "1ki",
         "ref": "12:16"
-      }
+      },
+      "places": [
+        {
+          "book": "1ki",
+          "name": "Siquém",
+          "en": "Shechem"
+        }
+      ]
     },
     {
       "id": "jeu",
@@ -626,7 +692,14 @@
         "book": "2ki",
         "ref": "9:13"
       },
-      "attested": true
+      "attested": true,
+      "places": [
+        {
+          "book": "2ki",
+          "name": "Jezreel",
+          "en": "Jezreel"
+        }
+      ]
     },
     {
       "id": "samaria",
@@ -647,7 +720,14 @@
         "book": "2ki",
         "ref": "17:6"
       },
-      "attested": true
+      "attested": true,
+      "places": [
+        {
+          "book": "2ki",
+          "name": "Samaria",
+          "en": "Samaria"
+        }
+      ]
     },
     {
       "id": "senaqueribe",
@@ -667,7 +747,19 @@
         "book": "2ki",
         "ref": "18:13"
       },
-      "attested": true
+      "attested": true,
+      "places": [
+        {
+          "book": "2ki",
+          "name": "Laquis",
+          "en": "Lachish"
+        },
+        {
+          "book": "2ki",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
     },
     {
       "id": "josias",
@@ -707,7 +799,14 @@
         "book": "nah",
         "ref": "3:7"
       },
-      "attested": true
+      "attested": true,
+      "places": [
+        {
+          "book": "nah",
+          "name": "Nínive",
+          "en": "Nineveh"
+        }
+      ]
     },
     {
       "id": "carquemis",
@@ -748,7 +847,19 @@
         "book": "dan",
         "ref": "1:1"
       },
-      "uncertain": true
+      "uncertain": true,
+      "places": [
+        {
+          "book": "dan",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        {
+          "book": "dan",
+          "name": "Babilônia",
+          "en": "Babylon"
+        }
+      ]
     },
     {
       "id": "joaquim",
@@ -768,7 +879,14 @@
         "book": "2ki",
         "ref": "24:10"
       },
-      "attested": true
+      "attested": true,
+      "places": [
+        {
+          "book": "2ki",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
     },
     {
       "id": "jerusalem-586",
@@ -793,7 +911,14 @@
         "book": "2ki",
         "ref": "25:8"
       },
-      "attested": true
+      "attested": true,
+      "places": [
+        {
+          "book": "2ki",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
     },
     {
       "id": "joaquim-livre",
@@ -813,7 +938,14 @@
       "ref": {
         "book": "2ki",
         "ref": "25:27"
-      }
+      },
+      "places": [
+        {
+          "book": "2ki",
+          "name": "Babilônia",
+          "en": "Babylon"
+        }
+      ]
     },
     {
       "id": "babilonia-cai",
@@ -833,7 +965,14 @@
         "book": "dan",
         "ref": "5:30"
       },
-      "attested": true
+      "attested": true,
+      "places": [
+        {
+          "book": "dan",
+          "name": "Babilônia",
+          "en": "Babylon"
+        }
+      ]
     },
     {
       "id": "ciro",
@@ -852,7 +991,14 @@
       "ref": {
         "book": "ezr",
         "ref": "1:1"
-      }
+      },
+      "places": [
+        {
+          "book": "ezr",
+          "name": "Pérsia",
+          "en": "Persia"
+        }
+      ]
     },
     {
       "id": "templo-516",
@@ -872,7 +1018,14 @@
       "ref": {
         "book": "ezr",
         "ref": "6:15"
-      }
+      },
+      "places": [
+        {
+          "book": "ezr",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
     },
     {
       "id": "ester",
@@ -893,7 +1046,14 @@
         "book": "est",
         "ref": "2:16"
       },
-      "uncertain": true
+      "uncertain": true,
+      "places": [
+        {
+          "book": "est",
+          "name": "Susã",
+          "en": "Susa"
+        }
+      ]
     },
     {
       "id": "esdras",
@@ -918,7 +1078,19 @@
         "book": "ezr",
         "ref": "7:7"
       },
-      "uncertain": true
+      "uncertain": true,
+      "places": [
+        {
+          "book": "ezr",
+          "name": "Babilônia",
+          "en": "Babylon"
+        },
+        {
+          "book": "ezr",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
     },
     {
       "id": "neemias",
@@ -938,7 +1110,19 @@
       "ref": {
         "book": "neh",
         "ref": "2:1"
-      }
+      },
+      "places": [
+        {
+          "book": "neh",
+          "name": "Susã",
+          "en": "Susa"
+        },
+        {
+          "book": "neh",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
     },
     {
       "id": "alexandre",
@@ -1033,7 +1217,14 @@
         "book": "luk",
         "ref": "2:7"
       },
-      "uncertain": true
+      "uncertain": true,
+      "places": [
+        {
+          "book": "luk",
+          "name": "Belém",
+          "en": "Bethlehem"
+        }
+      ]
     },
     {
       "id": "ministerio",
@@ -1055,7 +1246,14 @@
         "book": "luk",
         "ref": "3:1"
       },
-      "uncertain": true
+      "uncertain": true,
+      "places": [
+        {
+          "book": "luk",
+          "name": "Rio Jordão",
+          "en": "Jordan River"
+        }
+      ]
     },
     {
       "id": "crucificacao",
@@ -1080,7 +1278,19 @@
         "book": "luk",
         "ref": "23:33"
       },
-      "uncertain": true
+      "uncertain": true,
+      "places": [
+        {
+          "book": "luk",
+          "name": "Gólgota",
+          "en": "Golgotha"
+        },
+        {
+          "book": "luk",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
     },
     {
       "id": "pentecostes",
@@ -1101,7 +1311,14 @@
         "book": "act",
         "ref": "2:1"
       },
-      "uncertain": true
+      "uncertain": true,
+      "places": [
+        {
+          "book": "act",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
     },
     {
       "id": "paulo-conversao",
@@ -1123,7 +1340,14 @@
         "book": "act",
         "ref": "9:3"
       },
-      "uncertain": true
+      "uncertain": true,
+      "places": [
+        {
+          "book": "act",
+          "name": "Damasco",
+          "en": "Damascus"
+        }
+      ]
     },
     {
       "id": "viagem1",
@@ -1145,7 +1369,14 @@
         "book": "act",
         "ref": "13:2"
       },
-      "uncertain": true
+      "uncertain": true,
+      "places": [
+        {
+          "book": "act",
+          "name": "Antioquia",
+          "en": "Antioch"
+        }
+      ]
     },
     {
       "id": "concilio",
@@ -1166,7 +1397,14 @@
         "book": "act",
         "ref": "15:6"
       },
-      "uncertain": true
+      "uncertain": true,
+      "places": [
+        {
+          "book": "act",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
     },
     {
       "id": "claudio",
@@ -1188,7 +1426,19 @@
         "ref": "18:2"
       },
       "attested": true,
-      "uncertain": true
+      "uncertain": true,
+      "places": [
+        {
+          "book": "act",
+          "name": "Corinto",
+          "en": "Corinth"
+        },
+        {
+          "book": "act",
+          "name": "Roma",
+          "en": "Rome"
+        }
+      ]
     },
     {
       "id": "viagem2-3",
@@ -1210,7 +1460,29 @@
         "book": "act",
         "ref": "18:23"
       },
-      "uncertain": true
+      "uncertain": true,
+      "places": [
+        {
+          "book": "act",
+          "name": "Filipos",
+          "en": "Philippi"
+        },
+        {
+          "book": "act",
+          "name": "Atenas",
+          "en": "Athens"
+        },
+        {
+          "book": "act",
+          "name": "Corinto",
+          "en": "Corinth"
+        },
+        {
+          "book": "act",
+          "name": "Éfeso",
+          "en": "Ephesus"
+        }
+      ]
     },
     {
       "id": "galio",
@@ -1232,7 +1504,14 @@
         "book": "act",
         "ref": "18:12"
       },
-      "attested": true
+      "attested": true,
+      "places": [
+        {
+          "book": "act",
+          "name": "Corinto",
+          "en": "Corinth"
+        }
+      ]
     },
     {
       "id": "roma-prisao",
@@ -1254,7 +1533,14 @@
         "book": "act",
         "ref": "28:30"
       },
-      "uncertain": true
+      "uncertain": true,
+      "places": [
+        {
+          "book": "act",
+          "name": "Roma",
+          "en": "Rome"
+        }
+      ]
     },
     {
       "id": "nero",
@@ -1290,7 +1576,14 @@
         "book": "mat",
         "ref": "24:2"
       },
-      "attested": true
+      "attested": true,
+      "places": [
+        {
+          "book": "mat",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
     },
     {
       "id": "apocalipse",
@@ -1315,7 +1608,14 @@
         "book": "rev",
         "ref": "1:9"
       },
-      "uncertain": true
+      "uncertain": true,
+      "places": [
+        {
+          "book": "rev",
+          "name": "Patmos",
+          "en": "Patmos"
+        }
+      ]
     }
   ]
 }

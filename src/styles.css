@@ -167,3 +167,9 @@ input[type='search'] { flex: 1 1 200px; min-width: 0; border: 1px solid var(--li
 .tl-events .tl-dates { margin: 0 0 4px; }
 .tl-events p { font-size: 0.92rem; }
 .tl-q { color: var(--muted); }
+.tl-places { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 4px; }
+.tl-place { border: 1px solid var(--line); background: var(--panel); color: var(--fg); border-radius: 999px; padding: 3px 10px; font-size: 0.78rem; cursor: pointer; }
+.tl-focus { border-left-color: var(--accent) !important; background: color-mix(in srgb, var(--accent) 10%, transparent); }
+.mevents { margin: 12px 0 0; }
+.mevents h4 { margin: 0 0 6px; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); font-weight: 600; }
+.tl-chip small { color: var(--muted); margin-left: 4px; }
