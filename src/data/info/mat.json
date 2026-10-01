@@ -159,5 +159,210 @@
   "connections": {
     "pt": "Com Marcos e Lucas forma os Evangelhos Sinóticos. Cita Isaías e outros profetas do Antigo Testamento com frequência. O Sermão do Monte (caps. 5–7) é paralelo em parte ao Sermão da Planície de Lc 6.",
     "en": "With Mark and Luke it forms the Synoptic Gospels. It often cites Isaiah and other Old Testament prophets. The Sermon on the Mount (chs. 5–7) is partly parallel to the Sermon on the Plain in Luke 6."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Lugares do evangelho de Mateus, em ordem aproximada da narrativa. Os pontos vêm do OpenBible e não formam um trajeto único; \"?\" marca localização debatida.",
+      "en": "Places in the Gospel of Matthew, in rough order of the narrative. Points come from OpenBible and do not form a single route; \"?\" marks a disputed location."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Belém",
+          "en": "Bethlehem"
+        },
+        "lonLat": [
+          35.21,
+          31.7
+        ],
+        "note": {
+          "pt": "Jesus nasce em Belém da Judeia, e os magos vêm adorá-lo (2:1–11).",
+          "en": "Jesus is born in Bethlehem of Judea, and the magi come to worship him (2:1–11)."
+        },
+        "ref": "2:1"
+      },
+      {
+        "name": {
+          "pt": "Egito",
+          "en": "Egypt"
+        },
+        "lonLat": [
+          31.31,
+          30.13
+        ],
+        "note": {
+          "pt": "José leva a família para o Egito, fugindo de Herodes (2:13–15). O ponto marca o centro da região.",
+          "en": "Joseph takes the family to Egypt, fleeing Herod (2:13–15). The point marks the center of the region."
+        },
+        "ref": "2:13"
+      },
+      {
+        "name": {
+          "pt": "Nazaré",
+          "en": "Nazareth"
+        },
+        "lonLat": [
+          35.3,
+          32.7
+        ],
+        "note": {
+          "pt": "A família se estabelece em Nazaré (2:23).",
+          "en": "The family settles in Nazareth (2:23)."
+        },
+        "ref": "2:23"
+      },
+      {
+        "name": {
+          "pt": "Rio Jordão",
+          "en": "Jordan River"
+        },
+        "lonLat": [
+          35.56,
+          31.76
+        ],
+        "note": {
+          "pt": "João batiza no Jordão, e Jesus é batizado (3:5–6, 13–17).",
+          "en": "John baptizes in the Jordan, and Jesus is baptized (3:5–6, 13–17)."
+        },
+        "ref": "3:13"
+      },
+      {
+        "name": {
+          "pt": "Cafarnaum",
+          "en": "Capernaum"
+        },
+        "lonLat": [
+          35.58,
+          32.88
+        ],
+        "note": {
+          "pt": "Jesus deixa Nazaré e passa a morar em Cafarnaum (4:13); cura o servo do centurião (8:5).",
+          "en": "Jesus leaves Nazareth and settles in Capernaum (4:13); he heals the centurion's servant (8:5)."
+        },
+        "ref": "4:13"
+      },
+      {
+        "name": {
+          "pt": "Mar da Galileia",
+          "en": "Sea of Galilee"
+        },
+        "lonLat": [
+          35.59,
+          32.82
+        ],
+        "note": {
+          "pt": "Jesus chama os primeiros discípulos à beira do mar (4:18–22).",
+          "en": "Jesus calls the first disciples beside the sea (4:18–22)."
+        },
+        "ref": "4:18"
+      },
+      {
+        "name": {
+          "pt": "Gadara",
+          "en": "Gadara"
+        },
+        "lonLat": [
+          35.68,
+          32.66
+        ],
+        "note": {
+          "pt": "Jesus liberta dois endemoninhados na terra dos gadarenos (8:28–34).",
+          "en": "Jesus frees two demon-possessed men in the country of the Gadarenes (8:28–34)."
+        },
+        "ref": "8:28"
+      },
+      {
+        "name": {
+          "pt": "Tiro",
+          "en": "Tyre"
+        },
+        "lonLat": [
+          35.2,
+          33.27
+        ],
+        "note": {
+          "pt": "Jesus se retira para a região de Tiro e Sidom e atende a mulher cananeia (15:21–28).",
+          "en": "Jesus withdraws to the region of Tyre and Sidon and answers the Canaanite woman (15:21–28)."
+        },
+        "ref": "15:21"
+      },
+      {
+        "name": {
+          "pt": "Cesareia de Filipe",
+          "en": "Caesarea Philippi"
+        },
+        "lonLat": [
+          35.69,
+          33.25
+        ],
+        "note": {
+          "pt": "Pedro confessa Jesus como o Cristo (16:13–20).",
+          "en": "Peter confesses Jesus as the Christ (16:13–20)."
+        },
+        "ref": "16:13"
+      },
+      {
+        "name": {
+          "pt": "Jericó",
+          "en": "Jericho"
+        },
+        "lonLat": [
+          35.44,
+          31.85
+        ],
+        "note": {
+          "pt": "Jesus cura dois cegos ao sair de Jericó, a caminho de Jerusalém (20:29–34).",
+          "en": "Jesus heals two blind men as he leaves Jericho, on the way to Jerusalem (20:29–34)."
+        },
+        "ref": "20:29"
+      },
+      {
+        "name": {
+          "pt": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        "lonLat": [
+          35.23,
+          31.78
+        ],
+        "note": {
+          "pt": "Entrada triunfal (21:1–11), ensino no templo, ceia, julgamento e crucificação (caps. 21–27). No monte das Oliveiras e em Getsêmani ficam o discurso profético (24:3) e a oração (26:36).",
+          "en": "Triumphal entry (21:1–11), teaching in the temple, supper, trial and crucifixion (chs. 21–27). On the Mount of Olives and at Gethsemane are the prophetic discourse (24:3) and the prayer (26:36)."
+        },
+        "ref": "21:1"
+      },
+      {
+        "name": {
+          "pt": "Betânia",
+          "en": "Bethany"
+        },
+        "lonLat": [
+          35.26,
+          31.77
+        ],
+        "note": {
+          "pt": "Jesus passa a noite em Betânia durante a semana final (21:17) e é ungido na casa de Simão (26:6–13).",
+          "en": "Jesus spends the night in Bethany during the final week (21:17) and is anointed in Simon's house (26:6–13)."
+        },
+        "ref": "21:17"
+      },
+      {
+        "name": {
+          "pt": "Gólgota",
+          "en": "Golgotha"
+        },
+        "lonLat": [
+          35.23,
+          31.78
+        ],
+        "note": {
+          "pt": "Local da crucificação. A tradição aponta a região da Igreja do Santo Sepulcro; há outras propostas. (27:33)",
+          "en": "Place of the crucifixion. Tradition points to the area of the Church of the Holy Sepulchre; other proposals exist. (27:33)"
+        },
+        "ref": "27:33",
+        "uncertain": true
+      }
+    ]
   }
 }

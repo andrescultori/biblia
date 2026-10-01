@@ -145,5 +145,135 @@
   "connections": {
     "pt": "As cartas 1, 2 e 3 João e o Apocalipse são associadas à mesma tradição. Os \"eu sou\" ecoam Êx 3:14. O Evangelho começa como Gn 1:1 (\"No princípio\").",
     "en": "The letters 1, 2 and 3 John and Revelation are associated with the same tradition. The \"I am\" sayings echo Exod 3:14. The Gospel opens like Gen 1:1 (\"In the beginning\")."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Lugares do evangelho de João, em ordem aproximada da narrativa. Os pontos vêm do OpenBible e não formam um trajeto único; \"?\" marca localização debatida.",
+      "en": "Places in the Gospel of John, in rough order of the narrative. Points come from OpenBible and do not form a single route; \"?\" marks a disputed location."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Betânia além do Jordão",
+          "en": "Bethany beyond the Jordan"
+        },
+        "lonLat": [
+          35.55,
+          31.84
+        ],
+        "note": {
+          "pt": "João batiza em \"Betânia, do outro lado do Jordão\" (1:28). A localização é debatida; não confundir com a Betânia perto de Jerusalém.",
+          "en": "John baptizes at \"Bethany beyond the Jordan\" (1:28). The location is debated; not to be confused with Bethany near Jerusalem."
+        },
+        "ref": "1:28",
+        "uncertain": true
+      },
+      {
+        "name": {
+          "pt": "Nazaré",
+          "en": "Nazareth"
+        },
+        "lonLat": [
+          35.3,
+          32.7
+        ],
+        "note": {
+          "pt": "Natanael pergunta: \"De Nazaré pode sair algo bom?\" (1:45–46).",
+          "en": "Nathanael asks: \"Can anything good come out of Nazareth?\" (1:45–46)."
+        },
+        "ref": "1:45"
+      },
+      {
+        "name": {
+          "pt": "Caná",
+          "en": "Cana"
+        },
+        "lonLat": [
+          35.3,
+          32.82
+        ],
+        "note": {
+          "pt": "Primeiro sinal: a água vira vinho numa festa de casamento (2:1–11); segundo sinal, a cura do filho do oficial (4:46–54). A localização de Caná é debatida.",
+          "en": "First sign: water becomes wine at a wedding (2:1–11); second sign, the healing of the official's son (4:46–54). The location of Cana is debated."
+        },
+        "ref": "2:1"
+      },
+      {
+        "name": {
+          "pt": "Cafarnaum",
+          "en": "Capernaum"
+        },
+        "lonLat": [
+          35.58,
+          32.88
+        ],
+        "note": {
+          "pt": "Jesus desce a Cafarnaum (2:12); ali o filho do oficial é curado à distância (4:46–54).",
+          "en": "Jesus goes down to Capernaum (2:12); the official's son is healed from a distance there (4:46–54)."
+        },
+        "ref": "2:12"
+      },
+      {
+        "name": {
+          "pt": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        "lonLat": [
+          35.23,
+          31.78
+        ],
+        "note": {
+          "pt": "Páscoa e purificação do templo (2:13–25), festas, cura no tanque de Betesda (5:2), cego de nascença no tanque de Siloé (9:7), paixão e ressurreição (caps. 18–20).",
+          "en": "Passover and cleansing of the temple (2:13–25), feasts, healing at the pool of Bethesda (5:2), the man born blind at the pool of Siloam (9:7), passion and resurrection (chs. 18–20)."
+        },
+        "ref": "2:13"
+      },
+      {
+        "name": {
+          "pt": "Sicar",
+          "en": "Sychar"
+        },
+        "lonLat": [
+          35.29,
+          32.22
+        ],
+        "note": {
+          "pt": "Jesus conversa com a mulher samaritana junto ao poço de Jacó (4:5–42).",
+          "en": "Jesus talks with the Samaritan woman at Jacob's well (4:5–42)."
+        },
+        "ref": "4:5"
+      },
+      {
+        "name": {
+          "pt": "Mar da Galileia",
+          "en": "Sea of Galilee"
+        },
+        "lonLat": [
+          35.59,
+          32.82
+        ],
+        "note": {
+          "pt": "Jesus alimenta a multidão (6:1–14) e, depois da ressurreição, aparece aos discípulos à beira do mar (21:1).",
+          "en": "Jesus feeds the crowd (6:1–14) and, after the resurrection, appears to the disciples beside the sea (21:1)."
+        },
+        "ref": "6:1"
+      },
+      {
+        "name": {
+          "pt": "Betânia",
+          "en": "Bethany"
+        },
+        "lonLat": [
+          35.26,
+          31.77
+        ],
+        "note": {
+          "pt": "Casa de Maria, Marta e Lázaro; Jesus ressuscita Lázaro (11:1–44).",
+          "en": "Home of Mary, Martha and Lazarus; Jesus raises Lazarus (11:1–44)."
+        },
+        "ref": "11:1"
+      }
+    ]
   }
 }
