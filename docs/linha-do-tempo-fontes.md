@@ -22,6 +22,10 @@ Regra: nenhuma data é inventada. Cada evento tem uma destas bases, e o rascunho
 | Antíoco IV profana o templo; rededicação | 167 e 164 a.C. | 1–2 Macabeus; fontes helenísticas | a conferir em fonte primária |
 | Pompeu toma Jerusalém | 63 a.C. | Josefo e fontes romanas | a conferir em fonte primária |
 | Herodes toma Jerusalém (37) e morre (4) a.C. | 37 e 4 a.C. | Josefo | a conferir em fonte primária |
+| Paulo diante de Gálio | 51–52 d.C. | Inscrição de Delfos (mandato de Gálio como procônsul da Acaia) | a conferir em fonte primária |
+| Édito de Cláudio | c. 49 d.C. | Suetônio (Cláudio 25); o ano vem de Orósio e é debatido | a conferir em fonte primária |
+| Perseguição de Nero | c. 64 d.C. | Tácito (Anais 15.44), que também cita a execução de Jesus sob Pilatos | a conferir em fonte primária |
+| Destruição de Jerusalém e do templo | 70 d.C. | Josefo (A Guerra dos Judeus) | a conferir em fonte primária |
 
 "A conferir em fonte primária" quer dizer que o ano é o aceito em obras de referência, mas a evidência ainda não foi anexada aqui, como se fez com as licenças. As entradas da Wikipedia servem de ponto de partida, não de fonte final.
 
@@ -31,3 +35,6 @@ Regra: nenhuma data é inventada. Cada evento tem uma destas bases, e o rascunho
 - **Patriarcas:** derivados do Êxodo (Êx 12:40) ou não datáveis.
 - **Esdras:** 458 a.C. (Artaxerxes I) ou c. 398 a.C. (Artaxerxes II).
 - **Jerusalém:** 587 ou 586 a.C.
+- **Crucificação:** 30 ou 33 d.C. Pilatos governou a Judeia de 26 a 36 d.C. (Tácito também cita a execução sob ele).
+- **Apocalipse:** c. 95 d.C. (Domiciano) ou c. 68–69 d.C. (Nero).
+- **Viagens e concílio de Paulo:** reconstruções aproximadas; o ponto firme é Gálio, em 51–52 d.C.
