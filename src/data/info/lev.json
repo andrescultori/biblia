@@ -55,5 +55,75 @@
   "connections": {
     "pt": "Continua Êxodo (o tabernáculo) e leva a Números (a partida do Sinai). Hb 7–10 relê o sacerdócio e o Dia da Expiação. Lv 19:18 é citado em Mt 22:39, Gl 5:14 e Tg 2:8, e 1Pe 1:16 cita o chamado à santidade.",
     "en": "Continues Exodus (the tabernacle) and leads into Numbers (the departure from Sinai). Heb 7–10 rereads the priesthood and the Day of Atonement. Lev 19:18 is quoted in Matt 22:39, Gal 5:14 and Jas 2:8, and 1 Pet 1:16 cites the call to holiness."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Levítico se passa em um só lugar, o Sinai. Egito e Canaã aparecem como a terra da qual Israel saiu e a terra para onde vai.",
+      "en": "Leviticus is set in a single place, Sinai. Egypt and Canaan appear as the land Israel came from and the land it is heading to."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Egito",
+          "en": "Egypt"
+        },
+        "lonLat": [
+          31.31,
+          30.13
+        ],
+        "note": {
+          "pt": "A terra da escravidão, de onde o Senhor tirou Israel (11:45; 19:36). Israel não deve imitar seus costumes (18:3).",
+          "en": "The land of slavery, from which the Lord brought Israel out (11:45; 19:36). Israel must not copy its customs (18:3)."
+        },
+        "ref": "18:3",
+        "label": [
+          -8,
+          12,
+          "end"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Monte Sinai",
+          "en": "Mount Sinai"
+        },
+        "lonLat": [
+          33.97,
+          28.54
+        ],
+        "note": {
+          "pt": "Onde o Senhor dá as leis a Moisés (7:38; 25:1; 26:46; 27:34). Localização debatida; o mapa usa a mais citada, Jebel Musa.",
+          "en": "Where the Lord gives the laws to Moses (7:38; 25:1; 26:46; 27:34). The location is debated; the map uses the most cited one, Jebel Musa."
+        },
+        "ref": "25:1",
+        "label": [
+          10,
+          4,
+          "start"
+        ],
+        "uncertain": true
+      },
+      {
+        "name": {
+          "pt": "Canaã",
+          "en": "Canaan"
+        },
+        "lonLat": [
+          35.33,
+          32.77
+        ],
+        "note": {
+          "pt": "A terra para onde Israel vai; o povo não deve seguir os costumes dos cananeus (18:3; 14:34).",
+          "en": "The land Israel is heading to; the people must not follow the customs of the Canaanites (18:3; 14:34)."
+        },
+        "ref": "18:3",
+        "label": [
+          8,
+          -8,
+          "start"
+        ]
+      }
+    ]
   }
 }

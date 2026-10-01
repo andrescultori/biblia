@@ -57,5 +57,298 @@
   "connections": {
     "pt": "Prepara o Êxodo, que começa com os descendentes de Jacó no Egito. Jo 1:1 ecoa Gn 1:1. Paulo usa Abraão em Rm 4 e Gl 3:6–9, e Hb 11:8–22 recorda os patriarcas.",
     "en": "Sets up Exodus, which begins with Jacob's descendants in Egypt. John 1:1 echoes Gen 1:1. Paul uses Abraham in Rom 4 and Gal 3:6–9, and Heb 11:8–22 recalls the patriarchs."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Lugares das narrativas de Gênesis, em ordem aproximada da história. Os pontos vêm do OpenBible e não formam um trajeto único; \"?\" marca localização debatida.",
+      "en": "Places in the narratives of Genesis, in rough story order. Points come from OpenBible and do not form a single route; \"?\" marks a disputed location."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Ararate",
+          "en": "Ararat"
+        },
+        "lonLat": [
+          44.3,
+          39.7
+        ],
+        "note": {
+          "pt": "A arca pousa \"sobre os montes de Ararate\" (8:4). Ararate corresponde à região de Urartu; o monte exato é desconhecido.",
+          "en": "The ark comes to rest \"on the mountains of Ararat\" (8:4). Ararat corresponds to the region of Urartu; the exact mountain is unknown."
+        },
+        "ref": "8:4",
+        "label": [
+          8,
+          -8,
+          "start"
+        ],
+        "uncertain": true
+      },
+      {
+        "name": {
+          "pt": "Babel",
+          "en": "Babel"
+        },
+        "lonLat": [
+          44.42,
+          32.54
+        ],
+        "note": {
+          "pt": "A torre e a confusão das línguas (11:1–9). Identificada com a Babilônia, na terra de Sinar.",
+          "en": "The tower and the confusion of languages (11:1–9). Identified with Babylon, in the land of Shinar."
+        },
+        "ref": "11:9",
+        "label": [
+          8,
+          12,
+          "start"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Harã",
+          "en": "Haran"
+        },
+        "lonLat": [
+          39.03,
+          36.86
+        ],
+        "note": {
+          "pt": "Terá leva a família de Ur para Harã (11:31); Abrão parte daqui rumo a Canaã (12:4).",
+          "en": "Terah takes the family from Ur to Haran (11:31); Abram leaves from here for Canaan (12:4)."
+        },
+        "ref": "11:31",
+        "label": [
+          8,
+          -8,
+          "start"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Siquém",
+          "en": "Shechem"
+        },
+        "lonLat": [
+          35.28,
+          32.21
+        ],
+        "note": {
+          "pt": "Primeira parada de Abrão em Canaã, junto ao carvalho de Moré (12:6–7); Jacó compra terra aqui (33:18–19).",
+          "en": "Abram's first stop in Canaan, by the oak of Moreh (12:6–7); Jacob buys land here (33:18–19)."
+        },
+        "ref": "12:6",
+        "label": [
+          -8,
+          -10,
+          "end"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Betel",
+          "en": "Bethel"
+        },
+        "lonLat": [
+          35.24,
+          31.92
+        ],
+        "note": {
+          "pt": "Abrão ergue um altar entre Betel e Ai (12:8); Jacó sonha com a escada (28:10–19).",
+          "en": "Abram builds an altar between Bethel and Ai (12:8); Jacob dreams of the ladder (28:10–19)."
+        },
+        "ref": "12:8",
+        "label": [
+          -8,
+          4,
+          "end"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Egito",
+          "en": "Egypt"
+        },
+        "lonLat": [
+          31.31,
+          30.13
+        ],
+        "note": {
+          "pt": "Abrão desce por causa da fome (12:10); José é vendido e chega a governador (caps. 37–50).",
+          "en": "Abram goes down because of famine (12:10); Joseph is sold and rises to governor (chs. 37–50)."
+        },
+        "ref": "12:10",
+        "label": [
+          -8,
+          14,
+          "end"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Sodoma",
+          "en": "Sodom"
+        },
+        "lonLat": [
+          35.45,
+          31.21
+        ],
+        "note": {
+          "pt": "Ló escolhe o vale do Jordão e habita em Sodoma (13:10–13); a cidade é destruída com Gomorra (19:24–25).",
+          "en": "Lot chooses the Jordan valley and lives in Sodom (13:10–13); the city is destroyed along with Gomorrah (19:24–25)."
+        },
+        "ref": "19:24",
+        "label": [
+          8,
+          12,
+          "start"
+        ],
+        "uncertain": true
+      },
+      {
+        "name": {
+          "pt": "Hebrom",
+          "en": "Hebron"
+        },
+        "lonLat": [
+          35.1,
+          31.53
+        ],
+        "note": {
+          "pt": "Abraão mora junto aos carvalhos de Manre (13:18); Sara é sepultada na caverna de Macpela, perto dali (cap. 23).",
+          "en": "Abraham lives by the oaks of Mamre (13:18); Sarah is buried in the cave of Machpelah, nearby (ch. 23)."
+        },
+        "ref": "13:18",
+        "label": [
+          -8,
+          2,
+          "end"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Gerar",
+          "en": "Gerar"
+        },
+        "lonLat": [
+          34.61,
+          31.38
+        ],
+        "note": {
+          "pt": "Abraão (cap. 20) e Isaque (cap. 26) vivem em Gerar, sob o rei Abimeleque.",
+          "en": "Abraham (ch. 20) and Isaac (ch. 26) live in Gerar, under King Abimelech."
+        },
+        "ref": "20:1",
+        "label": [
+          -8,
+          -6,
+          "end"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Berseba",
+          "en": "Beersheba"
+        },
+        "lonLat": [
+          34.84,
+          31.24
+        ],
+        "note": {
+          "pt": "Abraão firma aliança com Abimeleque junto ao poço (21:25–32); Isaque também habita aqui (26:23–33).",
+          "en": "Abraham makes a covenant with Abimelech at the well (21:25–32); Isaac also dwells here (26:23–33)."
+        },
+        "ref": "21:31",
+        "label": [
+          -8,
+          12,
+          "end"
+        ],
+        "uncertain": true
+      },
+      {
+        "name": {
+          "pt": "Moriá",
+          "en": "Moriah"
+        },
+        "lonLat": [
+          35.24,
+          31.78
+        ],
+        "note": {
+          "pt": "Onde Abraão leva Isaque para ser oferecido (22:2). A tradição o liga ao monte do templo em Jerusalém (2Cr 3:1); há outras propostas.",
+          "en": "Where Abraham takes Isaac to be offered (22:2). Tradition links it with the temple mount in Jerusalem (2 Chr 3:1); other proposals exist."
+        },
+        "ref": "22:2",
+        "label": [
+          8,
+          2,
+          "start"
+        ],
+        "uncertain": true
+      },
+      {
+        "name": {
+          "pt": "Peniel",
+          "en": "Penuel"
+        },
+        "lonLat": [
+          35.69,
+          32.19
+        ],
+        "note": {
+          "pt": "Jacó luta com Deus junto ao rio Jaboque e recebe o nome Israel (32:24–30).",
+          "en": "Jacob wrestles with God by the Jabbok and receives the name Israel (32:24–30)."
+        },
+        "ref": "32:30",
+        "label": [
+          8,
+          -4,
+          "start"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Dotã",
+          "en": "Dothan"
+        },
+        "lonLat": [
+          35.24,
+          32.41
+        ],
+        "note": {
+          "pt": "José encontra os irmãos aqui e é vendido aos mercadores (37:17–28).",
+          "en": "Joseph finds his brothers here and is sold to the traders (37:17–28)."
+        },
+        "ref": "37:17",
+        "label": [
+          8,
+          -10,
+          "start"
+        ]
+      },
+      {
+        "name": {
+          "pt": "Gósen",
+          "en": "Goshen"
+        },
+        "lonLat": [
+          31.83,
+          30.8
+        ],
+        "note": {
+          "pt": "Região do delta do Nilo onde Jacó e os filhos se estabelecem (46:28–34; 47:6). Localização aproximada.",
+          "en": "Region of the Nile delta where Jacob and his sons settle (46:28–34; 47:6). Approximate location."
+        },
+        "ref": "46:28",
+        "label": [
+          8,
+          -8,
+          "start"
+        ]
+      }
+    ]
   }
 }
