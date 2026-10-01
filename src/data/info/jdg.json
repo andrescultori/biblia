@@ -1,0 +1,169 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Desconhecido. A tradição judaica (Talmude, Baba Batra 14b) indica Samuel. O livro não nomeia o autor.",
+      "en": "Unknown. Jewish tradition (Talmud, Baba Batra 14b) points to Samuel. The book does not name its author."
+    },
+    "scholarly": {
+      "pt": "Obra anônima, em geral entendida como parte da História Deuteronomista, que reúne relatos antigos (o Cântico de Débora, cap. 5, é visto como um dos textos mais antigos da Bíblia) sob uma moldura editorial posterior.",
+      "en": "An anonymous work, generally understood as part of the Deuteronomistic History, gathering early accounts (the Song of Deborah, ch. 5, is seen as one of the oldest texts in the Bible) under a later editorial frame."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Os eventos são situados entre a conquista e o início da monarquia (aprox. 1200–1050 a.C.). A frase \"naqueles dias não havia rei em Israel\" (17:6; 21:25) indica redação já na época da monarquia ou depois dela.",
+      "en": "The events are placed between the conquest and the beginning of the monarchy (roughly 1200–1050 BC). The phrase \"in those days there was no king in Israel\" (17:6; 21:25) points to writing during or after the monarchy."
+    },
+    "scholarly": {
+      "pt": "Forma final geralmente situada entre o séc. VII a.C. e o exílio, com material anterior incorporado.",
+      "en": "Final form generally placed between the 7th century BC and the exile, with earlier material incorporated."
+    }
+  },
+  "place": {
+    "pt": "Diversas regiões de Canaã, com ênfase nas tribos do norte e do centro.",
+    "en": "Various regions of Canaan, with emphasis on the northern and central tribes."
+  },
+  "recipients": {
+    "pt": "Israel, em reflexão sobre a vida sem liderança central estável.",
+    "en": "Israel, in reflection on life without stable central leadership."
+  },
+  "keyVerse": "2:16",
+  "theme": {
+    "pt": "Um ciclo repetido de infidelidade, opressão, clamor e livramento por meio de juízes, com declínio moral crescente.",
+    "en": "A repeated cycle of unfaithfulness, oppression, cry for help and deliverance through judges, with growing moral decline."
+  },
+  "historicalContext": {
+    "pt": "O período é de tribos sem governo central, cercadas por povos cananeus, filisteus e outros. Os \"juízes\" são líderes militares e carismáticos, não magistrados no sentido moderno. As datas são aproximadas e a sequência dos juízes pode incluir figuras de regiões diferentes e tempos sobrepostos.",
+    "en": "The period is one of tribes without central government, surrounded by Canaanite, Philistine and other peoples. The \"judges\" are military and charismatic leaders, not magistrates in the modern sense. Dates are approximate, and the sequence of judges may include figures from different regions and overlapping times."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Otniel",
+        "en": "Othniel"
+      },
+      "role": {
+        "pt": "Primeiro juiz (3:7–11)",
+        "en": "First judge (3:7–11)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Eúde",
+        "en": "Ehud"
+      },
+      "role": {
+        "pt": "Liberta Israel de Eglom, rei de Moabe (3:12–30)",
+        "en": "Delivers Israel from Eglon, king of Moab (3:12–30)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Débora e Baraque",
+        "en": "Deborah and Barak"
+      },
+      "role": {
+        "pt": "Profetisa e juíza; chefe militar (caps. 4–5)",
+        "en": "Prophetess and judge; military commander (chs. 4–5)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Jael",
+        "en": "Jael"
+      },
+      "role": {
+        "pt": "Mata Sísera (caps. 4–5)",
+        "en": "Kills Sisera (chs. 4–5)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Gideão",
+        "en": "Gideon"
+      },
+      "role": {
+        "pt": "Derrota Midiã com trezentos homens (caps. 6–8)",
+        "en": "Defeats Midian with three hundred men (chs. 6–8)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Abimeleque",
+        "en": "Abimelech"
+      },
+      "role": {
+        "pt": "Filho de Gideão; toma o poder em Siquém (cap. 9)",
+        "en": "Son of Gideon; seizes power at Shechem (ch. 9)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Jefté",
+        "en": "Jephthah"
+      },
+      "role": {
+        "pt": "Juiz de Gileade; faz um voto (10:6–12:7)",
+        "en": "Judge of Gilead; makes a vow (10:6–12:7)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Sansão",
+        "en": "Samson"
+      },
+      "role": {
+        "pt": "Nazireu e juiz contra os filisteus (caps. 13–16)",
+        "en": "Nazirite and judge against the Philistines (chs. 13–16)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–3:6",
+      "title": {
+        "pt": "Introdução: conquista incompleta e infidelidade",
+        "en": "Introduction: incomplete conquest and unfaithfulness"
+      }
+    },
+    {
+      "ref": "3:7–5:31",
+      "title": {
+        "pt": "Otniel, Eúde, Sangar, Débora e Baraque",
+        "en": "Othniel, Ehud, Shamgar, Deborah and Barak"
+      }
+    },
+    {
+      "ref": "6:1–9:57",
+      "title": {
+        "pt": "Gideão e Abimeleque",
+        "en": "Gideon and Abimelech"
+      }
+    },
+    {
+      "ref": "10:1–12:15",
+      "title": {
+        "pt": "Tola, Jair, Jefté e os juízes menores",
+        "en": "Tola, Jair, Jephthah and the minor judges"
+      }
+    },
+    {
+      "ref": "13:1–16:31",
+      "title": {
+        "pt": "Sansão",
+        "en": "Samson"
+      }
+    },
+    {
+      "ref": "17:1–21:25",
+      "title": {
+        "pt": "Apêndices: idolatria em Dã e violência em Gibeá",
+        "en": "Appendices: idolatry at Dan and violence at Gibeah"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Continua Josué e leva a Rute, ambientada \"no tempo em que os juízes governavam\" (Rt 1:1) e a Samuel. Hb 11:32 cita Gideão, Baraque, Sansão e Jefté.",
+    "en": "Continues Joshua and leads into Ruth, set \"in the days when the judges ruled\" (Ruth 1:1), and Samuel. Heb 11:32 mentions Gideon, Barak, Samson and Jephthah."
+  }
+}

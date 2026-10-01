@@ -1,0 +1,142 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Desconhecido. A tradição judaica atribui o conjunto de 1 e 2 Samuel a Samuel, Gade e Natã. O livro não nomeia o autor.",
+      "en": "Unknown. Jewish tradition attributes 1 and 2 Samuel together to Samuel, Gad and Nathan. The book does not name its author."
+    },
+    "scholarly": {
+      "pt": "Obra anônima, parte da História Deuteronomista. Os caps. 9–20 e 1Rs 1–2 são chamados de \"narrativa da sucessão\"; se é fonte antiga e contínua é matéria de debate.",
+      "en": "An anonymous work, part of the Deuteronomistic History. Chapters 9–20 and 1 Kgs 1–2 are called the \"succession narrative\"; whether it is an early, continuous source is debated."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Os eventos cobrem o reinado de Davi, c. 1010–970 a.C.; a redação é posterior à divisão do reino.",
+      "en": "The events cover the reign of David, c. 1010–970 BC; the writing is later than the division of the kingdom."
+    },
+    "scholarly": {
+      "pt": "Redação em etapas, com forma final entre o séc. VII a.C. e o exílio.",
+      "en": "Written in stages, with a final form between the 7th century BC and the exile."
+    }
+  },
+  "place": {
+    "pt": "Hebrom e Jerusalém, com campanhas em regiões vizinhas.",
+    "en": "Hebron and Jerusalem, with campaigns in neighboring regions."
+  },
+  "recipients": {
+    "pt": "Israel.",
+    "en": "Israel."
+  },
+  "keyVerse": "7:16",
+  "theme": {
+    "pt": "O reinado de Davi: a monarquia se consolida em Jerusalém, Deus promete uma casa eterna a Davi, e a casa de Davi sofre as consequências de seus próprios atos.",
+    "en": "The reign of David: the monarchy is consolidated in Jerusalem, God promises David an everlasting house, and David's house suffers the consequences of its own acts."
+  },
+  "historicalContext": {
+    "pt": "Davi é rei primeiro em Hebrom (Judá) e depois sobre todo o Israel, e toma Jerusalém, que se torna capital. A promessa a Davi (cap. 7) é um pilar da teologia real e das expectativas messiânicas posteriores. O texto não esconde as falhas de Davi.",
+    "en": "David is king first at Hebron (Judah) and then over all Israel, and takes Jerusalem, which becomes the capital. The promise to David (ch. 7) is a pillar of royal theology and later messianic expectation. The text does not hide David's failings."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Davi",
+        "en": "David"
+      },
+      "role": {
+        "pt": "Rei de Judá e depois de todo o Israel",
+        "en": "King of Judah and then of all Israel"
+      }
+    },
+    {
+      "name": {
+        "pt": "Joabe",
+        "en": "Joab"
+      },
+      "role": {
+        "pt": "Comandante do exército",
+        "en": "Commander of the army"
+      }
+    },
+    {
+      "name": {
+        "pt": "Natã",
+        "en": "Nathan"
+      },
+      "role": {
+        "pt": "Profeta; entrega a promessa e confronta Davi (caps. 7 e 12)",
+        "en": "Prophet; delivers the promise and confronts David (chs. 7 and 12)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Bate-Seba e Urias",
+        "en": "Bathsheba and Uriah"
+      },
+      "role": {
+        "pt": "Envolvidos no pecado de Davi (caps. 11–12)",
+        "en": "Involved in David's sin (chs. 11–12)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Absalão",
+        "en": "Absalom"
+      },
+      "role": {
+        "pt": "Filho de Davi; lidera uma rebelião (caps. 15–18)",
+        "en": "David's son; leads a rebellion (chs. 15–18)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Mefibosete",
+        "en": "Mephibosheth"
+      },
+      "role": {
+        "pt": "Neto de Saul acolhido por Davi (cap. 9)",
+        "en": "Saul's grandson welcomed by David (ch. 9)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–4:12",
+      "title": {
+        "pt": "Davi rei em Hebrom; guerra com a casa de Saul",
+        "en": "David king at Hebron; war with the house of Saul"
+      }
+    },
+    {
+      "ref": "5:1–10:19",
+      "title": {
+        "pt": "Jerusalém, a arca, a promessa a Davi e as vitórias",
+        "en": "Jerusalem, the ark, the promise to David and the victories"
+      }
+    },
+    {
+      "ref": "11:1–12:31",
+      "title": {
+        "pt": "Bate-Seba e Urias; a repreensão de Natã",
+        "en": "Bathsheba and Uriah; Nathan's rebuke"
+      }
+    },
+    {
+      "ref": "13:1–20:26",
+      "title": {
+        "pt": "Amnom, Absalão e as rebeliões",
+        "en": "Amnon, Absalom and the rebellions"
+      }
+    },
+    {
+      "ref": "21:1–24:25",
+      "title": {
+        "pt": "Apêndices: fome, cânticos, heróis, o censo",
+        "en": "Appendices: famine, songs, warriors, the census"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Continua 1 Samuel e leva a 1 Reis. 1 e 2 Crônicas retomam o reinado de Davi de outro ângulo. Mt 1:1 e Lc 1:32–33 ligam Jesus à promessa feita a Davi.",
+    "en": "Continues 1 Samuel and leads into 1 Kings. 1 and 2 Chronicles retell David's reign from another angle. Matt 1:1 and Luke 1:32–33 tie Jesus to the promise made to David."
+  }
+}

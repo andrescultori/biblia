@@ -1,0 +1,152 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Desconhecido. A tradição judaica (Talmude, Baba Batra 14b) indica Samuel, com a continuação por Gade e Natã (cf. 1Cr 29:29). O livro não nomeia o autor.",
+      "en": "Unknown. Jewish tradition (Talmud, Baba Batra 14b) points to Samuel, with continuation by Gad and Nathan (cf. 1 Chr 29:29). The book does not name its author."
+    },
+    "scholarly": {
+      "pt": "Obra anônima, em geral entendida como parte da História Deuteronomista, que usa fontes mais antigas (por exemplo, a narrativa da arca, caps. 4–6). Sua composição e edição são debatidas.",
+      "en": "An anonymous work, generally understood as part of the Deuteronomistic History, drawing on earlier sources (for example, the ark narrative, chs. 4–6). Its composition and editing are debated."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Os eventos cobrem de c. 1100 a 1010 a.C. A redação é posterior à divisão do reino (cf. 1Sm 27:6), logo depois da morte de Salomão.",
+      "en": "The events span roughly 1100 to 1010 BC. The writing is later than the division of the kingdom (cf. 1 Sam 27:6), after the death of Solomon."
+    },
+    "scholarly": {
+      "pt": "Redação em etapas, com forma final entre o séc. VII a.C. e o exílio.",
+      "en": "Written in stages, with a final form between the 7th century BC and the exile."
+    }
+  },
+  "place": {
+    "pt": "Israel e arredores: Siló, Ramá, Gibeá, Belém, o vale de Elá, En-Dor e o monte Gilboa.",
+    "en": "Israel and surroundings: Shiloh, Ramah, Gibeah, Bethlehem, the Valley of Elah, En-dor and Mount Gilboa."
+  },
+  "recipients": {
+    "pt": "Israel.",
+    "en": "Israel."
+  },
+  "keyVerse": "16:7",
+  "theme": {
+    "pt": "A transição dos juízes à monarquia: Samuel, a ascensão e a queda de Saul, e a ascensão de Davi.",
+    "en": "The transition from the judges to the monarchy: Samuel, the rise and fall of Saul, and the rise of David."
+  },
+  "historicalContext": {
+    "pt": "Os filisteus são a ameaça principal. A captura da arca (cap. 4) e o pedido de um rei (cap. 8) são pontos de virada. Os textos mostram posições diferentes sobre a monarquia: em alguns trechos ela é vista como pedido legítimo, em outros como rejeição de Deus.",
+    "en": "The Philistines are the main threat. The capture of the ark (ch. 4) and the request for a king (ch. 8) are turning points. The texts show different positions on the monarchy: in some passages it is a legitimate request, in others a rejection of God."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Ana",
+        "en": "Hannah"
+      },
+      "role": {
+        "pt": "Mãe de Samuel; seu cântico está no cap. 2",
+        "en": "Mother of Samuel; her song is in ch. 2"
+      }
+    },
+    {
+      "name": {
+        "pt": "Eli",
+        "en": "Eli"
+      },
+      "role": {
+        "pt": "Sacerdote em Siló",
+        "en": "Priest at Shiloh"
+      }
+    },
+    {
+      "name": {
+        "pt": "Samuel",
+        "en": "Samuel"
+      },
+      "role": {
+        "pt": "Último juiz e profeta; unge Saul e Davi",
+        "en": "Last judge and prophet; anoints Saul and David"
+      }
+    },
+    {
+      "name": {
+        "pt": "Saul",
+        "en": "Saul"
+      },
+      "role": {
+        "pt": "Primeiro rei de Israel",
+        "en": "First king of Israel"
+      }
+    },
+    {
+      "name": {
+        "pt": "Jônatas",
+        "en": "Jonathan"
+      },
+      "role": {
+        "pt": "Filho de Saul; amigo de Davi",
+        "en": "Saul's son; David's friend"
+      }
+    },
+    {
+      "name": {
+        "pt": "Davi",
+        "en": "David"
+      },
+      "role": {
+        "pt": "Ungido por Samuel; serve Saul e foge dele",
+        "en": "Anointed by Samuel; serves Saul and flees from him"
+      }
+    },
+    {
+      "name": {
+        "pt": "Golias",
+        "en": "Goliath"
+      },
+      "role": {
+        "pt": "Guerreiro filisteu derrotado por Davi (cap. 17)",
+        "en": "Philistine warrior defeated by David (ch. 17)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–7:17",
+      "title": {
+        "pt": "Ana, Eli e Samuel; a arca",
+        "en": "Hannah, Eli and Samuel; the ark"
+      }
+    },
+    {
+      "ref": "8:1–12:25",
+      "title": {
+        "pt": "O pedido de um rei; Saul é ungido",
+        "en": "The request for a king; Saul is anointed"
+      }
+    },
+    {
+      "ref": "13:1–15:35",
+      "title": {
+        "pt": "Saul reina e é rejeitado",
+        "en": "Saul reigns and is rejected"
+      }
+    },
+    {
+      "ref": "16:1–20:42",
+      "title": {
+        "pt": "Davi é ungido e serve na corte",
+        "en": "David is anointed and serves at court"
+      }
+    },
+    {
+      "ref": "21:1–31:13",
+      "title": {
+        "pt": "Davi foragido; morte de Saul",
+        "en": "David on the run; death of Saul"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Continua Juízes e leva a 2 Samuel. O cântico de Ana (2:1–10) é ecoado no cântico de Maria (Lc 1:46–55). Davi e os pães da proposição (21:1–6) são lembrados em Mt 12:3–4. At 13:21–22 resume Saul e Davi.",
+    "en": "Continues Judges and leads into 2 Samuel. Hannah's song (2:1–10) is echoed in Mary's song (Luke 1:46–55). David and the bread of the Presence (21:1–6) are recalled in Matt 12:3–4. Acts 13:21–22 summarizes Saul and David."
+  }
+}

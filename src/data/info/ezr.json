@@ -1,0 +1,125 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Esdras, segundo a tradição judaica (Talmude, Baba Batra 15a). O livro usa a primeira pessoa em 7:27–9:15, mas não nomeia o autor do todo.",
+      "en": "Ezra, according to Jewish tradition (Talmud, Baba Batra 15a). The book uses the first person in 7:27–9:15 but does not name the author of the whole."
+    },
+    "scholarly": {
+      "pt": "Obra anônima, atribuída pela maioria ao Cronista ou à sua escola, que teria usado documentos oficiais e a memória de Esdras. Esdras e Neemias formavam um só livro na tradição hebraica.",
+      "en": "An anonymous work, attributed by most to the Chronicler or his school, who would have used official documents and Ezra's memoir. Ezra and Nehemiah formed a single book in the Hebrew tradition."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Entre 538 a.C. (decreto de Ciro) e a missão de Esdras, no séc. V a.C.",
+      "en": "Between 538 BC (decree of Cyrus) and Ezra's mission, in the 5th century BC."
+    },
+    "scholarly": {
+      "pt": "Séc. V–IV a.C., período persa. Há um debate famoso sobre a missão de Esdras: no sétimo ano de Artaxerxes I (458 a.C.) ou de Artaxerxes II (398 a.C.).",
+      "en": "5th–4th centuries BC, Persian period. There is a well-known debate about Ezra's mission: in the seventh year of Artaxerxes I (458 BC) or of Artaxerxes II (398 BC)."
+    }
+  },
+  "place": {
+    "pt": "Babilônia e Jerusalém. Partes do livro (4:8–6:18; 7:12–26) estão em aramaico.",
+    "en": "Babylon and Jerusalem. Parts of the book (4:8–6:18; 7:12–26) are in Aramaic."
+  },
+  "recipients": {
+    "pt": "A comunidade que voltou do exílio.",
+    "en": "The community that returned from exile."
+  },
+  "keyVerse": "7:10",
+  "theme": {
+    "pt": "A restauração depois do exílio: o retorno, a reconstrução do templo e a reforma da comunidade em torno da lei.",
+    "en": "Restoration after the exile: the return, the rebuilding of the temple and the reform of the community around the law."
+  },
+  "historicalContext": {
+    "pt": "O livro se passa no período persa. Ciro permitiu o retorno em 538 a.C., o templo foi concluído por volta de 516 a.C., e Esdras chega com mandato real para ensinar a lei. A hostilidade de vizinhos e a questão dos casamentos mistos (caps. 9–10) são temas centrais e debatidos.",
+    "en": "The book is set in the Persian period. Cyrus allowed the return in 538 BC, the temple was completed around 516 BC, and Ezra arrives with a royal mandate to teach the law. Neighbors' hostility and the issue of mixed marriages (chs. 9–10) are central and debated themes."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Ciro",
+        "en": "Cyrus"
+      },
+      "role": {
+        "pt": "Rei da Pérsia; decreta o retorno",
+        "en": "King of Persia; decrees the return"
+      }
+    },
+    {
+      "name": {
+        "pt": "Zorobabel e Jesua",
+        "en": "Zerubbabel and Jeshua"
+      },
+      "role": {
+        "pt": "Líderes do primeiro retorno e da reconstrução do templo",
+        "en": "Leaders of the first return and the rebuilding of the temple"
+      }
+    },
+    {
+      "name": {
+        "pt": "Ageu e Zacarias",
+        "en": "Haggai and Zechariah"
+      },
+      "role": {
+        "pt": "Profetas que animam a reconstrução (5:1)",
+        "en": "Prophets who encourage the rebuilding (5:1)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Artaxerxes",
+        "en": "Artaxerxes"
+      },
+      "role": {
+        "pt": "Rei da Pérsia; envia Esdras (cap. 7)",
+        "en": "King of Persia; sends Ezra (ch. 7)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Esdras",
+        "en": "Ezra"
+      },
+      "role": {
+        "pt": "Sacerdote e escriba; ensina a lei",
+        "en": "Priest and scribe; teaches the law"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–2:70",
+      "title": {
+        "pt": "O decreto de Ciro e a lista dos que voltaram",
+        "en": "The decree of Cyrus and the list of those who returned"
+      }
+    },
+    {
+      "ref": "3:1–6:22",
+      "title": {
+        "pt": "Reconstrução do templo",
+        "en": "Rebuilding the temple"
+      }
+    },
+    {
+      "ref": "7:1–8:36",
+      "title": {
+        "pt": "Esdras chega a Jerusalém",
+        "en": "Ezra arrives in Jerusalem"
+      }
+    },
+    {
+      "ref": "9:1–10:44",
+      "title": {
+        "pt": "A crise dos casamentos mistos",
+        "en": "The crisis of mixed marriages"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Continua 2 Crônicas (cf. 2Cr 36:22–23) e leva a Neemias. Is 44:28–45:1 menciona Ciro. Ageu e Zacarias são profetas do mesmo período.",
+    "en": "Continues 2 Chronicles (cf. 2 Chr 36:22–23) and leads into Nehemiah. Isa 44:28–45:1 mentions Cyrus. Haggai and Zechariah are prophets of the same period."
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Desconhecido. A tradição judaica (Talmude, Baba Batra 15a) indica Esdras. O livro não nomeia o autor.",
+      "en": "Unknown. Jewish tradition (Talmud, Baba Batra 15a) points to Ezra. The book does not name its author."
+    },
+    "scholarly": {
+      "pt": "Obra anônima, atribuída ao \"Cronista\", o mesmo de 1 Crônicas; a unidade com Esdras e Neemias é debatida.",
+      "en": "An anonymous work attributed to the \"Chronicler\", the same as in 1 Chronicles; the unity with Ezra and Nehemiah is debated."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Depois do retorno do exílio, período persa. Termina com o decreto de Ciro (538 a.C.).",
+      "en": "After the return from exile, Persian period. It ends with the decree of Cyrus (538 BC)."
+    },
+    "scholarly": {
+      "pt": "Período persa, c. séc. V–IV a.C., com variação entre os autores.",
+      "en": "Persian period, c. 5th–4th centuries BC, with variation among scholars."
+    }
+  },
+  "place": {
+    "pt": "Judá (Jerusalém), depois do exílio. O local de composição não é indicado.",
+    "en": "Judah (Jerusalem), after the exile. The place of composition is not stated."
+  },
+  "recipients": {
+    "pt": "A comunidade que voltou do exílio.",
+    "en": "The community that returned from exile."
+  },
+  "keyVerse": "7:14",
+  "theme": {
+    "pt": "Salomão e o templo, e a história dos reis de Judá avaliados pela fidelidade ao culto, terminando no exílio e na esperança do retorno.",
+    "en": "Solomon and the temple, and the history of the kings of Judah judged by faithfulness in worship, ending in exile and the hope of return."
+  },
+  "historicalContext": {
+    "pt": "O livro quase não trata dos reis do norte e coloca o templo e a dinastia de Davi no centro. Traz material próprio, como o arrependimento de Manassés (33:10–17) e a reforma de Ezequias com a Páscoa (caps. 29–31). A queda de Jerusalém é resumida em poucos versículos, e o final volta-se à esperança (36:22–23).",
+    "en": "The book almost ignores the northern kings and puts the temple and the Davidic dynasty at the center. It has its own material, such as Manasseh's repentance (33:10–17) and Hezekiah's reform with the Passover (chs. 29–31). The fall of Jerusalem is summarized in a few verses, and the ending turns to hope (36:22–23)."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Salomão",
+        "en": "Solomon"
+      },
+      "role": {
+        "pt": "Constrói e dedica o templo (caps. 2–7)",
+        "en": "Builds and dedicates the temple (chs. 2–7)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Asa e Josafá",
+        "en": "Asa and Jehoshaphat"
+      },
+      "role": {
+        "pt": "Reis de Judá que fazem reformas e sofrem guerra (caps. 14–20)",
+        "en": "Kings of Judah who carry out reforms and face war (chs. 14–20)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Ezequias",
+        "en": "Hezekiah"
+      },
+      "role": {
+        "pt": "Reforma e Páscoa (caps. 29–32)",
+        "en": "Reform and Passover (chs. 29–32)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Manassés",
+        "en": "Manasseh"
+      },
+      "role": {
+        "pt": "Rei de Judá; seu arrependimento é contado em 33:10–17",
+        "en": "King of Judah; his repentance is told in 33:10–17"
+      }
+    },
+    {
+      "name": {
+        "pt": "Josias",
+        "en": "Josiah"
+      },
+      "role": {
+        "pt": "Reforma e Páscoa (caps. 34–35)",
+        "en": "Reform and Passover (chs. 34–35)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Ciro",
+        "en": "Cyrus"
+      },
+      "role": {
+        "pt": "Rei da Pérsia; decreta o retorno (36:22–23)",
+        "en": "King of Persia; decrees the return (36:22–23)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–9:31",
+      "title": {
+        "pt": "Salomão e o templo",
+        "en": "Solomon and the temple"
+      }
+    },
+    {
+      "ref": "10:1–12:16",
+      "title": {
+        "pt": "A divisão do reino e Roboão",
+        "en": "The division of the kingdom and Rehoboam"
+      }
+    },
+    {
+      "ref": "13:1–20:37",
+      "title": {
+        "pt": "Abias, Asa e Josafá",
+        "en": "Abijah, Asa and Jehoshaphat"
+      }
+    },
+    {
+      "ref": "21:1–28:27",
+      "title": {
+        "pt": "De Jeorão a Acaz",
+        "en": "From Jehoram to Ahaz"
+      }
+    },
+    {
+      "ref": "29:1–32:33",
+      "title": {
+        "pt": "A reforma de Ezequias",
+        "en": "Hezekiah's reform"
+      }
+    },
+    {
+      "ref": "33:1–35:27",
+      "title": {
+        "pt": "Manassés e Josias",
+        "en": "Manasseh and Josiah"
+      }
+    },
+    {
+      "ref": "36:1–23",
+      "title": {
+        "pt": "Queda de Jerusalém e decreto de Ciro",
+        "en": "The fall of Jerusalem and the decree of Cyrus"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Paralelo a 1 e 2 Reis. O final (36:22–23) se repete em Ed 1:1–3, e a obra continua em Esdras. Jesus faz alusão a Zacarias, morto no átrio do templo (Mt 23:35; cf. 2Cr 24:20–22).",
+    "en": "Parallel to 1 and 2 Kings. The ending (36:22–23) is repeated in Ezra 1:1–3, and the work continues in Ezra. Jesus alludes to Zechariah, killed in the temple court (Matt 23:35; cf. 2 Chr 24:20–22)."
+  }
+}

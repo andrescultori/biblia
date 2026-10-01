@@ -1,0 +1,142 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Desconhecido. A tradição judaica (Talmude, Baba Batra 15a) indica Jeremias. O livro não nomeia o autor.",
+      "en": "Unknown. Jewish tradition (Talmud, Baba Batra 15a) points to Jeremiah. The book does not name its author."
+    },
+    "scholarly": {
+      "pt": "Obra anônima, parte da História Deuteronomista (Josué a Reis), que cita fontes como o \"livro dos atos de Salomão\" (11:41) e as crônicas dos reis de Judá e de Israel. A edição final é posterior à queda de Jerusalém.",
+      "en": "An anonymous work, part of the Deuteronomistic History (Joshua to Kings), which cites sources such as the \"book of the acts of Solomon\" (11:41) and the chronicles of the kings of Judah and Israel. The final edition is later than the fall of Jerusalem."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Os eventos cobrem de c. 970 a.C. (fim do reinado de Davi) até c. 850 a.C. A obra de Reis, como um todo, termina com fatos de c. 561 a.C. (2Rs 25:27–30).",
+      "en": "The events span from c. 970 BC (the end of David's reign) to c. 850 BC. The work of Kings as a whole ends with events of c. 561 BC (2 Kgs 25:27–30)."
+    },
+    "scholarly": {
+      "pt": "Forma final no exílio (c. séc. VI a.C.), com uma edição anterior frequentemente situada no tempo de Josias (séc. VII a.C.).",
+      "en": "Final form in the exile (c. 6th century BC), with an earlier edition often placed in the time of Josiah (7th century BC)."
+    }
+  },
+  "place": {
+    "pt": "Jerusalém (Judá) e Samaria (Israel), com o monte Carmelo e outras regiões na história de Elias.",
+    "en": "Jerusalem (Judah) and Samaria (Israel), with Mount Carmel and other regions in the Elijah story."
+  },
+  "recipients": {
+    "pt": "Israel e Judá, lidos à luz do exílio.",
+    "en": "Israel and Judah, read in light of the exile."
+  },
+  "keyVerse": "18:21",
+  "theme": {
+    "pt": "Salomão e o templo, a divisão do reino em Judá e Israel, e o confronto entre a fé em Javé e a idolatria na época de Elias.",
+    "en": "Solomon and the temple, the division of the kingdom into Judah and Israel, and the confrontation between faith in Yahweh and idolatry in the time of Elijah."
+  },
+  "historicalContext": {
+    "pt": "Os reis são avaliados pelo critério deuteronomista: a fidelidade ao culto único em Jerusalém. A cronologia dos reis tem números que se entrelaçam e são tema de estudos próprios; as datas dos reinados, em geral, variam em poucos anos entre os autores. A divisão do reino (cap. 12) é situada em c. 930 a.C.",
+    "en": "The kings are evaluated by the Deuteronomistic criterion: faithfulness to the single cult in Jerusalem. The regnal numbers interlock and are the subject of specialized studies; the dates of reigns generally vary by a few years among scholars. The division of the kingdom (ch. 12) is placed around 930 BC."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Salomão",
+        "en": "Solomon"
+      },
+      "role": {
+        "pt": "Rei sábio; constrói o templo; se desvia no fim da vida",
+        "en": "Wise king; builds the temple; turns away late in life"
+      }
+    },
+    {
+      "name": {
+        "pt": "Hirão",
+        "en": "Hiram"
+      },
+      "role": {
+        "pt": "Rei de Tiro que fornece madeira para o templo",
+        "en": "King of Tyre who supplies timber for the temple"
+      }
+    },
+    {
+      "name": {
+        "pt": "Jeroboão",
+        "en": "Jeroboam"
+      },
+      "role": {
+        "pt": "Primeiro rei do reino do norte",
+        "en": "First king of the northern kingdom"
+      }
+    },
+    {
+      "name": {
+        "pt": "Roboão",
+        "en": "Rehoboam"
+      },
+      "role": {
+        "pt": "Filho de Salomão; rei de Judá",
+        "en": "Solomon's son; king of Judah"
+      }
+    },
+    {
+      "name": {
+        "pt": "Acabe e Jezabel",
+        "en": "Ahab and Jezebel"
+      },
+      "role": {
+        "pt": "Rei de Israel e sua esposa, promotores do culto a Baal",
+        "en": "King of Israel and his wife, promoters of Baal worship"
+      }
+    },
+    {
+      "name": {
+        "pt": "Elias",
+        "en": "Elijah"
+      },
+      "role": {
+        "pt": "Profeta que confronta Acabe e os profetas de Baal",
+        "en": "Prophet who confronts Ahab and the prophets of Baal"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–2:46",
+      "title": {
+        "pt": "A sucessão de Davi",
+        "en": "The succession of David"
+      }
+    },
+    {
+      "ref": "3:1–11:43",
+      "title": {
+        "pt": "O reinado de Salomão e o templo",
+        "en": "The reign of Solomon and the temple"
+      }
+    },
+    {
+      "ref": "12:1–14:31",
+      "title": {
+        "pt": "A divisão do reino",
+        "en": "The division of the kingdom"
+      }
+    },
+    {
+      "ref": "15:1–16:34",
+      "title": {
+        "pt": "Reis de Judá e de Israel",
+        "en": "Kings of Judah and Israel"
+      }
+    },
+    {
+      "ref": "17:1–22:53",
+      "title": {
+        "pt": "Elias, Acabe e a dinastia de Onri",
+        "en": "Elijah, Ahab and the house of Omri"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Continua 2 Samuel e leva a 2 Reis. Jesus menciona Salomão e a rainha de Sabá (Mt 12:42; Lc 11:31) e Elias (Lc 4:25–26). Tg 5:17–18 e Rm 11:2–4 citam Elias.",
+    "en": "Continues 2 Samuel and leads into 2 Kings. Jesus mentions Solomon and the queen of Sheba (Matt 12:42; Luke 11:31) and Elijah (Luke 4:25–26). Jas 5:17–18 and Rom 11:2–4 cite Elijah."
+  }
+}

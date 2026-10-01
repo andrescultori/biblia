@@ -1,0 +1,122 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Desconhecido. A tradição judaica (Talmude, Baba Batra 15a) indica Esdras. O livro não nomeia o autor.",
+      "en": "Unknown. Jewish tradition (Talmud, Baba Batra 15a) points to Ezra. The book does not name its author."
+    },
+    "scholarly": {
+      "pt": "Obra anônima, atribuída ao \"Cronista\", que pode ter escrito também Esdras e Neemias; essa unidade de autoria é debatida. Usa Samuel e Reis como fontes e outras que não chegaram até nós.",
+      "en": "An anonymous work attributed to the \"Chronicler\", who may also have written Ezra and Nehemiah; that unity of authorship is debated. It uses Samuel and Kings as sources and others that have not come down to us."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Depois do retorno do exílio, período persa.",
+      "en": "After the return from exile, Persian period."
+    },
+    "scholarly": {
+      "pt": "Período persa, c. séc. V–IV a.C., com variação entre os autores.",
+      "en": "Persian period, c. 5th–4th centuries BC, with variation among scholars."
+    }
+  },
+  "place": {
+    "pt": "Judá (Jerusalém), depois do exílio. O local de composição não é indicado.",
+    "en": "Judah (Jerusalem), after the exile. The place of composition is not stated."
+  },
+  "recipients": {
+    "pt": "A comunidade que voltou do exílio.",
+    "en": "The community that returned from exile."
+  },
+  "keyVerse": "17:14",
+  "theme": {
+    "pt": "Identidade e continuidade de Israel pela linhagem, por Davi e pelo culto: de Adão ao exílio, com Davi como fundador do templo e da liturgia.",
+    "en": "The identity and continuity of Israel through lineage, David and worship: from Adam to the exile, with David as founder of the temple and its liturgy."
+  },
+  "historicalContext": {
+    "pt": "A obra reconta a história de Israel de outra perspectiva em relação a Samuel e Reis. Omite episódios como o pecado de Davi com Bate-Seba, e destaca o papel dos levitas e do templo. As diferenças com Samuel e Reis são tema de estudo comparativo.",
+    "en": "The work retells Israel's history from a different perspective than Samuel and Kings. It omits episodes such as David's sin with Bathsheba and highlights the role of the Levites and the temple. The differences from Samuel and Kings are a subject of comparative study."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Davi",
+        "en": "David"
+      },
+      "role": {
+        "pt": "Figura central; prepara o templo",
+        "en": "Central figure; prepares the temple"
+      }
+    },
+    {
+      "name": {
+        "pt": "Salomão",
+        "en": "Solomon"
+      },
+      "role": {
+        "pt": "Sucessor de Davi, encarregado de construir o templo (caps. 22; 28–29)",
+        "en": "David's successor, charged with building the temple (chs. 22; 28–29)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Joabe",
+        "en": "Joab"
+      },
+      "role": {
+        "pt": "Comandante do exército de Davi",
+        "en": "Commander of David's army"
+      }
+    },
+    {
+      "name": {
+        "pt": "Os levitas",
+        "en": "The Levites"
+      },
+      "role": {
+        "pt": "Responsáveis pelo culto e pela música (caps. 15–16; 23–26)",
+        "en": "Responsible for worship and music (chs. 15–16; 23–26)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–9:44",
+      "title": {
+        "pt": "Genealogias, de Adão aos que retornaram",
+        "en": "Genealogies, from Adam to those who returned"
+      }
+    },
+    {
+      "ref": "10:1–12:40",
+      "title": {
+        "pt": "Morte de Saul; Davi rei",
+        "en": "Death of Saul; David becomes king"
+      }
+    },
+    {
+      "ref": "13:1–17:27",
+      "title": {
+        "pt": "A arca em Jerusalém e a promessa a Davi",
+        "en": "The ark in Jerusalem and the promise to David"
+      }
+    },
+    {
+      "ref": "18:1–21:30",
+      "title": {
+        "pt": "Vitórias de Davi e o censo",
+        "en": "David's victories and the census"
+      }
+    },
+    {
+      "ref": "22:1–29:30",
+      "title": {
+        "pt": "Preparação do templo e despedida de Davi",
+        "en": "Preparation of the temple and David's farewell"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Paralelo a 2 Samuel e 1 Reis. A genealogia de Mt 1 e Lc 3 usa nomes dos caps. 1–3. 2 Crônicas continua a narrativa.",
+    "en": "Parallel to 2 Samuel and 1 Kings. The genealogies of Matt 1 and Luke 3 use names from chs. 1–3. 2 Chronicles continues the narrative."
+  }
+}
