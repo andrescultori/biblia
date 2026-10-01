@@ -2,6 +2,10 @@ import React, { useEffect, useRef, useState } from 'react';
 import { BOOKS, SECTIONS } from './data/books.js';
 import { VERSIONS, loadBook } from './data/bible.js';
 
+// Fichas carregadas sob demanda: cada src/data/info/<slug>.json vira um chunk separado.
+const INFO = import.meta.glob('./data/info/*.json');
+const hasInfo = (slug) => `./data/info/${slug}.json` in INFO;
+
 export default function BookModal({ book, lang, t, onClose, onNavigate }) {
   const ref = useRef(null);
   const [tab, setTab] = useState('summary');
@@ -44,7 +48,7 @@ export default function BookModal({ book, lang, t, onClose, onNavigate }) {
         </div>
 
         <div className="seg tabs" role="tablist">
-          {['summary', 'read'].map((k) => (
+          {['summary', 'sheet', 'read'].map((k) => (
             <button key={k} type="button" role="tab" aria-selected={tab === k} aria-pressed={tab === k} onClick={() => setTab(k)}>{t[k]}</button>
           ))}
         </div>
@@ -55,9 +59,10 @@ export default function BookModal({ book, lang, t, onClose, onNavigate }) {
               <dl className="facts">
                 {facts.map(([k, v]) => (<div key={k}><dt>{k}</dt><dd>{v}</dd></div>))}
               </dl>
-              <p className="soon">{t.soon}</p>
+              {!hasInfo(book.slug) && <p className="soon">{t.soon}</p>}
             </>
           )}
+          {tab === 'sheet' && <Sheet book={book} lang={lang} t={t} />}
           {tab === 'read' && <Reader book={book} lang={lang} t={t} />}
         </div>
 
@@ -67,6 +72,56 @@ export default function BookModal({ book, lang, t, onClose, onNavigate }) {
         </div>
       </div>
     </dialog>
+  );
+}
+
+const pick = (v, lang) => (v && typeof v === 'object' ? v[lang] ?? v.en : v);
+
+function Sheet({ book, lang, t }) {
+  const [info, setInfo] = useState(null);
+  const [error, setError] = useState(false);
+
+  useEffect(() => {
+    let alive = true;
+    setInfo(null); setError(false);
+    const load = INFO[`./data/info/${book.slug}.json`];
+    if (load) load().then((m) => alive && setInfo(m.default)).catch(() => alive && setError(true));
+    return () => { alive = false; };
+  }, [book.slug]);
+
+  if (!hasInfo(book.slug)) return <p className="soon">{t.soon}</p>;
+  if (error) return <p className="soon">{t.loadError}</p>;
+  if (!info) return <p className="soon">{t.loading}</p>;
+
+  const ref = (r) => `${book.ab[lang]} ${r}`;
+  const view = (pair) => (
+    <>
+      <p><b>{t.traditional}.</b> {pick(pair.traditional, lang)}</p>
+      <p><b>{t.scholarly}.</b> {pick(pair.scholarly, lang)}</p>
+    </>
+  );
+  const text = (label, v) => (<section><h3>{label}</h3><p>{pick(v, lang)}</p></section>);
+
+  return (
+    <div className="sheetinfo">
+      <section><h3>{t.author}</h3>{view(info.author)}</section>
+      <section><h3>{t.date}</h3>{view(info.date)}</section>
+      {text(t.place, info.place)}
+      {text(t.recipients, info.recipients)}
+      <section><h3>{t.keyVerse}</h3><p>{ref(info.keyVerse)}</p></section>
+      {text(t.theme, info.theme)}
+      {text(t.historicalContext, info.historicalContext)}
+      <section>
+        <h3>{t.characters}</h3>
+        <ul>{info.characters.map((c, i) => (<li key={i}><b>{pick(c.name, lang)}</b>: {pick(c.role, lang)}</li>))}</ul>
+      </section>
+      <section>
+        <h3>{t.outline}</h3>
+        <ol className="outline">{info.outline.map((o, i) => (<li key={i}><span>{ref(o.ref)}</span> {pick(o.title, lang)}</li>))}</ol>
+      </section>
+      {text(t.connections, info.connections)}
+      <p className="note">{t.sheetNote}</p>
+    </div>
   );
 }
 
