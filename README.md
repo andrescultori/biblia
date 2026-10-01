@@ -8,12 +8,12 @@
 
 - [x] Grade dos 66 livros por seção, busca e filtro por testamento
 - [x] Ficha com dados básicos (testamento, seção, capítulos, versículos)
-- [x] Leitor de texto (KJV)
+- [x] Leitor de texto: KJV, WEB e ASV (inglês); Bíblia Livre e Almeida 1911 (português)
 - [x] Tema claro/escuro, PT/EN
 - [ ] Ficha completa por livro (autor, data, local, personagens, esboço, tema, contexto, conexões)
 - [x] Aba Mapa por livro, com costa vetorial e lugares da ficha (Êxodo, Atos e Apocalipse; demais livros em andamento)
 - [ ] Linha do tempo
-- [ ] Texto em português (aguardando definição de licença)
+- [ ] ARA e NAA (aguardam autorização da SBB)
 
 ## Rodar localmente
 
@@ -24,16 +24,27 @@ npm run dev
 
 ## Dados do texto bíblico
 
-Os textos ficam em `public/bible/<versão>/<n>.json` (n = 1..66, ordem canônica). Para regenerar a KJV:
+Os textos ficam em `public/bible/<versão>/<n>.json` (n = 1..66, ordem canônica). Cada arquivo é um array de capítulos, e cada capítulo é um array em que a posição *i* guarda o versículo *i + 1*. Versículo que a versão não tem (por exemplo, os que a ASV omite) fica `null`, para a numeração continuar certa.
+
+| Id | Versão | Licença | Fonte do arquivo |
+|---|---|---|---|
+| `kjv` | King James Version | Domínio público | [thiagobodruk/bible](https://github.com/thiagobodruk/bible) (`json/en_kjv.json`) |
+| `web` | World English Bible | Domínio público | [seven1m/open-bibles](https://github.com/seven1m/open-bibles) (`eng-web.usfx.xml`, do eBible.org) |
+| `asv` | American Standard Version (1901) | Domínio público | [openbibleinfo/American-Standard-Version-Bible](https://github.com/openbibleinfo/American-Standard-Version-Bible) (`usx-english-only/`) |
+| `blivre` | Bíblia Livre (2018) | CC BY 3.0 Brasil (atribuição obrigatória) | [damarals/biblias](https://github.com/damarals/biblias) (`data/canonical/BLIVRE/`) |
+| `alm1911` | Almeida, edição de 1911 | Domínio público | [damarals/biblias](https://github.com/damarals/biblias) (`data/canonical/ALM1911/`; texto do Project Gutenberg nº 62383) |
+
+Para regenerar uma versão, passe o id e o caminho da fonte baixada:
 
 ```bash
-# fonte: https://github.com/thiagobodruk/bible (json/en_kjv.json)
-node scripts/build-bible-data.mjs kjv caminho/para/en_kjv.json
+node scripts/build-bible-data.mjs web caminho/para/eng-web.usfx.xml
+node scripts/build-bible-data.mjs asv caminho/para/usx-english-only
+node scripts/build-bible-data.mjs blivre caminho/para/data/canonical/BLIVRE
 ```
 
-O script também recalcula `src/data/counts.json` (capítulos e versículos por livro).
+Só a KJV recalcula `src/data/counts.json` (capítulos e versículos por livro), que é a referência de numeração do site.
 
-Para adicionar uma versão: gerar os arquivos na mesma estrutura e registrar em `src/data/bible.js`. **Antes de publicar qualquer tradução, confirme a licença.** A KJV é de domínio público; ARA e NAA pertencem à Sociedade Bíblica do Brasil.
+Para adicionar uma versão: incluir o formato da fonte em `scripts/build-bible-data.mjs`, gerar os arquivos, registrar em `src/data/bible.js` (nome, idioma, crédito e licença; o leitor mostra o crédito) e documentar a evidência em `docs/licencas-texto-biblico.md`. **Antes de publicar qualquer tradução, confirme a licença em fonte primária.** ARA, NAA, NVI, ACF, ESV, NKJV e a ARC da SBB (1995) têm direitos e não estão no site.
 
 ## Publicar no GitHub Pages
 
@@ -65,5 +76,6 @@ A aba **Mapa** do modal aparece nos livros cuja ficha (`src/data/info/<slug>.jso
 - Costa: [Natural Earth](https://www.naturalearthdata.com/) (domínio público), pelo pacote `world-atlas`, recortada e simplificada.
 - Lugares do mapa: [OpenBible.info Bible Geocoding Data](https://www.openbible.info/geo/), licença [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Coordenadas arredondadas e adaptadas.
 - Projeção: [d3-geo](https://github.com/d3/d3-geo) (ISC).
+- Textos: WEB ([eBible.org](https://ebible.org/eng-web/), domínio público); ASV (domínio público, edição digital de [openbibleinfo](https://github.com/openbibleinfo/American-Standard-Version-Bible)); Almeida 1911 (domínio público, [Project Gutenberg nº 62383](https://www.gutenberg.org/ebooks/62383)); **Bíblia Livre (BLIVRE), © 2018 Diego Santos, Mario Sérgio e Marco Teles, [CC BY 3.0 Brasil](https://creativecommons.org/licenses/by/3.0/br/)**, [fonte](https://github.com/blivre/BibliaLivre).
 
 Ideia original da tabela: "TaBíblia Periódica" (Grupo de Jovens Conquistando as Nações; fonte indicada: Sociedade Bíblica do Brasil). Este projeto tem design e código próprios.

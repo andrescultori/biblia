@@ -13,9 +13,9 @@ Tabela interativa dos 66 livros da Bíblia (inspirada no "TaBíblia Periódica")
 ## Estrutura
 - `src/data/books.js`: os 66 livros (slug, siglas e nomes PT/EN, seção, testamento). A ordem canônica é o número do livro (1 a 66), igual ao nome dos arquivos de texto.
 - `src/data/counts.json`: capítulos e versículos por livro. É gerado pelo script, não editar à mão.
-- `src/data/bible.js`: versões de texto disponíveis e carregamento por livro.
-- `public/bible/<versão>/<n>.json`: texto por livro (array de capítulos, cada capítulo é um array de versículos).
-- `scripts/build-bible-data.mjs`: gera os dois itens acima a partir de um JSON de origem.
+- `src/data/bible.js`: versões de texto disponíveis (com crédito e licença mostrados no leitor) e carregamento por livro. Dentro de cada idioma, a primeira da lista é a padrão.
+- `public/bible/<versão>/<n>.json`: texto por livro (array de capítulos; cada capítulo é um array em que a posição i é o versículo i+1; versículo ausente na versão é `null`).
+- `scripts/build-bible-data.mjs`: gera o texto por livro a partir da fonte de cada versão (`kjv`, `web`, `asv`, `alm1911`, `blivre`). Só a KJV recalcula `counts.json`.
 - `src/i18n.js`: textos da interface (PT/EN). Novo idioma = nova chave em `T` e em `LANGS`.
 - `src/data/info/<slug>.json`: ficha de cada livro (PT/EN), com a chave opcional `map` (lugares do mapa; formato no README).
 - `src/data/land.json`: costa em vetor (Natural Earth 50m, recortada). Não editar à mão.
@@ -31,7 +31,7 @@ Tabela interativa dos 66 livros da Bíblia (inspirada no "TaBíblia Periódica")
 
 ## Decisões em aberto
 - Atos está na seção "Evangelhos e Atos" (como na imagem original). Alternativa: seção própria.
-- Versões em português: ARA e NAA aguardam autorização da SBB (André vai pedir). Enquanto isso, adicionar só versões com licença clara (ver `docs/licencas-texto-biblico.md`).
+- Versões em português: no site, Bíblia Livre (CC BY 3.0 BR, atribuição obrigatória) e Almeida 1911. ARA e NAA aguardam autorização da SBB (André vai pedir). TB não entra (a SBB declara copyright sobre a edição de 2010). ARC de 1898: sem fonte digital confiável. Detalhes em `docs/licencas-texto-biblico.md`.
 - ESV e NKJV: avaliadas, não adicionadas. ESV só via API não comercial e exigiria proxy; NKJV exige permissão escrita.
 
 ## Roadmap
@@ -43,4 +43,4 @@ Tabela interativa dos 66 livros da Bíblia (inspirada no "TaBíblia Periódica")
 ## Comandos
 - `npm install` e `npm run dev`: desenvolvimento.
 - `npm run build`: build de produção em `dist/`.
-- `node scripts/build-bible-data.mjs kjv caminho/en_kjv.json`: regenera os dados da KJV (fonte: github.com/thiagobodruk/bible, `json/en_kjv.json`).
+- `node scripts/build-bible-data.mjs <id> <caminho-da-fonte>`: regenera os dados de uma versão. Fontes e formatos no README (seção "Dados do texto bíblico").

@@ -1,7 +1,64 @@
-// Versões de texto. `available` = arquivos presentes em public/bible/<id>/.
-// DECISÃO PENDENTE (André): versões em português dependem de licença (SBB: ARA/NAA) ou de uma base de domínio público.
+// Versões de texto. `available` = arquivos presentes em public/bible/<id>/ (gerados por scripts/build-bible-data.mjs).
+// Dentro de cada idioma, a primeira da lista é a padrão. Só entram versões com licença clara.
+// Antes de adicionar outra, leia docs/licencas-texto-biblico.md e confirme a licença em fonte primária.
+//   credit/license: texto de crédito mostrado no leitor. attributionRequired: a licença exige esse crédito.
+//   note: aviso curto sobre o texto (omissões, ortografia). Versículo ausente na versão é null no JSON.
+const PD = { pt: 'Domínio público', en: 'Public domain' };
+
 export const VERSIONS = [
-  { id: 'kjv', lang: 'en', label: 'KJV', full: 'King James Version', available: true },
+  {
+    id: 'kjv', lang: 'en', label: 'KJV', full: 'King James Version', available: true,
+    credit: { pt: 'King James Version.', en: 'King James Version.' },
+    license: PD, attributionRequired: false,
+  },
+  {
+    id: 'web', lang: 'en', label: 'WEB', full: 'World English Bible', available: true,
+    credit: { pt: 'World English Bible (eBible.org).', en: 'World English Bible (eBible.org).' },
+    license: PD, attributionRequired: false,
+    sourceUrl: 'https://ebible.org/eng-web/',
+    note: {
+      pt: 'Segue o texto crítico: alguns versículos da KJV não existem (ex.: Lc 17:36) e a doxologia de Rm 16:25–27 está em Rm 14:24–26.',
+      en: 'Follows the critical text: some KJV verses are absent (e.g. Luke 17:36) and the doxology of Rom 16:25–27 appears at Rom 14:24–26.',
+    },
+  },
+  {
+    id: 'asv', lang: 'en', label: 'ASV', full: 'American Standard Version (1901)', available: true,
+    credit: { pt: 'American Standard Version, 1901.', en: 'American Standard Version, 1901.' },
+    license: PD, attributionRequired: false,
+    sourceUrl: 'https://github.com/openbibleinfo/American-Standard-Version-Bible',
+    note: {
+      pt: 'Omite versículos que o texto grego crítico não traz (ex.: Mt 17:21, At 8:37). Usa "Jehovah".',
+      en: 'Omits verses that the critical Greek text lacks (e.g. Matt 17:21, Acts 8:37). Uses "Jehovah".',
+    },
+  },
+  {
+    id: 'blivre', lang: 'pt', label: 'BLIVRE', full: 'Bíblia Livre (2018)', available: true,
+    credit: {
+      pt: 'Bíblia Livre (BLIVRE), © 2018 Diego Santos, Mario Sérgio e Marco Teles.',
+      en: 'Bíblia Livre (BLIVRE), © 2018 Diego Santos, Mario Sérgio and Marco Teles.',
+    },
+    license: { pt: 'Licença Creative Commons Atribuição 3.0 Brasil', en: 'Creative Commons Attribution 3.0 Brazil License' },
+    licenseUrl: 'https://creativecommons.org/licenses/by/3.0/br/',
+    attributionRequired: true,
+    sourceUrl: 'https://github.com/blivre/BibliaLivre',
+    note: {
+      pt: 'No Novo Testamento, esta edição segue o texto crítico (Nestle 1904): alguns versículos da tradição tradicional ficam em branco (ex.: Mt 17:21).',
+      en: 'In the New Testament this edition follows the critical text (Nestle 1904): some verses of the traditional text are left blank (e.g. Matt 17:21).',
+    },
+  },
+  {
+    id: 'alm1911', lang: 'pt', label: 'ALM1911', full: 'Almeida (edição de 1911)', available: true,
+    credit: {
+      pt: 'João Ferreira de Almeida, edição de 1911. Texto digital: Project Gutenberg nº 62383.',
+      en: 'João Ferreira de Almeida, 1911 edition. Digital text: Project Gutenberg no. 62383.',
+    },
+    license: PD, attributionRequired: false,
+    sourceUrl: 'https://www.gutenberg.org/ebooks/62383',
+    note: {
+      pt: 'Ortografia da época ("creou", "n\'elle"). Em 2Co 13, os vv. 13 e 14 aparecem fundidos.',
+      en: 'Period Portuguese spelling ("creou", "n\'elle"). In 2 Cor 13, verses 13 and 14 are merged.',
+    },
+  },
 ];
 
 const cache = new Map();

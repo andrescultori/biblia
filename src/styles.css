@@ -120,3 +120,8 @@ input[type='search'] { flex: 1 1 200px; min-width: 0; border: 1px solid var(--li
 .place small { font-size: 0.75rem; color: var(--accent); font-weight: 600; }
 .mapnote { color: var(--muted); font-size: 0.8rem; margin: 10px 0 0; }
 .mapnote a { color: inherit; }
+
+/* crédito da versão no leitor */
+.credit { color: var(--muted); font-size: 0.8rem; margin-top: 12px; }
+.credit p { margin: 0 0 4px; }
+.credit a { color: inherit; }
