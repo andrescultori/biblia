@@ -94,5 +94,44 @@
   "connections": {
     "pt": "Terceira das Cartas Pastorais. Tito aparece também em 2 Coríntios e Gálatas.",
     "en": "The third of the Pastoral Letters. Titus also appears in 2 Corinthians and Galatians."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Dois lugares citados na carta: Creta, onde Tito foi deixado, e Nicópolis, onde o autor quer encontrá-lo.",
+      "en": "Two places named in the letter: Crete, where Titus was left, and Nicopolis, where the author wants to meet him."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Creta",
+          "en": "Crete"
+        },
+        "lonLat": [
+          24.89,
+          35.31
+        ],
+        "note": {
+          "pt": "A carta diz que Tito foi deixado em Creta para organizar o que faltava e estabelecer presbíteros nas cidades (1:5).",
+          "en": "The letter says Titus was left in Crete to put in order what remained and appoint elders in every town (1:5)."
+        },
+        "ref": "1:5"
+      },
+      {
+        "name": {
+          "pt": "Nicópolis",
+          "en": "Nicopolis"
+        },
+        "lonLat": [
+          20.74,
+          39.02
+        ],
+        "note": {
+          "pt": "O autor pede que Tito vá ao seu encontro em Nicópolis, onde decidiu passar o inverno (3:12).",
+          "en": "The author asks Titus to come to him at Nicopolis, where he has decided to spend the winter (3:12)."
+        },
+        "ref": "3:12"
+      }
+    ]
   }
 }

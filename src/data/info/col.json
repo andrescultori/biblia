@@ -128,5 +128,59 @@
   "connections": {
     "pt": "Muito próxima de Efésios e de Filemom (Onésimo e Arquipo aparecem em ambas). Cl 4:16 menciona uma carta aos laodicenses, que não chegou até nós.",
     "en": "Very close to Ephesians and Philemon (Onesimus and Archippus appear in both). Col 4:16 mentions a letter to the Laodiceans, which has not come down to us."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Cidades do vale do Lico citadas na carta; ficam a poucos quilômetros umas das outras. Use \"Ampliar região\".",
+      "en": "Cities of the Lycus valley named in the letter; they lie a few kilometers apart. Use \"Zoom to region\"."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Colossos",
+          "en": "Colossae"
+        },
+        "lonLat": [
+          29.26,
+          37.79
+        ],
+        "note": {
+          "pt": "Destinatários: \"os santos e fiéis irmãos em Cristo que estão em Colossos\" (1:2).",
+          "en": "Recipients: \"the saints and faithful brothers in Christ at Colossae\" (1:2)."
+        },
+        "ref": "1:2"
+      },
+      {
+        "name": {
+          "pt": "Laodiceia",
+          "en": "Laodicea"
+        },
+        "lonLat": [
+          29.11,
+          37.84
+        ],
+        "note": {
+          "pt": "Paulo luta também pelos de Laodiceia (2:1); a carta de Laodiceia deve ser lida em Colossos e vice-versa (4:15–16).",
+          "en": "Paul also struggles for those at Laodicea (2:1); the letter from Laodicea is to be read at Colossae and vice versa (4:15–16)."
+        },
+        "ref": "2:1"
+      },
+      {
+        "name": {
+          "pt": "Hierápolis",
+          "en": "Hierapolis"
+        },
+        "lonLat": [
+          29.13,
+          37.93
+        ],
+        "note": {
+          "pt": "Epafras trabalha pelos irmãos de Colossos, Laodiceia e Hierápolis (4:13).",
+          "en": "Epaphras works hard for the brothers in Colossae, Laodicea and Hierapolis (4:13)."
+        },
+        "ref": "4:13"
+      }
+    ]
   }
 }

@@ -111,5 +111,59 @@
   "connections": {
     "pt": "Filipos aparece em At 16:12–40. A carta tem proximidade com Filemom e Colossenses por terem sido escritas na prisão.",
     "en": "Philippi appears in Acts 16:12–40. The letter is close to Philemon and Colossians because they were written in prison."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Cidade dos destinatários e outras cidades da Macedônia citadas na carta. Macedônia é uma região; o ponto marca o centro dela.",
+      "en": "The recipients' city and other Macedonian cities named in the letter. Macedonia is a region; the point marks its center."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Filipos",
+          "en": "Philippi"
+        },
+        "lonLat": [
+          24.28,
+          41.01
+        ],
+        "note": {
+          "pt": "Destinatários: \"todos os santos em Cristo Jesus que estão em Filipos\" (1:1).",
+          "en": "Recipients: \"all the saints in Christ Jesus who are at Philippi\" (1:1)."
+        },
+        "ref": "1:1"
+      },
+      {
+        "name": {
+          "pt": "Tessalônica",
+          "en": "Thessalonica"
+        },
+        "lonLat": [
+          22.95,
+          40.64
+        ],
+        "note": {
+          "pt": "Os filipenses enviaram ajuda a Paulo em Tessalônica mais de uma vez (4:16).",
+          "en": "The Philippians sent aid to Paul in Thessalonica more than once (4:16)."
+        },
+        "ref": "4:16"
+      },
+      {
+        "name": {
+          "pt": "Macedônia",
+          "en": "Macedonia"
+        },
+        "lonLat": [
+          22.54,
+          41.6
+        ],
+        "note": {
+          "pt": "Paulo lembra o início do evangelho \"ao sair da Macedônia\", quando só Filipos o ajudou (4:15). O ponto marca o centro da região.",
+          "en": "Paul recalls the beginning of the gospel, \"when I left Macedonia\", when only Philippi helped him (4:15). The point marks the center of the region."
+        },
+        "ref": "4:15"
+      }
+    ]
   }
 }

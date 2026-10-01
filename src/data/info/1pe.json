@@ -101,5 +101,105 @@
   "connections": {
     "pt": "Tem afinidades com Efésios, Romanos e Tiago. Cita Isaías 53 em 2:22–25. 2 Pedro 3:1 fala de uma \"segunda carta\".",
     "en": "It has affinities with Ephesians, Romans and James. Quotes Isaiah 53 in 2:22–25. 2 Peter 3:1 speaks of a \"second letter\"."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Regiões da Ásia Menor a que a carta é dirigida (1:1) e o lugar de onde é escrita (5:13). Os pontos de região marcam o centro delas.",
+      "en": "Regions of Asia Minor to which the letter is addressed (1:1) and the place it is written from (5:13). The region points mark their centers."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Ponto",
+          "en": "Pontus"
+        },
+        "lonLat": [
+          37.83,
+          40.68
+        ],
+        "note": {
+          "pt": "Primeira região citada na lista dos destinatários (1:1). O ponto marca o centro da região.",
+          "en": "First region in the list of recipients (1:1). The point marks the center of the region."
+        },
+        "ref": "1:1"
+      },
+      {
+        "name": {
+          "pt": "Galácia",
+          "en": "Galatia"
+        },
+        "lonLat": [
+          32.98,
+          39.27
+        ],
+        "note": {
+          "pt": "Região dos destinatários (1:1). O ponto marca o centro da região.",
+          "en": "Region of the recipients (1:1). The point marks the center of the region."
+        },
+        "ref": "1:1"
+      },
+      {
+        "name": {
+          "pt": "Capadócia",
+          "en": "Cappadocia"
+        },
+        "lonLat": [
+          34.84,
+          38.67
+        ],
+        "note": {
+          "pt": "Região dos destinatários (1:1). O ponto marca o centro da região.",
+          "en": "Region of the recipients (1:1). The point marks the center of the region."
+        },
+        "ref": "1:1"
+      },
+      {
+        "name": {
+          "pt": "Ásia",
+          "en": "Asia"
+        },
+        "lonLat": [
+          28.3,
+          38.4
+        ],
+        "note": {
+          "pt": "Região dos destinatários (1:1). O ponto marca o centro da região.",
+          "en": "Region of the recipients (1:1). The point marks the center of the region."
+        },
+        "ref": "1:1"
+      },
+      {
+        "name": {
+          "pt": "Bitínia",
+          "en": "Bithynia"
+        },
+        "lonLat": [
+          31.0,
+          40.5
+        ],
+        "note": {
+          "pt": "Região dos destinatários (1:1). O ponto marca o centro da região.",
+          "en": "Region of the recipients (1:1). The point marks the center of the region."
+        },
+        "ref": "1:1"
+      },
+      {
+        "name": {
+          "pt": "Babilônia",
+          "en": "Babylon"
+        },
+        "lonLat": [
+          12.49,
+          41.89
+        ],
+        "note": {
+          "pt": "A carta é enviada de \"Babilônia\" (5:13). O OpenBible a trata como outro nome de Roma; a identificação é debatida (outras propostas: a Babilônia da Mesopotâmia).",
+          "en": "The letter is sent from \"Babylon\" (5:13). OpenBible treats it as another name for Rome; the identification is debated (other proposals: Mesopotamian Babylon)."
+        },
+        "ref": "5:13",
+        "uncertain": true
+      }
+    ]
   }
 }

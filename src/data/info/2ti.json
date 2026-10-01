@@ -104,5 +104,179 @@
   "connections": {
     "pt": "Segunda das Cartas Pastorais. As referências a pessoas (4:9–21) dialogam com Atos, Colossenses e Filemom.",
     "en": "The second of the Pastoral Letters. The references to people (4:9–21) are in dialogue with Acts, Colossians and Philemon."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Lugares citados na carta, que se apresenta como escrita da prisão em Roma. Os pontos vêm do OpenBible e não formam um trajeto único; \"?\" marca localização debatida.",
+      "en": "Places named in the letter, which presents itself as written from prison in Rome. Points come from OpenBible and do not form a single route; \"?\" marks a disputed location."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Roma",
+          "en": "Rome"
+        },
+        "lonLat": [
+          12.49,
+          41.89
+        ],
+        "note": {
+          "pt": "Onesíforo procura o autor em Roma e o encontra (1:17).",
+          "en": "Onesiphorus searches for the author in Rome and finds him (1:17)."
+        },
+        "ref": "1:17"
+      },
+      {
+        "name": {
+          "pt": "Éfeso",
+          "en": "Ephesus"
+        },
+        "lonLat": [
+          27.34,
+          37.94
+        ],
+        "note": {
+          "pt": "Onesíforo ajudou o autor em Éfeso (1:18); Tíquico é enviado para lá (4:12).",
+          "en": "Onesiphorus helped the author in Ephesus (1:18); Tychicus is sent there (4:12)."
+        },
+        "ref": "1:18"
+      },
+      {
+        "name": {
+          "pt": "Antioquia da Pisídia",
+          "en": "Antioch in Pisidia"
+        },
+        "lonLat": [
+          31.19,
+          38.31
+        ],
+        "note": {
+          "pt": "Perseguições sofridas em Antioquia, Icônio e Listra (3:11).",
+          "en": "Persecutions suffered in Antioch, Iconium and Lystra (3:11)."
+        },
+        "ref": "3:11"
+      },
+      {
+        "name": {
+          "pt": "Icônio",
+          "en": "Iconium"
+        },
+        "lonLat": [
+          32.49,
+          37.87
+        ],
+        "note": {
+          "pt": "Perseguições sofridas em Antioquia, Icônio e Listra (3:11).",
+          "en": "Persecutions suffered in Antioch, Iconium and Lystra (3:11)."
+        },
+        "ref": "3:11"
+      },
+      {
+        "name": {
+          "pt": "Listra",
+          "en": "Lystra"
+        },
+        "lonLat": [
+          32.34,
+          37.6
+        ],
+        "note": {
+          "pt": "Perseguições sofridas em Antioquia, Icônio e Listra (3:11).",
+          "en": "Persecutions suffered in Antioch, Iconium and Lystra (3:11)."
+        },
+        "ref": "3:11"
+      },
+      {
+        "name": {
+          "pt": "Tessalônica",
+          "en": "Thessalonica"
+        },
+        "lonLat": [
+          22.95,
+          40.64
+        ],
+        "note": {
+          "pt": "Demas, amando o presente século, foi para Tessalônica (4:10).",
+          "en": "Demas, in love with this present world, has gone to Thessalonica (4:10)."
+        },
+        "ref": "4:10"
+      },
+      {
+        "name": {
+          "pt": "Galácia",
+          "en": "Galatia"
+        },
+        "lonLat": [
+          32.98,
+          39.27
+        ],
+        "note": {
+          "pt": "Crescente foi para a Galácia (4:10). O ponto marca o centro da região.",
+          "en": "Crescens has gone to Galatia (4:10). The point marks the center of the region."
+        },
+        "ref": "4:10"
+      },
+      {
+        "name": {
+          "pt": "Dalmácia",
+          "en": "Dalmatia"
+        },
+        "lonLat": [
+          16.22,
+          43.81
+        ],
+        "note": {
+          "pt": "Tito foi para a Dalmácia (4:10). O ponto marca o centro da região.",
+          "en": "Titus has gone to Dalmatia (4:10). The point marks the center of the region."
+        },
+        "ref": "4:10"
+      },
+      {
+        "name": {
+          "pt": "Trôade",
+          "en": "Troas"
+        },
+        "lonLat": [
+          26.16,
+          39.75
+        ],
+        "note": {
+          "pt": "O autor deixou sua capa e seus livros com Carpo em Trôade (4:13).",
+          "en": "The author left his cloak and books with Carpus at Troas (4:13)."
+        },
+        "ref": "4:13"
+      },
+      {
+        "name": {
+          "pt": "Corinto",
+          "en": "Corinth"
+        },
+        "lonLat": [
+          22.88,
+          37.91
+        ],
+        "note": {
+          "pt": "Erasto ficou em Corinto (4:20).",
+          "en": "Erastus remained at Corinth (4:20)."
+        },
+        "ref": "4:20"
+      },
+      {
+        "name": {
+          "pt": "Mileto",
+          "en": "Miletus"
+        },
+        "lonLat": [
+          27.28,
+          37.53
+        ],
+        "note": {
+          "pt": "Trófimo foi deixado doente em Mileto (4:20).",
+          "en": "Trophimus was left sick at Miletus (4:20)."
+        },
+        "ref": "4:20"
+      }
+    ]
   }
 }
