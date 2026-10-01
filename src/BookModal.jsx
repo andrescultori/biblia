@@ -136,9 +136,21 @@ function Sheet({ book, lang, t, info, error }) {
   );
 }
 
+const LANG_NAME = { pt: 'Português', en: 'English' };
+
+// Versão preferida por idioma, lembrada entre livros e visitas (localStorage pode falhar; o leitor funciona sem ele).
+const readPref = (lang) => { try { return localStorage.getItem(`ver:${lang}`); } catch { return null; } };
+const writePref = (lang, id) => { try { localStorage.setItem(`ver:${lang}`, id); } catch { /* ignora */ } };
+
+// Prioriza o idioma da interface: preferida salva, senão a primeira versão desse idioma.
+function pickVersion(versions, lang) {
+  const inLang = versions.filter((v) => v.lang === lang);
+  return (inLang.find((v) => v.id === readPref(lang)) ?? inLang[0] ?? versions[0]).id;
+}
+
 function Reader({ book, lang, t }) {
   const versions = VERSIONS.filter((v) => v.available);
-  const [version, setVersion] = useState(versions.find((v) => v.lang === lang)?.id ?? versions[0].id);
+  const [version, setVersion] = useState(() => pickVersion(versions, lang));
   const [chapter, setChapter] = useState(1);
   const [data, setData] = useState(null);
   const [error, setError] = useState(false);
@@ -150,16 +162,26 @@ function Reader({ book, lang, t }) {
     return () => { alive = false; };
   }, [version, book.n]);
 
-  const hasLangVersion = versions.some((v) => v.lang === lang);
+  const current = versions.find((v) => v.id === version);
+  const groups = [lang, ...Object.keys(LANG_NAME).filter((l) => l !== lang)]
+    .map((l) => [l, versions.filter((v) => v.lang === l)]).filter(([, vs]) => vs.length);
   const verses = data?.[chapter - 1];
+
+  const choose = (id) => {
+    setVersion(id);
+    writePref(versions.find((v) => v.id === id).lang, id);
+  };
 
   return (
     <div className="reader">
-      {!hasLangVersion && t.noPtText && <p className="soon">{t.noPtText}</p>}
       <div className="row">
         <label htmlFor="ver">{t.version}</label>
-        <select id="ver" value={version} onChange={(e) => setVersion(e.target.value)}>
-          {versions.map((v) => <option key={v.id} value={v.id}>{v.label}</option>)}
+        <select id="ver" value={version} onChange={(e) => choose(e.target.value)} title={current.full}>
+          {groups.map(([l, vs]) => (
+            <optgroup key={l} label={LANG_NAME[l]}>
+              {vs.map((v) => <option key={v.id} value={v.id}>{v.label}</option>)}
+            </optgroup>
+          ))}
         </select>
         <label htmlFor="chap">{t.chapter}</label>
         <select id="chap" value={chapter} onChange={(e) => setChapter(Number(e.target.value))}>
@@ -169,8 +191,9 @@ function Reader({ book, lang, t }) {
       {error && <p className="soon">{t.loadError}</p>}
       {!error && !verses && <p className="soon">{t.loading}</p>}
       {verses && (
-        <div className="text" lang={VERSIONS.find((v) => v.id === version).lang}>
-          {verses.map((v, i) => (<p key={i}><sup>{i + 1}</sup>{v}</p>))}
+        // O número vem da posição: versículo que a versão não tem é null e fica sem texto, sem deslocar os seguintes.
+        <div className="text" lang={current.lang}>
+          {verses.map((v, i) => (v === null ? null : <p key={i}><sup>{i + 1}</sup>{v}</p>))}
         </div>
       )}
       {verses && (
@@ -180,6 +203,14 @@ function Reader({ book, lang, t }) {
           <button type="button" className="ghost" disabled={chapter >= book.chapters} onClick={() => setChapter(chapter + 1)}>→</button>
         </div>
       )}
+      <div className="credit">
+        <p>
+          {pick(current.credit, lang)} {pick(current.license, lang)}
+          {current.licenseUrl && <> (<a href={current.licenseUrl} target="_blank" rel="noreferrer">{t.verLicense}</a>)</>}.
+          {current.sourceUrl && <> <a href={current.sourceUrl} target="_blank" rel="noreferrer">{t.verSource}</a>.</>}
+        </p>
+        {current.note && <p>{pick(current.note, lang)}</p>}
+      </div>
     </div>
   );
 }
