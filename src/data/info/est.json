@@ -121,5 +121,59 @@
   "connections": {
     "pt": "No cânon hebraico, Ester é um dos cinco rolos (Megilot) e é lida no Purim. Não é citada diretamente no Novo Testamento.",
     "en": "In the Hebrew canon, Esther is one of the five scrolls (Megillot) and is read at Purim. It is not directly quoted in the New Testament."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "A história se passa na capital persa e envolve também Jerusalém, de onde Mardoqueu fora levado. Pérsia é uma região; o ponto marca o centro dela.",
+      "en": "The story takes place in the Persian capital and also involves Jerusalem, from which Mordecai had been taken. Persia is a region; the point marks its center."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Susã",
+          "en": "Susa"
+        },
+        "lonLat": [
+          48.26,
+          32.19
+        ],
+        "note": {
+          "pt": "Cenário do banquete do rei Assuero, da escolha de Ester como rainha e do decreto de Hamã (1:2; 2:8; 3:15).",
+          "en": "Setting of King Ahasuerus' banquet, Esther's selection as queen and Haman's decree (1:2; 2:8; 3:15)."
+        },
+        "ref": "1:2"
+      },
+      {
+        "name": {
+          "pt": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        "lonLat": [
+          35.23,
+          31.78
+        ],
+        "note": {
+          "pt": "Mardoqueu, bisavô de Quis, fora levado de Jerusalém no exílio (2:5–6).",
+          "en": "Mordecai's ancestor Kish had been taken from Jerusalem into exile (2:5–6)."
+        },
+        "ref": "2:6"
+      },
+      {
+        "name": {
+          "pt": "Pérsia",
+          "en": "Persia"
+        },
+        "lonLat": [
+          48.52,
+          34.81
+        ],
+        "note": {
+          "pt": "O reino de Assuero, com cento e vinte e sete províncias (1:1–3). O ponto marca o centro da região.",
+          "en": "The kingdom of Ahasuerus, with one hundred twenty-seven provinces (1:1–3). The point marks the center of the region."
+        },
+        "ref": "1:3"
+      }
+    ]
   }
 }

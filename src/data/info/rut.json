@@ -128,5 +128,44 @@
   "connections": {
     "pt": "No cânon hebraico, Rute está entre os Escritos; nas Bíblias cristãs vem depois de Juízes. A genealogia final liga o livro a Davi, e Rute é citada na genealogia de Jesus em Mt 1:5.",
     "en": "In the Hebrew canon, Ruth is among the Writings; in Christian Bibles it follows Judges. The final genealogy ties the book to David, and Ruth is named in the genealogy of Jesus in Matt 1:5."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "A família de Noemi sai de Belém para Moabe e, anos depois, volta. O ponto de Moabe marca o centro da região.",
+      "en": "Naomi's family leaves Bethlehem for Moab and, years later, returns. The Moab point marks the center of the region."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Belém",
+          "en": "Bethlehem"
+        },
+        "lonLat": [
+          35.21,
+          31.7
+        ],
+        "note": {
+          "pt": "Terra de Noemi e de Boaz. A família sai daqui por causa da fome (1:1) e Noemi e Rute voltam no começo da colheita da cevada (1:19–22).",
+          "en": "Home of Naomi and Boaz. The family leaves because of famine (1:1), and Naomi and Ruth return at the start of the barley harvest (1:19–22)."
+        },
+        "ref": "1:1"
+      },
+      {
+        "name": {
+          "pt": "Moabe",
+          "en": "Moab"
+        },
+        "lonLat": [
+          35.7,
+          31.18
+        ],
+        "note": {
+          "pt": "Para onde Elimeleque leva a família (1:1–2); ali morrem os maridos e Rute decide seguir Noemi (1:3–17).",
+          "en": "Where Elimelech takes his family (1:1–2); the husbands die there and Ruth decides to follow Naomi (1:3–17)."
+        },
+        "ref": "1:1"
+      }
+    ]
   }
 }

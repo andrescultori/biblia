@@ -165,5 +165,165 @@
   "connections": {
     "pt": "Continua Josué e leva a Rute, ambientada \"no tempo em que os juízes governavam\" (Rt 1:1) e a Samuel. Hb 11:32 cita Gideão, Baraque, Sansão e Jefté.",
     "en": "Continues Joshua and leads into Ruth, set \"in the days when the judges ruled\" (Ruth 1:1), and Samuel. Heb 11:32 mentions Gideon, Barak, Samson and Jephthah."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Lugares dos episódios dos juízes, em ordem aproximada do livro. Os pontos vêm do OpenBible e não formam um trajeto único; \"?\" marca localização debatida.",
+      "en": "Places of the judges' episodes, in rough order of the book. Points come from OpenBible and do not form a single route; \"?\" marks a disputed location."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Moabe",
+          "en": "Moab"
+        },
+        "lonLat": [
+          35.7,
+          31.18
+        ],
+        "note": {
+          "pt": "Eglom, rei de Moabe, oprime Israel; Eúde o mata (3:12–30). O ponto marca o centro da região.",
+          "en": "Eglon, king of Moab, oppresses Israel; Ehud kills him (3:12–30). The point marks the center of the region."
+        },
+        "ref": "3:12"
+      },
+      {
+        "name": {
+          "pt": "Monte Tabor",
+          "en": "Mount Tabor"
+        },
+        "lonLat": [
+          35.39,
+          32.69
+        ],
+        "note": {
+          "pt": "Baraque reúne as tribos aqui para enfrentar Sísera (4:6, 12–14).",
+          "en": "Barak gathers the tribes here to face Sisera (4:6, 12–14)."
+        },
+        "ref": "4:6"
+      },
+      {
+        "name": {
+          "pt": "Ofra",
+          "en": "Ophrah"
+        },
+        "lonLat": [
+          35.29,
+          32.61
+        ],
+        "note": {
+          "pt": "Cidade de Gideão, onde o anjo o chama (6:11) e onde ele faz um altar (6:24). A localização de Ofra é debatida.",
+          "en": "Gideon's town, where the angel calls him (6:11) and he builds an altar (6:24). The location of Ophrah is debated."
+        },
+        "ref": "6:11",
+        "uncertain": true
+      },
+      {
+        "name": {
+          "pt": "Siquém",
+          "en": "Shechem"
+        },
+        "lonLat": [
+          35.28,
+          32.21
+        ],
+        "note": {
+          "pt": "Abimeleque, filho de Gideão, é feito rei aqui (9:1–6) e depois destrói a cidade (9:45).",
+          "en": "Abimelech, Gideon's son, is made king here (9:1–6) and later destroys the city (9:45)."
+        },
+        "ref": "9:1"
+      },
+      {
+        "name": {
+          "pt": "Gileade",
+          "en": "Gilead"
+        },
+        "lonLat": [
+          35.69,
+          32.19
+        ],
+        "note": {
+          "pt": "Região de Jefté, chamado pelos anciãos para liderar contra Amom (11:1–11).",
+          "en": "Jephthah's region; the elders call him to lead against Ammon (11:1–11)."
+        },
+        "ref": "11:1"
+      },
+      {
+        "name": {
+          "pt": "Zorá",
+          "en": "Zorah"
+        },
+        "lonLat": [
+          34.99,
+          31.77
+        ],
+        "note": {
+          "pt": "Cidade de Manoá; o anjo anuncia o nascimento de Sansão (13:2–5).",
+          "en": "Manoah's town; the angel announces Samson's birth (13:2–5)."
+        },
+        "ref": "13:2"
+      },
+      {
+        "name": {
+          "pt": "Gaza",
+          "en": "Gaza"
+        },
+        "lonLat": [
+          34.46,
+          31.5
+        ],
+        "note": {
+          "pt": "Sansão é preso aqui e, por fim, derruba o templo (16:1, 21–30).",
+          "en": "Samson is held here and finally brings down the temple (16:1, 21–30)."
+        },
+        "ref": "16:1"
+      },
+      {
+        "name": {
+          "pt": "Dã",
+          "en": "Dan"
+        },
+        "lonLat": [
+          35.65,
+          33.25
+        ],
+        "note": {
+          "pt": "Os danitas tomam Laís e lhe dão o nome de Dã (18:27–29).",
+          "en": "The Danites take Laish and rename it Dan (18:27–29)."
+        },
+        "ref": "18:27"
+      },
+      {
+        "name": {
+          "pt": "Gibeá",
+          "en": "Gibeah"
+        },
+        "lonLat": [
+          35.23,
+          31.82
+        ],
+        "note": {
+          "pt": "Cenário do crime contra a concubina do levita (19:12–30).",
+          "en": "Setting of the crime against the Levite's concubine (19:12–30)."
+        },
+        "ref": "19:12"
+      },
+      {
+        "name": {
+          "pt": "Mispá",
+          "en": "Mizpah"
+        },
+        "lonLat": [
+          35.22,
+          31.89
+        ],
+        "note": {
+          "pt": "As tribos se reúnem e decidem a guerra contra Benjamim (20:1–3).",
+          "en": "The tribes assemble and decide on war against Benjamin (20:1–3)."
+        },
+        "ref": "20:1"
+      }
+    ]
   }
 }

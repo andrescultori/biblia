@@ -128,5 +128,151 @@
   "connections": {
     "pt": "Continua Deuteronômio e leva a Juízes. Raabe aparece em Mt 1:5, Hb 11:31 e Tg 2:25. Hb 4:8 menciona Josué ao tratar do descanso.",
     "en": "Continues Deuteronomy and leads into Judges. Rahab appears in Matt 1:5, Heb 11:31 and Jas 2:25. Heb 4:8 mentions Joshua when discussing rest."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Lugares da conquista, em ordem aproximada do livro. Os pontos vêm do OpenBible e não formam um trajeto único; \"?\" marca localização debatida.",
+      "en": "Places of the conquest, in rough order of the book. Points come from OpenBible and do not form a single route; \"?\" marks a disputed location."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Gilgal",
+          "en": "Gilgal"
+        },
+        "lonLat": [
+          35.46,
+          31.88
+        ],
+        "note": {
+          "pt": "Primeiro acampamento após atravessar o Jordão: as doze pedras (4:19–20), a circuncisão e a Páscoa (5:2–10).",
+          "en": "First camp after crossing the Jordan: the twelve stones (4:19–20), the circumcision and the Passover (5:2–10)."
+        },
+        "ref": "4:19",
+        "uncertain": true
+      },
+      {
+        "name": {
+          "pt": "Jericó",
+          "en": "Jericho"
+        },
+        "lonLat": [
+          35.44,
+          31.87
+        ],
+        "note": {
+          "pt": "Primeira cidade tomada; as muralhas caem (6:1–20).",
+          "en": "First city taken; the walls fall (6:1–20)."
+        },
+        "ref": "6:1"
+      },
+      {
+        "name": {
+          "pt": "Ai",
+          "en": "Ai"
+        },
+        "lonLat": [
+          35.26,
+          31.92
+        ],
+        "note": {
+          "pt": "Derrota por causa do pecado de Acã (7:2–5) e, depois, conquista da cidade (8:1–29). A localização de Ai é debatida.",
+          "en": "Defeat because of Achan's sin (7:2–5), then conquest of the city (8:1–29). The location of Ai is debated."
+        },
+        "ref": "7:2",
+        "uncertain": true
+      },
+      {
+        "name": {
+          "pt": "Gibeão",
+          "en": "Gibeon"
+        },
+        "lonLat": [
+          35.18,
+          31.85
+        ],
+        "note": {
+          "pt": "Os gibeonitas enganam Josué e firmam aliança (9:3–15); o sol se detém na batalha que se segue (10:10–14).",
+          "en": "The Gibeonites trick Joshua and make a covenant (9:3–15); the sun stands still in the battle that follows (10:10–14)."
+        },
+        "ref": "9:3"
+      },
+      {
+        "name": {
+          "pt": "Laquis",
+          "en": "Lachish"
+        },
+        "lonLat": [
+          34.85,
+          31.57
+        ],
+        "note": {
+          "pt": "Uma das cidades da coalizão do sul, tomada por Josué (10:31–32).",
+          "en": "One of the cities of the southern coalition, taken by Joshua (10:31–32)."
+        },
+        "ref": "10:31"
+      },
+      {
+        "name": {
+          "pt": "Hebrom",
+          "en": "Hebron"
+        },
+        "lonLat": [
+          35.1,
+          31.53
+        ],
+        "note": {
+          "pt": "Tomada por Josué (10:36–37); depois, herança de Calebe (14:13–15).",
+          "en": "Taken by Joshua (10:36–37); later the inheritance of Caleb (14:13–15)."
+        },
+        "ref": "10:36"
+      },
+      {
+        "name": {
+          "pt": "Hazor",
+          "en": "Hazor"
+        },
+        "lonLat": [
+          35.57,
+          33.02
+        ],
+        "note": {
+          "pt": "Cabeça da coalizão do norte; Josué a derrota e queima a cidade (11:1–13).",
+          "en": "Head of the northern coalition; Joshua defeats it and burns the city (11:1–13)."
+        },
+        "ref": "11:1"
+      },
+      {
+        "name": {
+          "pt": "Siló",
+          "en": "Shiloh"
+        },
+        "lonLat": [
+          35.29,
+          32.06
+        ],
+        "note": {
+          "pt": "A tenda do encontro é montada aqui e se reparte o restante da terra (18:1–10).",
+          "en": "The tent of meeting is set up here and the rest of the land is divided (18:1–10)."
+        },
+        "ref": "18:1"
+      },
+      {
+        "name": {
+          "pt": "Siquém",
+          "en": "Shechem"
+        },
+        "lonLat": [
+          35.28,
+          32.21
+        ],
+        "note": {
+          "pt": "Josué reúne as tribos e renova a aliança (24:1, 25).",
+          "en": "Joshua gathers the tribes and renews the covenant (24:1, 25)."
+        },
+        "ref": "24:1"
+      }
+    ]
   }
 }

@@ -72,7 +72,7 @@ A aba **Mapa** do modal aparece nos livros cuja ficha (`src/data/info/<slug>.jso
 - `lonLat` é `[longitude, latitude]`, com duas casas decimais. `ref` guarda só a referência, sem a sigla do livro.
 - `uncertain: true` desenha o pin tracejado e marca "?" no rótulo. Use para localização debatida.
 - `label` (opcional) é `[dx, dy, âncora]` em pixels e vale como primeira tentativa de posição do rótulo. O mapa testa outras 8 posições sozinho para não sobrepor outros rótulos, pins e bordas; o lugar selecionado sempre mostra o rótulo, e os que não acharem espaço ficam sem rótulo (o nome continua na lista).
-- Quando há 3 ou mais lugares muito próximos (1,5° ou menos), aparece o botão **Ampliar região**, que reenquadra o grupo do lugar selecionado (ou o grupo mais denso). Escolher na lista um lugar fora do grupo volta à visão completa.
+- Quando há 3 ou mais lugares muito próximos (1,5° ou menos), aparece o botão **Ampliar região**, que reenquadra o grupo do lugar selecionado (ou o grupo mais denso). Escolher na lista um lugar fora do grupo volta à visão completa. O botão também aparece quando todos os lugares cabem numa área menor que a visão mínima (5,5° × 3,6°), como nos livros históricos.
 - `route: true` liga os lugares na ordem listada, em linha simplificada (não é o trajeto exato).
 - Confira cada coordenada no OpenBible antes de publicar e marque a incerteza. Critério usado nos mapas: `uncertain: true` se o melhor candidato do OpenBible tem menos de 400 pontos, se o segundo tem mais de 40% da pontuação do primeiro, ou se há 5 ou mais candidatos; regiões e nomes alternativos recebem a incerteza do lugar a que se referem.
 

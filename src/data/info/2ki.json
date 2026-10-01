@@ -162,5 +162,210 @@
   "connections": {
     "pt": "Continua 1 Reis. Is 36–39 paralela 2Rs 18–20. Jr e Ez são do mesmo período. Jesus menciona Naamã em Lc 4:27.",
     "en": "Continues 1 Kings. Isa 36–39 parallels 2 Kgs 18–20. Jeremiah and Ezekiel belong to the same period. Jesus mentions Naaman in Luke 4:27."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Lugares dos reinos de Israel e de Judá até o exílio, em ordem aproximada do livro. Os pontos vêm do OpenBible e não formam um trajeto único; \"?\" marca localização debatida.",
+      "en": "Places of the kingdoms of Israel and Judah up to the exile, in rough order of the book. Points come from OpenBible and do not form a single route; \"?\" marks a disputed location."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Samaria",
+          "en": "Samaria"
+        },
+        "lonLat": [
+          35.2,
+          32.28
+        ],
+        "note": {
+          "pt": "Capital do reino do norte. Cercada por Arã (6:24–7:20); cai diante da Assíria (17:5–6).",
+          "en": "Capital of the northern kingdom. Besieged by Aram (6:24–7:20); falls to Assyria (17:5–6)."
+        },
+        "ref": "1:2"
+      },
+      {
+        "name": {
+          "pt": "Betel",
+          "en": "Bethel"
+        },
+        "lonLat": [
+          35.24,
+          31.92
+        ],
+        "note": {
+          "pt": "Elias e Eliseu passam por aqui; Eliseu é zombado pelos jovens (2:2–3, 23–24).",
+          "en": "Elijah and Elisha pass through here; Elisha is mocked by the youths (2:2–3, 23–24)."
+        },
+        "ref": "2:2"
+      },
+      {
+        "name": {
+          "pt": "Jericó",
+          "en": "Jericho"
+        },
+        "lonLat": [
+          35.44,
+          31.87
+        ],
+        "note": {
+          "pt": "Elias é levado ao céu perto do Jordão, depois de passar por aqui; Eliseu sana a água (2:4–22).",
+          "en": "Elijah is taken up near the Jordan after passing through here; Elisha heals the water (2:4–22)."
+        },
+        "ref": "2:4"
+      },
+      {
+        "name": {
+          "pt": "Suném",
+          "en": "Shunem"
+        },
+        "lonLat": [
+          35.33,
+          32.61
+        ],
+        "note": {
+          "pt": "A mulher sunamita hospeda Eliseu, e seu filho é ressuscitado (4:8–37).",
+          "en": "The Shunammite woman hosts Elisha, and her son is raised (4:8–37)."
+        },
+        "ref": "4:8"
+      },
+      {
+        "name": {
+          "pt": "Damasco",
+          "en": "Damascus"
+        },
+        "lonLat": [
+          36.31,
+          33.51
+        ],
+        "note": {
+          "pt": "Naamã, comandante de Arã, vai a Israel ser curado (cap. 5); Eliseu profetiza sobre Hazael aqui (8:7–15).",
+          "en": "Naaman, commander of Aram, goes to Israel to be healed (ch. 5); Elisha prophesies about Hazael here (8:7–15)."
+        },
+        "ref": "5:12"
+      },
+      {
+        "name": {
+          "pt": "Ramote-Gileade",
+          "en": "Ramoth-gilead"
+        },
+        "lonLat": [
+          36.01,
+          32.5
+        ],
+        "note": {
+          "pt": "Jeú é ungido rei aqui, por um discípulo de Eliseu (9:1–13).",
+          "en": "Jehu is anointed king here, by one of Elisha's disciples (9:1–13)."
+        },
+        "ref": "9:1",
+        "uncertain": true
+      },
+      {
+        "name": {
+          "pt": "Jezreel",
+          "en": "Jezreel"
+        },
+        "lonLat": [
+          35.33,
+          32.56
+        ],
+        "note": {
+          "pt": "Jeú mata Jorão e Jezabel (9:14–37).",
+          "en": "Jehu kills Joram and Jezebel (9:14–37)."
+        },
+        "ref": "9:10"
+      },
+      {
+        "name": {
+          "pt": "Laquis",
+          "en": "Lachish"
+        },
+        "lonLat": [
+          34.85,
+          31.57
+        ],
+        "note": {
+          "pt": "Senaqueribe, rei da Assíria, instala-se aqui ao invadir Judá (18:14, 17).",
+          "en": "Sennacherib, king of Assyria, sets up here as he invades Judah (18:14, 17)."
+        },
+        "ref": "18:14"
+      },
+      {
+        "name": {
+          "pt": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        "lonLat": [
+          35.23,
+          31.78
+        ],
+        "note": {
+          "pt": "Ezequias resiste ao cerco assírio (caps. 18–19); a cidade é destruída pelos babilônios (25:8–10).",
+          "en": "Hezekiah withstands the Assyrian siege (chs. 18–19); the city is destroyed by the Babylonians (25:8–10)."
+        },
+        "ref": "19:1"
+      },
+      {
+        "name": {
+          "pt": "Megido",
+          "en": "Megiddo"
+        },
+        "lonLat": [
+          35.18,
+          32.59
+        ],
+        "note": {
+          "pt": "Josias é morto aqui pelo faraó Neco (23:29).",
+          "en": "Josiah is killed here by Pharaoh Neco (23:29)."
+        },
+        "ref": "23:29"
+      },
+      {
+        "name": {
+          "pt": "Ribla",
+          "en": "Riblah"
+        },
+        "lonLat": [
+          36.57,
+          34.46
+        ],
+        "note": {
+          "pt": "O rei da Babilônia julga Zedequias e o cega (25:6–7).",
+          "en": "The king of Babylon sentences Zedekiah and blinds him (25:6–7)."
+        },
+        "ref": "25:6"
+      },
+      {
+        "name": {
+          "pt": "Assíria",
+          "en": "Assyria"
+        },
+        "lonLat": [
+          43.15,
+          36.36
+        ],
+        "note": {
+          "pt": "O reino do norte é levado cativo para a Assíria (15:29; 17:6). O ponto marca o centro da região.",
+          "en": "The northern kingdom is carried captive to Assyria (15:29; 17:6). The point marks the center of the region."
+        },
+        "ref": "17:6"
+      },
+      {
+        "name": {
+          "pt": "Babilônia",
+          "en": "Babylon"
+        },
+        "lonLat": [
+          44.42,
+          32.54
+        ],
+        "note": {
+          "pt": "Judá é levado para a Babilônia (24:10–16; 25:11); Joaquim é libertado no cativeiro (25:27–30).",
+          "en": "Judah is taken to Babylon (24:10–16; 25:11); Jehoiachin is released in captivity (25:27–30)."
+        },
+        "ref": "25:27"
+      }
+    ]
   }
 }
