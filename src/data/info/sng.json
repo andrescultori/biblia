@@ -115,5 +115,110 @@
   "connections": {
     "pt": "O livro não é citado diretamente no Novo Testamento. Na tradição judaica, é lido na Páscoa. O rabino Akiva teria dito que o livro é \"o santo dos santos\" (Mishná, Yadayim 3:5). A divisão em seções é uma entre várias propostas.",
     "en": "The book is not directly quoted in the New Testament. In Jewish tradition, it is read at Passover. Rabbi Akiva is reported to have called it \"the holy of holies\" (Mishnah, Yadayim 3:5). The division into sections is one among several proposals."
+  },
+  "structure": {
+    "note": {
+      "pt": "Os poemas não indicam sempre quem fala; a divisão em partes é uma proposta de leitura, não está marcada no texto hebraico.",
+      "en": "The poems do not always say who is speaking; the division into parts is a proposed reading, not marked in the Hebrew text."
+    },
+    "parts": [
+      {
+        "ref": "1:1–2:7",
+        "title": {
+          "pt": "Título (1:1) e primeiros encontros da amada e do amado",
+          "en": "Title (1:1) and the first meetings of the beloved and her lover"
+        },
+        "chapters": [
+          1,
+          2
+        ]
+      },
+      {
+        "ref": "2:8–3:5",
+        "title": {
+          "pt": "A primavera e a busca à noite",
+          "en": "Spring and the search at night"
+        },
+        "chapters": [
+          3
+        ]
+      },
+      {
+        "ref": "3:6–5:1",
+        "title": {
+          "pt": "O cortejo, o louvor da amada e o jardim fechado",
+          "en": "The procession, the praise of the beloved and the garden enclosed"
+        },
+        "chapters": [
+          4
+        ]
+      },
+      {
+        "ref": "5:2–6:3",
+        "title": {
+          "pt": "Nova busca: o amado que se ausenta",
+          "en": "Another search: the lover who goes away"
+        },
+        "chapters": [
+          5,
+          6
+        ]
+      },
+      {
+        "ref": "6:4–8:4",
+        "title": {
+          "pt": "Louvores e o encontro nos campos",
+          "en": "Praises and the meeting in the fields"
+        },
+        "chapters": [
+          7
+        ]
+      },
+      {
+        "ref": "8:5–14",
+        "title": {
+          "pt": "Conclusão: o amor \"forte como a morte\" (8:6)",
+          "en": "Conclusion: love \"strong as death\" (8:6)"
+        },
+        "chapters": [
+          8
+        ]
+      }
+    ],
+    "readings": [
+      {
+        "view": null,
+        "name": {
+          "pt": "Alegórica",
+          "en": "Allegorical"
+        },
+        "summary": {
+          "pt": "O amor do amado e da amada representa o amor de Deus por Israel (leitura judaica antiga) ou de Cristo pela igreja (leitura cristã tradicional). É a leitura dominante na história da interpretação.",
+          "en": "The love of the lover and the beloved stands for God's love for Israel (early Jewish reading) or Christ's love for the church (traditional Christian reading). It is the dominant reading in the history of interpretation."
+        }
+      },
+      {
+        "view": null,
+        "name": {
+          "pt": "Literal e sapiencial",
+          "en": "Literal and wisdom reading"
+        },
+        "summary": {
+          "pt": "O livro celebra o amor conjugal humano como dom de Deus, no quadro da Criação (Gn 2:23–25), e ensina a viver o desejo com fidelidade (2:7; 8:4).",
+          "en": "The book celebrates human married love as a gift of God, within the frame of Creation (Gen 2:23–25), and teaches how to live desire faithfully (2:7; 8:4)."
+        }
+      },
+      {
+        "view": "scholarly",
+        "name": {
+          "pt": "Coletânea de poemas de amor",
+          "en": "Collection of love poems"
+        },
+        "summary": {
+          "pt": "Para muitos estudiosos, é uma coletânea de poemas de amor, com paralelos na poesia amorosa do Egito e do Antigo Oriente Próximo, sem enredo contínuo. Há também a proposta dramática (a amada, Salomão e um pastor), hoje pouco aceita.",
+          "en": "For many scholars it is a collection of love poems, with parallels in the love poetry of Egypt and the ancient Near East, without a continuous plot. There is also the dramatic proposal (the beloved, Solomon and a shepherd), now little accepted."
+        }
+      }
+    ]
   }
 }

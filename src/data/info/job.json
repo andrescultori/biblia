@@ -118,5 +118,302 @@
   "connections": {
     "pt": "Tg 5:11 cita a perseverança de Jó. Ez 14:14, 20 o menciona ao lado de Noé e Daniel. Paulo cita Jó 5:13 em 1Co 3:19. O livro dialoga com Provérbios e Eclesiastes.",
     "en": "Jas 5:11 cites Job's perseverance. Ezek 14:14, 20 mentions him alongside Noah and Daniel. Paul quotes Job 5:13 in 1 Cor 3:19. The book is in dialogue with Proverbs and Ecclesiastes."
+  },
+  "structure": {
+    "note": {
+      "pt": "Os discursos seguem uma ordem fixa: Elifaz, Jó, Bildade, Jó, Zofar, Jó. No terceiro ciclo Zofar não fala. A cor mostra quem fala em cada capítulo.",
+      "en": "The speeches follow a set order: Eliphaz, Job, Bildad, Job, Zophar, Job. In the third cycle Zophar does not speak. The color shows who speaks in each chapter."
+    },
+    "voices": [
+      {
+        "id": "narr",
+        "name": {
+          "pt": "Narrador",
+          "en": "Narrator"
+        }
+      },
+      {
+        "id": "jo",
+        "name": {
+          "pt": "Jó",
+          "en": "Job"
+        }
+      },
+      {
+        "id": "amigos",
+        "name": {
+          "pt": "Os três amigos",
+          "en": "The three friends"
+        }
+      },
+      {
+        "id": "eliu",
+        "name": {
+          "pt": "Eliú",
+          "en": "Elihu"
+        }
+      },
+      {
+        "id": "deus",
+        "name": {
+          "pt": "O Senhor",
+          "en": "The Lord"
+        }
+      }
+    ],
+    "parts": [
+      {
+        "ref": "1:1–2:13",
+        "title": {
+          "pt": "Prólogo: Jó, o acusador e os amigos que chegam",
+          "en": "Prologue: Job, the accuser and the friends who arrive"
+        },
+        "chapters": [
+          1,
+          2
+        ],
+        "voice": "narr"
+      },
+      {
+        "ref": "3:1–26",
+        "title": {
+          "pt": "Lamento de Jó",
+          "en": "Job's lament"
+        },
+        "chapters": [
+          3
+        ],
+        "voice": "jo"
+      },
+      {
+        "ref": "4:1–5:27",
+        "title": {
+          "pt": "Primeiro ciclo: Elifaz",
+          "en": "First cycle: Eliphaz"
+        },
+        "chapters": [
+          4,
+          5
+        ],
+        "voice": "amigos"
+      },
+      {
+        "ref": "6:1–7:21",
+        "title": {
+          "pt": "Primeiro ciclo: Jó responde",
+          "en": "First cycle: Job answers"
+        },
+        "chapters": [
+          6,
+          7
+        ],
+        "voice": "jo"
+      },
+      {
+        "ref": "8:1–22",
+        "title": {
+          "pt": "Primeiro ciclo: Bildade",
+          "en": "First cycle: Bildad"
+        },
+        "chapters": [
+          8
+        ],
+        "voice": "amigos"
+      },
+      {
+        "ref": "9:1–10:22",
+        "title": {
+          "pt": "Primeiro ciclo: Jó responde",
+          "en": "First cycle: Job answers"
+        },
+        "chapters": [
+          9,
+          10
+        ],
+        "voice": "jo"
+      },
+      {
+        "ref": "11:1–20",
+        "title": {
+          "pt": "Primeiro ciclo: Zofar",
+          "en": "First cycle: Zophar"
+        },
+        "chapters": [
+          11
+        ],
+        "voice": "amigos"
+      },
+      {
+        "ref": "12:1–14:22",
+        "title": {
+          "pt": "Primeiro ciclo: Jó responde",
+          "en": "First cycle: Job answers"
+        },
+        "chapters": [
+          12,
+          13,
+          14
+        ],
+        "voice": "jo"
+      },
+      {
+        "ref": "15:1–35",
+        "title": {
+          "pt": "Segundo ciclo: Elifaz",
+          "en": "Second cycle: Eliphaz"
+        },
+        "chapters": [
+          15
+        ],
+        "voice": "amigos"
+      },
+      {
+        "ref": "16:1–17:16",
+        "title": {
+          "pt": "Segundo ciclo: Jó responde",
+          "en": "Second cycle: Job answers"
+        },
+        "chapters": [
+          16,
+          17
+        ],
+        "voice": "jo"
+      },
+      {
+        "ref": "18:1–21",
+        "title": {
+          "pt": "Segundo ciclo: Bildade",
+          "en": "Second cycle: Bildad"
+        },
+        "chapters": [
+          18
+        ],
+        "voice": "amigos"
+      },
+      {
+        "ref": "19:1–29",
+        "title": {
+          "pt": "Segundo ciclo: Jó responde",
+          "en": "Second cycle: Job answers"
+        },
+        "chapters": [
+          19
+        ],
+        "voice": "jo"
+      },
+      {
+        "ref": "20:1–29",
+        "title": {
+          "pt": "Segundo ciclo: Zofar",
+          "en": "Second cycle: Zophar"
+        },
+        "chapters": [
+          20
+        ],
+        "voice": "amigos"
+      },
+      {
+        "ref": "21:1–34",
+        "title": {
+          "pt": "Segundo ciclo: Jó responde",
+          "en": "Second cycle: Job answers"
+        },
+        "chapters": [
+          21
+        ],
+        "voice": "jo"
+      },
+      {
+        "ref": "22:1–30",
+        "title": {
+          "pt": "Terceiro ciclo: Elifaz",
+          "en": "Third cycle: Eliphaz"
+        },
+        "chapters": [
+          22
+        ],
+        "voice": "amigos"
+      },
+      {
+        "ref": "23:1–24:25",
+        "title": {
+          "pt": "Terceiro ciclo: Jó responde",
+          "en": "Third cycle: Job answers"
+        },
+        "chapters": [
+          23,
+          24
+        ],
+        "voice": "jo"
+      },
+      {
+        "ref": "25:1–6",
+        "title": {
+          "pt": "Terceiro ciclo: Bildade (curto)",
+          "en": "Third cycle: Bildad (short)"
+        },
+        "chapters": [
+          25
+        ],
+        "voice": "amigos"
+      },
+      {
+        "ref": "26:1–31:40",
+        "title": {
+          "pt": "Últimos discursos de Jó, com o hino à sabedoria (cap. 28)",
+          "en": "Job's final speeches, with the hymn to wisdom (ch. 28)"
+        },
+        "chapters": [
+          26,
+          27,
+          28,
+          29,
+          30,
+          31
+        ],
+        "voice": "jo"
+      },
+      {
+        "ref": "32:1–37:24",
+        "title": {
+          "pt": "Eliú",
+          "en": "Elihu"
+        },
+        "chapters": [
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "voice": "eliu"
+      },
+      {
+        "ref": "38:1–41:34",
+        "title": {
+          "pt": "O Senhor responde de dentro da tempestade (Jó responde em 40:3–5)",
+          "en": "The Lord answers out of the whirlwind (Job answers in 40:3–5)"
+        },
+        "chapters": [
+          38,
+          39,
+          40,
+          41
+        ],
+        "voice": "deus"
+      },
+      {
+        "ref": "42:1–17",
+        "title": {
+          "pt": "Resposta de Jó e epílogo",
+          "en": "Job's answer and the epilogue"
+        },
+        "chapters": [
+          42
+        ],
+        "voice": "narr"
+      }
+    ]
   }
 }

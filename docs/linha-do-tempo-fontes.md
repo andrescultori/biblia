@@ -19,7 +19,7 @@ Regra: nenhuma data é inventada. Cada evento tem uma destas bases, e o rascunho
 | Destruição de Jerusalém | 587 ou 586 a.C. | Crônicas babilônicas e arqueologia; o ano depende do sistema de contagem | a conferir em fonte primária |
 | Queda da Babilônia | 539 a.C. | Crônica de Nabonido e Cilindro de Ciro | a conferir em fonte primária |
 | Alexandre derrota Dario III (Isso) | 333 a.C. | Fontes gregas | a conferir em fonte primária |
-| Antíoco IV profana o templo; rededicação | 167 e 164 a.C. | 1–2 Macabeus; fontes helenísticas | a conferir em fonte primária |
+| Antíoco IV profana o templo; rededicação | 167 e 164 a.C. | Josefo (Antiguidades 12); fontes helenísticas | a conferir em fonte primária |
 | Pompeu toma Jerusalém | 63 a.C. | Josefo e fontes romanas | a conferir em fonte primária |
 | Herodes toma Jerusalém (37) e morre (4) a.C. | 37 e 4 a.C. | Josefo | a conferir em fonte primária |
 | Paulo diante de Gálio | 51–52 d.C. | Inscrição de Delfos (mandato de Gálio como procônsul da Acaia) | a conferir em fonte primária |

@@ -2,8 +2,9 @@ import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { BOOKS, bySlug } from './data/books.js';
 import { people } from './data/people.json';
 import timeline from './data/timeline.json';
+import { psalms } from './data/psalms.json';
 import { pick, range, main } from './timelineUtil.js';
-import { hrefs } from './route.js';
+import { hrefs, go } from './route.js';
 
 const norm = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
 const byId = Object.fromEntries(people.map((p) => [p.id, p]));
@@ -111,6 +112,17 @@ export default function People({ lang, t, focusId, onOpenBook, onOpenTimeline, o
                     <button key={e.id} type="button" className="tl-chip" style={{ '--c': 'var(--s-historicos)' }} onClick={() => onOpenTimeline(e.id)}>
                       {pick(e.title, lang)} <small>{range(main(e.dates), lang)}</small>
                     </button>
+                  ))}
+                </div>
+              </>
+            )}
+
+            {psalms.some((x) => x.hist?.people.includes(person.id)) && (
+              <>
+                <h4>{t.psalmsLinked}</h4>
+                <div className="tl-places">
+                  {psalms.filter((x) => x.hist?.people.includes(person.id)).map((x) => (
+                    <button key={x.n} type="button" className="tl-place" onClick={() => go(hrefs.book('psa', 'psalms', String(x.n)))}>{t.psalm} {x.n}</button>
                   ))}
                 </div>
               </>

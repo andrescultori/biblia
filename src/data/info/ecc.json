@@ -95,5 +95,103 @@
   "connections": {
     "pt": "O livro não é citado diretamente no Novo Testamento. Dialoga com Jó e Provérbios. Na tradição judaica, é lido na festa das Cabanas (Sucot).",
     "en": "The book is not directly quoted in the New Testament. It is in dialogue with Job and Proverbs. In Jewish tradition, it is read at the Feast of Booths (Sukkot)."
+  },
+  "structure": {
+    "note": {
+      "pt": "O esboço é aproximado: a estrutura de Eclesiastes é debatida, e há quem veja o livro mais como uma sequência de reflexões do que como um plano ordenado.",
+      "en": "The outline is approximate: the structure of Ecclesiastes is debated, and some see the book more as a sequence of reflections than an ordered plan."
+    },
+    "parts": [
+      {
+        "ref": "1:1–11",
+        "title": {
+          "pt": "Título e tema: tudo é \"vaidade\" (hebel)",
+          "en": "Title and theme: everything is \"vanity\" (hebel)"
+        },
+        "chapters": [
+          1
+        ]
+      },
+      {
+        "ref": "1:12–2:26",
+        "title": {
+          "pt": "A busca do Mestre: sabedoria, prazer e trabalho",
+          "en": "The Teacher's search: wisdom, pleasure and work"
+        },
+        "chapters": [
+          2
+        ]
+      },
+      {
+        "ref": "3:1–22",
+        "title": {
+          "pt": "Tempo para tudo e o destino comum",
+          "en": "A time for everything and the common destiny"
+        },
+        "chapters": [
+          3
+        ]
+      },
+      {
+        "ref": "4:1–6:12",
+        "title": {
+          "pt": "Opressão, trabalho, riqueza e seus limites",
+          "en": "Oppression, work, wealth and their limits"
+        },
+        "chapters": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "ref": "7:1–8:17",
+        "title": {
+          "pt": "Sabedoria, justiça e os limites do entendimento",
+          "en": "Wisdom, justice and the limits of understanding"
+        },
+        "chapters": [
+          7,
+          8
+        ]
+      },
+      {
+        "ref": "9:1–12:14",
+        "title": {
+          "pt": "A morte, a sabedoria, o convite à juventude e o epílogo (12:8–14)",
+          "en": "Death, wisdom, the invitation to youth and the epilogue (12:8–14)"
+        },
+        "chapters": [
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "readings": [
+      {
+        "view": "traditional",
+        "name": {
+          "pt": "Sabedoria que leva a temer a Deus",
+          "en": "Wisdom that leads to fearing God"
+        },
+        "summary": {
+          "pt": "\"Vaidade\" (hebel, literalmente \"sopro\") fala do que é passageiro. O Mestre mostra os limites da vida \"debaixo do sol\", convida a receber com gratidão os dons de Deus e termina em \"teme a Deus e guarda os seus mandamentos\" (12:13–14). A leitura tradicional também vê Salomão como o Mestre.",
+          "en": "\"Vanity\" (hebel, literally \"breath\") speaks of what is fleeting. The Teacher shows the limits of life \"under the sun\", invites gratitude for God's gifts and ends with \"fear God and keep his commandments\" (12:13–14). The traditional reading also sees Solomon as the Teacher."
+        }
+      },
+      {
+        "view": "scholarly",
+        "name": {
+          "pt": "Voz cética, com moldura posterior",
+          "en": "A skeptical voice, with a later frame"
+        },
+        "summary": {
+          "pt": "O Mestre (Coélet) é visto como persona literária, de época posterior a Salomão, cuja voz questiona as certezas tradicionais. Parte dos estudiosos vê em 12:9–14 uma moldura acrescentada por outra mão para acomodar o livro à ortodoxia.",
+          "en": "The Teacher (Qoheleth) is seen as a literary persona, later than Solomon, whose voice questions traditional certainties. Some scholars see 12:9–14 as a frame added by another hand to fit the book to orthodoxy."
+        }
+      }
+    ]
   }
 }

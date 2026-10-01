@@ -41,6 +41,29 @@ for (const slug of books) {
   if (!Array.isArray(d.outline) || !d.outline.length) err(`${slug}: sem esboço`);
   (d.outline ?? []).forEach((o, i) => { refOk(o.ref, slug, `${slug}.outline[${i}]`); bilingual(o.title, `${slug}.outline[${i}].title`); });
 
+  if (d.structure) {
+    const st = d.structure;
+    const n = chaptersOf(slug);
+    if (st.note) bilingual(st.note, `${slug}.structure.note`);
+    const voiceIds = new Set((st.voices ?? []).map((v) => v.id));
+    (st.voices ?? []).forEach((v) => bilingual(v.name, `${slug}.structure.voices.${v.id}`));
+    const seen = [];
+    (st.parts ?? []).forEach((p, i) => {
+      const w = `${slug}.structure.parts[${i}]`;
+      bilingual(p.title, `${w}.title`);
+      p.ref.split(';').forEach((r) => refOk(r.trim(), slug, `${w}.ref`));
+      if (p.voice && !voiceIds.has(p.voice)) err(`${w}: voz "${p.voice}" não existe`);
+      if (voiceIds.size && !p.voice) err(`${w}: falta a voz`);
+      seen.push(...(p.chapters ?? []));
+    });
+    const sorted = [...seen].sort((a, b) => a - b);
+    if (sorted.length !== n || sorted.some((c, k) => c !== k + 1)) err(`${slug}.structure: as partes devem cobrir os capítulos 1 a ${n}, cada um uma vez`);
+    (st.readings ?? []).forEach((r, i) => {
+      bilingual(r.name, `${slug}.structure.readings[${i}].name`); bilingual(r.summary, `${slug}.structure.readings[${i}].summary`);
+      if (r.view !== null && !['traditional', 'scholarly'].includes(r.view)) err(`${slug}.structure.readings[${i}].view: use traditional, scholarly ou null`);
+    });
+  }
+
   if (d.map) {
     const m = d.map;
     if (typeof m.route !== 'boolean') err(`${slug}.map.route: deve ser true/false`);
@@ -187,6 +210,38 @@ for (const ver of VERSIONS) {
     const missing = [...base].filter((k) => !keys.includes(k));
     if (missing.length) err(`i18n.js (${lang}): faltam chaves presentes no primeiro idioma: ${missing.join(', ')}`);
   }
+}
+
+
+// Salmos: 150, com livro do Saltério, título e (nos 13 de título histórico) pessoas e referências existentes
+{
+  const { psalms } = read('src/data/psalms.json');
+  const people = new Set(read('src/data/people.json').people.map((p) => p.id));
+  const events = new Set(read('src/data/timeline.json').events.map((e) => e.id));
+  const AUTHORS = ['david', 'asaph', 'korah', 'solomon', 'moses', 'heman', 'ethan'];
+  const GENRES = ['hino', 'lamento-ind', 'lamento-col', 'confianca', 'acao-gracas', 'real', 'sapiencial', 'historico', 'liturgia'];
+  if (psalms.length !== 150) err(`psalms.json: esperava 150 salmos, achei ${psalms.length}`);
+  psalms.forEach((p, i) => {
+    const w = `psalms[${i + 1}]`;
+    if (p.n !== i + 1) err(`${w}: n deve ser ${i + 1}`);
+    const book = p.n <= 41 ? 1 : p.n <= 72 ? 2 : p.n <= 89 ? 3 : p.n <= 106 ? 4 : 5;
+    if (p.book !== book) err(`${w}: livro do Saltério deve ser ${book}`);
+    (p.by ?? []).forEach((a) => { if (!AUTHORS.includes(a)) err(`${w}: autor "${a}" inválido`); });
+    if (!GENRES.includes(p.genre)) err(`${w}: gênero "${p.genre}" inválido`);
+    if (p.hist) {
+      bilingual(p.hist.text, `${w}.hist.text`);
+      (p.hist.people ?? []).forEach((id) => { if (!people.has(id)) err(`${w}: personagem "${id}" não existe`); });
+      (p.hist.events ?? []).forEach((id) => { if (!events.has(id)) err(`${w}: evento "${id}" não existe`); });
+      if (p.hist.ref) {
+        if (!books.includes(p.hist.ref.book)) err(`${w}.hist.ref: livro inválido`);
+        else p.hist.ref.ref.split(';').forEach((r) => refOk(r.trim(), p.hist.ref.book, `${w}.hist.ref`));
+      }
+      (p.hist.places ?? []).forEach((pl) => {
+        const place = (read(`src/data/info/${pl.book}.json`).map?.places ?? []).find((x) => x.name?.pt === pl.name);
+        if (!place || place.name.en !== pl.en) err(`${w}.hist.places: "${pl.name}" não confere com o mapa de ${pl.book}`);
+      });
+    }
+  });
 }
 
 if (errors.length) {
