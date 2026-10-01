@@ -1,0 +1,105 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Desconhecido. O livro fala de Jonas, filho de Amitai (1:1), profeta mencionado em 2Rs 14:25, mas não diz quem o escreveu.",
+      "en": "Unknown. The book speaks of Jonah, son of Amittai (1:1), a prophet mentioned in 2 Kgs 14:25, but does not say who wrote it."
+    },
+    "scholarly": {
+      "pt": "Obra anônima, de autor desconhecido. A maioria dos estudiosos a situa muito depois de Jonas, e o gênero (relato histórico, parábola, sátira ou novela) é discutido.",
+      "en": "An anonymous work by an unknown author. Most scholars place it long after Jonah, and the genre (historical account, parable, satire or novella) is discussed."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "O profeta Jonas é situado no reinado de Jeroboão II (2Rs 14:25), c. 780–750 a.C.",
+      "en": "The prophet Jonah is placed in the reign of Jeroboam II (2 Kgs 14:25), c. 780–750 BC."
+    },
+    "scholarly": {
+      "pt": "Em geral, período pós-exílico (séc. V–III a.C.), pela língua e pelas alusões a outros textos.",
+      "en": "Generally the post-exilic period (5th–3rd centuries BC), because of the language and the allusions to other texts."
+    }
+  },
+  "place": {
+    "pt": "O livro não indica o local; os cenários são Jope, o mar e Nínive, capital da Assíria.",
+    "en": "The book does not state the place; the settings are Joppa, the sea and Nineveh, the capital of Assyria."
+  },
+  "recipients": {
+    "pt": "Israel, que lê a história de um profeta e de uma cidade estrangeira.",
+    "en": "Israel, which reads the story of a prophet and a foreign city."
+  },
+  "keyVerse": "4:11",
+  "theme": {
+    "pt": "A compaixão de Deus se estende além de Israel, incluindo Nínive; a resistência do profeta contrasta com o arrependimento dos pagãos.",
+    "en": "God's compassion extends beyond Israel, including Nineveh; the prophet's resistance contrasts with the repentance of the pagans."
+  },
+  "historicalContext": {
+    "pt": "Nínive foi capital da Assíria, que dominou Israel e foi destruída em 612 a.C. O livro é uma narrativa, não uma coleção de oráculos. Os elementos sobrenaturais (como o grande peixe) e a conversão de uma cidade inteira levam a discussões sobre historicidade e gênero.",
+    "en": "Nineveh was the capital of Assyria, which dominated Israel and was destroyed in 612 BC. The book is a narrative, not a collection of oracles. The supernatural elements (such as the great fish) and the conversion of an entire city lead to discussions about historicity and genre."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Jonas",
+        "en": "Jonah"
+      },
+      "role": {
+        "pt": "Profeta que foge da missão de ir a Nínive",
+        "en": "Prophet who flees the mission to go to Nineveh"
+      }
+    },
+    {
+      "name": {
+        "pt": "Os marinheiros",
+        "en": "The sailors"
+      },
+      "role": {
+        "pt": "Pagãos que temem a Deus no mar (cap. 1)",
+        "en": "Pagans who fear God at sea (ch. 1)"
+      }
+    },
+    {
+      "name": {
+        "pt": "O rei e o povo de Nínive",
+        "en": "The king and people of Nineveh"
+      },
+      "role": {
+        "pt": "Arrependem-se com a pregação (cap. 3)",
+        "en": "Repent at the preaching (ch. 3)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–16",
+      "title": {
+        "pt": "Jonas foge e a tempestade",
+        "en": "Jonah flees and the storm"
+      }
+    },
+    {
+      "ref": "1:17–2:10",
+      "title": {
+        "pt": "Jonas no grande peixe e sua oração",
+        "en": "Jonah in the great fish and his prayer"
+      }
+    },
+    {
+      "ref": "3:1–10",
+      "title": {
+        "pt": "A pregação em Nínive",
+        "en": "The preaching in Nineveh"
+      }
+    },
+    {
+      "ref": "4:1–11",
+      "title": {
+        "pt": "A ira de Jonas e a resposta de Deus",
+        "en": "Jonah's anger and God's reply"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Jesus fala do \"sinal de Jonas\" em Mt 12:39–41 e Lc 11:29–32, e compara o tempo de Jonas no peixe com o seu. 2Rs 14:25 menciona o profeta. A frase de 4:2 ecoa Êx 34:6.",
+    "en": "Jesus speaks of the \"sign of Jonah\" in Matt 12:39–41 and Luke 11:29–32, and compares Jonah's time in the fish with his own. 2 Kgs 14:25 mentions the prophet. The phrase in 4:2 echoes Exod 34:6."
+  }
+}

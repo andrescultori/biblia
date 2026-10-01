@@ -1,0 +1,102 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Habacuque, chamado de profeta (1:1). O livro não traz outros dados sobre ele.",
+      "en": "Habakkuk, called a prophet (1:1). The book gives no other information about him."
+    },
+    "scholarly": {
+      "pt": "Obra do profeta, em forma de diálogo com Deus. O cap. 3 é um salmo com instruções musicais, e sua relação com o resto do livro é debatida.",
+      "en": "The work of the prophet, in the form of a dialogue with God. Chapter 3 is a psalm with musical directions, and its relationship to the rest of the book is debated."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Em geral, no fim do séc. VII a.C., quando os caldeus (babilônios) se tornam uma ameaça (1:6), c. 609–597 a.C.",
+      "en": "Generally at the end of the 7th century BC, when the Chaldeans (Babylonians) become a threat (1:6), c. 609–597 BC."
+    },
+    "scholarly": {
+      "pt": "Séc. VII–VI a.C., com a mesma janela de datação.",
+      "en": "7th–6th centuries BC, with the same dating window."
+    }
+  },
+  "place": {
+    "pt": "Judá. O local de composição não é indicado.",
+    "en": "Judah. The place of composition is not stated."
+  },
+  "recipients": {
+    "pt": "Deus, a quem o profeta se dirige, e a comunidade de Judá.",
+    "en": "God, to whom the prophet speaks, and the community of Judah."
+  },
+  "keyVerse": "2:4",
+  "theme": {
+    "pt": "A pergunta sobre a justiça de Deus diante da violência, e a resposta de que o justo viverá pela fé.",
+    "en": "The question about God's justice in the face of violence, and the answer that the righteous will live by faith."
+  },
+  "historicalContext": {
+    "pt": "O profeta questiona Deus duas vezes, e as respostas incluem o anúncio de que Deus levantará os caldeus. O comentário a Habacuque (pesher) foi encontrado entre os Manuscritos do Mar Morto. O cap. 3 termina com uma confissão de confiança (3:17–19).",
+    "en": "The prophet questions God twice, and the answers include the announcement that God will raise up the Chaldeans. The commentary on Habakkuk (pesher) was found among the Dead Sea Scrolls. Chapter 3 ends with a confession of trust (3:17–19)."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Habacuque",
+        "en": "Habakkuk"
+      },
+      "role": {
+        "pt": "Profeta que dialoga com Deus",
+        "en": "Prophet who dialogues with God"
+      }
+    },
+    {
+      "name": {
+        "pt": "Os caldeus",
+        "en": "The Chaldeans"
+      },
+      "role": {
+        "pt": "Povo que Deus levanta (1:6)",
+        "en": "The people God raises up (1:6)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–4",
+      "title": {
+        "pt": "Primeira queixa",
+        "en": "First complaint"
+      }
+    },
+    {
+      "ref": "1:5–11",
+      "title": {
+        "pt": "Resposta: o levantar dos caldeus",
+        "en": "Answer: the rise of the Chaldeans"
+      }
+    },
+    {
+      "ref": "1:12–2:1",
+      "title": {
+        "pt": "Segunda queixa",
+        "en": "Second complaint"
+      }
+    },
+    {
+      "ref": "2:2–20",
+      "title": {
+        "pt": "Resposta: o justo viverá pela fé; os cinco ais",
+        "en": "Answer: the righteous will live by faith; the five woes"
+      }
+    },
+    {
+      "ref": "3:1–19",
+      "title": {
+        "pt": "A oração do profeta",
+        "en": "The prophet's prayer"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Hc 2:4 é citado em Rm 1:17, Gl 3:11 e Hb 10:38. At 13:41 cita Hc 1:5. O livro também dialoga com Jó sobre a justiça de Deus.",
+    "en": "Hab 2:4 is quoted in Rom 1:17, Gal 3:11 and Heb 10:38. Acts 13:41 quotes Hab 1:5. The book also dialogues with Job on the justice of God."
+  }
+}

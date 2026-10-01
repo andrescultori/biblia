@@ -1,0 +1,112 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Zacarias, filho de Berequias e neto de Ido (1:1), profeta do retorno do exílio. Ed 5:1 e 6:14 o ligam a Ageu.",
+      "en": "Zechariah, son of Berechiah and grandson of Iddo (1:1), a prophet of the return from exile. Ezra 5:1 and 6:14 link him with Haggai."
+    },
+    "scholarly": {
+      "pt": "Os caps. 1–8 são atribuídos ao profeta, e os caps. 9–14 costumam ser vistos como obra posterior, de outra mão ou escola, com datas debatidas. Não há consenso sobre a unidade do livro.",
+      "en": "Chapters 1–8 are attributed to the prophet, and chs. 9–14 are usually seen as a later work, from another hand or school, with debated dates. There is no consensus on the unity of the book."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Os caps. 1–8 são datados nos anos 520–518 a.C. (1:1; 1:7; 7:1), no reinado de Dario.",
+      "en": "Chapters 1–8 are dated to 520–518 BC (1:1; 1:7; 7:1), in the reign of Darius."
+    },
+    "scholarly": {
+      "pt": "Caps. 1–8: c. 520–518 a.C.; caps. 9–14: período persa tardio ou helenístico, em propostas variadas.",
+      "en": "Chs. 1–8: c. 520–518 BC; chs. 9–14: late Persian or Hellenistic period, in various proposals."
+    }
+  },
+  "place": {
+    "pt": "Jerusalém.",
+    "en": "Jerusalem."
+  },
+  "recipients": {
+    "pt": "A comunidade que voltou do exílio, em especial Zorobabel e o sumo sacerdote Josué.",
+    "en": "The community that returned from exile, especially Zerubbabel and the high priest Joshua."
+  },
+  "keyVerse": "4:6",
+  "theme": {
+    "pt": "A restauração de Jerusalém e do templo pelo Espírito de Deus, com visões noturnas, o futuro rei humilde e o pastor ferido.",
+    "en": "The restoration of Jerusalem and the temple by God's Spirit, with night visions, the humble future king and the struck shepherd."
+  },
+  "historicalContext": {
+    "pt": "O livro mistura visões simbólicas (1:7–6:8) com oráculos de esperança. Os caps. 9–14 trazem imagens, como o rei humilde (9:9), o pastor ferido (13:7) e aquele a quem traspassaram (12:10), que o Novo Testamento relê. A interpretação dessas passagens é muito discutida.",
+    "en": "The book mixes symbolic visions (1:7–6:8) with oracles of hope. Chapters 9–14 bring images such as the humble king (9:9), the struck shepherd (13:7) and the one they pierced (12:10), which the New Testament rereads. The interpretation of these passages is much discussed."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Zacarias",
+        "en": "Zechariah"
+      },
+      "role": {
+        "pt": "Profeta; recebe as visões",
+        "en": "Prophet; receives the visions"
+      }
+    },
+    {
+      "name": {
+        "pt": "Zorobabel",
+        "en": "Zerubbabel"
+      },
+      "role": {
+        "pt": "Governador de Judá (4:6–10)",
+        "en": "Governor of Judah (4:6–10)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Josué",
+        "en": "Joshua"
+      },
+      "role": {
+        "pt": "Sumo sacerdote (cap. 3)",
+        "en": "High priest (ch. 3)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–6",
+      "title": {
+        "pt": "Chamado ao retorno",
+        "en": "Call to return"
+      }
+    },
+    {
+      "ref": "1:7–6:15",
+      "title": {
+        "pt": "As oito visões noturnas",
+        "en": "The eight night visions"
+      }
+    },
+    {
+      "ref": "7:1–8:23",
+      "title": {
+        "pt": "A questão do jejum e promessas",
+        "en": "The question of fasting and promises"
+      }
+    },
+    {
+      "ref": "9:1–11:17",
+      "title": {
+        "pt": "Primeiro oráculo: o rei e o pastor",
+        "en": "First oracle: the king and the shepherd"
+      }
+    },
+    {
+      "ref": "12:1–14:21",
+      "title": {
+        "pt": "Segundo oráculo: Jerusalém e o dia do Senhor",
+        "en": "Second oracle: Jerusalem and the day of the Lord"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Mt 21:5 e Jo 12:15 citam Zc 9:9. Mt 26:31 cita Zc 13:7. Jo 19:37 cita Zc 12:10. Mt 27:9–10 relaciona Zc 11:12–13 a Jeremias. Ap usa imagens de Zacarias, como os cavalos e as lâmpadas.",
+    "en": "Matt 21:5 and John 12:15 quote Zech 9:9. Matt 26:31 quotes Zech 13:7. John 19:37 quotes Zech 12:10. Matt 27:9–10 relates Zech 11:12–13 to Jeremiah. Revelation uses images from Zechariah, such as the horses and the lampstands."
+  }
+}

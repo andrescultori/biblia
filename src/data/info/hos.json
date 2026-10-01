@@ -1,0 +1,98 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Oseias, filho de Beeri (1:1), profeta no reino do norte (Israel). A tradição o situa no séc. VIII a.C.",
+      "en": "Hosea, son of Beeri (1:1), a prophet in the northern kingdom (Israel). Tradition places him in the 8th century BC."
+    },
+    "scholarly": {
+      "pt": "O núcleo é visto como obra do profeta, com revisões posteriores em Judá (por exemplo, as menções a Judá). O texto hebraico é difícil, e há muita discussão sobre sua transmissão. Não há consenso sobre a extensão das revisões.",
+      "en": "The core is seen as the work of the prophet, with later revisions in Judah (for example, the mentions of Judah). The Hebrew text is difficult, and there is much discussion of its transmission. There is no consensus on the extent of the revisions."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Ministério no tempo de Jeroboão II de Israel e de Uzias a Ezequias de Judá (1:1), c. 755–722 a.C.",
+      "en": "Ministry in the time of Jeroboam II of Israel and of Uzziah to Hezekiah of Judah (1:1), c. 755–722 BC."
+    },
+    "scholarly": {
+      "pt": "Séc. VIII a.C., com edição posterior, talvez em Judá, depois da queda de Samaria.",
+      "en": "8th century BC, with later editing, perhaps in Judah, after the fall of Samaria."
+    }
+  },
+  "place": {
+    "pt": "Israel, o reino do norte. O local de composição não é indicado.",
+    "en": "Israel, the northern kingdom. The place of composition is not stated."
+  },
+  "recipients": {
+    "pt": "Israel (também chamado Efraim), com algumas menções a Judá.",
+    "en": "Israel (also called Ephraim), with some mentions of Judah."
+  },
+  "keyVerse": "6:6",
+  "theme": {
+    "pt": "O amor fiel de Deus diante da infidelidade de Israel, ilustrado pelo casamento do profeta, com juízo e restauração.",
+    "en": "God's faithful love in the face of Israel's unfaithfulness, illustrated by the prophet's marriage, with judgment and restoration."
+  },
+  "historicalContext": {
+    "pt": "O livro vem do fim do reino do norte, marcado por instabilidade política, culto a Baal e alianças com Assíria e Egito. A relação de Oseias com Gômer (caps. 1–3) é usada como imagem da aliança, e o sentido exato (casamento real ou simbólico) é debatido. Os nomes dos filhos têm valor simbólico (Jezreel, Lo-Ruama, Lo-Ami).",
+    "en": "The book comes from the end of the northern kingdom, marked by political instability, Baal worship and alliances with Assyria and Egypt. Hosea's relationship with Gomer (chs. 1–3) is used as an image of the covenant, and the exact sense (real or symbolic marriage) is debated. The children's names have symbolic value (Jezreel, Lo-ruhamah, Lo-ammi)."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Oseias",
+        "en": "Hosea"
+      },
+      "role": {
+        "pt": "Profeta; sua vida conjugal é sinal para Israel",
+        "en": "Prophet; his married life is a sign for Israel"
+      }
+    },
+    {
+      "name": {
+        "pt": "Gômer",
+        "en": "Gomer"
+      },
+      "role": {
+        "pt": "Esposa de Oseias (cap. 1 e 3)",
+        "en": "Hosea's wife (chs. 1 and 3)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Jezreel, Lo-Ruama e Lo-Ami",
+        "en": "Jezreel, Lo-ruhamah and Lo-ammi"
+      },
+      "role": {
+        "pt": "Filhos com nomes simbólicos (1:3–9)",
+        "en": "Children with symbolic names (1:3–9)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–3:5",
+      "title": {
+        "pt": "Oseias e Gômer: o casamento como sinal",
+        "en": "Hosea and Gomer: marriage as a sign"
+      }
+    },
+    {
+      "ref": "4:1–13:16",
+      "title": {
+        "pt": "Acusações e juízo contra Israel",
+        "en": "Accusations and judgment against Israel"
+      }
+    },
+    {
+      "ref": "14:1–9",
+      "title": {
+        "pt": "Chamado ao retorno e promessa de cura",
+        "en": "Call to return and promise of healing"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Mt 2:15 cita Os 11:1. Jesus cita Os 6:6 em Mt 9:13 e 12:7. Rm 9:25–26 e 1Pe 2:10 usam Os 1:10 e 2:23. Paulo alude a Os 13:14 em 1Co 15:55.",
+    "en": "Matt 2:15 quotes Hos 11:1. Jesus quotes Hos 6:6 in Matt 9:13 and 12:7. Rom 9:25–26 and 1 Pet 2:10 use Hos 1:10 and 2:23. Paul alludes to Hos 13:14 in 1 Cor 15:55."
+  }
+}

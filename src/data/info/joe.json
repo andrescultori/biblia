@@ -1,0 +1,85 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Joel, filho de Petuel (1:1). O livro não traz outros dados sobre ele.",
+      "en": "Joel, son of Pethuel (1:1). The book gives no other information about him."
+    },
+    "scholarly": {
+      "pt": "Obra do profeta Joel. A unidade do livro é discutida, e alguns veem o cap. 3 (Jl 2:28–3:21 nas Bíblias hebraicas) como acréscimo. Não há consenso.",
+      "en": "A work of the prophet Joel. The unity of the book is discussed, and some see the last section (Joel 2:28–3:21, in Hebrew Bibles) as an addition. There is no consensus."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Não há data de composição no texto.",
+      "en": "No date of composition is given in the text."
+    },
+    "scholarly": {
+      "pt": "Muito debatida: propostas vão do séc. IX a.C. ao séc. IV a.C. A maioria dos estudiosos prefere o período pós-exílico (séc. V–IV a.C.), por alusões ao templo e à ausência de rei.",
+      "en": "Much debated: proposals range from the 9th to the 4th century BC. Most scholars prefer the post-exilic period (5th–4th centuries BC), because of allusions to the temple and the absence of a king."
+    }
+  },
+  "place": {
+    "pt": "Judá e Jerusalém.",
+    "en": "Judah and Jerusalem."
+  },
+  "recipients": {
+    "pt": "Os habitantes de Judá, os sacerdotes e os anciãos (1:2, 9, 13).",
+    "en": "The inhabitants of Judah, the priests and the elders (1:2, 9, 13)."
+  },
+  "keyVerse": "2:28",
+  "theme": {
+    "pt": "Uma praga de gafanhotos é lida como sinal do \"dia do Senhor\"; o profeta convoca ao arrependimento e promete restauração e derramamento do Espírito.",
+    "en": "A locust plague is read as a sign of the \"day of the Lord\"; the prophet calls to repentance and promises restoration and the outpouring of the Spirit."
+  },
+  "historicalContext": {
+    "pt": "As imagens da praga de gafanhotos podem ser lidas literalmente, como alegoria de um exército ou como uma combinação de ambas. A numeração dos capítulos varia: as Bíblias hebraicas têm 4 capítulos, e as cristãs têm 3, com a divisão entre 2:27 e 2:28.",
+    "en": "The images of the locust plague can be read literally, as allegory of an army, or as a combination of both. Chapter numbering varies: Hebrew Bibles have 4 chapters, and Christian ones have 3, with the division at 2:27/2:28."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Joel",
+        "en": "Joel"
+      },
+      "role": {
+        "pt": "Profeta; filho de Petuel",
+        "en": "Prophet; son of Pethuel"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–20",
+      "title": {
+        "pt": "A praga de gafanhotos e o lamento",
+        "en": "The locust plague and the lament"
+      }
+    },
+    {
+      "ref": "2:1–17",
+      "title": {
+        "pt": "O dia do Senhor e o chamado ao arrependimento",
+        "en": "The day of the Lord and the call to repentance"
+      }
+    },
+    {
+      "ref": "2:18–32",
+      "title": {
+        "pt": "A resposta do Senhor e a promessa do Espírito",
+        "en": "The Lord's answer and the promise of the Spirit"
+      }
+    },
+    {
+      "ref": "3:1–21",
+      "title": {
+        "pt": "O juízo das nações e a restauração de Judá",
+        "en": "Judgment of the nations and the restoration of Judah"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Pedro cita Jl 2:28–32 em At 2:16–21, no Pentecostes. Paulo cita Jl 2:32 em Rm 10:13. O tema do \"dia do Senhor\" é compartilhado com Amós, Sofonias e outros profetas.",
+    "en": "Peter quotes Joel 2:28–32 in Acts 2:16–21, at Pentecost. Paul quotes Joel 2:32 in Rom 10:13. The theme of the \"day of the Lord\" is shared with Amos, Zephaniah and other prophets."
+  }
+}
