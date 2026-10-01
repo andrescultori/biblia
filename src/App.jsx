@@ -132,6 +132,12 @@ export default function App() {
       {route.kind === 'book' && (
         <BookModal key={route.slug} book={bySlug[route.slug]} lang={lang} t={t} initialTab={route.tab} initialPlace={route.place} onNavigate={open} onOpenTimeline={openTimeline} onOpenPerson={openPerson} />
       )}
+      <footer className="assinatura">
+        {t.madeBy}{' '}
+        <a href="https://github.com/andrescultori" target="_blank" rel="noopener noreferrer">André Scultori</a>
+        {' · © 2026 · '}
+        <a href="https://andrescultori.github.io/biblia/" target="_blank" rel="noopener noreferrer">GitHub</a>
+      </footer>
       {showSettings && <SettingsModal t={t} settings={settings} onChange={setSettings} onClose={() => setShowSettings(false)} />}
     </SettingsContext.Provider>
   );

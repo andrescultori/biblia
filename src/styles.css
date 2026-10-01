@@ -200,3 +200,7 @@ input[type='search'] { flex: 1 1 200px; min-width: 0; border: 1px solid var(--li
 .back { text-decoration: none; color: var(--fg); white-space: nowrap; align-self: flex-start; }
 .page-wait { max-width: 1040px; margin: 24px auto; }
 @media (min-width: 900px) { .page .sheet { padding: 24px; } }
+
+/* rodapé de assinatura */
+.assinatura { max-width: 1040px; margin: 32px auto 0; padding-top: 16px; border-top: 1px solid var(--line); text-align: center; font-size: 0.85rem; color: var(--muted); overflow-wrap: anywhere; }
+.assinatura a { color: var(--fg); text-underline-offset: 2px; }
