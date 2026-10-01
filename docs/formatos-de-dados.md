@@ -95,3 +95,7 @@ A navegação usa o hash da URL, sem biblioteca de rotas; o botão voltar do nav
 | `#person`, `#person/davi` | lista de personagens ou a página de uma pessoa |
 
 Trocar de aba ou de lugar atualiza o endereço sem criar entrada no histórico; ir para outra página cria. Ao voltar para a grade, a rolagem é restaurada. O código está em `src/route.js`.
+
+## Salmos
+
+`src/data/psalms.json` tem os 150 salmos (numeração da KJV): `book` (1 a 5, do Saltério), `by` (autores no título: `david`, `asaph`, `korah`, `solomon`, `moses`, `heman`, `ethan`), `genre` (classificação de Gunkel e Westermann; `mixed: true` quando o salmo é misto), `pilgrim` (Sl 120–134, "cântico de romagem") e, nos 13 salmos de título histórico, `hist` (`text`, `ref`, `people`, `events`, `places`). O gênero é uma leitura acadêmica e só aparece com a posição acadêmica ligada. `npm run check` valida a contagem, o livro do Saltério, as pessoas, eventos e lugares ligados.

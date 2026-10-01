@@ -1,0 +1,1375 @@
+{
+ "psalms": [
+  {
+   "n": 1,
+   "book": 1,
+   "by": [],
+   "genre": "sapiencial"
+  },
+  {
+   "n": 2,
+   "book": 1,
+   "by": [],
+   "genre": "real"
+  },
+  {
+   "n": 3,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind",
+   "hist": {
+    "text": {
+     "pt": "Fugindo de Absalão, seu filho.",
+     "en": "Fleeing from Absalom, his son."
+    },
+    "people": [
+     "davi",
+     "absalao"
+    ],
+    "events": [
+     "davi"
+    ],
+    "ref": {
+     "book": "2sa",
+     "ref": "15–17"
+    }
+   }
+  },
+  {
+   "n": 4,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "confianca"
+  },
+  {
+   "n": 5,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind"
+  },
+  {
+   "n": 6,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind"
+  },
+  {
+   "n": 7,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind",
+   "hist": {
+    "text": {
+     "pt": "Sobre as palavras de Cuxe, o benjamita.",
+     "en": "Concerning the words of Cush, a Benjaminite."
+    },
+    "people": [
+     "davi"
+    ],
+    "events": [
+     "davi"
+    ]
+   }
+  },
+  {
+   "n": 8,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "hino"
+  },
+  {
+   "n": 9,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "acao-gracas"
+  },
+  {
+   "n": 10,
+   "book": 1,
+   "by": [],
+   "genre": "lamento-ind"
+  },
+  {
+   "n": 11,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "confianca"
+  },
+  {
+   "n": 12,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-col"
+  },
+  {
+   "n": 13,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind"
+  },
+  {
+   "n": 14,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "sapiencial"
+  },
+  {
+   "n": 15,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "liturgia"
+  },
+  {
+   "n": 16,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "confianca"
+  },
+  {
+   "n": 17,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind"
+  },
+  {
+   "n": 18,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "real",
+   "mixed": true,
+   "hist": {
+    "text": {
+     "pt": "No dia em que o Senhor o livrou de todos os seus inimigos e da mão de Saul (veja também 2Sm 22).",
+     "en": "On the day the Lord delivered him from all his enemies and from the hand of Saul (see also 2 Sam 22)."
+    },
+    "people": [
+     "davi",
+     "saul"
+    ],
+    "events": [
+     "davi"
+    ],
+    "ref": {
+     "book": "2sa",
+     "ref": "22"
+    }
+   }
+  },
+  {
+   "n": 19,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "hino",
+   "mixed": true
+  },
+  {
+   "n": 20,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "real"
+  },
+  {
+   "n": 21,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "real"
+  },
+  {
+   "n": 22,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind",
+   "mixed": true
+  },
+  {
+   "n": 23,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "confianca"
+  },
+  {
+   "n": 24,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "liturgia",
+   "mixed": true
+  },
+  {
+   "n": 25,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind",
+   "mixed": true
+  },
+  {
+   "n": 26,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind"
+  },
+  {
+   "n": 27,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "confianca",
+   "mixed": true
+  },
+  {
+   "n": 28,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind"
+  },
+  {
+   "n": 29,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "hino"
+  },
+  {
+   "n": 30,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "acao-gracas"
+  },
+  {
+   "n": 31,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind"
+  },
+  {
+   "n": 32,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "acao-gracas"
+  },
+  {
+   "n": 33,
+   "book": 1,
+   "by": [],
+   "genre": "hino"
+  },
+  {
+   "n": 34,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "acao-gracas",
+   "mixed": true,
+   "hist": {
+    "text": {
+     "pt": "Quando mudou o seu comportamento diante de Abimeleque, que o expulsou. O relato de 1Sm 21:10–15 chama o rei de Aquis.",
+     "en": "When he changed his behavior before Abimelech, who drove him out. The account in 1 Sam 21:10–15 calls the king Achish."
+    },
+    "people": [
+     "davi"
+    ],
+    "events": [
+     "davi"
+    ],
+    "ref": {
+     "book": "1sa",
+     "ref": "21:10–15"
+    },
+    "places": [
+     {
+      "book": "1sa",
+      "name": "Gate",
+      "en": "Gath"
+     }
+    ]
+   }
+  },
+  {
+   "n": 35,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind"
+  },
+  {
+   "n": 36,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "sapiencial"
+  },
+  {
+   "n": 37,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "sapiencial",
+   "mixed": true
+  },
+  {
+   "n": 38,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind"
+  },
+  {
+   "n": 39,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind"
+  },
+  {
+   "n": 40,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "acao-gracas",
+   "mixed": true
+  },
+  {
+   "n": 41,
+   "book": 1,
+   "by": [
+    "david"
+   ],
+   "genre": "acao-gracas"
+  },
+  {
+   "n": 42,
+   "book": 2,
+   "by": [
+    "korah"
+   ],
+   "genre": "lamento-ind"
+  },
+  {
+   "n": 43,
+   "book": 2,
+   "by": [],
+   "genre": "lamento-ind"
+  },
+  {
+   "n": 44,
+   "book": 2,
+   "by": [
+    "korah"
+   ],
+   "genre": "lamento-col"
+  },
+  {
+   "n": 45,
+   "book": 2,
+   "by": [
+    "korah"
+   ],
+   "genre": "real"
+  },
+  {
+   "n": 46,
+   "book": 2,
+   "by": [
+    "korah"
+   ],
+   "genre": "hino"
+  },
+  {
+   "n": 47,
+   "book": 2,
+   "by": [
+    "korah"
+   ],
+   "genre": "hino"
+  },
+  {
+   "n": 48,
+   "book": 2,
+   "by": [
+    "korah"
+   ],
+   "genre": "hino"
+  },
+  {
+   "n": 49,
+   "book": 2,
+   "by": [
+    "korah"
+   ],
+   "genre": "sapiencial"
+  },
+  {
+   "n": 50,
+   "book": 2,
+   "by": [
+    "asaph"
+   ],
+   "genre": "liturgia",
+   "mixed": true
+  },
+  {
+   "n": 51,
+   "book": 2,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind",
+   "hist": {
+    "text": {
+     "pt": "Quando o profeta Natã veio a ele, depois de ele ter possuído Bate-Seba.",
+     "en": "When the prophet Nathan came to him, after he had gone in to Bathsheba."
+    },
+    "people": [
+     "davi",
+     "nata",
+     "bate-seba"
+    ],
+    "events": [
+     "davi"
+    ],
+    "ref": {
+     "book": "2sa",
+     "ref": "11–12"
+    },
+    "places": [
+     {
+      "book": "2sa",
+      "name": "Jerusalém",
+      "en": "Jerusalem"
+     }
+    ]
+   }
+  },
+  {
+   "n": 52,
+   "book": 2,
+   "by": [
+    "david"
+   ],
+   "genre": "sapiencial",
+   "mixed": true,
+   "hist": {
+    "text": {
+     "pt": "Quando Doegue, o edomita, foi dizer a Saul: Davi entrou na casa de Aimeleque.",
+     "en": "When Doeg the Edomite went and told Saul: David has come to the house of Ahimelech."
+    },
+    "people": [
+     "davi",
+     "saul"
+    ],
+    "events": [
+     "davi"
+    ],
+    "ref": {
+     "book": "1sa",
+     "ref": "21–22"
+    }
+   }
+  },
+  {
+   "n": 53,
+   "book": 2,
+   "by": [
+    "david"
+   ],
+   "genre": "sapiencial"
+  },
+  {
+   "n": 54,
+   "book": 2,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind",
+   "hist": {
+    "text": {
+     "pt": "Quando os zifeus foram dizer a Saul: Davi está escondido entre nós.",
+     "en": "When the Ziphites went and told Saul: David is hiding among us."
+    },
+    "people": [
+     "davi",
+     "saul"
+    ],
+    "events": [
+     "davi"
+    ],
+    "ref": {
+     "book": "1sa",
+     "ref": "23:19; 26:1"
+    }
+   }
+  },
+  {
+   "n": 55,
+   "book": 2,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind"
+  },
+  {
+   "n": 56,
+   "book": 2,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind",
+   "hist": {
+    "text": {
+     "pt": "Quando os filisteus o prenderam em Gate.",
+     "en": "When the Philistines seized him in Gath."
+    },
+    "people": [
+     "davi"
+    ],
+    "events": [
+     "davi"
+    ],
+    "ref": {
+     "book": "1sa",
+     "ref": "21:10–15"
+    },
+    "places": [
+     {
+      "book": "1sa",
+      "name": "Gate",
+      "en": "Gath"
+     }
+    ]
+   }
+  },
+  {
+   "n": 57,
+   "book": 2,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind",
+   "hist": {
+    "text": {
+     "pt": "Quando fugiu de Saul, para a caverna.",
+     "en": "When he fled from Saul, in the cave."
+    },
+    "people": [
+     "davi",
+     "saul"
+    ],
+    "events": [
+     "davi"
+    ],
+    "ref": {
+     "book": "1sa",
+     "ref": "22:1; 24"
+    }
+   }
+  },
+  {
+   "n": 58,
+   "book": 2,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-col"
+  },
+  {
+   "n": 59,
+   "book": 2,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind",
+   "hist": {
+    "text": {
+     "pt": "Quando Saul mandou vigiar a casa para o matar.",
+     "en": "When Saul sent men to watch the house in order to kill him."
+    },
+    "people": [
+     "davi",
+     "saul"
+    ],
+    "events": [
+     "davi"
+    ],
+    "ref": {
+     "book": "1sa",
+     "ref": "19:11"
+    }
+   }
+  },
+  {
+   "n": 60,
+   "book": 2,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-col",
+   "hist": {
+    "text": {
+     "pt": "Quando guerreou contra Arã-Naaraim e Arã-Zobá e Joabe voltou e feriu doze mil edomitas no vale do Sal.",
+     "en": "When he fought Aram-naharaim and Aram-zobah, and Joab returned and struck twelve thousand Edomites in the Valley of Salt."
+    },
+    "people": [
+     "davi",
+     "joabe"
+    ],
+    "events": [
+     "davi"
+    ],
+    "ref": {
+     "book": "2sa",
+     "ref": "8; 10"
+    }
+   }
+  },
+  {
+   "n": 61,
+   "book": 2,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind"
+  },
+  {
+   "n": 62,
+   "book": 2,
+   "by": [
+    "david"
+   ],
+   "genre": "confianca"
+  },
+  {
+   "n": 63,
+   "book": 2,
+   "by": [
+    "david"
+   ],
+   "genre": "confianca",
+   "mixed": true,
+   "hist": {
+    "text": {
+     "pt": "Quando estava no deserto de Judá.",
+     "en": "When he was in the wilderness of Judah."
+    },
+    "people": [
+     "davi"
+    ],
+    "events": [
+     "davi"
+    ]
+   }
+  },
+  {
+   "n": 64,
+   "book": 2,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind"
+  },
+  {
+   "n": 65,
+   "book": 2,
+   "by": [
+    "david"
+   ],
+   "genre": "hino"
+  },
+  {
+   "n": 66,
+   "book": 2,
+   "by": [],
+   "genre": "acao-gracas",
+   "mixed": true
+  },
+  {
+   "n": 67,
+   "book": 2,
+   "by": [],
+   "genre": "acao-gracas"
+  },
+  {
+   "n": 68,
+   "book": 2,
+   "by": [
+    "david"
+   ],
+   "genre": "hino"
+  },
+  {
+   "n": 69,
+   "book": 2,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind"
+  },
+  {
+   "n": 70,
+   "book": 2,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind"
+  },
+  {
+   "n": 71,
+   "book": 2,
+   "by": [],
+   "genre": "lamento-ind"
+  },
+  {
+   "n": 72,
+   "book": 2,
+   "by": [
+    "solomon"
+   ],
+   "genre": "real"
+  },
+  {
+   "n": 73,
+   "book": 3,
+   "by": [
+    "asaph"
+   ],
+   "genre": "sapiencial"
+  },
+  {
+   "n": 74,
+   "book": 3,
+   "by": [
+    "asaph"
+   ],
+   "genre": "lamento-col"
+  },
+  {
+   "n": 75,
+   "book": 3,
+   "by": [
+    "asaph"
+   ],
+   "genre": "liturgia"
+  },
+  {
+   "n": 76,
+   "book": 3,
+   "by": [
+    "asaph"
+   ],
+   "genre": "hino"
+  },
+  {
+   "n": 77,
+   "book": 3,
+   "by": [
+    "asaph"
+   ],
+   "genre": "lamento-ind"
+  },
+  {
+   "n": 78,
+   "book": 3,
+   "by": [
+    "asaph"
+   ],
+   "genre": "historico",
+   "mixed": true
+  },
+  {
+   "n": 79,
+   "book": 3,
+   "by": [
+    "asaph"
+   ],
+   "genre": "lamento-col"
+  },
+  {
+   "n": 80,
+   "book": 3,
+   "by": [
+    "asaph"
+   ],
+   "genre": "lamento-col"
+  },
+  {
+   "n": 81,
+   "book": 3,
+   "by": [
+    "asaph"
+   ],
+   "genre": "liturgia"
+  },
+  {
+   "n": 82,
+   "book": 3,
+   "by": [
+    "asaph"
+   ],
+   "genre": "liturgia"
+  },
+  {
+   "n": 83,
+   "book": 3,
+   "by": [
+    "asaph"
+   ],
+   "genre": "lamento-col"
+  },
+  {
+   "n": 84,
+   "book": 3,
+   "by": [
+    "korah"
+   ],
+   "genre": "hino"
+  },
+  {
+   "n": 85,
+   "book": 3,
+   "by": [
+    "korah"
+   ],
+   "genre": "lamento-col"
+  },
+  {
+   "n": 86,
+   "book": 3,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind"
+  },
+  {
+   "n": 87,
+   "book": 3,
+   "by": [
+    "korah"
+   ],
+   "genre": "hino"
+  },
+  {
+   "n": 88,
+   "book": 3,
+   "by": [
+    "korah",
+    "heman"
+   ],
+   "genre": "lamento-ind"
+  },
+  {
+   "n": 89,
+   "book": 3,
+   "by": [
+    "ethan"
+   ],
+   "genre": "real"
+  },
+  {
+   "n": 90,
+   "book": 4,
+   "by": [
+    "moses"
+   ],
+   "genre": "lamento-col"
+  },
+  {
+   "n": 91,
+   "book": 4,
+   "by": [],
+   "genre": "confianca"
+  },
+  {
+   "n": 92,
+   "book": 4,
+   "by": [],
+   "genre": "acao-gracas"
+  },
+  {
+   "n": 93,
+   "book": 4,
+   "by": [],
+   "genre": "hino"
+  },
+  {
+   "n": 94,
+   "book": 4,
+   "by": [],
+   "genre": "lamento-col"
+  },
+  {
+   "n": 95,
+   "book": 4,
+   "by": [],
+   "genre": "hino",
+   "mixed": true
+  },
+  {
+   "n": 96,
+   "book": 4,
+   "by": [],
+   "genre": "hino"
+  },
+  {
+   "n": 97,
+   "book": 4,
+   "by": [],
+   "genre": "hino"
+  },
+  {
+   "n": 98,
+   "book": 4,
+   "by": [],
+   "genre": "hino"
+  },
+  {
+   "n": 99,
+   "book": 4,
+   "by": [],
+   "genre": "hino"
+  },
+  {
+   "n": 100,
+   "book": 4,
+   "by": [],
+   "genre": "hino"
+  },
+  {
+   "n": 101,
+   "book": 4,
+   "by": [
+    "david"
+   ],
+   "genre": "real"
+  },
+  {
+   "n": 102,
+   "book": 4,
+   "by": [],
+   "genre": "lamento-ind",
+   "mixed": true
+  },
+  {
+   "n": 103,
+   "book": 4,
+   "by": [
+    "david"
+   ],
+   "genre": "hino"
+  },
+  {
+   "n": 104,
+   "book": 4,
+   "by": [],
+   "genre": "hino",
+   "mixed": true
+  },
+  {
+   "n": 105,
+   "book": 4,
+   "by": [],
+   "genre": "historico",
+   "mixed": true
+  },
+  {
+   "n": 106,
+   "book": 4,
+   "by": [],
+   "genre": "historico",
+   "mixed": true
+  },
+  {
+   "n": 107,
+   "book": 5,
+   "by": [],
+   "genre": "acao-gracas"
+  },
+  {
+   "n": 108,
+   "book": 5,
+   "by": [
+    "david"
+   ],
+   "genre": "hino",
+   "mixed": true
+  },
+  {
+   "n": 109,
+   "book": 5,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind"
+  },
+  {
+   "n": 110,
+   "book": 5,
+   "by": [
+    "david"
+   ],
+   "genre": "real"
+  },
+  {
+   "n": 111,
+   "book": 5,
+   "by": [],
+   "genre": "hino"
+  },
+  {
+   "n": 112,
+   "book": 5,
+   "by": [],
+   "genre": "sapiencial"
+  },
+  {
+   "n": 113,
+   "book": 5,
+   "by": [],
+   "genre": "hino"
+  },
+  {
+   "n": 114,
+   "book": 5,
+   "by": [],
+   "genre": "hino"
+  },
+  {
+   "n": 115,
+   "book": 5,
+   "by": [],
+   "genre": "confianca",
+   "mixed": true
+  },
+  {
+   "n": 116,
+   "book": 5,
+   "by": [],
+   "genre": "acao-gracas"
+  },
+  {
+   "n": 117,
+   "book": 5,
+   "by": [],
+   "genre": "hino"
+  },
+  {
+   "n": 118,
+   "book": 5,
+   "by": [],
+   "genre": "acao-gracas"
+  },
+  {
+   "n": 119,
+   "book": 5,
+   "by": [],
+   "genre": "sapiencial",
+   "mixed": true
+  },
+  {
+   "n": 120,
+   "book": 5,
+   "by": [],
+   "genre": "lamento-ind",
+   "pilgrim": true
+  },
+  {
+   "n": 121,
+   "book": 5,
+   "by": [],
+   "genre": "confianca",
+   "pilgrim": true
+  },
+  {
+   "n": 122,
+   "book": 5,
+   "by": [
+    "david"
+   ],
+   "genre": "hino",
+   "pilgrim": true
+  },
+  {
+   "n": 123,
+   "book": 5,
+   "by": [],
+   "genre": "lamento-col",
+   "pilgrim": true
+  },
+  {
+   "n": 124,
+   "book": 5,
+   "by": [
+    "david"
+   ],
+   "genre": "acao-gracas",
+   "pilgrim": true
+  },
+  {
+   "n": 125,
+   "book": 5,
+   "by": [],
+   "genre": "confianca",
+   "pilgrim": true
+  },
+  {
+   "n": 126,
+   "book": 5,
+   "by": [],
+   "genre": "lamento-col",
+   "pilgrim": true
+  },
+  {
+   "n": 127,
+   "book": 5,
+   "by": [
+    "solomon"
+   ],
+   "genre": "sapiencial",
+   "pilgrim": true
+  },
+  {
+   "n": 128,
+   "book": 5,
+   "by": [],
+   "genre": "sapiencial",
+   "pilgrim": true
+  },
+  {
+   "n": 129,
+   "book": 5,
+   "by": [],
+   "genre": "lamento-col",
+   "pilgrim": true
+  },
+  {
+   "n": 130,
+   "book": 5,
+   "by": [],
+   "genre": "lamento-ind",
+   "pilgrim": true
+  },
+  {
+   "n": 131,
+   "book": 5,
+   "by": [
+    "david"
+   ],
+   "genre": "confianca",
+   "pilgrim": true
+  },
+  {
+   "n": 132,
+   "book": 5,
+   "by": [],
+   "genre": "real",
+   "pilgrim": true
+  },
+  {
+   "n": 133,
+   "book": 5,
+   "by": [
+    "david"
+   ],
+   "genre": "sapiencial",
+   "pilgrim": true
+  },
+  {
+   "n": 134,
+   "book": 5,
+   "by": [],
+   "genre": "hino",
+   "pilgrim": true
+  },
+  {
+   "n": 135,
+   "book": 5,
+   "by": [],
+   "genre": "hino"
+  },
+  {
+   "n": 136,
+   "book": 5,
+   "by": [],
+   "genre": "historico"
+  },
+  {
+   "n": 137,
+   "book": 5,
+   "by": [],
+   "genre": "lamento-col"
+  },
+  {
+   "n": 138,
+   "book": 5,
+   "by": [
+    "david"
+   ],
+   "genre": "acao-gracas"
+  },
+  {
+   "n": 139,
+   "book": 5,
+   "by": [
+    "david"
+   ],
+   "genre": "sapiencial",
+   "mixed": true
+  },
+  {
+   "n": 140,
+   "book": 5,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind"
+  },
+  {
+   "n": 141,
+   "book": 5,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind"
+  },
+  {
+   "n": 142,
+   "book": 5,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind",
+   "hist": {
+    "text": {
+     "pt": "Quando estava na caverna.",
+     "en": "When he was in the cave."
+    },
+    "people": [
+     "davi",
+     "saul"
+    ],
+    "events": [
+     "davi"
+    ],
+    "ref": {
+     "book": "1sa",
+     "ref": "22:1; 24"
+    }
+   }
+  },
+  {
+   "n": 143,
+   "book": 5,
+   "by": [
+    "david"
+   ],
+   "genre": "lamento-ind"
+  },
+  {
+   "n": 144,
+   "book": 5,
+   "by": [
+    "david"
+   ],
+   "genre": "real",
+   "mixed": true
+  },
+  {
+   "n": 145,
+   "book": 5,
+   "by": [
+    "david"
+   ],
+   "genre": "hino"
+  },
+  {
+   "n": 146,
+   "book": 5,
+   "by": [],
+   "genre": "hino"
+  },
+  {
+   "n": 147,
+   "book": 5,
+   "by": [],
+   "genre": "hino"
+  },
+  {
+   "n": 148,
+   "book": 5,
+   "by": [],
+   "genre": "hino"
+  },
+  {
+   "n": 149,
+   "book": 5,
+   "by": [],
+   "genre": "hino"
+  },
+  {
+   "n": 150,
+   "book": 5,
+   "by": [],
+   "genre": "hino"
+  }
+ ]
+}

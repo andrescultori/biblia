@@ -10,6 +10,7 @@ const hasInfo = (slug) => `./data/info/${slug}.json` in INFO;
 
 // Mapa (d3-geo + costa) só carrega quando a aba é aberta.
 const MapView = lazy(() => import('./MapView.jsx'));
+const PsalmsView = lazy(() => import('./PsalmsView.jsx'));
 
 function useInfo(slug) {
   const [state, setState] = useState({ info: null, error: false });
@@ -27,11 +28,13 @@ export default function BookModal({ book, lang, t, initialTab, initialPlace, onN
   const [tab, setTabState] = useState(initialTab ?? 'summary');
   // a aba e o lugar ficam no link (compartilhável), sem criar entrada no histórico
   const setTab = (k) => { setTabState(k); sync(hrefs.book(book.slug, k)); };
+  // o endereço mudou por navegação (link, voltar): acompanha a aba
+  useEffect(() => { setTabState(initialTab ?? 'summary'); }, [initialTab, initialPlace]);
   const section = SECTIONS.find((s) => s.id === book.section);
   const prev = BOOKS[book.n - 2];
   const next = BOOKS[book.n];
   const { info, error: infoError } = useInfo(book.slug);
-  const tabs = ['summary', 'sheet', ...(info?.map ? ['map'] : []), 'read'];
+  const tabs = ['summary', 'sheet', ...(info?.map ? ['map'] : []), ...(book.slug === 'psa' ? ['psalms'] : []), 'read'];
 
   const facts = [
     [t.testament, t[book.testament]],
@@ -74,7 +77,12 @@ export default function BookModal({ book, lang, t, initialTab, initialPlace, onN
               <MapView book={book} map={info.map} lang={lang} t={t} initialPlace={initialPlace} onPlaceChange={(name) => sync(hrefs.book(book.slug, 'map', name))} onOpenTimeline={onOpenTimeline} onOpenPerson={onOpenPerson} />
             </Suspense>
           )}
-          {tab === 'read' && <Reader book={book} lang={lang} t={t} />}
+          {tab === 'psalms' && book.slug === 'psa' && (
+            <Suspense fallback={<p className="soon">{t.loading}</p>}>
+              <PsalmsView key={initialTab === 'psalms' ? initialPlace : 'p'} lang={lang} t={t} initialN={initialPlace} onSelect={(n) => sync(hrefs.book('psa', 'psalms', String(n)))} onOpenPerson={onOpenPerson} />
+            </Suspense>
+          )}
+          {tab === 'read' && <Reader key={initialTab === 'read' ? initialPlace : 'r'} book={book} lang={lang} t={t} initialChapter={initialTab === 'read' ? Number(initialPlace) : undefined} />}
         </div>
 
         <div className="foot">
@@ -138,10 +146,10 @@ function pickVersion(versions, lang) {
   return (inLang.find((v) => v.id === readPref(lang)) ?? inLang[0] ?? versions[0]).id;
 }
 
-function Reader({ book, lang, t }) {
+function Reader({ book, lang, t, initialChapter }) {
   const versions = VERSIONS.filter((v) => v.available);
   const [version, setVersion] = useState(() => pickVersion(versions, lang));
-  const [chapter, setChapter] = useState(1);
+  const [chapter, setChapter] = useState(initialChapter >= 1 && initialChapter <= book.chapters ? initialChapter : 1);
   const [data, setData] = useState(null);
   const [error, setError] = useState(false);
 

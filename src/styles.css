@@ -204,3 +204,14 @@ input[type='search'] { flex: 1 1 200px; min-width: 0; border: 1px solid var(--li
 /* rodapé de assinatura */
 .assinatura { max-width: 1040px; margin: 32px auto 0; padding-top: 16px; border-top: 1px solid var(--line); text-align: center; font-size: 0.85rem; color: var(--muted); overflow-wrap: anywhere; }
 .assinatura a { color: var(--fg); text-underline-offset: 2px; }
+
+/* salmos */
+.psalms .row { margin-bottom: 8px; }
+.ps-legend { margin: 8px 0; }
+.ps-legend .tl-chip[aria-pressed='true'] { background: var(--fg); color: var(--bg); }
+.ps-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(42px, 1fr)); gap: 4px; margin: 10px 0; }
+.ps-tile { border: 0; border-radius: 6px; background: var(--c); color: #141a18; font-weight: 600; font-variant-numeric: tabular-nums; padding: 9px 0; cursor: pointer; transition: opacity 0.15s; }
+.ps-tile[aria-pressed='true'] { outline: 3px solid var(--fg); outline-offset: 1px; }
+.ps-detail { margin-top: 14px; border-top: 1px solid var(--line); padding-top: 10px; }
+.ps-detail h3 { margin: 0 0 6px; font: 700 1.2rem var(--f-display); }
+.ps-detail h4 { margin: 12px 0 4px; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); font-weight: 600; }

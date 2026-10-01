@@ -4,9 +4,10 @@ import { bySlug } from './data/books.js';
 //   #                       início (grade)
 //   #joh  #joh/read         livro (e aba: summary | sheet | map | read)
 //   #2ki/map/Laquis         livro, aba Mapa, lugar selecionado (nome em PT)
+//   #psa/psalms/51  #psa/read/23   Salmos: aba da tabela com o salmo selecionado; leitor no capítulo
 //   #timeline  #timeline/exodo     linha do tempo (e evento em foco)
 //   #person  #person/davi          personagens (e pessoa)
-const TABS = ['summary', 'sheet', 'map', 'read'];
+const TABS = ['summary', 'sheet', 'map', 'psalms', 'read'];
 
 export function parseHash(hash = location.hash) {
   const parts = hash.replace(/^#\/?/, '').split('/').map((x) => { try { return decodeURIComponent(x); } catch { return x; } });
