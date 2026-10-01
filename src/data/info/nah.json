@@ -84,5 +84,44 @@
   "connections": {
     "pt": "Na 1:15 se aproxima de Is 52:7, citado em Rm 10:15. O livro dialoga com Jonas, que trata da mesma cidade em outro momento.",
     "en": "Nah 1:15 is close to Isa 52:7, quoted in Rom 10:15. The book is in dialogue with Jonah, which deals with the same city at another time."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Oráculo contra Nínive, capital da Assíria. Tebas, no Egito, é citada como exemplo de cidade que também caiu.",
+      "en": "Oracle against Nineveh, capital of Assyria. Thebes, in Egypt, is cited as an example of a city that also fell."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Nínive",
+          "en": "Nineveh"
+        },
+        "lonLat": [
+          43.15,
+          36.36
+        ],
+        "note": {
+          "pt": "Alvo do oráculo; a cidade será destruída (1:1; 2:8–10; 3:7).",
+          "en": "Target of the oracle; the city will be destroyed (1:1; 2:8–10; 3:7)."
+        },
+        "ref": "1:1"
+      },
+      {
+        "name": {
+          "pt": "Tebas (No-Amom)",
+          "en": "Thebes (No-Amon)"
+        },
+        "lonLat": [
+          32.61,
+          25.72
+        ],
+        "note": {
+          "pt": "Nínive é comparada a Tebas, que também foi levada cativa (3:8–10).",
+          "en": "Nineveh is compared to Thebes, which was also taken captive (3:8–10)."
+        },
+        "ref": "3:8"
+      }
+    ]
   }
 }

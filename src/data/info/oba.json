@@ -84,5 +84,59 @@
   "connections": {
     "pt": "O livro não é citado diretamente no Novo Testamento. Tem paralelos com Jr 49:7–22 e Ez 25 e 35, e retoma a relação entre Jacó e Esaú de Gn 25–36.",
     "en": "The book is not directly quoted in the New Testament. It has parallels with Jer 49:7–22 and Ezek 25 and 35, and takes up the relationship between Jacob and Esau from Gen 25–36."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Oráculo contra Edom, parente de Israel, e esperança para Sião. O ponto de Edom marca o centro da região; o monte de Esaú é identificado pelo OpenBible com o monte Seir.",
+      "en": "Oracle against Edom, Israel's kin, and hope for Zion. The Edom point marks the center of the region; OpenBible identifies the mountain of Esau with Mount Seir."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Edom",
+          "en": "Edom"
+        },
+        "lonLat": [
+          35.6,
+          30.75
+        ],
+        "note": {
+          "pt": "Alvo do oráculo: o orgulho de Edom será humilhado (1:1–4). O ponto marca o centro da região.",
+          "en": "Target of the oracle: Edom's pride will be humbled (1:1–4). The point marks the center of the region."
+        },
+        "ref": "1:1"
+      },
+      {
+        "name": {
+          "pt": "Monte de Esaú",
+          "en": "Mount of Esau"
+        },
+        "lonLat": [
+          35.32,
+          30.18
+        ],
+        "note": {
+          "pt": "Os sábios e os valentes do monte de Esaú serão eliminados (1:8–9).",
+          "en": "The wise and the mighty of the mountain of Esau will be cut off (1:8–9)."
+        },
+        "ref": "1:8"
+      },
+      {
+        "name": {
+          "pt": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        "lonLat": [
+          35.23,
+          31.78
+        ],
+        "note": {
+          "pt": "Edom se alegra com a queda de Jerusalém (1:11–14); no monte Sião haverá livramento (1:17).",
+          "en": "Edom rejoices at the fall of Jerusalem (1:11–14); on Mount Zion there will be deliverance (1:17)."
+        },
+        "ref": "1:11"
+      }
+    ]
   }
 }

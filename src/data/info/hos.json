@@ -94,5 +94,120 @@
   "connections": {
     "pt": "Mt 2:15 cita Os 11:1. Jesus cita Os 6:6 em Mt 9:13 e 12:7. Rm 9:25–26 e 1Pe 2:10 usam Os 1:10 e 2:23. Paulo alude a Os 13:14 em 1Co 15:55.",
     "en": "Matt 2:15 quotes Hos 11:1. Jesus quotes Hos 6:6 in Matt 9:13 and 12:7. Rom 9:25–26 and 1 Pet 2:10 use Hos 1:10 and 2:23. Paul alludes to Hos 13:14 in 1 Cor 15:55."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Lugares do reino do norte (Israel/Efraim) e das potências a que ele recorre. Os pontos vêm do OpenBible e não formam um trajeto único; \"?\" marca localização debatida.",
+      "en": "Places of the northern kingdom (Israel/Ephraim) and the powers it turns to. Points come from OpenBible and do not form a single route; \"?\" marks a disputed location."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Jezreel",
+          "en": "Jezreel"
+        },
+        "lonLat": [
+          35.33,
+          32.56
+        ],
+        "note": {
+          "pt": "O Senhor manda dar a um filho de Oseias o nome Jezreel, anunciando juízo sobre a casa de Jeú (1:4).",
+          "en": "The Lord has Hosea name a son Jezreel, announcing judgment on the house of Jehu (1:4)."
+        },
+        "ref": "1:4"
+      },
+      {
+        "name": {
+          "pt": "Samaria",
+          "en": "Samaria"
+        },
+        "lonLat": [
+          35.2,
+          32.28
+        ],
+        "note": {
+          "pt": "Capital do reino do norte; seu bezerro é rejeitado (8:5–6) e sua maldade é denunciada (7:1).",
+          "en": "Capital of the northern kingdom; its calf is rejected (8:5–6) and its wickedness is exposed (7:1)."
+        },
+        "ref": "7:1"
+      },
+      {
+        "name": {
+          "pt": "Bete-Áven (Betel)",
+          "en": "Beth-aven (Bethel)"
+        },
+        "lonLat": [
+          35.24,
+          31.92
+        ],
+        "note": {
+          "pt": "Oseias usa \"Bete-Áven\" (casa da maldade) como apelido para Betel, onde havia um santuário (4:15; 10:5).",
+          "en": "Hosea uses \"Beth-aven\" (house of wickedness) as a nickname for Bethel, where a shrine stood (4:15; 10:5)."
+        },
+        "ref": "4:15"
+      },
+      {
+        "name": {
+          "pt": "Gilgal",
+          "en": "Gilgal"
+        },
+        "lonLat": [
+          35.46,
+          31.88
+        ],
+        "note": {
+          "pt": "Lugar de culto condenado junto com Betel (4:15; 9:15). A localização de Gilgal é debatida.",
+          "en": "A worship site condemned along with Bethel (4:15; 9:15). The location of Gilgal is debated."
+        },
+        "ref": "4:15",
+        "uncertain": true
+      },
+      {
+        "name": {
+          "pt": "Gibeá",
+          "en": "Gibeah"
+        },
+        "lonLat": [
+          35.23,
+          31.82
+        ],
+        "note": {
+          "pt": "Oseias lembra os dias de Gibeá como exemplo de corrupção (9:9; 10:9) e convoca o alarme (5:8).",
+          "en": "Hosea recalls the days of Gibeah as an example of corruption (9:9; 10:9) and sounds the alarm (5:8)."
+        },
+        "ref": "5:8"
+      },
+      {
+        "name": {
+          "pt": "Egito",
+          "en": "Egypt"
+        },
+        "lonLat": [
+          31.31,
+          30.13
+        ],
+        "note": {
+          "pt": "Efraim apela ao Egito (7:11); o Senhor lembra que chamou seu filho do Egito (11:1). O ponto marca o centro da região.",
+          "en": "Ephraim appeals to Egypt (7:11); the Lord recalls that he called his son out of Egypt (11:1). The point marks the center of the region."
+        },
+        "ref": "7:11"
+      },
+      {
+        "name": {
+          "pt": "Assíria",
+          "en": "Assyria"
+        },
+        "lonLat": [
+          43.15,
+          36.36
+        ],
+        "note": {
+          "pt": "Efraim vai à Assíria em busca de ajuda (5:13; 7:11; 8:9). O ponto marca o centro da região.",
+          "en": "Ephraim goes to Assyria for help (5:13; 7:11; 8:9). The point marks the center of the region."
+        },
+        "ref": "5:13"
+      }
+    ]
   }
 }
