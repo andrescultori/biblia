@@ -19,7 +19,11 @@ export default function App() {
   const [filter, setFilter] = useState('all');
   const [query, setQuery] = useState('');
   const [openSlug, setOpenSlug] = useState(() => (bySlug[location.hash.slice(1)] ? location.hash.slice(1) : null));
-  const [showTimeline, setShowTimeline] = useState(() => location.hash === '#timeline');
+  // Linha do tempo: null (fechada) ou { id } (id opcional do evento em foco). Hash: #timeline ou #timeline/<evento>.
+  const hashTimeline = () => (location.hash.startsWith('#timeline') ? { id: location.hash.split('/')[1] ?? null } : null);
+  const [timeline, setTimeline] = useState(hashTimeline);
+  // Livro aberto direto numa aba/lugar (vindo da linha do tempo): { tab, place }.
+  const [bookOpts, setBookOpts] = useState(null);
   const t = T[lang];
 
   useEffect(() => { document.documentElement.lang = lang === 'pt' ? 'pt-BR' : 'en'; store.set('lang', lang); }, [lang]);
@@ -31,15 +35,16 @@ export default function App() {
   useEffect(() => {
     const onHash = () => {
       setOpenSlug(bySlug[location.hash.slice(1)] ? location.hash.slice(1) : null);
-      setShowTimeline(location.hash === '#timeline');
+      setTimeline(hashTimeline());
     };
     window.addEventListener('hashchange', onHash);
     return () => window.removeEventListener('hashchange', onHash);
   }, []);
 
-  const open = (slug) => { history.replaceState(null, '', `#${slug}`); setShowTimeline(false); setOpenSlug(slug); };
-  const openTimeline = () => { history.replaceState(null, '', '#timeline'); setOpenSlug(null); setShowTimeline(true); };
-  const closeTimeline = () => { history.replaceState(null, '', location.pathname + location.search); setShowTimeline(false); };
+  const open = (slug, opts = null) => { history.replaceState(null, '', `#${slug}`); setTimeline(null); setBookOpts(opts); setOpenSlug(slug); };
+  const openMap = (slug, place) => open(slug, { tab: 'map', place });
+  const openTimeline = (id = null) => { history.replaceState(null, '', id ? `#timeline/${id}` : '#timeline'); setOpenSlug(null); setTimeline({ id }); };
+  const closeTimeline = () => { history.replaceState(null, '', location.pathname + location.search); setTimeline(null); };
   const close = () => { history.replaceState(null, '', location.pathname + location.search); setOpenSlug(null); };
 
   const groups = useMemo(() => {
@@ -80,7 +85,7 @@ export default function App() {
               <button key={f} type="button" aria-pressed={filter === f} onClick={() => setFilter(f)}>{t[f]}</button>
             ))}
           </div>
-          <button type="button" className="ghost" onClick={openTimeline}>{t.timeline}</button>
+          <button type="button" className="ghost" onClick={() => openTimeline()}>{t.timeline}</button>
           <input type="search" id="q" value={query} onChange={(e) => setQuery(e.target.value)} placeholder={t.search} aria-label={t.search} />
         </div>
 
@@ -102,12 +107,12 @@ export default function App() {
         <p className="note">{t.legendNote}</p>
       </main>
 
-      {showTimeline && (
+      {timeline && (
         <Suspense fallback={null}>
-          <Timeline lang={lang} t={t} onClose={closeTimeline} onOpenBook={open} />
+          <Timeline key={timeline.id ?? ''} lang={lang} t={t} focusId={timeline.id} onClose={closeTimeline} onOpenBook={open} onOpenMap={openMap} />
         </Suspense>
       )}
-      {openSlug && <BookModal key={openSlug} book={bySlug[openSlug]} lang={lang} t={t} onClose={close} onNavigate={open} />}
+      {openSlug && <BookModal key={openSlug} book={bySlug[openSlug]} lang={lang} t={t} initial={bookOpts} onClose={close} onNavigate={(slug) => open(slug)} onOpenTimeline={openTimeline} />}
     </>
   );
 }

@@ -1,28 +1,10 @@
 import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { BOOKS, bySlug } from './data/books.js';
 import data from './data/timeline.json';
-
-const pick = (v, lang) => (v && typeof v === 'object' ? v[lang] ?? v.en : v);
+import { pick, range, views, main } from './timelineUtil.js';
 
 const MIN_W = 132; // largura mínima de um período na faixa, em px (cabe o título)
 const UNDATED_W = 132;
-
-// Ano negativo = a.C. (BC); positivo = d.C. (AD).
-function range(d, lang) {
-  const a = Math.abs(d.start);
-  const bc = d.start < 0;
-  const hasEnd = d.end !== undefined && d.end !== d.start;
-  const c = d.approx ? 'c. ' : '';
-  if (!hasEnd) return c + (lang === 'pt' ? `${a} ${bc ? 'a.C.' : 'd.C.'}` : bc ? `${a} BC` : `AD ${a}`);
-  const b = Math.abs(d.end);
-  const bcEnd = d.end < 0;
-  if (bc === bcEnd) return c + (lang === 'pt' ? `${a}–${b} ${bc ? 'a.C.' : 'd.C.'}` : bc ? `${a}–${b} BC` : `AD ${a}–${b}`);
-  return c + (lang === 'pt' ? `${a} a.C.–${b} d.C.` : `${a} BC–AD ${b}`);
-}
-
-// dates tem {start,...} ou {traditional:{...}, scholarly:{...}}
-const views = (dates) => (dates.start !== undefined ? [[null, dates]] : [['traditional', dates.traditional], ['scholarly', dates.scholarly]]);
-const main = (dates) => (dates.start !== undefined ? dates : dates.traditional);
 
 function Dates({ dates, t, lang }) {
   const vs = views(dates);
@@ -39,9 +21,10 @@ function Dates({ dates, t, lang }) {
   );
 }
 
-export default function Timeline({ lang, t, onClose, onOpenBook }) {
+export default function Timeline({ lang, t, focusId, onClose, onOpenBook, onOpenMap }) {
   const ref = useRef(null);
-  const [sel, setSel] = useState(data.periods[0].id);
+  const focused = data.events.find((e) => e.id === focusId);
+  const [sel, setSel] = useState(focused?.period ?? data.periods[0].id);
   const period = data.periods.find((p) => p.id === sel);
   const events = useMemo(() => data.events.filter((e) => e.period === sel), [sel]);
   const refs = useRef({});
@@ -49,6 +32,8 @@ export default function Timeline({ lang, t, onClose, onOpenBook }) {
   useEffect(() => {
     const d = ref.current;
     if (d && !d.open) d.showModal();
+    // vindo do mapa: leva o evento para a vista
+    if (focusId) requestAnimationFrame(() => refs.current[focusId]?.scrollIntoView({ block: 'center' }));
     const handle = () => onClose();
     d?.addEventListener('close', handle);
     return () => { d?.removeEventListener('close', handle); if (d?.open) d.close(); };
@@ -134,11 +119,20 @@ export default function Timeline({ lang, t, onClose, onOpenBook }) {
               <h4>{t.timelineEvents}</h4>
               <ol className="tl-events">
                 {events.map((e) => (
-                  <li key={e.id} id={`ev-${e.id}`} ref={(el) => { refs.current[e.id] = el; }}>
+                  <li key={e.id} id={`ev-${e.id}`} className={e.id === focusId ? 'tl-focus' : undefined} ref={(el) => { refs.current[e.id] = el; }}>
                     <p className="tl-etitle"><b>{pick(e.title, lang)}</b>{e.attested && <abbr className="tl-att" title={t.timelineAttested}> ◆</abbr>}{e.uncertain && <span className="tl-q" title={t.timelineUncertain}> ?</span>}</p>
                     <Dates dates={e.dates} t={t} lang={lang} />
                     <p>{pick(e.note, lang)}</p>
                     {e.ref && <small>{bySlug[e.ref.book].ab[lang]} {e.ref.ref}</small>}
+                    {e.places?.length > 0 && (
+                      <div className="tl-places">
+                        {e.places.map((pl) => (
+                          <button key={pl.book + pl.name} type="button" className="tl-place" onClick={() => onOpenMap(pl.book, pl.name)}>
+                            {t.timelineOnMap}: {lang === 'pt' ? pl.name : pl.en} ({bySlug[pl.book].ab[lang]})
+                          </button>
+                        ))}
+                      </div>
+                    )}
                   </li>
                 ))}
               </ol>

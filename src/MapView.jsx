@@ -1,6 +1,8 @@
 import React, { useLayoutEffect, useMemo, useRef, useState } from 'react';
 import { geoMercator, geoPath } from 'd3-geo';
 import land from './data/land.json';
+import timeline from './data/timeline.json';
+import { pick as pickT, range, main } from './timelineUtil.js';
 
 // Nomes de mares exibidos como rótulos de fundo.
 const WATERS = [
@@ -73,9 +75,9 @@ function useWidth(ref) {
   return w;
 }
 
-export default function MapView({ book, map, lang, t }) {
+export default function MapView({ book, map, lang, t, initialPlace, onOpenTimeline }) {
   const boxRef = useRef(null);
-  const [sel, setSel] = useState(0);
+  const [sel, setSel] = useState(() => Math.max(0, map.places.findIndex((p) => p.name.pt === initialPlace)));
   const [zoom, setZoom] = useState(false);
   const W = useWidth(boxRef);
   const H = Math.round(W < 480 ? W * 0.9 : W / 1.5);
@@ -125,6 +127,11 @@ export default function MapView({ book, map, lang, t }) {
   }, [places, projection, lang, W, H, fs, sel]);
 
   const color = `var(--s-${book.section})`;
+  // eventos da linha do tempo ligados ao lugar selecionado
+  const events = useMemo(
+    () => timeline.events.filter((e) => e.places?.some((p) => p.book === book.slug && p.name === places[sel].name.pt)),
+    [book.slug, places, sel],
+  );
   // escolher um lugar fora do grupo ampliado volta para a visão completa
   const choose = (i) => { if (zoomed && !group.includes(places[i])) setZoom(false); setSel(i); };
   const onKey = (i) => (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); choose(i); } };
@@ -170,6 +177,19 @@ export default function MapView({ book, map, lang, t }) {
           <li><svg width="16" height="16" aria-hidden="true"><circle cx="8" cy="8" r="6" fill={color} stroke="var(--panel)" strokeWidth="2" strokeDasharray="3 2" /></svg>{t.mapUncertain} (?)</li>
         )}
       </ul>
+
+      {events.length > 0 && (
+        <div className="mevents">
+          <h4>{t.mapEvents}: {pickText(places[sel].name, lang)}</h4>
+          <div className="tl-chips">
+            {events.map((e) => (
+              <button key={e.id} type="button" className="tl-chip" style={{ '--c': color }} onClick={() => onOpenTimeline(e.id)}>
+                {pickT(e.title, lang)} <small>{range(main(e.dates), lang)}</small>
+              </button>
+            ))}
+          </div>
+        </div>
+      )}
 
       <div className="mplaces">
         {places.map((p, i) => (
