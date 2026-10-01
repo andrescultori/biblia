@@ -101,5 +101,195 @@
   "connections": {
     "pt": "At 7:42–43 cita Am 5:25–27, e At 15:16–17 cita Am 9:11–12. O tema da justiça é retomado por outros profetas, como Isaías e Miqueias.",
     "en": "Acts 7:42–43 quotes Amos 5:25–27, and Acts 15:16–17 quotes Amos 9:11–12. The theme of justice is taken up by other prophets, such as Isaiah and Micah."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Lugares dos oráculos de Amós contra as nações vizinhas, contra Judá e contra Israel. Os pontos vêm do OpenBible e não formam um trajeto único; \"?\" marca localização debatida.",
+      "en": "Places in Amos's oracles against the neighboring nations, Judah and Israel. Points come from OpenBible and do not form a single route; \"?\" marks a disputed location."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Monte Carmelo",
+          "en": "Mount Carmel"
+        },
+        "lonLat": [
+          35.02,
+          32.67
+        ],
+        "note": {
+          "pt": "O Senhor ruge de Sião e o cume do Carmelo seca (1:2); ninguém se esconde de Deus ali (9:3).",
+          "en": "The Lord roars from Zion and the top of Carmel withers (1:2); no one can hide from him there (9:3)."
+        },
+        "ref": "1:2"
+      },
+      {
+        "name": {
+          "pt": "Damasco",
+          "en": "Damascus"
+        },
+        "lonLat": [
+          36.31,
+          33.51
+        ],
+        "note": {
+          "pt": "Primeiro oráculo: Damasco, capital de Arã (1:3–5).",
+          "en": "First oracle: Damascus, capital of Aram (1:3–5)."
+        },
+        "ref": "1:3"
+      },
+      {
+        "name": {
+          "pt": "Gaza",
+          "en": "Gaza"
+        },
+        "lonLat": [
+          34.46,
+          31.5
+        ],
+        "note": {
+          "pt": "Oráculo contra Gaza, cidade filisteia (1:6–7).",
+          "en": "Oracle against Gaza, a Philistine city (1:6–7)."
+        },
+        "ref": "1:6"
+      },
+      {
+        "name": {
+          "pt": "Tiro",
+          "en": "Tyre"
+        },
+        "lonLat": [
+          35.2,
+          33.27
+        ],
+        "note": {
+          "pt": "Oráculo contra Tiro (1:9–10).",
+          "en": "Oracle against Tyre (1:9–10)."
+        },
+        "ref": "1:9"
+      },
+      {
+        "name": {
+          "pt": "Edom",
+          "en": "Edom"
+        },
+        "lonLat": [
+          35.6,
+          30.75
+        ],
+        "note": {
+          "pt": "Oráculo contra Edom (1:11–12). O ponto marca o centro da região.",
+          "en": "Oracle against Edom (1:11–12). The point marks the center of the region."
+        },
+        "ref": "1:11"
+      },
+      {
+        "name": {
+          "pt": "Amom",
+          "en": "Ammon"
+        },
+        "lonLat": [
+          35.93,
+          31.95
+        ],
+        "note": {
+          "pt": "Oráculo contra os amonitas (1:13–15). O ponto marca o centro da região.",
+          "en": "Oracle against the Ammonites (1:13–15). The point marks the center of the region."
+        },
+        "ref": "1:13"
+      },
+      {
+        "name": {
+          "pt": "Moabe",
+          "en": "Moab"
+        },
+        "lonLat": [
+          35.7,
+          31.18
+        ],
+        "note": {
+          "pt": "Oráculo contra Moabe (2:1–3). O ponto marca o centro da região.",
+          "en": "Oracle against Moab (2:1–3). The point marks the center of the region."
+        },
+        "ref": "2:1"
+      },
+      {
+        "name": {
+          "pt": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        "lonLat": [
+          35.23,
+          31.78
+        ],
+        "note": {
+          "pt": "O Senhor ruge de Jerusalém (1:2); oráculo contra Judá (2:4–5).",
+          "en": "The Lord roars from Jerusalem (1:2); oracle against Judah (2:4–5)."
+        },
+        "ref": "2:5"
+      },
+      {
+        "name": {
+          "pt": "Samaria",
+          "en": "Samaria"
+        },
+        "lonLat": [
+          35.2,
+          32.28
+        ],
+        "note": {
+          "pt": "Amós denuncia a opressão dos pobres entre as \"vacas de Basã\" que vivem em Samaria (3:9; 4:1).",
+          "en": "Amos denounces the oppression of the poor by the \"cows of Bashan\" living in Samaria (3:9; 4:1)."
+        },
+        "ref": "4:1"
+      },
+      {
+        "name": {
+          "pt": "Betel",
+          "en": "Bethel"
+        },
+        "lonLat": [
+          35.24,
+          31.92
+        ],
+        "note": {
+          "pt": "Santuário real. Amós o condena (4:4; 5:5) e Amazias, sacerdote de Betel, o manda embora (7:10–13).",
+          "en": "Royal sanctuary. Amos condemns it (4:4; 5:5) and Amaziah, priest of Bethel, sends him away (7:10–13)."
+        },
+        "ref": "5:5"
+      },
+      {
+        "name": {
+          "pt": "Gilgal",
+          "en": "Gilgal"
+        },
+        "lonLat": [
+          35.46,
+          31.88
+        ],
+        "note": {
+          "pt": "Outro santuário condenado: \"em Gilgal, multiplicai as transgressões\" (4:4; 5:5). A localização de Gilgal é debatida.",
+          "en": "Another condemned shrine: \"at Gilgal, multiply transgression\" (4:4; 5:5). The location of Gilgal is debated."
+        },
+        "ref": "4:4",
+        "uncertain": true
+      },
+      {
+        "name": {
+          "pt": "Berseba",
+          "en": "Beersheba"
+        },
+        "lonLat": [
+          34.84,
+          31.24
+        ],
+        "note": {
+          "pt": "O povo não deve peregrinar a Berseba (5:5); quem jura por ela cairá (8:14).",
+          "en": "The people must not travel to Beersheba (5:5); those who swear by it will fall (8:14)."
+        },
+        "ref": "5:5"
+      }
+    ]
   }
 }

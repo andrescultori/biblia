@@ -108,5 +108,119 @@
   "connections": {
     "pt": "Mt 21:5 e Jo 12:15 citam Zc 9:9. Mt 26:31 cita Zc 13:7. Jo 19:37 cita Zc 12:10. Mt 27:9–10 relaciona Zc 11:12–13 a Jeremias. Ap usa imagens de Zacarias, como os cavalos e as lâmpadas.",
     "en": "Matt 21:5 and John 12:15 quote Zech 9:9. Matt 26:31 quotes Zech 13:7. John 19:37 quotes Zech 12:10. Matt 27:9–10 relates Zech 11:12–13 to Jeremiah. Revelation uses images from Zechariah, such as the horses and the lampstands."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Lugares de Zacarias: Jerusalém, a Babilônia de onde o povo retorna e as nações citadas nos oráculos. Os pontos vêm do OpenBible e não formam um trajeto único; \"?\" marca localização debatida.",
+      "en": "Places in Zechariah: Jerusalem, the Babylon from which the people return and the nations named in the oracles. Points come from OpenBible and do not form a single route; \"?\" marks a disputed location."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Babilônia",
+          "en": "Babylon"
+        },
+        "lonLat": [
+          44.42,
+          32.54
+        ],
+        "note": {
+          "pt": "Os exilados são chamados a fugir da Babilônia (2:6–7); de lá vêm doações para o templo (6:10).",
+          "en": "The exiles are called to flee from Babylon (2:6–7); gifts for the temple come from there (6:10)."
+        },
+        "ref": "2:6"
+      },
+      {
+        "name": {
+          "pt": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        "lonLat": [
+          35.23,
+          31.78
+        ],
+        "note": {
+          "pt": "O Senhor volta a Jerusalém com misericórdia (1:14–16); o templo será reconstruído e a cidade, escolhida de novo.",
+          "en": "The Lord returns to Jerusalem with compassion (1:14–16); the temple will be rebuilt and the city chosen again."
+        },
+        "ref": "1:12"
+      },
+      {
+        "name": {
+          "pt": "Damasco",
+          "en": "Damascus"
+        },
+        "lonLat": [
+          36.31,
+          33.51
+        ],
+        "note": {
+          "pt": "Oráculo contra Hadraque e Damasco (9:1–2).",
+          "en": "Oracle against Hadrach and Damascus (9:1–2)."
+        },
+        "ref": "9:1"
+      },
+      {
+        "name": {
+          "pt": "Tiro",
+          "en": "Tyre"
+        },
+        "lonLat": [
+          35.2,
+          33.27
+        ],
+        "note": {
+          "pt": "Tiro construiu uma fortaleza, mas será derrubada (9:3–4).",
+          "en": "Tyre built a stronghold but it will be struck down (9:3–4)."
+        },
+        "ref": "9:3"
+      },
+      {
+        "name": {
+          "pt": "Ecrom",
+          "en": "Ekron"
+        },
+        "lonLat": [
+          34.85,
+          31.78
+        ],
+        "note": {
+          "pt": "Ecrom, cidade filisteia, será envergonhada (9:5–7).",
+          "en": "Ekron, a Philistine city, will be put to shame (9:5–7)."
+        },
+        "ref": "9:5"
+      },
+      {
+        "name": {
+          "pt": "Egito",
+          "en": "Egypt"
+        },
+        "lonLat": [
+          31.31,
+          30.13
+        ],
+        "note": {
+          "pt": "O Senhor reunirá seu povo do Egito e da Assíria (10:10–11). O ponto marca o centro da região.",
+          "en": "The Lord will gather his people from Egypt and Assyria (10:10–11). The point marks the center of the region."
+        },
+        "ref": "10:10"
+      },
+      {
+        "name": {
+          "pt": "Assíria",
+          "en": "Assyria"
+        },
+        "lonLat": [
+          43.15,
+          36.36
+        ],
+        "note": {
+          "pt": "Também da Assíria o povo será reunido (10:10–11). O ponto marca o centro da região.",
+          "en": "The people will also be gathered from Assyria (10:10–11). The point marks the center of the region."
+        },
+        "ref": "10:10"
+      }
+    ]
   }
 }

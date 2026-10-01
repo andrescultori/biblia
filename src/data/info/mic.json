@@ -84,5 +84,119 @@
   "connections": {
     "pt": "Mt 2:5–6 cita Mq 5:2 sobre Belém. Mt 10:35–36 alude a Mq 7:6. Jr 26:18 cita Mq 3:12. Is 2:2–4 é quase idêntico a Mq 4:1–3.",
     "en": "Matt 2:5–6 quotes Mic 5:2 about Bethlehem. Matt 10:35–36 alludes to Mic 7:6. Jer 26:18 quotes Mic 3:12. Isa 2:2–4 is almost identical to Mic 4:1–3."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Lugares da profecia de Miqueias, do reino do norte e de Judá às potências estrangeiras. Os pontos vêm do OpenBible e não formam um trajeto único; \"?\" marca localização debatida.",
+      "en": "Places in Micah's prophecy, from the northern kingdom and Judah to foreign powers. Points come from OpenBible and do not form a single route; \"?\" marks a disputed location."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Moresete-Gate",
+          "en": "Moresheth-gath"
+        },
+        "lonLat": [
+          34.92,
+          31.63
+        ],
+        "note": {
+          "pt": "Terra de Miqueias, \"o morastita\" (1:1; 1:14).",
+          "en": "Home of Micah \"the Moreshite\" (1:1; 1:14)."
+        },
+        "ref": "1:1"
+      },
+      {
+        "name": {
+          "pt": "Samaria",
+          "en": "Samaria"
+        },
+        "lonLat": [
+          35.2,
+          32.28
+        ],
+        "note": {
+          "pt": "O Senhor testemunha contra Samaria, que será reduzida a ruínas (1:5–7).",
+          "en": "The Lord bears witness against Samaria, which will be reduced to ruins (1:5–7)."
+        },
+        "ref": "1:5"
+      },
+      {
+        "name": {
+          "pt": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        "lonLat": [
+          35.23,
+          31.78
+        ],
+        "note": {
+          "pt": "Judá e Jerusalém são alvo da denúncia (1:5, 9); o monte do templo será exaltado (4:1–2).",
+          "en": "Judah and Jerusalem are the target of the indictment (1:5, 9); the temple mount will be exalted (4:1–2)."
+        },
+        "ref": "1:5"
+      },
+      {
+        "name": {
+          "pt": "Babilônia",
+          "en": "Babylon"
+        },
+        "lonLat": [
+          44.42,
+          32.54
+        ],
+        "note": {
+          "pt": "A filha de Sião irá até a Babilônia, e ali será resgatada (4:10).",
+          "en": "The daughter of Zion will go to Babylon, and there be rescued (4:10)."
+        },
+        "ref": "4:10"
+      },
+      {
+        "name": {
+          "pt": "Belém",
+          "en": "Bethlehem"
+        },
+        "lonLat": [
+          35.21,
+          31.7
+        ],
+        "note": {
+          "pt": "Dela sairá o governante de Israel (5:2).",
+          "en": "From it will come the ruler of Israel (5:2)."
+        },
+        "ref": "5:2"
+      },
+      {
+        "name": {
+          "pt": "Assíria",
+          "en": "Assyria"
+        },
+        "lonLat": [
+          43.15,
+          36.36
+        ],
+        "note": {
+          "pt": "Os assírios invadirão a terra, mas serão derrotados (5:5–6). O ponto marca o centro da região.",
+          "en": "The Assyrians will invade the land but will be defeated (5:5–6). The point marks the center of the region."
+        },
+        "ref": "5:5"
+      },
+      {
+        "name": {
+          "pt": "Egito",
+          "en": "Egypt"
+        },
+        "lonLat": [
+          31.31,
+          30.13
+        ],
+        "note": {
+          "pt": "O Senhor lembra que tirou Israel do Egito (6:4) e promete maravilhas como naquele dia (7:15). O ponto marca o centro da região.",
+          "en": "The Lord recalls that he brought Israel out of Egypt (6:4) and promises wonders as in that day (7:15). The point marks the center of the region."
+        },
+        "ref": "6:4"
+      }
+    ]
   }
 }

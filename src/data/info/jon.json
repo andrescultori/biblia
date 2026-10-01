@@ -101,5 +101,60 @@
   "connections": {
     "pt": "Jesus fala do \"sinal de Jonas\" em Mt 12:39–41 e Lc 11:29–32, e compara o tempo de Jonas no peixe com o seu. 2Rs 14:25 menciona o profeta. A frase de 4:2 ecoa Êx 34:6.",
     "en": "Jesus speaks of the \"sign of Jonah\" in Matt 12:39–41 and Luke 11:29–32, and compares Jonah's time in the fish with his own. 2 Kgs 14:25 mentions the prophet. The phrase in 4:2 echoes Exod 34:6."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "O Senhor manda Jonas a Nínive; ele foge para Társis. Társis é debatida: o OpenBible a localiza em Tartessos, no sul da Espanha, com baixa confiança.",
+      "en": "The Lord sends Jonah to Nineveh; he flees toward Tarshish. Tarshish is debated: OpenBible places it at Tartessos in southern Spain, with low confidence."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Jope",
+          "en": "Joppa"
+        },
+        "lonLat": [
+          34.75,
+          32.05
+        ],
+        "note": {
+          "pt": "Jonas desce a Jope e embarca para Társis (1:3).",
+          "en": "Jonah goes down to Joppa and boards a ship for Tarshish (1:3)."
+        },
+        "ref": "1:3"
+      },
+      {
+        "name": {
+          "pt": "Társis",
+          "en": "Tarshish"
+        },
+        "lonLat": [
+          -6.94,
+          37.27
+        ],
+        "note": {
+          "pt": "Destino da fuga de Jonas, \"para longe da presença do Senhor\" (1:3). A localização de Társis é debatida.",
+          "en": "Destination of Jonah's flight, \"away from the presence of the Lord\" (1:3). The location of Tarshish is debated."
+        },
+        "ref": "1:3",
+        "uncertain": true
+      },
+      {
+        "name": {
+          "pt": "Nínive",
+          "en": "Nineveh"
+        },
+        "lonLat": [
+          43.15,
+          36.36
+        ],
+        "note": {
+          "pt": "Capital assíria, para onde Jonas é enviado a pregar; a cidade se arrepende (1:2; 3:3–10).",
+          "en": "The Assyrian capital, where Jonah is sent to preach; the city repents (1:2; 3:3–10)."
+        },
+        "ref": "1:2"
+      }
+    ]
   }
 }

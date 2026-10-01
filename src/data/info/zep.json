@@ -84,5 +84,134 @@
   "connections": {
     "pt": "O livro não é citado diretamente no Novo Testamento. Contemporâneo de Naum e Habacuque, e do início do ministério de Jeremias.",
     "en": "The book is not directly quoted in the New Testament. A contemporary of Nahum and Habakkuk, and of the beginning of Jeremiah's ministry."
+  },
+  "map": {
+    "route": false,
+    "note": {
+      "pt": "Lugares do \"dia do Senhor\" anunciado por Sofonias: Jerusalém, as cidades filisteias e as nações vizinhas. Os pontos vêm do OpenBible e não formam um trajeto único; \"?\" marca localização debatida.",
+      "en": "Places of the \"day of the Lord\" announced by Zephaniah: Jerusalem, the Philistine cities and neighboring nations. Points come from OpenBible and do not form a single route; \"?\" marks a disputed location."
+    },
+    "places": [
+      {
+        "name": {
+          "pt": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        "lonLat": [
+          35.23,
+          31.78
+        ],
+        "note": {
+          "pt": "O Senhor estende a mão contra Judá e contra os moradores de Jerusalém (1:4, 12); promessa de restauração (3:14–20).",
+          "en": "The Lord stretches out his hand against Judah and the inhabitants of Jerusalem (1:4, 12); promise of restoration (3:14–20)."
+        },
+        "ref": "1:4"
+      },
+      {
+        "name": {
+          "pt": "Gaza",
+          "en": "Gaza"
+        },
+        "lonLat": [
+          34.46,
+          31.5
+        ],
+        "note": {
+          "pt": "Gaza será abandonada (2:4).",
+          "en": "Gaza will be abandoned (2:4)."
+        },
+        "ref": "2:4"
+      },
+      {
+        "name": {
+          "pt": "Ascalom",
+          "en": "Ashkelon"
+        },
+        "lonLat": [
+          34.55,
+          31.66
+        ],
+        "note": {
+          "pt": "Ascalom será desolada (2:4, 7).",
+          "en": "Ashkelon will be desolate (2:4, 7)."
+        },
+        "ref": "2:4"
+      },
+      {
+        "name": {
+          "pt": "Asdode",
+          "en": "Ashdod"
+        },
+        "lonLat": [
+          34.66,
+          31.76
+        ],
+        "note": {
+          "pt": "Asdode será expulsa ao meio-dia (2:4).",
+          "en": "Ashdod will be driven out at noon (2:4)."
+        },
+        "ref": "2:4"
+      },
+      {
+        "name": {
+          "pt": "Ecrom",
+          "en": "Ekron"
+        },
+        "lonLat": [
+          34.85,
+          31.78
+        ],
+        "note": {
+          "pt": "Ecrom será arrancada (2:4).",
+          "en": "Ekron will be uprooted (2:4)."
+        },
+        "ref": "2:4"
+      },
+      {
+        "name": {
+          "pt": "Moabe",
+          "en": "Moab"
+        },
+        "lonLat": [
+          35.7,
+          31.18
+        ],
+        "note": {
+          "pt": "Moabe e Amom serão como Sodoma e Gomorra (2:8–9). O ponto marca o centro da região.",
+          "en": "Moab and Ammon will be like Sodom and Gomorrah (2:8–9). The point marks the center of the region."
+        },
+        "ref": "2:8"
+      },
+      {
+        "name": {
+          "pt": "Amom",
+          "en": "Ammon"
+        },
+        "lonLat": [
+          35.93,
+          31.95
+        ],
+        "note": {
+          "pt": "Amom, junto com Moabe, ouve o juízo (2:8–9). O ponto marca o centro da região.",
+          "en": "Ammon, together with Moab, hears the judgment (2:8–9). The point marks the center of the region."
+        },
+        "ref": "2:8"
+      },
+      {
+        "name": {
+          "pt": "Assíria",
+          "en": "Assyria"
+        },
+        "lonLat": [
+          43.15,
+          36.36
+        ],
+        "note": {
+          "pt": "O Senhor destruirá a Assíria e fará de Nínive uma desolação (2:13). O ponto marca o centro da região.",
+          "en": "The Lord will destroy Assyria and make Nineveh desolate (2:13). The point marks the center of the region."
+        },
+        "ref": "2:13"
+      }
+    ]
   }
 }
