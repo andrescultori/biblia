@@ -13,6 +13,8 @@ export default function People({ lang, t, focusId, onClose, onOpenBook, onOpenTi
   const [sel, setSel] = useState(byId[focusId] ? focusId : null);
   const [query, setQuery] = useState('');
   const [bookFilter, setBookFilter] = useState('all');
+  const [sort, setSort] = useState(() => { try { return localStorage.getItem('peopleSort') === 'book' ? 'book' : 'alpha'; } catch { return 'alpha'; } });
+  const chooseSort = (v) => { setSort(v); try { localStorage.setItem('peopleSort', v); } catch { /* ignora */ } };
 
   useEffect(() => {
     const d = ref.current;
@@ -30,6 +32,18 @@ export default function People({ lang, t, focusId, onClose, onOpenBook, onOpenTi
       .filter((p) => !q || norm(p.name.pt).includes(q) || norm(p.name.en).includes(q))
       .sort((a, b) => pick(a.name, lang).localeCompare(pick(b.name, lang), lang));
   }, [query, bookFilter, lang]);
+
+  // Por livro: cada pessoa fica no primeiro livro em que aparece (ordem canônica); dentro dele, A–Z
+  const groups = useMemo(() => {
+    if (sort === 'alpha') return [{ key: 'all', title: null, items: list }];
+    const g = new Map();
+    for (const p of list) {
+      const first = p.books.map((b) => bySlug[b.book]).sort((a, b) => a.n - b.n)[0];
+      if (!g.has(first.slug)) g.set(first.slug, { key: first.slug, n: first.n, title: first.name[lang], items: [] });
+      g.get(first.slug).items.push(p);
+    }
+    return [...g.values()].sort((a, b) => a.n - b.n);
+  }, [list, sort, lang]);
 
   const person = byId[sel];
   const choose = (id) => { setSel(id); history.replaceState(null, '', id ? `#person/${id}` : '#person'); };
@@ -53,20 +67,30 @@ export default function People({ lang, t, focusId, onClose, onOpenBook, onOpenTi
                 <option value="all">{t.peopleAllBooks}</option>
                 {bookOptions.map((b) => <option key={b.slug} value={b.slug}>{b.name[lang]}</option>)}
               </select>
+              <div className="seg" role="group" aria-label={t.peopleSort}>
+                {[['alpha', t.peopleSortAlpha], ['book', t.peopleSortBook]].map(([k, label]) => (
+                  <button key={k} type="button" aria-pressed={sort === k} onClick={() => chooseSort(k)}>{label}</button>
+                ))}
+              </div>
             </div>
             <div className="body">
               {list.length === 0 && <p className="soon">{t.noResults}</p>}
-              <ul className="pp-list">
-                {list.map((p) => (
-                  <li key={p.id}>
-                    <button type="button" className="pp-card" onClick={() => choose(p.id)}>
-                      <b>{pick(p.name, lang)}</b>
-                      <span>{pick(p.summary, lang).split(/(?<=[.!?])\s/)[0]}</span>
-                      <small>{p.books.length} {p.books.length === 1 ? t.peopleBookOne : t.peopleBooks}</small>
-                    </button>
-                  </li>
-                ))}
-              </ul>
+              {groups.map((g) => (
+                <section key={g.key}>
+                  {g.title && <h3 className="pp-group">{g.title}</h3>}
+                  <ul className="pp-list">
+                    {g.items.map((p) => (
+                      <li key={p.id}>
+                        <button type="button" className="pp-card" onClick={() => choose(p.id)}>
+                          <b>{pick(p.name, lang)}</b>
+                          <span>{pick(p.summary, lang).split(/(?<=[.!?])\s/)[0]}</span>
+                          <small>{p.books.length} {p.books.length === 1 ? t.peopleBookOne : t.peopleBooks}</small>
+                        </button>
+                      </li>
+                    ))}
+                  </ul>
+                </section>
+              ))}
               <p className="tl-scalenote">{t.peopleNote}</p>
             </div>
           </>

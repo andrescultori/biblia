@@ -22,6 +22,7 @@ Tabela interativa dos 66 livros da Bíblia (inspirada no "TaBíblia Periódica")
 - `src/MapView.jsx`: aba Mapa (d3-geo, SVG em pixels reais, rótulos sem colisão, botão "Ampliar região"). Carregada sob demanda.
 - `src/Timeline.jsx`: modal da linha do tempo (períodos, eventos, livros por período; escala por bloco). Carregada sob demanda; link `#timeline`.
 - `src/People.jsx`: modal de personagens (lista com busca e filtro por livro; detalhe com livros, eventos e lugares). Carregada sob demanda; links `#person` e `#person/<id>`.
+- `src/SettingsModal.jsx` e `src/settings.js`: modal de Configurações (⚙ no topo) e contexto das preferências de estudo. Hoje: mostrar/esconder a posição acadêmica (fichas e linha do tempo); o padrão é mostrar. Guardado no navegador.
 - `src/BookModal.jsx`: modal do livro (abas Resumo, Ficha, Mapa e Ler). `src/App.jsx`: grade, filtros, tema, idioma, link direto por hash (`#joh`).
 
 ## Regras de conteúdo

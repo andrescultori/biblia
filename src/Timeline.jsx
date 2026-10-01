@@ -3,13 +3,16 @@ import { BOOKS, bySlug } from './data/books.js';
 import data from './data/timeline.json';
 import { people } from './data/people.json';
 import { pick, range, views, main } from './timelineUtil.js';
+import { useSettings } from './settings.js';
 
 const MIN_W = 132; // largura mínima de um período na faixa, em px (cabe o título)
 const UNDATED_W = 132;
 
 function Dates({ dates, t, lang }) {
-  const vs = views(dates);
-  if (vs.length === 1) {
+  const { showScholarly } = useSettings();
+  const all = views(dates);
+  const vs = showScholarly ? all : all.slice(0, 1);
+  if (all.length === 1) {
     const d = vs[0][1];
     return <p className="tl-dates"><b>{range(d, lang)}</b>{d.note && <span> {pick(d.note, lang)}</span>}</p>;
   }
@@ -18,11 +21,13 @@ function Dates({ dates, t, lang }) {
       {vs.map(([k, d]) => (
         <p key={k} className="tl-dates"><i>{t[k]}</i><b>{range(d, lang)}</b>{d.note && <span> {pick(d.note, lang)}</span>}</p>
       ))}
+      {vs.length < all.length && <p className="tl-dates tl-hidden">{t.scholarlyHidden}</p>}
     </div>
   );
 }
 
 export default function Timeline({ lang, t, focusId, onClose, onOpenBook, onOpenMap, onOpenPerson }) {
+  const { showScholarly } = useSettings();
   const ref = useRef(null);
   const focused = data.events.find((e) => e.id === focusId);
   const [sel, setSel] = useState(focused?.period ?? data.periods[0].id);
@@ -100,7 +105,7 @@ export default function Timeline({ lang, t, focusId, onClose, onOpenBook, onOpen
           <h3>{pick(period.title, lang)}</h3>
           <p>{pick(period.summary, lang)}</p>
           {period.dates && <Dates dates={period.dates} t={t} lang={lang} />}
-          {period.uncertain && <p className="tl-warn">{t.timelineUncertain}</p>}
+          {period.uncertain && showScholarly && <p className="tl-warn">{t.timelineUncertain}</p>}
 
           {period.books.length > 0 && (
             <>

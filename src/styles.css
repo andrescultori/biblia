@@ -184,3 +184,10 @@ input[type='search'] { flex: 1 1 200px; min-width: 0; border: 1px solid var(--li
 .pp-books li { display: flex; gap: 8px; align-items: baseline; flex-wrap: wrap; margin-bottom: 6px; }
 .pp-books span { font-size: 0.88rem; color: var(--muted); flex: 1 1 200px; }
 .tl-places small { align-self: center; color: var(--muted); }
+
+/* configurações e ordenação */
+.cfg-row { display: flex; gap: 12px; align-items: flex-start; cursor: pointer; }
+.cfg-row input { margin-top: 4px; width: 18px; height: 18px; flex: none; }
+.cfg-row small { display: block; color: var(--muted); font-size: 0.85rem; margin-top: 2px; }
+.pp-group { margin: 14px 0 6px; font: 700 1rem var(--f-display); }
+.tl-hidden { color: var(--muted); font-style: italic; }

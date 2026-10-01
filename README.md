@@ -112,3 +112,7 @@ O botão **Personagens** abre um modal com a lista (busca e filtro por livro) e,
 - `events` usa os ids de `timeline.json`; `places` usa o nome em PT do lugar no mapa da ficha daquele livro (e o `en` igual). `npm run check` confere ids únicos, livros, eventos, lugares e PT/EN.
 - O evento da linha do tempo lista as pessoas ligadas a ele e o lugar do mapa também.
 - O resumo se limita ao que o texto bíblico diz. Pessoas distintas de mesmo nome têm ids distintos (`josue`, `josue-sacerdote`). Genealogia ainda não faz parte.
+
+## Configurações
+
+O botão ⚙ abre as preferências de estudo, guardadas no navegador (`localStorage`). Por enquanto: **mostrar a posição acadêmica** (padrão: ligado). Desligada, a ficha mostra só a posição tradicional de autoria e datação, e a linha do tempo só a leitura tradicional das datas; um aviso lembra que a outra posição está oculta. Em Personagens, a lista pode ser ordenada A–Z ou por livro (lembrada no navegador).
