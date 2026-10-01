@@ -12,7 +12,6 @@ Os textos ficam em `public/bible/<versão>/<n>.json` (n = 1..66, ordem canônica
 | `web` | World English Bible | Domínio público | [seven1m/open-bibles](https://github.com/seven1m/open-bibles) (`eng-web.usfx.xml`, do eBible.org) |
 | `asv` | American Standard Version (1901) | Domínio público | [openbibleinfo/American-Standard-Version-Bible](https://github.com/openbibleinfo/American-Standard-Version-Bible) (`usx-english-only/`) |
 | `blivre` | Bíblia Livre (2018) | CC BY 4.0 (atribuição obrigatória) | [damarals/biblias](https://github.com/damarals/biblias) (`data/canonical/BLIVRE/`) |
-| `alm1911` | Almeida, edição de 1911 | Domínio público | [damarals/biblias](https://github.com/damarals/biblias) (`data/canonical/ALM1911/`; texto do Project Gutenberg nº 62383) |
 
 Para regenerar uma versão, passe o id e o caminho da fonte baixada:
 

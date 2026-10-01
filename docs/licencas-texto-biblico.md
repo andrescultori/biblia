@@ -10,7 +10,7 @@ Levantamento feito em 01/10/2026 a partir das páginas oficiais citadas abaixo. 
 | WEB (World English Bible) | EN | Domínio público | **No site.** Ver "Versões no site". |
 | ASV (American Standard Version, 1901) | EN | Domínio público | **No site.** |
 | TB (Tradução Brasileira) | PT | O texto de 1917 provavelmente é domínio público, mas o arquivo disponível é a edição da SBB de 2010, com copyright declarado | **Não adicionar.** Ver "Versões no site". |
-| Almeida 1911 (ALM1911) | PT | Domínio público (texto do Project Gutenberg nº 62383) | **No site**, com a ressalva da edição. |
+| Almeida 1911 (ALM1911) | PT | Domínio público (texto do Project Gutenberg nº 62383) | **Retirada do site a pedido do André** (ortografia da época estranha ao leitor). Pode voltar com ortografia atualizada, se houver fonte confiável. |
 | Bíblia Livre (BLIVRE) | PT | **CC BY 4.0**, por decisão do André (o repositório oficial dos autores cita a 3.0 Brasil; não é domínio público, ao contrário do que o `damarals` informa) | **No site**, com atribuição obrigatória. |
 | ARC (SBB, 1995) | PT | **Com direitos** (SBB) | Não adicionar. A edição original de 1898 é de domínio público, mas as revisões da SBB não. |
 | ARA, NAA, NTLH | PT | **Com direitos** (SBB) | Só com autorização escrita. |
@@ -30,7 +30,7 @@ Levantamento de 01/10/2026. `ebible.org`, `sbb.org.br`, `gutenberg.org` e as pá
 | WEB | [ebible.org/eng-web/copyright.htm](https://ebible.org/eng-web/copyright.htm): domínio público, com declaração CC0. O prefácio dentro do arquivo-fonte repete "Public Domain (not copyrighted)". | "World English Bible" é marca do eBible.org: se o texto for alterado, não pode mais ser chamado de WEB. Não alterar o texto. |
 | ASV | [ebible.org/eng-asv/copyright.htm](https://ebible.org/eng-asv/copyright.htm) e o [LICENSE.md](https://github.com/openbibleinfo/American-Standard-Version-Bible/blob/main/LICENSE.md) do repositório-fonte (lido em arquivo). | Omite 16 versículos que o texto grego crítico não traz. |
 | Bíblia Livre | `LICENCA.md` e `README.md` do [repositório oficial](https://github.com/blivre/BibliaLivre) (lidos em arquivo): CC BY 3.0 Brasil, com crédito sugerido. O [eBible](https://ebible.org/porbr2018/copyright.htm) cita CC BY 4.0. | O André escolheu a **4.0** (a do eBible). Atenção: a licença escrita pelos autores no repositório oficial é a 3.0 BR, então a 4.0 se apoia na página do eBible. O arquivo do site é um instantâneo de 2018; o repositório oficial está na versão 2025.1.0, com cerca de um terço dos versículos redigidos de outro jeito. No NT, o instantâneo segue o texto crítico (Nestle 1904): 15 versículos em branco. O repositório oficial também tem a variante Textus Receptus (`tr`). |
-| Almeida 1911 | [Project Gutenberg nº 62383](https://www.gutenberg.org/ebooks/62383): "public domain in the USA" (via busca). O `damarals/biblias` cita esse número nas correções do texto. | Não foi possível abrir a página do Gutenberg para ver o frontispício: que o texto é a edição de 1911 vem do `damarals` e de um projeto do Distributed Proofreaders. Grafia antiga. |
+| Almeida 1911 (retirada) | [Project Gutenberg nº 62383](https://www.gutenberg.org/ebooks/62383): "public domain in the USA" (via busca). | Não está mais no site. |
 | TB (não adicionada) | As páginas da [SBB](https://www.sbb.org.br/biblia/TB/GEN.12) exibem "Tradução Brasileira © 1917, 2010 Sociedade Bíblica do Brasil". | A tradução de 1917 provavelmente é domínio público, mas o arquivo disponível é a edição de 2010 da SBB, de ortografia modernizada. Fora, até haver uma fonte do texto de 1917. |
 | ARC 1898 | Não foi encontrada fonte digital confiável. | Há escaneamentos de edições de 1904 e 1914 no Internet Archive, que exigiriam OCR e revisão. A "ARC" dos aplicativos é a revisão da SBB de 1995, com direitos. |
 
@@ -67,7 +67,7 @@ Passo a passo:
 - Não encontrei API gratuita oficial. Provavelmente não vale o esforço agora.
 
 ## Ordem sugerida
-1. Feito: WEB, ASV, Bíblia Livre e Almeida 1911 (TB ficou de fora; ver acima).
+1. Feito: WEB, ASV e Bíblia Livre (TB ficou de fora; ver acima). A Almeida 1911 entrou e foi retirada depois, pela ortografia antiga.
 2. Em paralelo: pedido da SBB para ARA e NAA.
 3. Depois: ESV via API só se houver proxy simples e o uso for não comercial.
 4. NKJV: deixar de fora por enquanto.

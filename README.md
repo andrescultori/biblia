@@ -2,7 +2,7 @@
 
 # 📖 TaBíblia Interativa
 
-**Estudo bíblico interativo: cada livro com ficha, mapa, linha do tempo e personagens, e o texto em cinco versões de licença clara.**
+**Estudo bíblico interativo: cada livro com ficha, mapa, linha do tempo e personagens, e o texto em quatro versões de licença clara.**
 
 Uma tabela dos 66 livros da Bíblia, em que cada livro abre uma ficha de estudo (autor, data, tema, esboço), um mapa dos lugares citados e o texto para leitura. Uma linha do tempo e páginas de personagens se ligam aos livros e aos mapas. Tudo é estático (React + Vite), publicado no GitHub Pages, com interface em português e inglês.
 
@@ -39,7 +39,7 @@ Do Êxodo na linha do tempo, por exemplo, um clique leva ao mapa de Êxodo já n
 - **Personagens**: 113 pessoas, com resumo, livros onde aparecem, eventos e lugares; lista por ordem alfabética ou por livro.
 - **Salmos como tabela**: os 150 salmos coloridos por livro do Saltério, título ou gênero, com os salmos de título histórico ligados a Davi, aos personagens e à linha do tempo.
 - **Estrutura de Jó, Provérbios, Eclesiastes e Cantares**: os capítulos coloridos por parte (em Jó, por quem fala), a lista das partes e, em Eclesiastes e Cantares, as leituras lado a lado.
-- **Leitor de texto** em KJV, WEB e ASV (inglês), Bíblia Livre e Almeida 1911 (português), com crédito e licença de cada uma.
+- **Leitor de texto** em KJV, WEB e ASV (inglês), Bíblia Livre (português), com crédito e licença de cada uma.
 - Tema claro e escuro, PT e EN.
 
 ![Linha do tempo, com as duas leituras da data do Êxodo](docs/images/linha-do-tempo.png)
@@ -90,7 +90,7 @@ Todo pull request roda `npm run check` e `npm run build`; o deploy no Pages acon
 - Costa: [Natural Earth](https://www.naturalearthdata.com/) (domínio público), pelo pacote `world-atlas`, recortada e simplificada.
 - Lugares do mapa: [OpenBible.info Bible Geocoding Data](https://www.openbible.info/geo/), licença [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Coordenadas arredondadas e adaptadas.
 - Projeção: [d3-geo](https://github.com/d3/d3-geo) (ISC).
-- Textos: KJV (domínio público); WEB ([eBible.org](https://ebible.org/eng-web/), domínio público); ASV (domínio público, edição digital de [openbibleinfo](https://github.com/openbibleinfo/American-Standard-Version-Bible)); Almeida 1911 (domínio público, [Project Gutenberg nº 62383](https://www.gutenberg.org/ebooks/62383)); **Bíblia Livre (BLIVRE), © 2018 Diego Santos, Mario Sérgio e Marco Teles, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**, [fonte](https://github.com/blivre/BibliaLivre).
+- Textos: KJV (domínio público); WEB ([eBible.org](https://ebible.org/eng-web/), domínio público); ASV (domínio público, edição digital de [openbibleinfo](https://github.com/openbibleinfo/American-Standard-Version-Bible)); **Bíblia Livre (BLIVRE), © 2018 Diego Santos, Mario Sérgio e Marco Teles, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**, [fonte](https://github.com/blivre/BibliaLivre).
 
 Ideia original da tabela: "TaBíblia Periódica" (Grupo de Jovens Conquistando as Nações; fonte indicada: Sociedade Bíblica do Brasil). Este projeto tem design e código próprios.
 

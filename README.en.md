@@ -2,7 +2,7 @@
 
 # 📖 TaBíblia Interativa
 
-**Interactive Bible study: every book with a study sheet, a map, a timeline and people pages, and the text in five clearly licensed versions.**
+**Interactive Bible study: every book with a study sheet, a map, a timeline and people pages, and the text in four clearly licensed versions.**
 
 A table of the 66 books of the Bible, where each book opens a study sheet (author, date, theme, outline), a map of the places it mentions and the text for reading. A timeline and people pages link back to the books and the maps. Everything is static (React + Vite), published on GitHub Pages, with a Portuguese and English interface.
 
@@ -39,7 +39,7 @@ From the Exodus on the timeline, for example, one click opens the Exodus map alr
 - **People**: 113 people, with a summary, the books they appear in, events and places; the list sorts alphabetically or by book.
 - **Psalms as a table**: the 150 psalms colored by book of the Psalter, title or genre, with the psalms that have a historical title linked to David, the people and the timeline.
 - **Structure of Job, Proverbs, Ecclesiastes and Song of Songs**: chapters colored by part (in Job, by speaker), the list of parts and, in Ecclesiastes and Song of Songs, the readings side by side.
-- **A text reader** in KJV, WEB and ASV (English), Bíblia Livre and Almeida 1911 (Portuguese), with the credit and license of each.
+- **A text reader** in KJV, WEB and ASV (English), Bíblia Livre (Portuguese), with the credit and license of each.
 - Light and dark theme, PT and EN.
 
 ![Timeline, with the two readings of the Exodus date](docs/images/linha-do-tempo.png)
@@ -90,7 +90,7 @@ Every pull request runs `npm run check` and `npm run build`; deployment to Pages
 - Coastline: [Natural Earth](https://www.naturalearthdata.com/) (public domain), via the `world-atlas` package, clipped and simplified.
 - Map places: [OpenBible.info Bible Geocoding Data](https://www.openbible.info/geo/), license [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Coordinates rounded and adapted.
 - Projection: [d3-geo](https://github.com/d3/d3-geo) (ISC).
-- Texts: KJV (public domain); WEB ([eBible.org](https://ebible.org/eng-web/), public domain); ASV (public domain, digital edition by [openbibleinfo](https://github.com/openbibleinfo/American-Standard-Version-Bible)); Almeida 1911 (public domain, [Project Gutenberg no. 62383](https://www.gutenberg.org/ebooks/62383)); **Bíblia Livre (BLIVRE), © 2018 Diego Santos, Mario Sérgio and Marco Teles, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**, [source](https://github.com/blivre/BibliaLivre).
+- Texts: KJV (public domain); WEB ([eBible.org](https://ebible.org/eng-web/), public domain); ASV (public domain, digital edition by [openbibleinfo](https://github.com/openbibleinfo/American-Standard-Version-Bible)); **Bíblia Livre (BLIVRE), © 2018 Diego Santos, Mario Sérgio and Marco Teles, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**, [source](https://github.com/blivre/BibliaLivre).
 
 Original idea of the table: "TaBíblia Periódica" (Grupo de Jovens Conquistando as Nações; source cited: Sociedade Bíblica do Brasil). This project has its own design and code.
 
