@@ -1,0 +1,99 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Salomão, segundo a tradição. O livro se apresenta como palavras de \"Coélet, filho de Davi, rei em Jerusalém\" (1:1), sem dizer o nome Salomão.",
+      "en": "Solomon, according to tradition. The book presents itself as the words of \"Qohelet, son of David, king in Jerusalem\" (1:1), without using the name Solomon."
+    },
+    "scholarly": {
+      "pt": "Obra anônima, em que o sábio Coélet é a voz principal e um narrador externo comenta no final (12:9–14). A língua do texto (vocabulário e sintaxe tardios) leva a maioria a situá-lo depois do exílio.",
+      "en": "An anonymous work in which the sage Qohelet is the main voice and an outside narrator comments at the end (12:9–14). The language of the text (late vocabulary and syntax) leads most to place it after the exile."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Reinado de Salomão (séc. X a.C.), se a atribuição tradicional é aceita.",
+      "en": "The reign of Solomon (10th century BC), if the traditional attribution is accepted."
+    },
+    "scholarly": {
+      "pt": "Período persa ou helenístico, c. séc. V–III a.C., conforme a posição adotada.",
+      "en": "Persian or Hellenistic period, c. 5th–3rd centuries BC, depending on the position adopted."
+    }
+  },
+  "place": {
+    "pt": "Jerusalém, segundo o título (1:1, 12). O local de composição não é indicado.",
+    "en": "Jerusalem, according to the title (1:1, 12). The place of composition is not stated."
+  },
+  "recipients": {
+    "pt": "Não indicados no texto. Fala ao ouvinte em tom de reflexão sapiencial.",
+    "en": "Not stated in the text. It speaks to the listener in the tone of wisdom reflection."
+  },
+  "keyVerse": "12:13",
+  "theme": {
+    "pt": "A busca de sentido: Coélet examina trabalho, riqueza, prazer e sabedoria, constata a brevidade da vida e o limite do saber, e aponta para o temor de Deus e para a alegria nos dons do cotidiano.",
+    "en": "The search for meaning: Qohelet examines work, wealth, pleasure and wisdom, observes life's brevity and the limits of knowledge, and points to the fear of God and joy in the gifts of daily life."
+  },
+  "historicalContext": {
+    "pt": "O termo hebraico traduzido por \"vaidade\" (hevel) significa literalmente \"sopro\" ou \"vapor\", e ocorre cerca de 38 vezes. O livro dialoga com Jó e Provérbios, questionando leituras simplistas da retribuição. Sua interpretação é muito debatida, inclusive o sentido do epílogo (12:9–14).",
+    "en": "The Hebrew term translated \"vanity\" (hevel) literally means \"breath\" or \"vapor\", and occurs about 38 times. The book is in dialogue with Job and Proverbs, questioning simplistic readings of retribution. Its interpretation is much debated, including the sense of the epilogue (12:9–14)."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Coélet",
+        "en": "Qohelet"
+      },
+      "role": {
+        "pt": "O sábio que fala; \"filho de Davi, rei em Jerusalém\" (1:1)",
+        "en": "The sage who speaks; \"son of David, king in Jerusalem\" (1:1)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–11",
+      "title": {
+        "pt": "Prólogo: tudo é sopro",
+        "en": "Prologue: everything is a breath"
+      }
+    },
+    {
+      "ref": "1:12–2:26",
+      "title": {
+        "pt": "A experiência do rei: sabedoria, prazer, trabalho",
+        "en": "The king's experience: wisdom, pleasure, work"
+      }
+    },
+    {
+      "ref": "3:1–6:12",
+      "title": {
+        "pt": "Tempo, injustiça e os limites da vida",
+        "en": "Time, injustice and the limits of life"
+      }
+    },
+    {
+      "ref": "7:1–11:6",
+      "title": {
+        "pt": "Sabedoria, incerteza e conselhos práticos",
+        "en": "Wisdom, uncertainty and practical counsel"
+      }
+    },
+    {
+      "ref": "11:7–12:8",
+      "title": {
+        "pt": "Alegria na juventude e a velhice",
+        "en": "Joy in youth and old age"
+      }
+    },
+    {
+      "ref": "12:9–14",
+      "title": {
+        "pt": "Epílogo",
+        "en": "Epilogue"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "O livro não é citado diretamente no Novo Testamento. Dialoga com Jó e Provérbios. Na tradição judaica, é lido na festa das Cabanas (Sucot).",
+    "en": "The book is not directly quoted in the New Testament. It is in dialogue with Job and Proverbs. In Jewish tradition, it is read at the Feast of Booths (Sukkot)."
+  }
+}

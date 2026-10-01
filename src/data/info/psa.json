@@ -1,0 +1,132 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Várias pessoas, segundo os títulos dos salmos: Davi (cerca de 73), Asafe (12), os filhos de Corá (11), Salomão (2), Hemã, Etã e Moisés (1 cada), além de salmos sem atribuição. A tradição vê Davi como o salmista principal.",
+      "en": "Several people, according to the psalm titles: David (about 73), Asaph (12), the sons of Korah (11), Solomon (2), Heman, Ethan and Moses (1 each), plus psalms with no attribution. Tradition sees David as the principal psalmist."
+    },
+    "scholarly": {
+      "pt": "Coleção composta por muitas pessoas e épocas. A leitura crítica vê parte dos títulos como tardia e atribui muitos salmos ao período do exílio e do pós-exílio; salmos do reino (como o 2 e o 110) são discutidos quanto à origem. Não há consenso.",
+      "en": "A collection composed by many people and in many periods. Critical reading sees part of the titles as late and attributes many psalms to the exile and post-exile; royal psalms (such as 2 and 110) are discussed regarding their origin. There is no consensus."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Os salmos de Davi seriam do séc. X a.C.; o Sl 90, de Moisés, seria mais antigo. A coleção final teria sido organizada depois do exílio.",
+      "en": "The psalms of David would date to the 10th century BC; Psalm 90, attributed to Moses, would be earlier. The final collection would have been arranged after the exile."
+    },
+    "scholarly": {
+      "pt": "Textos de épocas diversas (da monarquia ao pós-exílio). A coleção em cinco livros costuma ser situada no período persa ou helenístico.",
+      "en": "Texts from various periods (from the monarchy to the post-exile). The collection in five books is usually placed in the Persian or Hellenistic period."
+    }
+  },
+  "place": {
+    "pt": "Jerusalém e o templo são o centro, mas os cenários variam (o exílio no Sl 137, por exemplo).",
+    "en": "Jerusalem and the temple are central, but the settings vary (the exile in Psalm 137, for example)."
+  },
+  "recipients": {
+    "pt": "Israel, em oração e louvor comunitários e pessoais.",
+    "en": "Israel, in communal and personal prayer and praise."
+  },
+  "keyVerse": "1:1–2",
+  "theme": {
+    "pt": "Oração e louvor: lamentos, ações de graças, hinos, salmos reais e de sabedoria, que cobrem a vida diante de Deus, da angústia ao louvor.",
+    "en": "Prayer and praise: laments, thanksgivings, hymns, royal and wisdom psalms, covering life before God from anguish to praise."
+  },
+  "historicalContext": {
+    "pt": "O livro está dividido em cinco partes (1–41, 42–72, 73–89, 90–106, 107–150), cada uma terminando com uma doxologia. Os gêneros mais comuns são lamentos, hinos e ações de graças. Os títulos incluem indicações musicais cujo sentido nem sempre é claro. Os salmos têm paralelos com orações e hinos do Antigo Oriente Próximo.",
+    "en": "The book is divided into five parts (1–41, 42–72, 73–89, 90–106, 107–150), each ending with a doxology. The most common genres are laments, hymns and thanksgivings. The titles include musical notes whose meaning is not always clear. The psalms have parallels with prayers and hymns of the ancient Near East."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Davi",
+        "en": "David"
+      },
+      "role": {
+        "pt": "Principal salmista na tradição; muitos salmos trazem seu nome no título",
+        "en": "Principal psalmist in tradition; many psalms carry his name in the title"
+      }
+    },
+    {
+      "name": {
+        "pt": "Asafe",
+        "en": "Asaph"
+      },
+      "role": {
+        "pt": "Músico levita a quem se atribuem os Sl 50 e 73–83",
+        "en": "Levite musician to whom Psalms 50 and 73–83 are attributed"
+      }
+    },
+    {
+      "name": {
+        "pt": "Os filhos de Corá",
+        "en": "The sons of Korah"
+      },
+      "role": {
+        "pt": "Grupo de levitas a quem se atribuem 11 salmos",
+        "en": "Group of Levites to whom 11 psalms are attributed"
+      }
+    },
+    {
+      "name": {
+        "pt": "Salomão",
+        "en": "Solomon"
+      },
+      "role": {
+        "pt": "Atribuídos a ele os Sl 72 e 127",
+        "en": "Psalms 72 and 127 are attributed to him"
+      }
+    },
+    {
+      "name": {
+        "pt": "Moisés",
+        "en": "Moses"
+      },
+      "role": {
+        "pt": "O Sl 90 traz seu nome no título",
+        "en": "Psalm 90 carries his name in its title"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–41:13",
+      "title": {
+        "pt": "Livro I",
+        "en": "Book I"
+      }
+    },
+    {
+      "ref": "42:1–72:20",
+      "title": {
+        "pt": "Livro II",
+        "en": "Book II"
+      }
+    },
+    {
+      "ref": "73:1–89:52",
+      "title": {
+        "pt": "Livro III",
+        "en": "Book III"
+      }
+    },
+    {
+      "ref": "90:1–106:48",
+      "title": {
+        "pt": "Livro IV",
+        "en": "Book IV"
+      }
+    },
+    {
+      "ref": "107:1–150:6",
+      "title": {
+        "pt": "Livro V",
+        "en": "Book V"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "É o livro do Antigo Testamento mais citado no Novo. Jesus cita os Salmos em Mt 21:42 (Sl 118:22–23) e Lc 23:46 (Sl 31:5), e Mt 27:46 recorda o Sl 22:1. Hb 1:5–13 cita os Sl 2, 45, 102 e 110.",
+    "en": "It is the Old Testament book most quoted in the New. Jesus quotes the Psalms in Matt 21:42 (Ps 118:22–23) and Luke 23:46 (Ps 31:5), and Matt 27:46 recalls Ps 22:1. Heb 1:5–13 quotes Psalms 2, 45, 102 and 110."
+  }
+}

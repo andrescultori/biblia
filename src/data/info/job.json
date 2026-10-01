@@ -1,0 +1,122 @@
+{
+  "author": {
+    "traditional": {
+      "pt": "Desconhecido. O livro não nomeia o autor. A tradição judaica (Talmude, Baba Batra 15a) atribui a Moisés; outras leituras tradicionais o atribuem a um sábio anônimo.",
+      "en": "Unknown. The book does not name its author. Jewish tradition (Talmud, Baba Batra 15a) attributes it to Moses; other traditional readings attribute it to an anonymous sage."
+    },
+    "scholarly": {
+      "pt": "Obra anônima de um sábio israelita. A moldura em prosa (caps. 1–2; 42:7–17) e os poemas (3:1–42:6) podem ter origens distintas; essa e outras questões de composição (por exemplo, o cap. 28 e os discursos de Eliú, caps. 32–37) são debatidas.",
+      "en": "An anonymous work by an Israelite sage. The prose frame (chs. 1–2; 42:7–17) and the poems (3:1–42:6) may have distinct origins; this and other questions of composition (for example, ch. 28 and Elihu's speeches, chs. 32–37) are debated."
+    }
+  },
+  "date": {
+    "traditional": {
+      "pt": "Incerta. O cenário lembra a época patriarcal (Jó vive como chefe de clã e oferece sacrifícios sem sacerdote), o que levou parte da tradição a situar a obra muito cedo.",
+      "en": "Uncertain. The setting resembles the patriarchal era (Job lives as a clan chief and offers sacrifices without a priest), which led part of the tradition to place the work very early."
+    },
+    "scholarly": {
+      "pt": "Em geral situada entre o séc. VII e o séc. V a.C., embora haja propostas mais antigas e mais recentes. Não há consenso.",
+      "en": "Generally placed between the 7th and 5th centuries BC, although earlier and later proposals exist. There is no consensus."
+    }
+  },
+  "place": {
+    "pt": "A terra de Uz (1:1), cuja localização é incerta; em geral procurada ao leste ou ao sul de Canaã.",
+    "en": "The land of Uz (1:1), whose location is uncertain; generally sought east or south of Canaan."
+  },
+  "recipients": {
+    "pt": "Não indicados no texto.",
+    "en": "Not stated in the text."
+  },
+  "keyVerse": "42:5",
+  "theme": {
+    "pt": "O sofrimento do justo: Jó perde tudo, seus amigos dizem que o sofrimento é castigo, Jó protesta sua inocência, e Deus responde sem dar explicações.",
+    "en": "The suffering of the righteous: Job loses everything, his friends say suffering is punishment, Job protests his innocence, and God answers without giving explanations."
+  },
+  "historicalContext": {
+    "pt": "O livro dialoga com a literatura sapiencial do Antigo Oriente Próximo sobre o sofrimento do justo (como textos mesopotâmicos e egípcios), mas a resposta que dá é própria. O título de Satanás em 1:6 é \"o acusador\", e o papel desse personagem aqui difere da figura do Novo Testamento.",
+    "en": "The book engages ancient Near Eastern wisdom literature on the suffering of the righteous (such as Mesopotamian and Egyptian texts), but the answer it gives is its own. The figure called Satan in 1:6 is \"the accuser\", and the role of this character here differs from the New Testament figure."
+  },
+  "characters": [
+    {
+      "name": {
+        "pt": "Jó",
+        "en": "Job"
+      },
+      "role": {
+        "pt": "Homem íntegro de Uz que perde bens e filhos",
+        "en": "Upright man of Uz who loses possessions and children"
+      }
+    },
+    {
+      "name": {
+        "pt": "Elifaz, Bildade e Zofar",
+        "en": "Eliphaz, Bildad and Zophar"
+      },
+      "role": {
+        "pt": "Os três amigos que o visitam",
+        "en": "The three friends who visit him"
+      }
+    },
+    {
+      "name": {
+        "pt": "Eliú",
+        "en": "Elihu"
+      },
+      "role": {
+        "pt": "Jovem que fala nos caps. 32–37",
+        "en": "Young man who speaks in chs. 32–37"
+      }
+    },
+    {
+      "name": {
+        "pt": "O acusador (Satanás)",
+        "en": "The accuser (Satan)"
+      },
+      "role": {
+        "pt": "Questiona a integridade de Jó diante de Deus (caps. 1–2)",
+        "en": "Questions Job's integrity before God (chs. 1–2)"
+      }
+    }
+  ],
+  "outline": [
+    {
+      "ref": "1:1–2:13",
+      "title": {
+        "pt": "Prólogo: a prova de Jó",
+        "en": "Prologue: Job's testing"
+      }
+    },
+    {
+      "ref": "3:1–31:40",
+      "title": {
+        "pt": "Lamento de Jó e diálogo com os amigos",
+        "en": "Job's lament and dialogue with his friends"
+      }
+    },
+    {
+      "ref": "32:1–37:24",
+      "title": {
+        "pt": "Os discursos de Eliú",
+        "en": "Elihu's speeches"
+      }
+    },
+    {
+      "ref": "38:1–42:6",
+      "title": {
+        "pt": "Deus responde a Jó",
+        "en": "God answers Job"
+      }
+    },
+    {
+      "ref": "42:7–17",
+      "title": {
+        "pt": "Epílogo: restauração de Jó",
+        "en": "Epilogue: Job's restoration"
+      }
+    }
+  ],
+  "connections": {
+    "pt": "Tg 5:11 cita a perseverança de Jó. Ez 14:14, 20 o menciona ao lado de Noé e Daniel. Paulo cita Jó 5:13 em 1Co 3:19. O livro dialoga com Provérbios e Eclesiastes.",
+    "en": "Jas 5:11 cites Job's perseverance. Ezek 14:14, 20 mentions him alongside Noah and Daniel. Paul quotes Job 5:13 in 1 Cor 3:19. The book is in dialogue with Proverbs and Ecclesiastes."
+  }
+}
