@@ -1,0 +1,4 @@
+João Ferreira de Almeida, edição de 1911 — domínio público.
+Texto digital: Project Gutenberg nº 62383, https://www.gutenberg.org/ebooks/62383 (via damarals/biblias, data/canonical/ALM1911).
+Esta versão atualiza apenas a ORTOGRAFIA, com scripts/modernize-alm1911.mjs e scripts/data/alm1911-ortografia.json. As palavras não foram trocadas.
+Livros desta versão: Salmos (19) e João (43), em revisão.

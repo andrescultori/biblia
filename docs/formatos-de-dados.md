@@ -95,3 +95,7 @@ A navegação usa o hash da URL, sem biblioteca de rotas; o botão voltar do nav
 | `#person`, `#person/davi` | lista de personagens ou a página de uma pessoa |
 
 Trocar de aba ou de lugar atualiza o endereço sem criar entrada no histórico; ir para outra página cria. Ao voltar para a grade, a rolagem é restaurada. O código está em `src/route.js`.
+
+## Versões parciais
+
+Uma versão em `src/data/bible.js` pode ter `books: [19, 43]` (números 1 a 66). Ela só aparece no leitor desses livros, e o `npm run check` só exige os arquivos deles. É o caso da Almeida 1911 atualizada, em piloto (`docs/ortografia-alm1911.md`).

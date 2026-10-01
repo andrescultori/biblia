@@ -139,7 +139,7 @@ function pickVersion(versions, lang) {
 }
 
 function Reader({ book, lang, t }) {
-  const versions = VERSIONS.filter((v) => v.available);
+  const versions = VERSIONS.filter((v) => v.available && (!v.books || v.books.includes(book.n)));
   const [version, setVersion] = useState(() => pickVersion(versions, lang));
   const [chapter, setChapter] = useState(1);
   const [data, setData] = useState(null);
