@@ -90,6 +90,7 @@ export const T = {
     timelineUnplacedNote: 'Os livros são ligados a um período pelo cenário que o próprio texto descreve. Ficam fora os de datação ou ambientação debatida, os poéticos e os de sabedoria.',
     undated: 'sem data',
     legendNote: 'Cores seguem as seções da tabela original.',
+    madeBy: 'Desenvolvido por',
   },
   en: {
     title: 'Interactive TaBíblia',
@@ -176,5 +177,6 @@ export const T = {
     timelineUnplacedNote: 'Books are tied to a period by the setting the text itself describes. Left out are those with debated dating or setting, and the poetic and wisdom books.',
     undated: 'undated',
     legendNote: 'Colors follow the sections of the original table.',
+    madeBy: 'Developed by',
   },
 };
