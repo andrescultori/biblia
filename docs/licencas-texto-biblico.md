@@ -10,7 +10,7 @@ Levantamento feito em 01/10/2026 a partir das páginas oficiais citadas abaixo. 
 | WEB (World English Bible) | EN | Domínio público | **No site.** Ver "Versões no site". |
 | ASV (American Standard Version, 1901) | EN | Domínio público | **No site.** |
 | TB (Tradução Brasileira) | PT | O texto de 1917 provavelmente é domínio público, mas o arquivo disponível é a edição da SBB de 2010, com copyright declarado | **Não adicionar.** Ver "Versões no site". |
-| Almeida 1911 (ALM1911) | PT | Domínio público (texto do Project Gutenberg nº 62383) | A edição com a grafia original foi retirada a pedido do André. Voltou como **ALM1911 (atualizada)**, só com a ortografia modernizada; piloto em Salmos e João (`docs/ortografia-alm1911.md`). |
+| Almeida 1911 (ALM1911) | PT | Domínio público (texto do Project Gutenberg nº 62383) | A edição com a grafia original foi retirada a pedido do André. Voltou como **ALM1911 (atualizada)**, só com a ortografia modernizada; 66 livros, ainda em revisão (`docs/ortografia-alm1911.md`). Licença da fonte (Gutenberg nº 62383) confirmada pelo André: domínio público nos EUA. |
 | Bíblia Livre (BLIVRE) | PT | **CC BY 4.0**, por decisão do André (o repositório oficial dos autores cita a 3.0 Brasil; não é domínio público, ao contrário do que o `damarals` informa) | **No site**, com atribuição obrigatória. |
 | ARC (SBB, 1995) | PT | **Com direitos** (SBB) | Não adicionar. A edição original de 1898 é de domínio público, mas as revisões da SBB não. |
 | ARA, NAA, NTLH | PT | **Com direitos** (SBB) | Só com autorização escrita. |
