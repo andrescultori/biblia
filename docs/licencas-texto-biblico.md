@@ -43,7 +43,7 @@ O termo de uso da SBB (EULA) permite uso pessoal e sem fins lucrativos, como lei
 Passo a passo:
 1. O pedido é do André, como projeto pessoal (não é da UniMissional). Dizer isso no e-mail. Se algum dia for pedido em nome da UniMissional, isso precisa ser decidido por ele e dito de forma explícita.
 2. Escrever para **direitos@sbb.org.br** (endereço indicado no EULA para pedidos de autorização), com cópia para **contato@sbb.org.br**.
-3. Informar: quem é o solicitante, o projeto (TaBíblia Interativa), o endereço do site e do repositório, e que é gratuito, sem anúncios, sem venda e para estudo bíblico.
+3. Informar: quem é o solicitante, o projeto (Timóteo App), o endereço do site e do repositório, e que é gratuito, sem anúncios, sem venda e para estudo bíblico.
 4. Dizer exatamente o que quer: quais versões (ARA, NAA), exibição por capítulo, sem botão de download, texto servido do próprio site ou por API, idiomas da interface.
 5. Pedir resposta por escrito com: autorização ou negativa, condições, texto exato do aviso de direitos autorais que deve aparecer e prazo de validade.
 6. Sem resposta em cerca de 10 dias úteis, ligar para (11) 4195-9590 ou usar o WhatsApp 800-727-8888, ambos listados em sbb.org.br/fale-conosco.

@@ -1,4 +1,6 @@
-# TaBíblia Interativa (repo `biblia`)
+# Timóteo App (repo `biblia`)
+
+Nome comercial: **Timóteo App** (em inglês, **Timoteo App**). "TaBíblia" era só o nome de trabalho, inspirado no "TaBíblia Periódica", e não é o nome do produto; o repositório ainda se chama `biblia` até ser renomeado.
 
 Tabela interativa dos 66 livros da Bíblia (inspirada no "TaBíblia Periódica"), com ficha de estudo e leitor de texto, para uso público em estudo bíblico. Stack: React 18 + Vite, sem backend. Publicação: GitHub Pages via GitHub Actions.
 

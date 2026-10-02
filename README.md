@@ -1,6 +1,6 @@
 🇧🇷 Português | [🇺🇸 English](README.en.md)
 
-# 📖 TaBíblia Interativa
+# 📖 Timóteo App
 
 **Estudo bíblico interativo: cada livro com ficha, mapa, linha do tempo e personagens, e o texto em quatro versões de licença clara.**
 
