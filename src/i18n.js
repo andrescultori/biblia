@@ -6,7 +6,7 @@ export const LANGS = [
 
 export const T = {
   pt: {
-    title: 'TaBíblia Interativa',
+    title: 'Timóteo App',
     subtitle: '66 livros, uma tabela. Toque em um livro para estudar.',
     search: 'Buscar livro',
     all: 'Todos',
@@ -113,7 +113,7 @@ export const T = {
     madeBy: 'Desenvolvido por',
   },
   en: {
-    title: 'Interactive TaBíblia',
+    title: 'Timoteo App',
     subtitle: '66 books, one table. Tap a book to study.',
     search: 'Search book',
     all: 'All',

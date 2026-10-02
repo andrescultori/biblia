@@ -1,6 +1,6 @@
 [🇧🇷 Português](README.md) | 🇺🇸 English
 
-# 📖 TaBíblia Interativa
+# 📖 Timoteo App
 
 **Interactive Bible study: every book with a study sheet, a map, a timeline and people pages, and the text in four clearly licensed versions.**
 
