@@ -42,6 +42,9 @@
         "pt": "Jesus",
         "en": "Jesus"
       },
+      "ids": [
+        "jesus"
+      ],
       "role": {
         "pt": "Salvador e profeta",
         "en": "Savior and prophet"
@@ -52,6 +55,10 @@
         "pt": "Maria e Isabel",
         "en": "Mary and Elizabeth"
       },
+      "ids": [
+        "maria-mae-de-jesus",
+        null
+      ],
       "role": {
         "pt": "Mães de Jesus e de João (caps. 1–2)",
         "en": "Mothers of Jesus and John (chs. 1–2)"
@@ -72,6 +79,9 @@
         "pt": "Zaqueu",
         "en": "Zacchaeus"
       },
+      "ids": [
+        "zaqueu"
+      ],
       "role": {
         "pt": "Cobrador de impostos de Jericó (19:1–10)",
         "en": "Tax collector of Jericho (19:1–10)"

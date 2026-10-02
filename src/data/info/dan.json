@@ -42,6 +42,9 @@
         "pt": "Daniel",
         "en": "Daniel"
       },
+      "ids": [
+        "daniel"
+      ],
       "role": {
         "pt": "Sábio e intérprete de sonhos na corte",
         "en": "Sage and interpreter of dreams at court"
@@ -62,6 +65,9 @@
         "pt": "Nabucodonosor",
         "en": "Nebuchadnezzar"
       },
+      "ids": [
+        "nabucodonosor"
+      ],
       "role": {
         "pt": "Rei da Babilônia (caps. 1–4)",
         "en": "King of Babylon (chs. 1–4)"

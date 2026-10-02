@@ -42,6 +42,9 @@
         "pt": "Davi",
         "en": "David"
       },
+      "ids": [
+        "davi"
+      ],
       "role": {
         "pt": "Principal salmista na tradição; muitos salmos trazem seu nome no título",
         "en": "Principal psalmist in tradition; many psalms carry his name in the title"
@@ -72,6 +75,9 @@
         "pt": "Salomão",
         "en": "Solomon"
       },
+      "ids": [
+        "salomao"
+      ],
       "role": {
         "pt": "Atribuídos a ele os Sl 72 e 127",
         "en": "Psalms 72 and 127 are attributed to him"
@@ -82,6 +88,9 @@
         "pt": "Moisés",
         "en": "Moses"
       },
+      "ids": [
+        "moises"
+      ],
       "role": {
         "pt": "O Sl 90 traz seu nome no título",
         "en": "Psalm 90 carries his name in its title"

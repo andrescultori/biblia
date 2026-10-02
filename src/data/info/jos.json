@@ -42,6 +42,9 @@
         "pt": "Josué",
         "en": "Joshua"
       },
+      "ids": [
+        "josue"
+      ],
       "role": {
         "pt": "Sucessor de Moisés; lidera a entrada em Canaã",
         "en": "Moses' successor; leads the entry into Canaan"
@@ -62,6 +65,9 @@
         "pt": "Calebe",
         "en": "Caleb"
       },
+      "ids": [
+        "calebe"
+      ],
       "role": {
         "pt": "Pede e recebe Hebrom (14:6–15)",
         "en": "Asks for and receives Hebron (14:6–15)"

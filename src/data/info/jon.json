@@ -42,6 +42,9 @@
         "pt": "Jonas",
         "en": "Jonah"
       },
+      "ids": [
+        "jonas"
+      ],
       "role": {
         "pt": "Profeta que foge da missão de ir a Nínive",
         "en": "Prophet who flees the mission to go to Nineveh"

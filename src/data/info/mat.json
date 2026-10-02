@@ -42,6 +42,9 @@
         "pt": "Jesus",
         "en": "Jesus"
       },
+      "ids": [
+        "jesus"
+      ],
       "role": {
         "pt": "Messias, mestre e Filho de Deus",
         "en": "Messiah, teacher and Son of God"
@@ -52,6 +55,10 @@
         "pt": "José e Maria",
         "en": "Joseph and Mary"
       },
+      "ids": [
+        "jose-marido-de-maria",
+        "maria-mae-de-jesus"
+      ],
       "role": {
         "pt": "Pais de Jesus (caps. 1–2)",
         "en": "Parents of Jesus (chs. 1–2)"
@@ -62,6 +69,9 @@
         "pt": "João Batista",
         "en": "John the Baptist"
       },
+      "ids": [
+        "joao-batista"
+      ],
       "role": {
         "pt": "Prepara o caminho (cap. 3)",
         "en": "Prepares the way (ch. 3)"
@@ -82,6 +92,9 @@
         "pt": "Pedro",
         "en": "Peter"
       },
+      "ids": [
+        "pedro"
+      ],
       "role": {
         "pt": "Confessa Jesus como Messias (16:16)",
         "en": "Confesses Jesus as Messiah (16:16)"
@@ -92,6 +105,9 @@
         "pt": "Pilatos",
         "en": "Pilate"
       },
+      "ids": [
+        "pilatos"
+      ],
       "role": {
         "pt": "Governador romano que o condena (cap. 27)",
         "en": "Roman governor who condemns him (ch. 27)"

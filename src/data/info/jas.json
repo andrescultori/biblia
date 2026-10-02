@@ -42,6 +42,9 @@
         "pt": "Tiago",
         "en": "James"
       },
+      "ids": [
+        "tiago-jerusalem"
+      ],
       "role": {
         "pt": "Autor; líder da igreja de Jerusalém, na leitura tradicional",
         "en": "Author; leader of the Jerusalem church, in the traditional reading"
@@ -52,6 +55,10 @@
         "pt": "Abraão e Raabe",
         "en": "Abraham and Rahab"
       },
+      "ids": [
+        "abraao",
+        null
+      ],
       "role": {
         "pt": "Exemplos de fé e obras (2:21–25)",
         "en": "Examples of faith and works (2:21–25)"
@@ -62,6 +69,10 @@
         "pt": "Jó e Elias",
         "en": "Job and Elijah"
       },
+      "ids": [
+        "jo",
+        "elias"
+      ],
       "role": {
         "pt": "Exemplos de perseverança e oração (5:11, 17)",
         "en": "Examples of perseverance and prayer (5:11, 17)"

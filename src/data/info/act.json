@@ -42,6 +42,9 @@
         "pt": "Pedro",
         "en": "Peter"
       },
+      "ids": [
+        "pedro"
+      ],
       "role": {
         "pt": "Líder dos apóstolos em Jerusalém (caps. 1–12)",
         "en": "Leader of the apostles in Jerusalem (chs. 1–12)"
@@ -52,6 +55,9 @@
         "pt": "Estêvão",
         "en": "Stephen"
       },
+      "ids": [
+        "estevao"
+      ],
       "role": {
         "pt": "Primeiro mártir (caps. 6–7)",
         "en": "First martyr (chs. 6–7)"
@@ -62,6 +68,9 @@
         "pt": "Filipe",
         "en": "Philip"
       },
+      "ids": [
+        "filipe-evangelista"
+      ],
       "role": {
         "pt": "Evangelista em Samaria e junto ao etíope (cap. 8)",
         "en": "Evangelist in Samaria and to the Ethiopian (ch. 8)"
@@ -72,6 +81,9 @@
         "pt": "Paulo (Saulo)",
         "en": "Paul (Saul)"
       },
+      "ids": [
+        "paulo"
+      ],
       "role": {
         "pt": "Perseguidor que se torna apóstolo dos gentios (caps. 9; 13–28)",
         "en": "Persecutor who becomes apostle to the Gentiles (chs. 9; 13–28)"
@@ -82,6 +94,9 @@
         "pt": "Barnabé",
         "en": "Barnabas"
       },
+      "ids": [
+        "barnabe"
+      ],
       "role": {
         "pt": "Companheiro de Paulo na primeira viagem",
         "en": "Paul's companion on the first journey"
@@ -92,6 +107,9 @@
         "pt": "Tiago",
         "en": "James"
       },
+      "ids": [
+        "tiago-jerusalem"
+      ],
       "role": {
         "pt": "Líder da igreja de Jerusalém (cap. 15)",
         "en": "Leader of the Jerusalem church (ch. 15)"

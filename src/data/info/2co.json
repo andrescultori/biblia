@@ -42,6 +42,9 @@
         "pt": "Paulo",
         "en": "Paul"
       },
+      "ids": [
+        "paulo"
+      ],
       "role": {
         "pt": "Apóstolo e autor",
         "en": "Apostle and author"
@@ -52,6 +55,9 @@
         "pt": "Timóteo",
         "en": "Timothy"
       },
+      "ids": [
+        "timoteo"
+      ],
       "role": {
         "pt": "Co-remetente (1:1)",
         "en": "Co-sender (1:1)"
@@ -62,6 +68,9 @@
         "pt": "Tito",
         "en": "Titus"
       },
+      "ids": [
+        "tito"
+      ],
       "role": {
         "pt": "Mensageiro de Paulo a Corinto (7:6; 8:16–23)",
         "en": "Paul's messenger to Corinth (7:6; 8:16–23)"

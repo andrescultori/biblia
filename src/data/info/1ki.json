@@ -42,6 +42,9 @@
         "pt": "Salomão",
         "en": "Solomon"
       },
+      "ids": [
+        "salomao"
+      ],
       "role": {
         "pt": "Rei sábio; constrói o templo; se desvia no fim da vida",
         "en": "Wise king; builds the temple; turns away late in life"
@@ -52,6 +55,9 @@
         "pt": "Hirão",
         "en": "Hiram"
       },
+      "ids": [
+        "hirao"
+      ],
       "role": {
         "pt": "Rei de Tiro que fornece madeira para o templo",
         "en": "King of Tyre who supplies timber for the temple"
@@ -62,6 +68,9 @@
         "pt": "Jeroboão",
         "en": "Jeroboam"
       },
+      "ids": [
+        "jeroboao"
+      ],
       "role": {
         "pt": "Primeiro rei do reino do norte",
         "en": "First king of the northern kingdom"
@@ -72,6 +81,9 @@
         "pt": "Roboão",
         "en": "Rehoboam"
       },
+      "ids": [
+        "roboao"
+      ],
       "role": {
         "pt": "Filho de Salomão; rei de Judá",
         "en": "Solomon's son; king of Judah"
@@ -82,6 +94,10 @@
         "pt": "Acabe e Jezabel",
         "en": "Ahab and Jezebel"
       },
+      "ids": [
+        "acabe",
+        "jezabel"
+      ],
       "role": {
         "pt": "Rei de Israel e sua esposa, promotores do culto a Baal",
         "en": "King of Israel and his wife, promoters of Baal worship"
@@ -92,6 +108,9 @@
         "pt": "Elias",
         "en": "Elijah"
       },
+      "ids": [
+        "elias"
+      ],
       "role": {
         "pt": "Profeta que confronta Acabe e os profetas de Baal",
         "en": "Prophet who confronts Ahab and the prophets of Baal"

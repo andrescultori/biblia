@@ -52,6 +52,9 @@
         "pt": "Jesus Cristo",
         "en": "Jesus Christ"
       },
+      "ids": [
+        "jesus"
+      ],
       "role": {
         "pt": "O Filho, o advogado junto ao Pai (2:1)",
         "en": "The Son, the advocate with the Father (2:1)"

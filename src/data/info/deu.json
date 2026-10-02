@@ -37,9 +37,9 @@
     "en": "The book takes the form of speeches by Moses and, in its structure, resembles the suzerainty treaties of the ancient Near East (historical prologue, stipulations, blessings and curses). The name comes from the Septuagint (\"second law\"), based on Deut 17:18; the Hebrew title, \"These are the words\", is taken from 1:1. The relationship with Josiah's reform is one of the central points of scholarly debate."
   },
   "characters": [
-    { "name": { "pt": "Moisés", "en": "Moses" }, "role": { "pt": "Orador de todo o livro; morre no final (cap. 34)", "en": "Speaker throughout the book; dies at the end (ch. 34)" } },
-    { "name": { "pt": "Josué", "en": "Joshua" }, "role": { "pt": "Sucessor designado de Moisés (31:1–8; 34:9)", "en": "Moses' designated successor (31:1–8; 34:9)" } },
-    { "name": { "pt": "Calebe", "en": "Caleb" }, "role": { "pt": "Espia fiel, lembrado em 1:36", "en": "Faithful spy, recalled in 1:36" } },
+    { "name": { "pt": "Moisés", "en": "Moses" }, "ids": ["moises"], "role": { "pt": "Orador de todo o livro; morre no final (cap. 34)", "en": "Speaker throughout the book; dies at the end (ch. 34)" } },
+    { "name": { "pt": "Josué", "en": "Joshua" }, "ids": ["josue"], "role": { "pt": "Sucessor designado de Moisés (31:1–8; 34:9)", "en": "Moses' designated successor (31:1–8; 34:9)" } },
+    { "name": { "pt": "Calebe", "en": "Caleb" }, "ids": ["calebe"], "role": { "pt": "Espia fiel, lembrado em 1:36", "en": "Faithful spy, recalled in 1:36" } },
     { "name": { "pt": "Os levitas", "en": "The Levites" }, "role": { "pt": "Guardam o livro da lei (31:9, 25–26)", "en": "Keep the book of the law (31:9, 25–26)" } }
   ],
   "outline": [

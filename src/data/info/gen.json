@@ -37,14 +37,14 @@
     "en": "The book engages the world of the ancient Near East. There are literary parallels with Mesopotamian accounts of creation and flood (such as Atrahasis and the Epic of Gilgamesh). The patriarchs are placed, in the traditional reading, in the early second millennium BC; the historicity and dating of these narratives are debated."
   },
   "characters": [
-    { "name": { "pt": "Adão e Eva", "en": "Adam and Eve" }, "role": { "pt": "Primeiro casal; a queda (cap. 3)", "en": "First couple; the fall (ch. 3)" } },
-    { "name": { "pt": "Caim e Abel", "en": "Cain and Abel" }, "role": { "pt": "Filhos de Adão e Eva; o primeiro homicídio (cap. 4)", "en": "Sons of Adam and Eve; the first murder (ch. 4)" } },
-    { "name": { "pt": "Noé", "en": "Noah" }, "role": { "pt": "Constrói a arca; aliança após o dilúvio (caps. 6–9)", "en": "Builds the ark; covenant after the flood (chs. 6–9)" } },
-    { "name": { "pt": "Abraão e Sara", "en": "Abraham and Sarah" }, "role": { "pt": "Chamados por Deus; promessa de terra, descendência e bênção (caps. 12–25)", "en": "Called by God; promise of land, offspring and blessing (chs. 12–25)" } },
-    { "name": { "pt": "Isaque e Rebeca", "en": "Isaac and Rebekah" }, "role": { "pt": "Filho da promessa e sua esposa", "en": "Son of the promise and his wife" } },
-    { "name": { "pt": "Jacó (Israel)", "en": "Jacob (Israel)" }, "role": { "pt": "Recebe o nome Israel; pai dos doze filhos (caps. 25–50)", "en": "Receives the name Israel; father of twelve sons (chs. 25–50)" } },
-    { "name": { "pt": "Esaú", "en": "Esau" }, "role": { "pt": "Irmão gêmeo de Jacó; ancestral de Edom (cap. 36)", "en": "Jacob's twin brother; ancestor of Edom (ch. 36)" } },
-    { "name": { "pt": "José", "en": "Joseph" }, "role": { "pt": "Vendido pelos irmãos; chega ao governo do Egito (caps. 37–50)", "en": "Sold by his brothers; rises to rule in Egypt (chs. 37–50)" } }
+    { "name": { "pt": "Adão e Eva", "en": "Adam and Eve" }, "ids": ["adao", "eva"], "role": { "pt": "Primeiro casal; a queda (cap. 3)", "en": "First couple; the fall (ch. 3)" } },
+    { "name": { "pt": "Caim e Abel", "en": "Cain and Abel" }, "ids": ["caim", "abel"], "role": { "pt": "Filhos de Adão e Eva; o primeiro homicídio (cap. 4)", "en": "Sons of Adam and Eve; the first murder (ch. 4)" } },
+    { "name": { "pt": "Noé", "en": "Noah" }, "ids": ["noe"], "role": { "pt": "Constrói a arca; aliança após o dilúvio (caps. 6–9)", "en": "Builds the ark; covenant after the flood (chs. 6–9)" } },
+    { "name": { "pt": "Abraão e Sara", "en": "Abraham and Sarah" }, "ids": ["abraao", "sara"], "role": { "pt": "Chamados por Deus; promessa de terra, descendência e bênção (caps. 12–25)", "en": "Called by God; promise of land, offspring and blessing (chs. 12–25)" } },
+    { "name": { "pt": "Isaque e Rebeca", "en": "Isaac and Rebekah" }, "ids": ["isaque", "rebeca"], "role": { "pt": "Filho da promessa e sua esposa", "en": "Son of the promise and his wife" } },
+    { "name": { "pt": "Jacó (Israel)", "en": "Jacob (Israel)" }, "ids": ["jaco"], "role": { "pt": "Recebe o nome Israel; pai dos doze filhos (caps. 25–50)", "en": "Receives the name Israel; father of twelve sons (chs. 25–50)" } },
+    { "name": { "pt": "Esaú", "en": "Esau" }, "ids": ["esau"], "role": { "pt": "Irmão gêmeo de Jacó; ancestral de Edom (cap. 36)", "en": "Jacob's twin brother; ancestor of Edom (ch. 36)" } },
+    { "name": { "pt": "José", "en": "Joseph" }, "ids": ["jose"], "role": { "pt": "Vendido pelos irmãos; chega ao governo do Egito (caps. 37–50)", "en": "Sold by his brothers; rises to rule in Egypt (chs. 37–50)" } }
   ],
   "outline": [
     { "ref": "1:1–2:3", "title": { "pt": "Criação", "en": "Creation" } },
