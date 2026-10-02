@@ -17,14 +17,14 @@ Premium (a definir o que entra): fichas em PDF (cogitado); devocionais (5 min) e
 - **[decidido]** Hospedagem no **Cloudflare Pages**, no endereço `nome-do-projeto.pages.dev`. **Sem domínio próprio por enquanto**: primeiro validar se vende.
 - **[decidido]** Vercel descartado: o plano Hobby é restrito a uso não comercial (fonte: vercel.com/docs/limits/fair-use-guidelines).
 - **[decidido]** Reescrita em **Next.js**, com **Supabase** (login, banco, regras de acesso por plano) e conteúdo Pro fora do repositório público.
-- **[decidido]** Cobrança por **Asaas ou Mercado Pago** (a escolher).
+- **[decidido]** Cobrança por **Mercado Pago**, com checkout hospedado por eles.
 - **[decidido]** **PWA** no roadmap. Apps nas lojas (Apple e Google) ficam para depois de validar a venda.
 - **[assumido, confirmar]** Free **sem login**; login só para Pro e Premium.
 - **[assumido, confirmar]** Lançamento só com texto em domínio público ou CC BY (KJV, WEB, ASV, Almeida 1911 atualizada, Bíblia Livre) mais links para o YouVersion. ARA e NAA entram só com autorização por escrito (ver `docs/licencas-texto-biblico.md`).
 
 ## Restrições verificadas
 
-- **Cloudflare, plano gratuito:** o contrato (Self-Serve Subscription Agreement, seção 2.2.1(h)) proíbe "process or collect personal or business credit card information on any web property that is receiving Free Services". Portanto **nenhum campo de cartão no site**: o pagamento acontece na página hospedada pela Asaas ou pelo Mercado Pago. Não achei proibição geral de uso comercial; um funcionário da Cloudflare respondeu "yes" num fórum, o que não é termo contratual. Ler a seção 2.2 inteira antes de cobrar. Limites do Pages gratuito: 500 builds/mês, 20.000 arquivos, 25 MiB por arquivo; funções do Pages contam na cota de 100 mil requisições/dia do Workers.
+- **Cloudflare, plano gratuito:** o contrato (Self-Serve Subscription Agreement, seção 2.2.1(h)) proíbe "process or collect personal or business credit card information on any web property that is receiving Free Services". Portanto **nenhum campo de cartão no site**: o pagamento acontece na página hospedada pela Asaas ou pelo Mercado Pago. A seção 2.2 inteira foi lida pelo André na fonte (01/10/2026): não há proibição geral de uso comercial. Regra de projeto: **nenhum campo de número de cartão em páginas do nosso domínio** (nem formulário embutido); o cliente digita o cartão na página do Mercado Pago. Checkout próprio com cartão exigiria plano pago da Cloudflare. Limites do Pages gratuito: 500 builds/mês, 20.000 arquivos, 25 MiB por arquivo; funções do Pages contam na cota de 100 mil requisições/dia do Workers.
 - **Plano B de hospedagem: Hostinger** (hospedagem de aplicações web com Node.js, deploy pelo GitHub). O contrato de hospedagem não proíbe cobrar clientes ("responsible for collecting, and managing all end customer payments"), mas todos os planos têm limites de CPU, RAM e processos, com risco de lentidão ou suspensão. Preços da página (promocionais, com contrato de 48 meses; renovação 3 a 4 vezes maior): Premium R$10,99/mês (renova R$38,99), Unlimited R$13,99 (R$64,99), Cloud Startup R$39,99 (R$129,99); reembolso só em 30 dias. A página de planos e a documentação de suporte divergem nos nomes dos planos com Node.js; confirmar na contratação. Mantendo o Next.js estático com Supabase, a troca de host é só mudar o deploy.
 - **Apple e Google (fase posterior):** compra de conteúdo premium dentro do app exige o sistema de compra da loja (Apple, diretriz 3.1.1); comissão de 15% a 30% (no Brasil, regras novas pelo acordo com o CADE, a confirmar); app que é só o site é recusado (diretriz 4.2). Conta Google pessoal nova exige teste fechado com 12 testadores por 14 dias. Conta Apple: US$99/ano.
 - **Texto bíblico:** o uso comercial muda a conta das licenças (SBB, YouVersion). Ver `docs/licencas-texto-biblico.md` e a sessão dedicada a direitos.
@@ -51,8 +51,8 @@ Premium (a definir o que entra): fichas em PDF (cogitado); devocionais (5 min) e
 - Rodar no Cloudflare Pages; manter o código portável para outro host (ex.: Hostinger com Node.js).
 
 **4. Cobrança**
-- Asaas ou Mercado Pago, checkout hospedado por eles; webhook em Edge Function do Supabase libera o plano.
-- Páginas de termos de uso, política de privacidade e contato (LGPD). Verificar se o provedor exige domínio ou URL do site para aprovar a conta (não verificado).
+- Mercado Pago, checkout hospedado por eles; webhook em Edge Function do Supabase libera o plano.
+- Páginas de termos de uso, política de privacidade e contato (LGPD). Verificar se o Mercado Pago exige domínio ou URL do site para aprovar a conta (não verificado).
 
 **5. PWA**
 - Manifesto, ícones, service worker e leitura offline do que o plano permitir.
