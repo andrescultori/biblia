@@ -17,7 +17,9 @@ Premium (a definir o que entra): fichas em PDF (cogitado); devocionais (5 min) e
 - **[decidido]** O **Pro é o projeto completo como está hoje**. O Free é restrito conforme a tabela acima. O Premium só entra depois, com o produto consolidado.
 - **[decidido]** O **texto bíblico fica disponível em todos os planos, inclusive o Free** (importante para as licenças de uso).
 - **[decidido]** A **licença do código e do conteúdo pode mudar** (hoje MIT). Atenção: mudar a licença não revoga o MIT de quem já copiou o que foi publicado; e partes de terceiros mantêm a licença original (mapas OpenBible e Bíblia Livre, CC BY 4.0, com atribuição).
-- **[decidido]** Nome ainda em aberto; candidatos do André: "Bereia App" e "Bere.IA" (irmãos de Beréia, em Atos 17). Ver pendências.
+- **[decidido]** Mudar a licença e **tornar o repositório privado**, **depois** de o Cloudflare Pages estar no ar: o GitHub Pages só serve repositório privado em plano pago (Pro, Team ou Enterprise) e proíbe uso para negócio online (docs.github.com, limites do GitHub Pages). O André acredita que ninguém copiou o conteúdo (0 forks, 0 estrelas em 02/10/2026).
+- **[decidido]** Se preciso, mudar a estrutura para manter o conteúdo privado no Supabase.
+- **[decidido]** Nome ainda em aberto; o André quer algo bíblico ligado a Palavra, Estudo Bíblico ou Discípulo. "Bereia" (Atos 17) e "Bere.IA" foram avaliados e descartados por já haver apps e livraria com o nome no Brasil. Ver pendências.
 - **[informado]** O André já usa o Mercado Pago no projeto LGND Checklist e a conta não exigiu domínio próprio.
 - **[decidido]** Hospedagem no **Cloudflare Pages**, no endereço `nome-do-projeto.pages.dev`. **Sem domínio próprio por enquanto**: primeiro validar se vende.
 - **[decidido]** Vercel descartado: o plano Hobby é restrito a uso não comercial (fonte: vercel.com/docs/limits/fair-use-guidelines).
