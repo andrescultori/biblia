@@ -4456,6 +4456,18 @@
         "pt": "Pescador de Betsaida, irmão de Simão Pedro e um dos Doze. Discípulo de João Batista, leva o irmão a Jesus (Jo 1:35–42) e apresenta o menino com os pães e peixes (Jo 6:8–9).",
         "en": "A fisherman of Bethsaida, brother of Simon Peter and one of the Twelve. A disciple of John the Baptist, he brings his brother to Jesus (John 1:35–42) and points out the boy with the loaves and fish (John 6:8–9)."
       },
+      "bio": {
+        "pt": [
+          "André, irmão de Simão Pedro, é natural de Betsaida e pescador (Jo 1:44; Mc 1:16). João conta que ele era discípulo de João Batista e, ao ouvir o Batista apontar Jesus como “o Cordeiro de Deus”, seguiu-o com outro discípulo; passou o dia com Jesus e depois foi buscar seu irmão Simão: “Achamos o Messias” (Jo 1:35–42). Por isso é o primeiro discípulo chamado, na ordem de João. Em Mateus e Marcos, Jesus o chama junto com Simão à beira do mar da Galileia: “Vinde após mim, e eu vos farei pescadores de homens” (Mt 4:18–20).",
+          "Nas listas dos Doze, André aparece entre os primeiros (Mt 10:2; Mc 3:18; At 1:13), e Marcos o cita entre os quatro que perguntam a Jesus em particular sobre o fim do templo (Mc 13:3). Nos Evangelhos, ele tem papel de intermediário: quando cinco mil homens estão com fome, é André quem aponta o menino com cinco pães de cevada e dois peixes (Jo 6:8–9). Quando alguns gregos pedem para ver Jesus, Filipe vai a André, e os dois falam a Jesus (Jo 12:20–22).",
+          "Depois do Pentecostes, o Novo Testamento não relata o que André fez. A tradição posterior o liga à pregação na região do mar Negro e a uma morte em Patras, na Grécia, em uma cruz em forma de X, mas isso vem de fontes fora da Bíblia."
+        ],
+        "en": [
+          "Andrew, Simon Peter’s brother, is a native of Bethsaida and a fisherman (John 1:44; Mark 1:16). John tells that he was a disciple of John the Baptist and, hearing the Baptist point to Jesus as “the Lamb of God,” followed him with another disciple; he spent the day with Jesus and then went to find his brother Simon: “We have found the Messiah” (John 1:35–42). For that reason he is the first disciple called, in John’s order. In Matthew and Mark, Jesus calls him together with Simon by the Sea of Galilee: “Follow me, and I will make you fishers of men” (Matt 4:18–20).",
+          "In the lists of the Twelve Andrew appears among the first (Matt 10:2; Mark 3:18; Acts 1:13), and Mark names him among the four who ask Jesus privately about the end of the temple (Mark 13:3). In the Gospels he plays the role of go-between: when five thousand men are hungry, it is Andrew who points out the boy with five barley loaves and two fish (John 6:8–9). When some Greeks ask to see Jesus, Philip goes to Andrew, and the two tell Jesus (John 12:20–22).",
+          "After Pentecost the New Testament does not report what Andrew did. Later tradition links him with preaching in the Black Sea region and a death at Patras, in Greece, on an X-shaped cross, but this comes from sources outside the Bible."
+        ]
+      },
       "books": [
         {
           "book": "mat",
@@ -4489,6 +4501,18 @@
       "summary": {
         "pt": "Um dos Doze, irmão de João, pescador. Faz parte do círculo mais próximo de Jesus e é morto à espada por Herodes (At 12:2), o primeiro dos Doze a morrer segundo o NT.",
         "en": "One of the Twelve, brother of John, a fisherman. He is part of Jesus' innermost circle and is killed with the sword by Herod (Acts 12:2), the first of the Twelve to die according to the NT."
+      },
+      "bio": {
+        "pt": [
+          "Tiago, filho de Zebedeu e irmão de João, é pescador no mar da Galileia, sócio de Pedro e André. Jesus o chama junto com João, que deixam o pai e o barco para segui-lo (Mc 1:19–20). Jesus dá aos dois o apelido Boanerges, “filhos do trovão” (Mc 3:17). Os dois irmãos, com Pedro, formam o círculo mais íntimo de Jesus: estão com ele na ressurreição da filha de Jairo, na transfiguração e no Getsêmani (Mc 5:37; 9:2; 14:33).",
+          "Em alguns episódios, Tiago e João aparecem com ímpeto: querem mandar fogo do céu sobre uma aldeia samaritana que não recebe Jesus, e ele os repreende (Lc 9:51–56). Pedem os lugares à direita e à esquerda de Jesus em sua glória, e Jesus pergunta se podem beber o cálice que ele beberá; eles dizem que podem, e ele responde que de fato beberão esse cálice (Mc 10:35–45). Mateus diz que quem faz o pedido é a mãe dos dois (Mt 20:20–23).",
+          "Tiago é morto à espada por ordem de Herodes Agripa I, por volta de 44 d.C. (At 12:1–2). Atos o registra sem mais detalhes; é a primeira morte de um dos Doze por causa da fé relatada no Novo Testamento. Não deve ser confundido com Tiago, irmão do Senhor e líder da igreja em Jerusalém, nem com Tiago, filho de Alfeu."
+        ],
+        "en": [
+          "James, son of Zebedee and brother of John, is a fisherman on the Sea of Galilee, a partner of Peter and Andrew. Jesus calls him together with John, who leave their father and the boat to follow him (Mark 1:19–20). Jesus gives the two the nickname Boanerges, “sons of thunder” (Mark 3:17). The two brothers, with Peter, form Jesus’ innermost circle: they are with him at the raising of Jairus’s daughter, at the transfiguration and in Gethsemane (Mark 5:37; 9:2; 14:33).",
+          "In some episodes James and John appear with impetuosity: they want to call down fire from heaven on a Samaritan village that does not receive Jesus, and he rebukes them (Luke 9:51–56). They ask for the places at Jesus’ right and left in his glory, and Jesus asks whether they can drink the cup he will drink; they say they can, and he answers that they will indeed drink that cup (Mark 10:35–45). Matthew says it is their mother who makes the request (Matt 20:20–23).",
+          "James is put to death by the sword by order of Herod Agrippa I, around AD 44 (Acts 12:1–2). Acts records it without further detail; it is the first death of one of the Twelve for the faith reported in the New Testament. He should not be confused with James, the Lord’s brother and leader of the church in Jerusalem, or with James, son of Alphaeus."
+        ]
       },
       "books": [
         {
@@ -4527,6 +4551,18 @@
       "summary": {
         "pt": "Pescador, filho de Zebedeu e irmão de Tiago; um dos Doze (Mc 3:17). Segundo Gl 2:9, é uma das \"colunas\" da igreja em Jerusalém. A tradição lhe atribui o quarto Evangelho, as três cartas de João e o Apocalipse; a autoria desses livros é debatida (ver as fichas).",
         "en": "A fisherman, son of Zebedee and brother of James; one of the Twelve (Mark 3:17). According to Gal 2:9, he is one of the \"pillars\" of the church in Jerusalem. Tradition ascribes to him the fourth Gospel, the three letters of John and Revelation; authorship of those books is debated (see the sheets)."
+      },
+      "bio": {
+        "pt": [
+          "João, filho de Zebedeu e Salomé (comparar Mc 15:40 e Mt 27:56), é pescador, irmão de Tiago e um dos primeiros chamados por Jesus (Mc 1:19–20). Com Pedro e Tiago, pertence ao círculo mais próximo de Jesus (Mc 5:37; 9:2; 14:33). Jesus lhes dá o apelido Boanerges, “filhos do trovão” (Mc 3:17). Em Marcos 9:38, João conta a Jesus que eles tentaram impedir alguém de expulsar demônios em seu nome, porque não os seguia, e Jesus responde: “Quem não é contra nós é por nós.”",
+          "No quarto Evangelho aparece um “discípulo a quem Jesus amava”, que reclinou a cabeça no peito de Jesus na última ceia, está ao pé da cruz, quando Jesus lhe confia sua mãe, e chega ao túmulo vazio (Jo 13:23; 19:26–27; 20:2–8; 21:7, 20). O Evangelho afirma que é esse discípulo quem “testifica estas coisas e as escreveu” (Jo 21:24). A tradição o identifica com João, filho de Zebedeu; o próprio texto não dá o nome, e a identificação é debatida.",
+          "Em Atos, João acompanha Pedro, cura o coxo no templo, é preso e comparece ao Sinédrio (At 3–4); depois vai com Pedro a Samaria, onde os samaritanos recebem o Espírito (At 8:14–17). Paulo o chama uma das “colunas” da igreja de Jerusalém (Gl 2:9). Três cartas (1, 2 e 3João) e o Apocalipse (cujo autor se apresenta como “João”, em Patmos, Ap 1:9) são ligados ao nome João; a tradição os atribui ao apóstolo, mas a autoria desses livros é debatida (ver as fichas)."
+        ],
+        "en": [
+          "John, son of Zebedee and Salome (compare Mark 15:40 and Matt 27:56), is a fisherman, brother of James and one of the first called by Jesus (Mark 1:19–20). With Peter and James, he belongs to Jesus’ innermost circle (Mark 5:37; 9:2; 14:33). Jesus gives them the nickname Boanerges, “sons of thunder” (Mark 3:17). In Mark 9:38 John tells Jesus that they tried to stop someone from casting out demons in his name, because he did not follow them, and Jesus replies, “Whoever is not against us is for us.”",
+          "In the fourth Gospel there appears a “disciple whom Jesus loved,” who reclined on Jesus’ chest at the last supper, stands at the foot of the cross, when Jesus entrusts his mother to him, and reaches the empty tomb (John 13:23; 19:26–27; 20:2–8; 21:7, 20). The Gospel states that this disciple is the one “who is bearing witness about these things, and who has written these things” (John 21:24). Tradition identifies him with John, son of Zebedee; the text itself does not give the name, and the identification is debated.",
+          "In Acts, John accompanies Peter, heals the lame man at the temple, is arrested and appears before the Sanhedrin (Acts 3–4); later he goes with Peter to Samaria, where the Samaritans receive the Spirit (Acts 8:14–17). Paul calls him one of the “pillars” of the Jerusalem church (Gal 2:9). Three letters (1, 2 and 3 John) and Revelation (whose author calls himself “John,” on Patmos, Rev 1:9) are linked with the name John; tradition attributes them to the apostle, but the authorship of these books is debated (see the sheets)."
+        ]
       },
       "books": [
         {
@@ -4577,6 +4613,18 @@
         "pt": "Cobrador de impostos em Cafarnaum, chamado por Jesus para segui-lo e contado entre os Doze (Mt 9:9; 10:3). Marcos e Lucas contam o mesmo chamado com o nome Levi (Mc 2:14; Lc 5:27). A tradição lhe atribui o primeiro Evangelho; a autoria é debatida (ver a ficha).",
         "en": "A tax collector in Capernaum, called by Jesus to follow him and counted among the Twelve (Matt 9:9; 10:3). Mark and Luke tell the same call with the name Levi (Mark 2:14; Luke 5:27). Tradition ascribes the first Gospel to him; authorship is debated (see the sheet)."
       },
+      "bio": {
+        "pt": [
+          "Mateus é um cobrador de impostos de Cafarnaum, que Jesus vê sentado na coletoria e chama: “Segue-me” (Mt 9:9). Marcos e Lucas contam o mesmo chamado com o nome Levi, filho de Alfeu (Mc 2:14; Lc 5:27). Os Evangelhos não dizem expressamente que Levi e Mateus são a mesma pessoa, mas é a leitura mais comum, já que as listas dos Doze têm Mateus e não Levi. Lucas conta que ele deixou tudo e ofereceu um grande banquete em sua casa, com muitos cobradores e pecadores à mesa (Lc 5:28–29).",
+          "Os fariseus perguntam aos discípulos por que Jesus come com publicanos e pecadores, e Jesus responde: “Não são os sãos que precisam de médico, mas os enfermos… Não vim chamar justos, mas pecadores” (Mt 9:10–13). Mateus é um dos Doze, e a lista de Mateus o identifica como “o publicano” (Mt 10:3). Em Atos 1:13, está entre os onze reunidos em Jerusalém.",
+          "O Novo Testamento não conta mais sobre ele. A tradição cristã antiga, a partir de Papias (início do século II), atribui a Mateus o primeiro Evangelho, escrito em “língua hebraica” (aramaico?) e depois traduzido; a autoria do Evangelho segundo Mateus e a relação com esse testemunho de Papias são debatidas (ver a ficha). O próprio texto do Evangelho não nomeia seu autor."
+        ],
+        "en": [
+          "Matthew is a tax collector of Capernaum, whom Jesus sees sitting at the tax booth and calls: “Follow me” (Matt 9:9). Mark and Luke tell the same call with the name Levi, son of Alphaeus (Mark 2:14; Luke 5:27). The Gospels do not expressly say that Levi and Matthew are the same person, but it is the most common reading, since the lists of the Twelve have Matthew and not Levi. Luke tells that he left everything and gave a great banquet in his house, with many tax collectors and sinners at the table (Luke 5:28–29).",
+          "The Pharisees ask the disciples why Jesus eats with tax collectors and sinners, and Jesus answers, “Those who are well have no need of a physician, but those who are sick… I came not to call the righteous, but sinners” (Matt 9:10–13). Matthew is one of the Twelve, and Matthew’s list identifies him as “the tax collector” (Matt 10:3). In Acts 1:13 he is among the eleven gathered in Jerusalem.",
+          "The New Testament tells no more about him. Early Christian tradition, from Papias (early second century), attributes to Matthew the first Gospel, written in the “Hebrew language” (Aramaic?) and then translated; the authorship of the Gospel according to Matthew and its relation to this testimony of Papias are debated (see the sheet). The text of the Gospel itself does not name its author."
+        ]
+      },
       "books": [
         {
           "book": "mat",
@@ -4604,6 +4652,18 @@
         "pt": "De Betsaida, um dos Doze. Chamado por Jesus na Galileia, leva Natanael a ele (Jo 1:43–46); aparece na multiplicação dos pães e na ceia (Jo 6:5–7; 14:8–9).",
         "en": "From Bethsaida, one of the Twelve. Called by Jesus in Galilee, he brings Nathanael to him (John 1:43–46); he appears at the feeding of the multitude and at the supper (John 6:5–7; 14:8–9)."
       },
+      "bio": {
+        "pt": [
+          "Filipe, de Betsaida, a cidade de André e Pedro, é um dos primeiros que Jesus chama pessoalmente: “Segue-me” (Jo 1:43–44). Filipe encontra Natanael e lhe diz: “Achamos aquele de quem Moisés escreveu na lei e os profetas, Jesus de Nazaré”, e ao ceticismo de Natanael responde apenas: “Vem e vê” (Jo 1:45–46). Aparece em todas as listas dos Doze (Mt 10:3; Mc 3:18; Lc 6:14; At 1:13).",
+          "João o cita em outros momentos. Diante dos cinco mil, Jesus o testa: “Onde compraremos pão para estes comerem?”, e Filipe responde que duzentos denários não bastariam (Jo 6:5–7). Quando alguns gregos querem ver Jesus, vão a Filipe, que fala com André, e os dois levam o pedido a Jesus (Jo 12:20–22). Na última ceia, Filipe pede: “Senhor, mostra-nos o Pai, e isso nos basta”, e Jesus responde: “Quem me vê a mim vê o Pai” (Jo 14:8–9).",
+          "Depois de Atos 1:13, o Novo Testamento não diz mais de Filipe, o apóstolo. Ele não deve ser confundido com Filipe, o evangelista, um dos sete de Atos 6, que prega em Samaria e batiza o eunuco etíope (At 8) e tinha quatro filhas profetizas (At 21:8–9). As tradições antigas às vezes misturam os dois, mas o texto bíblico os distingue."
+        ],
+        "en": [
+          "Philip, from Bethsaida, the city of Andrew and Peter, is one of the first whom Jesus calls personally: “Follow me” (John 1:43–44). Philip finds Nathanael and tells him, “We have found him of whom Moses in the Law and also the prophets wrote, Jesus of Nazareth,” and to Nathanael’s skepticism answers only, “Come and see” (John 1:45–46). He appears in all the lists of the Twelve (Matt 10:3; Mark 3:18; Luke 6:14; Acts 1:13).",
+          "John mentions him at other moments. Before the five thousand, Jesus tests him: “Where are we to buy bread, so that these people may eat?” and Philip answers that two hundred denarii would not be enough (John 6:5–7). When some Greeks want to see Jesus, they go to Philip, who speaks with Andrew, and the two bring the request to Jesus (John 12:20–22). At the last supper, Philip asks, “Lord, show us the Father, and it is enough for us,” and Jesus answers, “Whoever has seen me has seen the Father” (John 14:8–9).",
+          "After Acts 1:13 the New Testament says no more about Philip the apostle. He should not be confused with Philip the evangelist, one of the seven of Acts 6, who preaches in Samaria and baptizes the Ethiopian eunuch (Acts 8) and had four prophesying daughters (Acts 21:8–9). Ancient traditions sometimes mix the two, but the biblical text distinguishes them."
+        ]
+      },
       "books": [
         {
           "book": "joh",
@@ -4627,6 +4687,18 @@
       "summary": {
         "pt": "Um dos Doze e tesoureiro do grupo (Jo 12:4–6). Entrega Jesus aos sacerdotes por trinta moedas de prata (Mt 26:14–16) e morre depois (Mt 27:3–5; At 1:16–20).",
         "en": "One of the Twelve and treasurer of the group (John 12:4–6). He hands Jesus over to the priests for thirty pieces of silver (Matt 26:14–16) and dies afterward (Matt 27:3–5; Acts 1:16–20)."
+      },
+      "bio": {
+        "pt": [
+          "Judas Iscariotes, filho de Simão, é um dos Doze (Mc 3:19; Jo 6:71). O sobrenome Iscariotes é explicado de modos diferentes; pode significar “homem de Queriote” (cidade de Judá), mas isso é debatido. Os Evangelhos o citam sempre por último na lista dos Doze, com a nota “aquele que o entregou”. João diz que ele guardava a bolsa do grupo e que furtava o que nela se depositava (Jo 12:4–6). Em João 6:70–71, Jesus diz que um dos Doze “é diabo”, referindo-se a Judas.",
+          "Em Betânia, quando Maria unge Jesus com perfume caro, Judas protesta que podia ter sido vendido e dado aos pobres (Jo 12:1–8). Depois disso, vai aos chefes dos sacerdotes e pergunta quanto lhe dariam para entregá-lo; recebem-no com trinta moedas de prata (Mt 26:14–16). Lucas e João dizem que Satanás entrou nele (Lc 22:3; Jo 13:27). Na ceia, Jesus anuncia que um dos Doze o trairá, e, quando Judas pergunta se é ele, Jesus responde: “Tu o disseste” (Mt 26:20–25).",
+          "No Getsêmani, Judas conduz uma multidão armada e identifica Jesus com um beijo (Mt 26:47–50). Mateus conta que, vendo Jesus condenado, Judas se arrepende, devolve as trinta moedas, diz “Pequei, traindo sangue inocente” e se enforca; os sacerdotes usam o dinheiro para comprar o Campo do Oleiro (Mt 27:3–10). Atos 1:16–20 conta que ele caiu de cabeça, seu corpo se rompeu e o campo foi chamado Acéldama, “campo de sangue”. As duas narrativas diferem em detalhes. Atos 1:21–26 narra a escolha de Matias para ocupar o seu lugar."
+        ],
+        "en": [
+          "Judas Iscariot, son of Simon, is one of the Twelve (Mark 3:19; John 6:71). The surname Iscariot is explained in different ways; it may mean “man of Kerioth” (a town in Judah), but this is debated. The Gospels always list him last among the Twelve, with the note “who betrayed him.” John says he kept the common purse and used to steal what was put into it (John 12:4–6). In John 6:70–71 Jesus says that one of the Twelve “is a devil,” referring to Judas.",
+          "At Bethany, when Mary anoints Jesus with costly perfume, Judas protests that it could have been sold and given to the poor (John 12:1–8). After that he goes to the chief priests and asks what they will give him to betray Jesus; they weigh out thirty pieces of silver (Matt 26:14–16). Luke and John say that Satan entered him (Luke 22:3; John 13:27). At the supper Jesus announces that one of the Twelve will betray him, and when Judas asks if it is he, Jesus replies, “You have said so” (Matt 26:20–25).",
+          "In Gethsemane Judas leads an armed crowd and identifies Jesus with a kiss (Matt 26:47–50). Matthew tells that, seeing Jesus condemned, Judas repents, returns the thirty pieces, says “I have sinned by betraying innocent blood” and hangs himself; the priests use the money to buy the Potter’s Field (Matt 27:3–10). Acts 1:16–20 tells that he fell headlong, his body burst open and the field was called Akeldama, “field of blood.” The two accounts differ in details. Acts 1:21–26 narrates the choice of Matthias to take his place."
+        ]
       },
       "books": [
         {
@@ -4672,6 +4744,18 @@
         "pt": "Escolhido por sorteio para ocupar o lugar de Judas entre os Doze, depois da ascensão (At 1:21–26).",
         "en": "Chosen by lot to take Judas' place among the Twelve, after the ascension (Acts 1:21–26)."
       },
+      "bio": {
+        "pt": [
+          "Matias é escolhido para ocupar o lugar de Judas entre os Doze, depois da ascensão de Jesus. Em Atos 1:15–26, Pedro se levanta no meio de uns cento e vinte irmãos reunidos em Jerusalém e, citando os Salmos 69:25 e 109:8, diz que é preciso escolher outro para ocupar o apostolado de Judas. O novo apóstolo deve ser alguém que tenha acompanhado os discípulos “desde o batismo de João até o dia em que dentre nós foi levado para cima”, para ser testemunha da ressurreição de Jesus (At 1:21–22).",
+          "Dois são apresentados: José, chamado Barsabás e cognominado Justo, e Matias. Os discípulos oram, pedindo ao Senhor, “que conheces os corações de todos”, que mostre qual dos dois escolheu, e lançam sortes; a sorte cai sobre Matias, que é contado com os onze apóstolos (At 1:23–26). É o último uso de sorteio nesse sentido registrado no Novo Testamento.",
+          "O Novo Testamento não menciona Matias outra vez. Alguns estudiosos questionam se a escolha foi correta, pensando que o apóstolo a substituir Judas seria Paulo; mas o texto de Atos não faz tal avaliação e depois chama o grupo de “os Doze” (At 6:2). O silêncio sobre ele nas epístolas e a falta de relatos de sua atuação são os dados do texto; as tradições posteriores sobre sua pregação são incertas."
+        ],
+        "en": [
+          "Matthias is chosen to take Judas’s place among the Twelve after Jesus’ ascension. In Acts 1:15–26 Peter stands up among some hundred and twenty believers gathered in Jerusalem and, citing Psalms 69:25 and 109:8, says another must be chosen to take Judas’s apostolic office. The new apostle must be someone who has accompanied the disciples “beginning from the baptism of John until the day when he was taken up from us,” to be a witness to Jesus’ resurrection (Acts 1:21–22).",
+          "Two are put forward: Joseph called Barsabbas, who was also called Justus, and Matthias. The disciples pray, asking the Lord, “who knows the hearts of all,” to show which of the two he has chosen, and they cast lots; the lot falls on Matthias, who is counted with the eleven apostles (Acts 1:23–26). It is the last use of the lot in this sense recorded in the New Testament.",
+          "The New Testament does not mention Matthias again. Some scholars question whether the choice was right, thinking the apostle to replace Judas would be Paul; but the text of Acts makes no such evaluation and afterward calls the group “the Twelve” (Acts 6:2). The silence about him in the epistles and the lack of accounts of his work are the data of the text; later traditions about his preaching are uncertain."
+        ]
+      },
       "books": [
         {
           "book": "act",
@@ -4701,6 +4785,18 @@
       "summary": {
         "pt": "Um dos sete escolhidos para servir em Jerusalém (At 6:5). Prega em Samaria e batiza o oficial etíope (At 8). Mais tarde hospeda Paulo em Cesareia e é chamado \"o evangelista\", pai de quatro filhas que profetizavam (At 21:8–9).",
         "en": "One of the seven chosen to serve in Jerusalem (Acts 6:5). He preaches in Samaria and baptizes the Ethiopian official (Acts 8). Later he hosts Paul in Caesarea and is called \"the evangelist\", father of four daughters who prophesied (Acts 21:8–9)."
+      },
+      "bio": {
+        "pt": [
+          "Filipe é um dos sete homens “de boa reputação, cheios do Espírito Santo e de sabedoria” escolhidos em Jerusalém para o serviço aos pobres (At 6:1–6). Depois da morte de Estêvão e da perseguição que dispersou os cristãos, ele desce a uma cidade de Samaria e prega a Cristo; o povo recebe a mensagem com alegria, vendo os sinais e as curas, e muitos são batizados, inclusive Simão, o mago (At 8:4–13). Pedro e João vêm de Jerusalém para orar para que os samaritanos recebam o Espírito (At 8:14–17).",
+          "Um anjo do Senhor manda Filipe ao caminho do deserto de Jerusalém para Gaza, onde encontra um eunuco etíope, ministro da rainha Candace, que lia o profeta Isaías no carro. Filipe pergunta se entende o que lê e, a partir de Isaías 53, anuncia Jesus; o eunuco pede o batismo, e Filipe o batiza (At 8:26–38). O Espírito arrebata Filipe, que aparece em Azoto e prega em todas as cidades até Cesareia (At 8:39–40).",
+          "Anos depois, Paulo e seus companheiros chegam a Cesareia e se hospedam na casa de “Filipe, o evangelista, que era um dos sete”, que tinha quatro filhas virgens que profetizavam (At 21:8–9). Esse Filipe é diferente do apóstolo Filipe de Betsaida (Jo 1:43–46), embora tradições antigas às vezes os confundam. O título “evangelista” indica quem anuncia o evangelho."
+        ],
+        "en": [
+          "Philip is one of the seven men “of good repute, full of the Spirit and of wisdom” chosen in Jerusalem for the service to the poor (Acts 6:1–6). After Stephen’s death and the persecution that scattered the Christians, he goes down to a city of Samaria and proclaims Christ; the people receive the message with joy, seeing the signs and healings, and many are baptized, including Simon the magician (Acts 8:4–13). Peter and John come from Jerusalem to pray that the Samaritans may receive the Spirit (Acts 8:14–17).",
+          "An angel of the Lord sends Philip on the desert road from Jerusalem to Gaza, where he meets an Ethiopian eunuch, a minister of Candace the queen, reading the prophet Isaiah in his chariot. Philip asks whether he understands what he is reading and, beginning with Isaiah 53, tells him about Jesus; the eunuch asks for baptism, and Philip baptizes him (Acts 8:26–38). The Spirit carries Philip away, who appears at Azotus and preaches in all the cities until he reaches Caesarea (Acts 8:39–40).",
+          "Years later Paul and his companions arrive at Caesarea and stay at the house of “Philip the evangelist, who was one of the seven,” who had four unmarried daughters who prophesied (Acts 21:8–9). This Philip is different from the apostle Philip of Bethsaida (John 1:43–46), though ancient traditions sometimes confuse them. The title “evangelist” indicates one who announces the gospel."
+        ]
       },
       "books": [
         {
@@ -4732,6 +4828,18 @@
       "summary": {
         "pt": "Líder da igreja de Jerusalém enviado a Antioquia com a decisão do concílio (At 15:22). Acompanha Paulo na segunda viagem e é preso com ele em Filipos (At 15:40; 16:19–40). Aparece como Silvano nas cartas (1Ts 1:1; 2Co 1:19; 1Pe 5:12).",
         "en": "A leader of the Jerusalem church sent to Antioch with the council's decision (Acts 15:22). He accompanies Paul on the second journey and is jailed with him in Philippi (Acts 15:40; 16:19–40). He appears as Silvanus in the letters (1 Thess 1:1; 2 Cor 1:19; 1 Pet 5:12)."
+      },
+      "bio": {
+        "pt": [
+          "Silas, cuja forma latina é Silvano, é um dos “líderes entre os irmãos” de Jerusalém, profeta, que o concílio de Jerusalém envia a Antioquia com Judas Barsabás e Paulo e Barnabé, levando a carta com a decisão sobre os gentios (At 15:22–32). Depois da separação entre Paulo e Barnabé, Paulo escolhe Silas como companheiro para a segunda viagem missionária (At 15:40). Passam pela Síria, Cilícia, Listra e Trôade (At 15:41–16:8).",
+          "Em Filipos, Paulo e Silas são presos depois da libertação de uma jovem escrava com espírito de adivinhação: são açoitados e lançados na prisão. À meia-noite, oram e cantam hinos, e um terremoto abre as portas; o carcereiro pergunta o que deve fazer para ser salvo, e eles respondem: “Crê no Senhor Jesus, e serás salvo, tu e a tua casa” (At 16:16–34). No dia seguinte, Paulo e Silas lembram aos magistrados que são cidadãos romanos (At 16:35–40).",
+          "Silas acompanha Paulo a Tessalônica, Bereia e Corinto (At 17:1–15; 18:5). Aparece como co-remetente de 1 e 2Tessalonicenses (1Ts 1:1; 2Ts 1:1), e Paulo o cita como co-pregador em Corinto (2Co 1:19). Uma “Silvano” é mencionado em 1Pedro 5:12 como o que escreveu (ou levou) a carta: “por Silvano, irmão fiel, como cuido, vos escrevi”. Em geral, os estudiosos o identificam com o Silas de Atos, mas o texto não o afirma expressamente."
+        ],
+        "en": [
+          "Silas, whose Latin form is Silvanus, is one of the “leading men among the brothers” in Jerusalem, a prophet, whom the Jerusalem council sends to Antioch with Judas Barsabbas and Paul and Barnabas, carrying the letter with the decision about the Gentiles (Acts 15:22–32). After the separation between Paul and Barnabas, Paul chooses Silas as companion for the second missionary journey (Acts 15:40). They pass through Syria, Cilicia, Lystra and Troas (Acts 15:41–16:8).",
+          "In Philippi, Paul and Silas are arrested after the deliverance of a slave girl with a spirit of divination: they are beaten and thrown into prison. At midnight they pray and sing hymns, and an earthquake opens the doors; the jailer asks what he must do to be saved, and they answer, “Believe in the Lord Jesus, and you will be saved, you and your household” (Acts 16:16–34). The next day Paul and Silas remind the magistrates that they are Roman citizens (Acts 16:35–40).",
+          "Silas accompanies Paul to Thessalonica, Berea and Corinth (Acts 17:1–15; 18:5). He appears as co-sender of 1 and 2 Thessalonians (1 Thess 1:1; 2 Thess 1:1), and Paul cites him as a fellow preacher in Corinth (2 Cor 1:19). A Silvanus is mentioned in 1 Peter 5:12 as the one who wrote (or carried) the letter: “By Silvanus, a faithful brother as I regard him, I have written briefly to you.” Scholars generally identify him with the Silas of Acts, but the text does not state it expressly."
+        ]
       },
       "books": [
         {
@@ -4776,6 +4884,18 @@
       "summary": {
         "pt": "De Jerusalém, filho de Maria, cuja casa reunia a igreja (At 12:12); primo de Barnabé (Cl 4:10). Vai com Barnabé e Paulo na primeira viagem, mas volta (At 13:5, 13); por causa dele Paulo e Barnabé se separam (At 15:37–39). Paulo depois o chama de útil (2Tm 4:11). A tradição lhe atribui o segundo Evangelho; a autoria é debatida.",
         "en": "From Jerusalem, son of Mary, whose house gathered the church (Acts 12:12); cousin of Barnabas (Col 4:10). He goes with Barnabas and Paul on the first journey but turns back (Acts 13:5, 13); Paul and Barnabas part ways over him (Acts 15:37–39). Paul later calls him useful (2 Tim 4:11). Tradition ascribes the second Gospel to him; authorship is debated."
+      },
+      "bio": {
+        "pt": [
+          "João, também chamado Marcos, é filho de uma Maria de Jerusalém, em cuja casa os cristãos se reuniam para orar (At 12:12). Colossenses 4:10 o chama de “primo de Barnabé”. Quando Barnabé e Saulo voltam de Jerusalém para Antioquia, levam consigo João Marcos (At 12:25). Ele os acompanha na primeira viagem missionária como auxiliar, mas, em Perge da Panfília, os deixa e volta para Jerusalém (At 13:5, 13).",
+          "Quando Paulo e Barnabé planejam uma segunda viagem, Barnabé quer levar Marcos, mas Paulo se opõe, por ele os ter abandonado na primeira. A discordância é tão forte que se separam: Barnabé vai a Chipre com Marcos, e Paulo escolhe Silas (At 15:36–41). Mais tarde, Marcos está de novo com Paulo, pois Paulo o inclui entre seus colaboradores em Colossenses 4:10 e Filemom 24 e, em 2Timóteo 4:11, pede a Timóteo: “Toma Marcos e traze-o contigo, porque me é útil para o ministério.”",
+          "Pedro, na primeira carta, chama Marcos de “meu filho” (1Pe 5:13). A tradição cristã antiga, a partir de Papias, diz que Marcos foi intérprete de Pedro e escreveu, com exatidão mas sem ordem, o que lembrava das palavras e atos de Jesus; é a origem da atribuição do segundo Evangelho a Marcos. O próprio Evangelho não nomeia o autor, e a identificação do “Marcos” das cartas com o autor do Evangelho é tradicional, mas debatida (ver a ficha)."
+        ],
+        "en": [
+          "John, also called Mark, is the son of a Mary of Jerusalem, in whose house Christians gathered to pray (Acts 12:12). Colossians 4:10 calls him “the cousin of Barnabas.” When Barnabas and Saul return from Jerusalem to Antioch, they take John Mark with them (Acts 12:25). He accompanies them on the first missionary journey as an assistant, but at Perga in Pamphylia he leaves them and returns to Jerusalem (Acts 13:5, 13).",
+          "When Paul and Barnabas plan a second journey, Barnabas wants to take Mark, but Paul objects, since he had deserted them on the first. The disagreement is so sharp that they part: Barnabas goes to Cyprus with Mark, and Paul chooses Silas (Acts 15:36–41). Later Mark is again with Paul, for Paul includes him among his co-workers in Colossians 4:10 and Philemon 24 and, in 2 Timothy 4:11, asks Timothy, “Get Mark and bring him with you, for he is very useful to me for ministry.”",
+          "Peter, in his first letter, calls Mark “my son” (1 Pet 5:13). Early Christian tradition, from Papias, says that Mark was Peter’s interpreter and wrote, accurately though not in order, what he remembered of Jesus’ words and deeds; it is the origin of the attribution of the second Gospel to Mark. The Gospel itself does not name its author, and the identification of the “Mark” of the letters with the author of the Gospel is traditional, but debated (see the sheet)."
+        ]
       },
       "books": [
         {
@@ -4831,6 +4951,18 @@
         "pt": "Médico e colaborador de Paulo, chamado \"o médico amado\" (Cl 4:14; Fm 24; 2Tm 4:11). A tradição lhe atribui o terceiro Evangelho e Atos; as passagens de Atos em \"nós\" sugerem que o autor viajou com Paulo (At 16:10–17; 20:5–21:18; 27–28). A autoria é debatida (ver as fichas).",
         "en": "Physician and coworker of Paul, called \"the beloved physician\" (Col 4:14; Phlm 24; 2 Tim 4:11). Tradition ascribes the third Gospel and Acts to him; the \"we\" passages in Acts suggest the author traveled with Paul (Acts 16:10–17; 20:5–21:18; 27–28). Authorship is debated (see the sheets)."
       },
+      "bio": {
+        "pt": [
+          "Lucas é mencionado no Novo Testamento só nas cartas de Paulo. Em Colossenses 4:14, Paulo o chama de “Lucas, o médico amado”; em Filemom 24, de colaborador; e em 2Timóteo 4:11, escreve: “Só Lucas está comigo.” Paulo o distingue dos “da circuncisão” em Colossenses 4:10–14, o que sugere que Lucas era gentio, mas o texto não diz isso claramente. Seu nome não aparece em Atos.",
+          "A tradição cristã antiga atribui a Lucas o terceiro Evangelho e o livro de Atos, escritos a Teófilo (Lc 1:1–4; At 1:1). O prólogo de Lucas diz que o autor investigou tudo desde o princípio e compôs um relato ordenado. Em Atos, algumas passagens passam à primeira pessoa do plural (“nós”): na viagem de Trôade a Filipos (At 16:10–17), de Filipos a Jerusalém (At 20:5–21:18) e de Cesareia a Roma (At 27:1–28:16). Isso sugere que o autor viajou com Paulo, e a tradição o identifica com Lucas.",
+          "A autoria de Lucas-Atos é debatida: alguns estudiosos aceitam a identificação tradicional com o companheiro de Paulo; outros pensam que o autor foi uma pessoa de uma geração posterior, que utilizou fontes (ver as fichas). O que o texto afirma é que Lucas era um colaborador fiel de Paulo, inclusive na prisão. O Novo Testamento não informa mais sobre sua vida."
+        ],
+        "en": [
+          "Luke is mentioned in the New Testament only in Paul’s letters. In Colossians 4:14 Paul calls him “Luke the beloved physician”; in Philemon 24, a fellow worker; and in 2 Timothy 4:11 he writes, “Luke alone is with me.” Paul distinguishes him from “the circumcision” in Colossians 4:10–14, which suggests that Luke was a Gentile, but the text does not say so clearly. His name does not appear in Acts.",
+          "Early Christian tradition attributes to Luke the third Gospel and the book of Acts, written to Theophilus (Luke 1:1–4; Acts 1:1). Luke’s prologue says the author investigated everything from the beginning and composed an orderly account. In Acts some passages shift to the first person plural (“we”): on the voyage from Troas to Philippi (Acts 16:10–17), from Philippi to Jerusalem (Acts 20:5–21:18) and from Caesarea to Rome (Acts 27:1–28:16). This suggests that the author traveled with Paul, and tradition identifies him as Luke.",
+          "The authorship of Luke-Acts is debated: some scholars accept the traditional identification with Paul’s companion; others think the author was a person of a later generation who used sources (see the sheets). What the text affirms is that Luke was a faithful co-worker of Paul, even in prison. The New Testament gives no more information on his life."
+        ]
+      },
       "books": [
         {
           "book": "col",
@@ -4866,6 +4998,18 @@
         "pt": "Vendedora de púrpura, de Tiatira, que adora a Deus. Em Filipos, ouve Paulo junto ao rio, é batizada com a família e hospeda os missionários (At 16:11–15, 40).",
         "en": "A seller of purple goods, from Thyatira, who worships God. In Philippi she hears Paul by the river, is baptized with her household and hosts the missionaries (Acts 16:11–15, 40)."
       },
+      "bio": {
+        "pt": [
+          "Lídia é uma mulher de Tiatira, cidade da Ásia Menor, que vende púrpura, tecido caro, e vive em Filipos, na Macedônia (At 16:14). O texto a descreve como alguém “que temia a Deus”, ou seja, uma gentia ligada à sinagoga. No sábado, Paulo e seus companheiros vão para fora da porta da cidade, junto ao rio, onde esperavam encontrar um lugar de oração, e falam às mulheres reunidas (At 16:11–13).",
+          "Lídia ouve com atenção: “o Senhor lhe abriu o coração para atender às coisas que Paulo dizia” (At 16:14). Ela e sua casa são batizadas, e ela convida os missionários: “Se haveis julgado que eu sou fiel ao Senhor, entrai em minha casa e ficai nela”, e insiste até que aceitem (At 16:15). Atos a apresenta como a primeira convertida narrada em Filipos.",
+          "Depois da prisão e libertação de Paulo e Silas, eles voltam à casa de Lídia, veem os irmãos e os exortam, antes de partir (At 16:40). Muitos entendem que a casa dela se tornou o primeiro ponto de reunião da igreja de Filipos, à qual Paulo depois escreve com afeto e gratidão pelo apoio (Fp 1:3–5; 4:15–16). O texto de Atos não menciona marido e não diz mais sobre ela."
+        ],
+        "en": [
+          "Lydia is a woman of Thyatira, a city in Asia Minor, who sells purple goods, a costly cloth, and lives in Philippi, in Macedonia (Acts 16:14). The text describes her as one “who worshiped God,” that is, a Gentile attached to the synagogue. On the Sabbath, Paul and his companions go outside the city gate, by the river, where they expected to find a place of prayer, and speak to the women gathered (Acts 16:11–13).",
+          "Lydia listens attentively: “The Lord opened her heart to pay attention to what was said by Paul” (Acts 16:14). She and her household are baptized, and she invites the missionaries: “If you have judged me to be faithful to the Lord, come to my house and stay,” and she insists until they accept (Acts 16:15). Acts presents her as the first convert narrated in Philippi.",
+          "After the arrest and release of Paul and Silas, they return to Lydia’s house, see the brothers and encourage them before leaving (Acts 16:40). Many understand that her house became the first meeting place of the church in Philippi, to which Paul later writes with affection and gratitude for their support (Phil 1:3–5; 4:15–16). The text of Acts does not mention a husband and says no more about her."
+        ]
+      },
       "books": [
         {
           "book": "act",
@@ -4896,6 +5040,18 @@
         "pt": "Centurião romano em Cesareia, temente a Deus. Pedro vai à sua casa depois de uma visão, e a casa dele recebe o Espírito e é batizada: o início da missão entre os gentios (At 10–11).",
         "en": "A Roman centurion in Caesarea, a God-fearer. Peter goes to his house after a vision, and his household receives the Spirit and is baptized: the start of the mission among the Gentiles (Acts 10–11)."
       },
+      "bio": {
+        "pt": [
+          "Cornélio é um centurião da coorte chamada Italiana, em Cesareia. Atos o descreve como “piedoso e temente a Deus com toda a sua casa”, que dava muitas esmolas ao povo e orava continuamente (At 10:1–2). Era gentio, não circuncidado. Um dia, às três da tarde, um anjo lhe aparece numa visão e diz que suas orações e esmolas subiram como memorial diante de Deus, e manda chamar Simão Pedro em Jope (At 10:3–8).",
+          "Enquanto os enviados de Cornélio se aproximam de Jope, Pedro tem uma visão de um lençol com animais puros e impuros e a voz que diz: “O que Deus purificou, não faças tu comum.” O Espírito lhe diz que vá com os três homens (At 10:9–23). Ao entrar na casa de Cornélio, que reunira parentes e amigos íntimos, Pedro explica que, embora não seja permitido a um judeu associar-se a um gentio, Deus lhe mostrou que não chamasse a nenhum homem comum ou impuro (At 10:24–29).",
+          "Pedro prega a Cristo: “Deus não faz acepção de pessoas” e “todo aquele que nele crê receberá o perdão dos pecados”. Enquanto fala, o Espírito Santo desce sobre todos os que ouviam, e eles falam em línguas; Pedro manda batizá-los (At 10:34–48). Em Jerusalém, alguns criticam Pedro, que explica o que viu e conclui: “Se Deus lhes deu o mesmo dom que a nós… quem era eu para impedir a Deus?”; eles glorificam a Deus (At 11:1–18). O episódio é o marco do início da missão entre os gentios."
+        ],
+        "en": [
+          "Cornelius is a centurion of the cohort called the Italian, in Caesarea. Acts describes him as “a devout man who feared God with all his household,” who gave alms generously to the people and prayed continually (Acts 10:1–2). He was a Gentile, uncircumcised. One day, at three in the afternoon, an angel appears to him in a vision and says that his prayers and alms have ascended as a memorial before God, and tells him to send for Simon Peter at Joppa (Acts 10:3–8).",
+          "As Cornelius’s messengers approach Joppa, Peter has a vision of a sheet with clean and unclean animals and the voice saying, “What God has made clean, do not call common.” The Spirit tells him to go with the three men (Acts 10:9–23). Entering Cornelius’s house, where he had gathered relatives and close friends, Peter explains that, though it is unlawful for a Jew to associate with a Gentile, God has shown him that he should call no man common or unclean (Acts 10:24–29).",
+          "Peter preaches Christ: “God shows no partiality” and “everyone who believes in him receives forgiveness of sins.” While he is speaking, the Holy Spirit falls on all who hear, and they speak in tongues; Peter orders them baptized (Acts 10:34–48). In Jerusalem some criticize Peter, who explains what he saw and concludes, “If then God gave the same gift to them as he gave to us… who was I that I could stand in God’s way?”; they glorify God (Acts 11:1–18). The episode marks the start of the mission among the Gentiles."
+        ]
+      },
       "books": [
         {
           "book": "act",
@@ -4916,6 +5072,18 @@
         "pt": "Destinatário da carta de Paulo. Tem uma igreja em sua casa (Fm 2) e é dono de Onésimo, que Paulo pede que seja recebido \"como irmão amado\" (Fm 10–16).",
         "en": "Recipient of Paul's letter. He has a church in his house (Phlm 2) and is the owner of Onesimus, whom Paul asks him to receive \"as a beloved brother\" (Phlm 10–16)."
       },
+      "bio": {
+        "pt": [
+          "Filemom é o destinatário da breve carta de Paulo (Fm 1). Paulo o chama de “amado e colaborador” e se dirige também a Áfia, a Arquipo, “nosso companheiro de lutas”, e à igreja que se reúne na casa dele (Fm 1–2). O texto sugere que Filemom vivia em Colossos, pois Onésimo, seu escravo, é descrito como “um de vós” em Colossenses 4:9, e Arquipo é mencionado em Colossenses 4:17. Paulo o conhece pessoalmente, e provavelmente foi convertido por meio dele (Fm 19).",
+          "Paulo se alegra com a notícia do amor e da fé de Filemom pelo Senhor e por todos os santos, e diz que o coração dos santos tem sido reconfortado por ele (Fm 4–7). Em seguida, apresenta seu pedido em favor de Onésimo: Paulo poderia ordenar, mas prefere apelar “pelo amor” (Fm 8–10). Ele o envia de volta, “não já como escravo, mas… como irmão amado” e pede que Filemom o receba como receberia o próprio Paulo (Fm 15–17).",
+          "Paulo se oferece para pagar o que Onésimo deve (Fm 18–19) e lembra a Filemom que também deve a Paulo sua própria pessoa. Termina com a confiança na obediência de Filemom, dizendo que fará “ainda mais do que peço”, e pede que lhe prepare hospedagem, pois espera ser libertado (Fm 21–22). O texto não diz o que Filemom decidiu, mas a preservação da carta no cânon sugere uma boa acolhida. A tradição o liga a uma função de bispo em Colossos, o que o texto não afirma."
+        ],
+        "en": [
+          "Philemon is the recipient of Paul’s short letter (Phlm 1). Paul calls him “our beloved fellow worker” and also addresses Apphia, Archippus, “our fellow soldier,” and the church that meets in his house (Phlm 1–2). The text suggests that Philemon lived in Colossae, since Onesimus, his slave, is described as “one of you” in Colossians 4:9, and Archippus is mentioned in Colossians 4:17. Paul knows him personally, and probably he was converted through him (Phlm 19).",
+          "Paul rejoices at the news of Philemon’s love and faith toward the Lord and all the saints, and says the hearts of the saints have been refreshed through him (Phlm 4–7). He then makes his request on behalf of Onesimus: Paul could command, but prefers to appeal “for love’s sake” (Phlm 8–10). He sends him back, “no longer as a bondservant but… as a beloved brother” and asks that Philemon receive him as he would receive Paul himself (Phlm 15–17).",
+          "Paul offers to repay what Onesimus owes (Phlm 18–19) and reminds Philemon that he also owes Paul his very self. He ends with confidence in Philemon’s obedience, saying he will do “even more than I say,” and asks him to prepare a guest room, for he hopes to be released (Phlm 21–22). The text does not say what Philemon decided, but the preservation of the letter in the canon suggests a good reception. Tradition links him with the role of bishop in Colossae, which the text does not affirm."
+        ]
+      },
       "books": [
         {
           "book": "phm",
@@ -4935,6 +5103,18 @@
       "summary": {
         "pt": "Colaborador de Paulo, da Ásia (At 20:4). Leva as cartas aos Efésios e aos Colossenses e informa as igrejas sobre Paulo (Ef 6:21–22; Cl 4:7–9); aparece também em 2Tm 4:12 e Tt 3:12.",
         "en": "Paul's coworker, from Asia (Acts 20:4). He carries the letters to the Ephesians and the Colossians and informs the churches about Paul (Eph 6:21–22; Col 4:7–9); he also appears in 2 Tim 4:12 and Titus 3:12."
+      },
+      "bio": {
+        "pt": [
+          "Tíquico, da Ásia, é um dos companheiros de Paulo na viagem em que ele leva a coleta a Jerusalém (At 20:4). Paulo o chama de “irmão amado, ministro fiel e conservo no Senhor” (Ef 6:21; Cl 4:7). Em Efésios 6:21–22 e Colossenses 4:7–8, Paulo diz que enviou Tíquico à igreja “para que saibais o que se passa conosco e ele console os vossos corações”. As duas cartas parecem ter sido levadas por ele, que vai com Onésimo a Colossos (Cl 4:7–9).",
+          "Em Tito 3:12, Paulo promete enviar Ártemas ou Tíquico a Creta e pede a Tito que se junte a ele em Nicópolis. Em 2Timóteo 4:12, Paulo diz: “Tíquico, enviei-o a Éfeso.” Tíquico aparece assim como um mensageiro de confiança de Paulo, que levava notícias e cartas entre as igrejas e o apóstolo preso.",
+          "O Novo Testamento não relata mais sobre ele. O texto sugere uma ligação entre Efésios, Colossenses e Filemom, enviados juntos (Cl 4:7–9; Fm 10–12), mas a data e o lugar de composição dessas cartas, e a autoria de Efésios e Colossenses, são debatidos (ver as fichas). A tradição posterior o liga a Éfeso ou Calcedônia, mas essa informação não vem das Escrituras."
+        ],
+        "en": [
+          "Tychicus, from Asia, is one of Paul’s companions on the journey in which he takes the collection to Jerusalem (Acts 20:4). Paul calls him “the beloved brother and faithful minister and fellow servant in the Lord” (Eph 6:21; Col 4:7). In Ephesians 6:21–22 and Colossians 4:7–8 Paul says he sent Tychicus to the church “that you may know how we are and that he may encourage your hearts.” Both letters seem to have been carried by him, who goes with Onesimus to Colossae (Col 4:7–9).",
+          "In Titus 3:12 Paul promises to send Artemas or Tychicus to Crete and asks Titus to join him at Nicopolis. In 2 Timothy 4:12 Paul says, “Tychicus I have sent to Ephesus.” Tychicus thus appears as a trusted messenger of Paul, who carried news and letters between the churches and the imprisoned apostle.",
+          "The New Testament reports no more about him. The text suggests a link among Ephesians, Colossians and Philemon, sent together (Col 4:7–9; Phlm 10–12), but the date and place of composition of these letters, and the authorship of Ephesians and Colossians, are debated (see the sheets). Later tradition links him with Ephesus or Chalcedon, but this information does not come from Scripture."
+        ]
       },
       "books": [
         {
@@ -4969,6 +5149,18 @@
       "summary": {
         "pt": "De Colossos, servo de Cristo e quem trouxe o evangelho à cidade (Cl 1:7; 4:12–13). Está com Paulo preso (Fm 23).",
         "en": "From Colossae, a servant of Christ and the one who brought the gospel to the city (Col 1:7; 4:12–13). He is with Paul in prison (Phlm 23)."
+      },
+      "bio": {
+        "pt": [
+          "Epafras é natural de Colossos e fundador, ou evangelista, da igreja da cidade. Paulo escreve aos colossenses: “Aprendestes de Epafras, nosso amado conservo, que é fiel ministro de Cristo a favor de vós” (Cl 1:7), e diz que ele lhe trouxe notícia do “amor no Espírito” da igreja (Cl 1:8). Paulo o chama de “servo de Cristo Jesus” e “um de vós” (Cl 4:12).",
+          "Colossenses 4:12–13 o descreve orando com insistência por eles, “para que vos conserveis firmes, perfeitos e plenamente seguros em toda a vontade de Deus”. Paulo dá testemunho de que ele tem “grande desvelo” por eles e pelos de Laodiceia e de Hierápolis. Isso sugere que sua atuação cobria as três cidades do vale do Lico.",
+          "Em Filemom 23, Paulo o chama de “meu companheiro de prisão em Cristo Jesus” e lhe envia saudações. O texto não diz se estava preso por causa do evangelho ou por solidariedade com Paulo. Não deve ser confundido com Epafrodito, de Filipos (Fp 2:25), embora os nomes venham do mesmo radical. Epafras não é mencionado em outro lugar."
+        ],
+        "en": [
+          "Epaphras is a native of Colossae and the founder, or evangelist, of the church in the city. Paul writes to the Colossians: “You learned it from Epaphras our beloved fellow servant. He is a faithful minister of Christ on our behalf” (Col 1:7), and says he brought him news of the church’s “love in the Spirit” (Col 1:8). Paul calls him “a servant of Christ Jesus” and “one of you” (Col 4:12).",
+          "Colossians 4:12–13 describes him as always struggling in prayer on their behalf, “that you may stand mature and fully assured in all the will of God.” Paul testifies that he has “worked hard” for them and for those in Laodicea and in Hierapolis. This suggests that his work covered the three cities of the Lycus valley.",
+          "In Philemon 23 Paul calls him “my fellow prisoner in Christ Jesus” and sends his greetings. The text does not say whether he was imprisoned because of the gospel or in solidarity with Paul. He should not be confused with Epaphroditus of Philippi (Phil 2:25), though the names come from the same root. Epaphras is not mentioned elsewhere."
+        ]
       },
       "books": [
         {
@@ -5014,6 +5206,18 @@
         "pt": "Enviado pela igreja de Filipos a Paulo preso, com uma oferta. Adoece gravemente e Paulo o manda de volta com a carta (Fp 2:25–30; 4:18).",
         "en": "Sent by the church in Philippi to Paul in prison, with a gift. He becomes gravely ill, and Paul sends him back with the letter (Phil 2:25–30; 4:18)."
       },
+      "bio": {
+        "pt": [
+          "Epafrodito é o mensageiro da igreja de Filipos enviado a Paulo na prisão com uma oferta e para ajudá-lo (Fp 2:25; 4:18). Paulo o chama de “irmão, cooperador e companheiro de lutas”, e de “vosso enviado e ministro da minha necessidade” (Fp 2:25). A oferta que trouxe é descrita por Paulo como “aroma suave, sacrifício aceitável e agradável a Deus” (Fp 4:18). O nome Epafrodito, que deriva da deusa Afrodite, era comum no mundo grego.",
+          "Durante a estada com Paulo, Epafrodito adoece gravemente, “à beira da morte”, mas Deus teve misericórdia dele e também de Paulo, “para que eu não tivesse tristeza sobre tristeza” (Fp 2:26–27). Ele estava angustiado porque a igreja de Filipos tinha ouvido da sua doença. Paulo decide mandá-lo de volta, para que a igreja se alegre ao vê-lo e ele mesmo fique mais tranquilo.",
+          "Paulo pede que o recebam no Senhor com toda a alegria e tenham em honra os que são como ele, porque “por causa da obra de Cristo chegou perto da morte, arriscando a vida” para suprir o que faltava no serviço que a igreja lhe prestava (Fp 2:28–30). Provavelmente foi ele quem levou a carta aos filipenses. O texto não diz mais sobre ele."
+        ],
+        "en": [
+          "Epaphroditus is the messenger of the church at Philippi sent to Paul in prison with an offering and to help him (Phil 2:25; 4:18). Paul calls him “my brother and fellow worker and fellow soldier, and your messenger and minister to my need” (Phil 2:25). The gift he brought is described by Paul as “a fragrant offering, a sacrifice acceptable and pleasing to God” (Phil 4:18). The name Epaphroditus, derived from the goddess Aphrodite, was common in the Greek world.",
+          "During his stay with Paul, Epaphroditus falls gravely ill, “near to death,” but God had mercy on him and also on Paul, “lest I should have sorrow upon sorrow” (Phil 2:26–27). He was distressed because the church at Philippi had heard of his illness. Paul decides to send him back, so that the church will rejoice at seeing him and he himself will be less anxious.",
+          "Paul asks that they receive him in the Lord with all joy and honor such men, because “he nearly died for the work of Christ, risking his life” to make up for what was lacking in the service the church rendered him (Phil 2:28–30). Probably he was the one who carried the letter to the Philippians. The text says no more about him."
+        ]
+      },
       "books": [
         {
           "book": "php",
@@ -5040,6 +5244,18 @@
       "summary": {
         "pt": "Irmão de Marta e Maria, de Betânia, amigo de Jesus. Jesus o ressuscita depois de quatro dias no túmulo (Jo 11).",
         "en": "Brother of Martha and Mary, of Bethany, a friend of Jesus. Jesus raises him after four days in the tomb (John 11)."
+      },
+      "bio": {
+        "pt": [
+          "Lázaro é de Betânia, aldeia perto de Jerusalém, irmão de Marta e Maria, a quem João se refere como alguém a quem Jesus amava (Jo 11:1–3, 5). Quando ele adoece, as irmãs mandam avisar Jesus: “Senhor, eis que está enfermo aquele a quem amas.” Jesus diz que a doença “não é para morte, mas para glória de Deus”, e fica ainda dois dias onde estava; quando enfim vai, Lázaro já está morto há quatro dias (Jo 11:3–6, 17).",
+          "Jesus chega, e Marta lhe diz: “Senhor, se tivesses estado aqui, meu irmão não teria morrido”. Jesus responde: “Eu sou a ressurreição e a vida; quem crê em mim, ainda que esteja morto, viverá” (Jo 11:21–27). Maria diz o mesmo; Jesus, vendo-a chorar e aos que a acompanhavam, comove-se, chora e vai ao túmulo (Jo 11:32–38). Diante da pedra removida, ora ao Pai e clama em alta voz: “Lázaro, vem para fora!” O morto sai, envolvido em faixas, e Jesus manda que o desatem (Jo 11:39–44).",
+          "O milagre leva muitos a crer em Jesus e faz os chefes dos sacerdotes e fariseus decidirem matá-lo (Jo 11:45–53). Seis dias antes da Páscoa, em Betânia, fazem-lhe um jantar; Lázaro está à mesa com Jesus (Jo 12:1–2). Muitos judeus vão ver Lázaro, e os chefes dos sacerdotes decidem matá-lo também (Jo 12:9–11). A multidão que acompanhava Jesus o tinha visto ressuscitá-lo (Jo 12:17). O Lázaro da parábola de Lucas 16:19–31 é outra pessoa."
+        ],
+        "en": [
+          "Lazarus is from Bethany, a village near Jerusalem, brother of Martha and Mary, whom John describes as one Jesus loved (John 11:1–3, 5). When he falls ill, the sisters send word to Jesus: “Lord, he whom you love is ill.” Jesus says the illness “is not unto death, but for the glory of God,” and stays two more days where he was; when he finally goes, Lazarus has been dead four days (John 11:3–6, 17).",
+          "Jesus arrives, and Martha says to him, “Lord, if you had been here, my brother would not have died.” Jesus answers, “I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live” (John 11:21–27). Mary says the same; Jesus, seeing her weeping and those with her, is deeply moved, weeps and goes to the tomb (John 11:32–38). Before the stone taken away, he prays to the Father and cries out with a loud voice, “Lazarus, come out!” The dead man comes out, bound in grave clothes, and Jesus tells them to unbind him (John 11:39–44).",
+          "The miracle leads many to believe in Jesus and makes the chief priests and Pharisees decide to put him to death (John 11:45–53). Six days before the Passover, in Bethany, a supper is given for him; Lazarus is at the table with Jesus (John 12:1–2). Many Jews come to see Lazarus, and the chief priests decide to put him to death as well (John 12:9–11). The crowd that had been with Jesus had seen him raise Lazarus (John 12:17). The Lazarus of the parable in Luke 16:19–31 is a different person."
+        ]
       },
       "books": [
         {
@@ -5071,6 +5287,18 @@
       "summary": {
         "pt": "Irmã de Maria e Lázaro, de Betânia. Recebe Jesus em casa e é gentilmente repreendida por sua pressa (Lc 10:38–42); confessa que ele é o Cristo antes da ressurreição de Lázaro (Jo 11:20–27).",
         "en": "Sister of Mary and Lazarus, of Bethany. She welcomes Jesus into her home and is gently corrected for her busyness (Luke 10:38–42); she confesses that he is the Christ before Lazarus is raised (John 11:20–27)."
+      },
+      "bio": {
+        "pt": [
+          "Marta, de Betânia, é irmã de Maria e Lázaro e a primeira citada nas narrativas (Lc 10:38; Jo 11:1, 5). Lucas conta que ela recebeu Jesus em sua casa e se ocupava “em muitos serviços”, enquanto Maria, sentada aos pés de Jesus, o ouvia. Marta pede que Jesus mande Maria ajudá-la, e Jesus lhe responde: “Marta, Marta, estás ansiosa e afadigada com muitas coisas, mas uma só é necessária. Maria escolheu a boa parte, que não lhe será tirada” (Lc 10:38–42).",
+          "Em João 11, quando Lázaro morre, Marta é quem vai ao encontro de Jesus, enquanto Maria fica em casa. Ela diz: “Senhor, se tivesses estado aqui, meu irmão não teria morrido; mas também sei que, mesmo agora, tudo o que pedires a Deus, ele te concederá” (Jo 11:20–22). Jesus responde que seu irmão ressuscitará e diz: “Eu sou a ressurreição e a vida.” Marta confessa: “Sim, Senhor; eu tenho crido que tu és o Cristo, o Filho de Deus, que havia de vir ao mundo” (Jo 11:23–27).",
+          "Diante do túmulo, Marta protesta que o corpo já cheira mal, pois são quatro dias, e Jesus a lembra: “Não te disse que, se creres, verás a glória de Deus?” (Jo 11:39–40). Em João 12:2, no jantar em Betânia, “Marta servia”. As duas cenas mostram uma mulher prática, que serve com dedicação e que também confessa a fé de maneira clara. O texto não diz mais sobre ela."
+        ],
+        "en": [
+          "Martha of Bethany is the sister of Mary and Lazarus and the first one named in the narratives (Luke 10:38; John 11:1, 5). Luke tells that she welcomed Jesus into her house and was “distracted with much serving,” while Mary, seated at Jesus’ feet, listened. Martha asks Jesus to tell Mary to help her, and Jesus answers, “Martha, Martha, you are anxious and troubled about many things, but one thing is necessary. Mary has chosen the good portion, which will not be taken away from her” (Luke 10:38–42).",
+          "In John 11, when Lazarus dies, Martha is the one who goes to meet Jesus, while Mary stays at home. She says, “Lord, if you had been here, my brother would not have died. But even now I know that whatever you ask from God, God will give you” (John 11:20–22). Jesus answers that her brother will rise and says, “I am the resurrection and the life.” Martha confesses, “Yes, Lord; I believe that you are the Christ, the Son of God, who is coming into the world” (John 11:23–27).",
+          "At the tomb Martha protests that there will be a stench, since it is four days, and Jesus reminds her, “Did I not tell you that if you would believe you would see the glory of God?” (John 11:39–40). In John 12:2, at the supper in Bethany, “Martha served.” The two scenes show a practical woman who serves with devotion and also confesses her faith clearly. The text says no more about her."
+        ]
       },
       "books": [
         {
@@ -5105,6 +5333,18 @@
       "summary": {
         "pt": "Irmã de Marta e Lázaro. Senta-se aos pés de Jesus para ouvi-lo (Lc 10:39) e o unge com perfume caro seis dias antes da Páscoa (Jo 12:1–8).",
         "en": "Sister of Martha and Lazarus. She sits at Jesus' feet to listen to him (Luke 10:39) and anoints him with costly perfume six days before the Passover (John 12:1–8)."
+      },
+      "bio": {
+        "pt": [
+          "Maria de Betânia é irmã de Marta e Lázaro. Em Lucas 10:38–42, enquanto Marta se ocupa em servir, Maria se senta aos pés de Jesus e ouve sua palavra; Jesus diz que ela escolheu “a boa parte, que não lhe será tirada”. Sentar-se aos pés do mestre era a posição de um discípulo, e o texto aprova essa escolha numa cultura em que o ensino era em geral reservado aos homens.",
+          "Em João 11, quando Lázaro morre, Marta vai ao encontro de Jesus, e Maria permanece em casa até ser chamada; ao chegar, cai a seus pés e diz as mesmas palavras de Marta: “Senhor, se tivesses estado aqui, meu irmão não teria morrido”. Ao vê-la chorar com os judeus que a acompanhavam, Jesus se comove, estremece e chora (Jo 11:28–35). Depois da ressurreição de Lázaro, muitos dos judeus que haviam vindo a Maria creem nele (Jo 11:45).",
+          "Seis dias antes da Páscoa, em Betânia, Maria toma uma libra de nardo puro, muito caro, unge os pés de Jesus e os enxuga com os cabelos, e a casa se enche do perfume (Jo 12:1–3). Judas protesta, mas Jesus diz: “Deixa-a; guardou isto para o dia do meu sepultamento” (Jo 12:4–8). Mateus e Marcos contam uma unção em Betânia, na casa de Simão, o leproso, em que uma mulher não nomeada derrama o perfume sobre a cabeça de Jesus (Mt 26:6–13; Mc 14:3–9); se se trata da mesma cena, é debatido. Maria de Betânia não deve ser confundida com Maria Madalena nem com Maria, a mãe de Jesus."
+        ],
+        "en": [
+          "Mary of Bethany is the sister of Martha and Lazarus. In Luke 10:38–42, while Martha is busy serving, Mary sits at Jesus’ feet and listens to his word; Jesus says she has chosen “the good portion, which will not be taken away from her.” Sitting at the feet of the teacher was the position of a disciple, and the text approves this choice in a culture in which teaching was generally reserved for men.",
+          "In John 11, when Lazarus dies, Martha goes to meet Jesus, and Mary stays at home until she is called; on arriving, she falls at his feet and says the same words as Martha: “Lord, if you had been here, my brother would not have died.” Seeing her weeping, along with the Jews who came with her, Jesus is deeply moved, troubled, and weeps (John 11:28–35). After the raising of Lazarus, many of the Jews who had come to Mary believe in him (John 11:45).",
+          "Six days before the Passover, at Bethany, Mary takes a pound of pure nard, very costly, anoints Jesus’ feet and wipes them with her hair, and the house is filled with the fragrance (John 12:1–3). Judas objects, but Jesus says, “Leave her alone, so that she may keep it for the day of my burial” (John 12:4–8). Matthew and Mark tell of an anointing at Bethany, in the house of Simon the leper, in which an unnamed woman pours the perfume on Jesus’ head (Matt 26:6–13; Mark 14:3–9); whether it is the same scene is debated. Mary of Bethany should not be confused with Mary Magdalene or with Mary, the mother of Jesus."
+        ]
       },
       "books": [
         {
@@ -5143,6 +5383,18 @@
       "summary": {
         "pt": "Um dos Doze. O NT só o cita nas listas dos apóstolos, sempre ao lado de Filipe (Mt 10:3; Mc 3:18; Lc 6:14; At 1:13); nenhuma narrativa trata dele.",
         "en": "One of the Twelve. The NT mentions him only in the lists of the apostles, always next to Philip (Matt 10:3; Mark 3:18; Luke 6:14; Acts 1:13); no narrative deals with him."
+      },
+      "bio": {
+        "pt": [
+          "Bartolomeu é um dos Doze, mencionado só nas listas dos apóstolos (Mt 10:3; Mc 3:18; Lc 6:14; At 1:13). O nome é um patronímico aramaico, bar-Talmai, “filho de Talmai”, o que sugere que ele tinha outro nome pessoal. Os Evangelhos não contam nenhum episódio em que ele fale ou aja; em todos os casos, é citado junto ao nome de Filipe (nos Sinóticos, logo depois), e em Atos 1:13 aparece entre os onze no cenáculo em Jerusalém.",
+          "Uma leitura antiga identifica Bartolomeu com Natanael, o homem trazido por Filipe a Jesus em João 1:45–51, e que, segundo João 21:2, é de Caná da Galileia. A hipótese se apoia em três observações: nas listas dos Sinóticos Bartolomeu vem logo depois de Filipe; João nunca cita Bartolomeu e nenhum dos Sinóticos cita Natanael; e Natanael aparece entre os discípulos depois da ressurreição. O texto bíblico, porém, não faz essa identificação, e ela é debatida.",
+          "O que o Novo Testamento afirma sobre Bartolomeu é que Jesus o chamou ao apostolado, que esteve com ele e foi testemunha da ressurreição, e que foi enviado entre os Doze (Mc 3:14; At 1:13). Tradições posteriores falam de uma pregação na Índia ou na Armênia e de martírio, mas esses relatos vêm de fontes fora da Bíblia e variam entre si. Aqui, registramos apenas o que o texto diz."
+        ],
+        "en": [
+          "Bartholomew is one of the Twelve, mentioned only in the lists of the apostles (Matt 10:3; Mark 3:18; Luke 6:14; Acts 1:13). The name is an Aramaic patronymic, bar-Talmai, “son of Talmai,” which suggests he had another personal name. The Gospels tell no episode in which he speaks or acts; in all cases he is cited next to Philip’s name (in the Synoptics, right after), and in Acts 1:13 he appears among the eleven in the upper room in Jerusalem.",
+          "An old reading identifies Bartholomew with Nathanael, the man brought by Philip to Jesus in John 1:45–51 and who, according to John 21:2, is from Cana in Galilee. The hypothesis rests on three observations: in the Synoptic lists Bartholomew comes right after Philip; John never mentions Bartholomew and none of the Synoptics mentions Nathanael; and Nathanael appears among the disciples after the resurrection. The biblical text, however, does not make this identification, and it is debated.",
+          "What the New Testament affirms about Bartholomew is that Jesus called him to apostleship, that he was with him and was a witness of the resurrection, and that he was sent among the Twelve (Mark 3:14; Acts 1:13). Later traditions speak of preaching in India or Armenia and of martyrdom, but these accounts come from sources outside the Bible and vary among themselves. Here we record only what the text says."
+        ]
       },
       "books": [
         {
@@ -5197,6 +5449,18 @@
         "pt": "De Caná da Galileia (Jo 21:2). Filipe o leva a Jesus; Jesus o chama de \"verdadeiro israelita\" e diz tê-lo visto debaixo da figueira, e ele confessa: \"Tu és o Filho de Deus, tu és o Rei de Israel\" (Jo 1:45–51). Está entre os discípulos que pescam no mar da Galileia depois da ressurreição (Jo 21:2).",
         "en": "From Cana of Galilee (John 21:2). Philip brings him to Jesus; Jesus calls him \"an Israelite indeed\" and says he saw him under the fig tree, and he confesses: \"You are the Son of God! You are the King of Israel!\" (John 1:45–51). He is among the disciples fishing at the Sea of Galilee after the resurrection (John 21:2)."
       },
+      "bio": {
+        "pt": [
+          "Natanael, de Caná da Galileia (Jo 21:2), aparece só em João. Filipe o encontra e lhe diz que acharam aquele de quem Moisés e os profetas escreveram, Jesus de Nazaré, filho de José. Natanael responde com ceticismo: “Pode vir alguma coisa boa de Nazaré?” Filipe lhe diz apenas: “Vem e vê” (Jo 1:45–46). O comentário mostra a reputação da pequena aldeia e a atitude de quem não tinha a menor expectativa.",
+          "Quando Jesus o vê vindo, diz: “Eis um verdadeiro israelita, em quem não há dolo”. Natanael pergunta como Jesus o conhece, e Jesus responde: “Antes que Filipe te chamasse, eu te vi, quando estavas debaixo da figueira.” Natanael confessa: “Rabi, tu és o Filho de Deus, tu és o Rei de Israel” (Jo 1:47–49). Jesus promete que ele verá coisas maiores e “os anjos de Deus subindo e descendo sobre o Filho do Homem” (Jo 1:50–51).",
+          "Depois da ressurreição, Natanael está entre os sete discípulos que pescam no mar de Tiberíades e encontram Jesus na praia (Jo 21:2). Não aparece nas listas dos Doze, e por isso alguns o identificam com Bartolomeu, mas essa identificação é tradicional e debatida. O Novo Testamento não diz mais sobre ele."
+        ],
+        "en": [
+          "Nathanael, from Cana in Galilee (John 21:2), appears only in John. Philip finds him and tells him they have found the one of whom Moses and the prophets wrote, Jesus of Nazareth, the son of Joseph. Nathanael answers with skepticism: “Can anything good come out of Nazareth?” Philip says only, “Come and see” (John 1:45–46). The comment shows the reputation of the little village and the attitude of one with no expectation at all.",
+          "When Jesus sees him coming, he says, “Behold, an Israelite indeed, in whom there is no deceit!” Nathanael asks how Jesus knows him, and Jesus answers, “Before Philip called you, when you were under the fig tree, I saw you.” Nathanael confesses, “Rabbi, you are the Son of God! You are the King of Israel!” (John 1:47–49). Jesus promises that he will see greater things and “the angels of God ascending and descending on the Son of Man” (John 1:50–51).",
+          "After the resurrection Nathanael is among the seven disciples fishing on the Sea of Tiberias who meet Jesus on the shore (John 21:2). He does not appear in the lists of the Twelve, and for that reason some identify him with Bartholomew, but this identification is traditional and debated. The New Testament says no more about him."
+        ]
+      },
       "books": [
         {
           "book": "joh",
@@ -5228,6 +5492,18 @@
       "summary": {
         "pt": "Um dos Doze. Aparece só nas listas dos apóstolos, como \"o zelote\" (Lc 6:15; At 1:13) ou \"o cananita\" (Mt 10:4; Mc 3:18). O título pode indicar ligação com o movimento zelote ou apenas zelo religioso; é debatido.",
         "en": "One of the Twelve. He appears only in the lists of the apostles, as \"the Zealot\" (Luke 6:15; Acts 1:13) or \"the Cananaean\" (Matt 10:4; Mark 3:18). The title may point to a link with the Zealot movement or simply to religious zeal; this is debated."
+      },
+      "bio": {
+        "pt": [
+          "Simão é um dos Doze, mencionado só nas listas dos apóstolos. Lucas e Atos o chamam “Simão, o zelote” (Lc 6:15; At 1:13); Mateus e Marcos, “Simão, o cananita” (Mt 10:4; Mc 3:18). “Cananita” não indica a cidade de Caná nem a terra de Canaã, mas deriva da palavra aramaica para “zeloso”, o mesmo sentido de “zelote”. Os Evangelhos não contam nenhum episódio com ele.",
+          "O título “zelote” pode ter dois sentidos. Pode indicar ligação com o movimento zelote, grupo de resistência armada à ocupação romana, que ganhou força na revolta judaica de 66–70 d.C.; ou pode apenas indicar zelo religioso, ardor pela lei de Deus, como no caso de Paulo, que diz ter sido “zeloso” por Deus (At 22:3; Gl 1:14). Estudiosos discutem se havia um movimento organizado com esse nome já no tempo de Jesus; o texto bíblico não decide.",
+          "A presença de Simão, o zelote, junto de Mateus, o cobrador de impostos que trabalhava para Roma, entre os Doze, é muitas vezes lida como sinal de que Jesus reunia pessoas de origens políticas muito diferentes; é uma leitura possível, mas o texto não faz essa observação. Não se deve confundi-lo com Simão Pedro, Simão de Cirene (Mc 15:21), Simão, o leproso (Mt 26:6), Simão, o fariseu (Lc 7:36–40), nem com Simão, irmão de Jesus (Mt 13:55). O Novo Testamento não diz nada mais."
+        ],
+        "en": [
+          "Simon is one of the Twelve, mentioned only in the lists of the apostles. Luke and Acts call him “Simon the Zealot” (Luke 6:15; Acts 1:13); Matthew and Mark, “Simon the Cananaean” (Matt 10:4; Mark 3:18). “Cananaean” does not indicate the town of Cana or the land of Canaan, but derives from the Aramaic word for “zealous,” the same sense as “Zealot.” The Gospels tell no episode involving him.",
+          "The title “Zealot” may have two senses. It may indicate a link with the Zealot movement, a group of armed resistance to the Roman occupation, which gained strength in the Jewish revolt of AD 66–70; or it may merely indicate religious zeal, ardor for God’s law, as in the case of Paul, who says he was “zealous” for God (Acts 22:3; Gal 1:14). Scholars discuss whether an organized movement with this name already existed in Jesus’ time; the biblical text does not decide.",
+          "The presence of Simon the Zealot alongside Matthew, the tax collector who worked for Rome, among the Twelve is often read as a sign that Jesus brought together people of very different political backgrounds; it is a possible reading, but the text does not make this observation. He should not be confused with Simon Peter, Simon of Cyrene (Mark 15:21), Simon the leper (Matt 26:6), Simon the Pharisee (Luke 7:36–40), or Simon, the brother of Jesus (Matt 13:55). The New Testament says nothing more."
+        ]
       },
       "books": [
         {
@@ -5282,6 +5558,18 @@
         "pt": "Um dos Doze. Mateus e Marcos o chamam Tadeu (Mt 10:3; Mc 3:18; alguns manuscritos de Mt: \"Lebeu, chamado Tadeu\"); Lucas e Atos, \"Judas, filho de Tiago\" (Lc 6:16; At 1:13). Em Jo 14:22 aparece \"Judas, não o Iscariotes\", que pergunta a Jesus por que ele se revelaria só aos discípulos.",
         "en": "One of the Twelve. Matthew and Mark call him Thaddaeus (Matt 10:3; Mark 3:18; some manuscripts of Matthew: \"Lebbaeus, called Thaddaeus\"); Luke and Acts, \"Judas, son of James\" (Luke 6:16; Acts 1:13). In John 14:22 \"Judas (not Iscariot)\" appears, asking Jesus why he will reveal himself only to the disciples."
       },
+      "bio": {
+        "pt": [
+          "Tadeu é um dos Doze, nomeado assim em Mateus 10:3 e Marcos 3:18; em alguns manuscritos de Mateus, “Lebeu, que tem por sobrenome Tadeu”. Lucas 6:16 e Atos 1:13 trazem, no mesmo lugar da lista, “Judas, filho de Tiago” (ou “irmão de Tiago”, segundo outra tradução do grego). A leitura usual é que Tadeu e Judas, filho de Tiago, são a mesma pessoa, com dois nomes; essa leitura harmoniza as listas, mas é uma inferência, já que o texto não o afirma expressamente.",
+          "O único episódio em que um discípulo chamado Judas, “não o Iscariotes”, fala é em João 14:22, na última ceia: depois de Jesus dizer que se manifestará àqueles que o amam, Judas pergunta: “Senhor, de onde vem que a nós te hás de manifestar, e não ao mundo?” Jesus responde que quem o amar guardará sua palavra, e o Pai e ele virão e farão morada nele (Jo 14:23). O texto de João não diz se esse Judas é o mesmo da lista.",
+          "O Novo Testamento também apresenta Judas, “servo de Jesus Cristo e irmão de Tiago”, como autor da carta de Judas (Jd 1). Esse Judas pode ser o irmão do Senhor (Mt 13:55), e não o apóstolo; a identificação é debatida, e não se deve assumir sem mais que o autor da carta é o apóstolo Tadeu (ver a ficha de Judas). Tadeu não deve ser confundido com Judas Iscariotes."
+        ],
+        "en": [
+          "Thaddaeus is one of the Twelve, named thus in Matthew 10:3 and Mark 3:18; in some manuscripts of Matthew, “Lebbaeus, whose surname was Thaddaeus.” Luke 6:16 and Acts 1:13 have, in the same place in the list, “Judas the son of James” (or “brother of James,” in another translation of the Greek). The usual reading is that Thaddaeus and Judas, son of James, are the same person, with two names; this reading harmonizes the lists, but it is an inference, since the text does not state it expressly.",
+          "The only episode in which a disciple called Judas, “not Iscariot,” speaks is John 14:22, at the last supper: after Jesus says he will manifest himself to those who love him, Judas asks, “Lord, how is it that you will manifest yourself to us, and not to the world?” Jesus answers that whoever loves him will keep his word, and the Father and he will come and make their home with him (John 14:23). John’s text does not say whether this Judas is the same as the one in the list.",
+          "The New Testament also presents Jude, “a servant of Jesus Christ and brother of James,” as author of the letter of Jude (Jude 1). This Jude may be the Lord’s brother (Matt 13:55), and not the apostle; the identification is debated, and one should not assume without more that the author of the letter is the apostle Thaddaeus (see the sheet of Jude). Thaddaeus should not be confused with Judas Iscariot."
+        ]
+      },
       "books": [
         {
           "book": "mat",
@@ -5334,6 +5622,18 @@
       "summary": {
         "pt": "Um dos Doze, citado só nas listas dos apóstolos (Mt 10:3; Mc 3:18; Lc 6:15; At 1:13), como filho de Alfeu.",
         "en": "One of the Twelve, mentioned only in the lists of the apostles, as son of Alphaeus (Matt 10:3; Mark 3:18; Luke 6:15; Acts 1:13)."
+      },
+      "bio": {
+        "pt": [
+          "Tiago, filho de Alfeu, é um dos Doze, citado só nas listas dos apóstolos (Mt 10:3; Mc 3:18; Lc 6:15; At 1:13). Os Evangelhos não relatam nenhum episódio em que ele fale ou aja. O patronímico “filho de Alfeu” o distingue de Tiago, filho de Zebedeu, o outro Tiago entre os Doze, e aparece em todas as listas, o que facilita a identificação.",
+          "Marcos 15:40 menciona entre as mulheres que observavam a crucificação “Maria, mãe de Tiago, o menor, e de José”. Costuma-se identificar esse “Tiago, o menor” com Tiago, filho de Alfeu, mas o texto não faz tal ligação, e a identificação é debatida. Marcos 2:14 chama Levi, o cobrador de impostos, de “filho de Alfeu”; alguns estudiosos propuseram que Levi (Mateus) e Tiago fossem irmãos, o que também é uma suposição sem apoio direto no texto, já que Alfeu é um nome comum.",
+          "Tiago, filho de Alfeu, não deve ser confundido com Tiago, filho de Zebedeu, morto por Herodes (At 12:2), nem com Tiago, o irmão do Senhor e líder da igreja de Jerusalém (Gl 1:19; At 15:13), a quem a tradição atribui a carta de Tiago. O Novo Testamento não relata mais sobre ele. Tradições posteriores sobre sua pregação e seu martírio não têm apoio nas Escrituras."
+        ],
+        "en": [
+          "James, son of Alphaeus, is one of the Twelve, cited only in the lists of the apostles (Matt 10:3; Mark 3:18; Luke 6:15; Acts 1:13). The Gospels report no episode in which he speaks or acts. The patronymic “son of Alphaeus” distinguishes him from James, son of Zebedee, the other James among the Twelve, and appears in all the lists, which makes identification easier.",
+          "Mark 15:40 mentions among the women who watched the crucifixion “Mary the mother of James the younger and of Joses.” This “James the younger” is usually identified with James, son of Alphaeus, but the text makes no such connection, and the identification is debated. Mark 2:14 calls Levi, the tax collector, “son of Alphaeus”; some scholars have proposed that Levi (Matthew) and James were brothers, which is also an assumption without direct support in the text, since Alphaeus is a common name.",
+          "James, son of Alphaeus, should not be confused with James, son of Zebedee, put to death by Herod (Acts 12:2), nor with James, the Lord’s brother and leader of the church in Jerusalem (Gal 1:19; Acts 15:13), to whom tradition attributes the letter of James. The New Testament reports no more about him. Later traditions about his preaching and martyrdom have no support in Scripture."
+        ]
       },
       "books": [
         {
