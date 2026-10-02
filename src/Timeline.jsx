@@ -5,6 +5,7 @@ import { people } from './data/people.json';
 import { pick, range, views, main } from './timelineUtil.js';
 import { useSettings } from './settings.js';
 import { hrefs } from './route.js';
+import { usePageTitle } from './pageTitle.js';
 
 const MIN_W = 132; // largura mínima de um período na faixa, em px (cabe o título)
 const UNDATED_W = 132;
@@ -29,6 +30,7 @@ function Dates({ dates, t, lang }) {
 export default function Timeline({ lang, t, focusId, onClose, onOpenBook, onOpenMap, onOpenPerson }) {
   const { showScholarly } = useSettings();
   const focused = data.events.find((e) => e.id === focusId);
+  usePageTitle([focused && pick(focused.title, lang), t.timeline], t.title);
   const [sel, setSel] = useState(focused?.period ?? data.periods[0].id);
   const period = data.periods.find((p) => p.id === sel);
   const events = useMemo(() => data.events.filter((e) => e.period === sel), [sel]);

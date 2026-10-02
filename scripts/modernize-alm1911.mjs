@@ -32,7 +32,8 @@ for (const l of byStrip.values()) l.sort((a, b) => b[1] - a[1]);
 const known = (w) => vocab.has(w);
 const restore = (w) => { const l = byStrip.get(strip(w)); return l ? l[0][0] : null; };
 
-const EXC = JSON.parse(fs.readFileSync(new URL('./data/alm1911-ortografia.json', import.meta.url), 'utf8')).palavras;
+const ORT = JSON.parse(fs.readFileSync(new URL('./data/alm1911-ortografia.json', import.meta.url), 'utf8'));
+const EXC = { ...ORT.nomes, ...ORT.palavras }; // exceções manuais valem mais que a lista de nomes
 
 // 1) regras sempre aplicadas a palavras que não são conhecidas na grafia moderna (marcas inequívocas da grafia antiga)
 const KEEP_CT = /^(pact|impact|compact|contact|tact)/;           // "ct" que continua hoje
@@ -105,7 +106,7 @@ function fixVerse(text) {
   const ACC = { a: 'á', e: 'ê', i: 'í', o: 'ô' };
   return out
     .replace(/\b(\p{L}*?)([aeiouáâêôóé])l-(o|a|os|as)\b/gu, (m, st, v, cl) => `${st}${/[áâêôóé]/.test(v) ? v : (st + v).endsWith('emo') || st === 'v' ? v : v === 'i' || v === 'u' ? v : ACC[v] ?? v}-l${cl}`)
-    .replace(/(?<=-)(ha|has|hão|hemos|heis)\b/gu, (m) => ({ ha: 'á', has: 'ás', hão: 'ão', hemos: 'emos', heis: 'eis' })[m]);
+    .replace(/(?<=-)(hei|ha|has|hão|hemos|heis)\b/gu, (m) => ({ hei: 'ei', ha: 'á', has: 'ás', hão: 'ão', hemos: 'emos', heis: 'eis' })[m]);
 }
 
 const outDir = path.join('public', 'bible', 'alm1911a');

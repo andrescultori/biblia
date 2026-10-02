@@ -48,7 +48,6 @@ export const VERSIONS = [
   },
   {
     id: 'alm1911a', lang: 'pt', label: 'ALM1911 (atualizada)', full: 'Almeida (edição de 1911), ortografia atualizada', available: true,
-    books: [19, 43], // piloto: Salmos e João. Os demais livros entram depois da revisão
     credit: {
       pt: 'João Ferreira de Almeida, edição de 1911 (domínio público). Texto digital: Project Gutenberg nº 62383. Ortografia atualizada por este projeto.',
       en: 'João Ferreira de Almeida, 1911 edition (public domain). Digital text: Project Gutenberg no. 62383. Spelling updated by this project.',
@@ -56,8 +55,8 @@ export const VERSIONS = [
     license: PD, attributionRequired: false,
     sourceUrl: 'https://www.gutenberg.org/ebooks/62383',
     note: {
-      pt: 'Só a grafia foi atualizada (por regras e dicionário, com revisão em andamento); as palavras são as da edição de 1911. Não é uma revisão oficial do texto. Por enquanto, apenas Salmos e João.',
-      en: 'Only the spelling was updated (by rules and a dictionary, with review in progress); the words are those of the 1911 edition. It is not an official revision of the text. For now, only Psalms and John.',
+      pt: 'Só a grafia foi atualizada (por regras e dicionário, com revisão em andamento); as palavras são as da edição de 1911. Não é uma revisão oficial do texto. Os 66 livros estão publicados; a revisão do texto segue aos poucos.',
+      en: 'Only the spelling was updated (by rules and a dictionary, with review in progress); the words are those of the 1911 edition. It is not an official revision of the text. All 66 books are published; review continues gradually.',
     },
   },
 ];

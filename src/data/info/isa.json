@@ -42,6 +42,9 @@
         "pt": "Isaías",
         "en": "Isaiah"
       },
+      "ids": [
+        "isaias"
+      ],
       "role": {
         "pt": "Profeta em Jerusalém; seu chamado está no cap. 6",
         "en": "Prophet in Jerusalem; his call is in ch. 6"
@@ -62,6 +65,9 @@
         "pt": "Ezequias",
         "en": "Hezekiah"
       },
+      "ids": [
+        "ezequias"
+      ],
       "role": {
         "pt": "Rei de Judá no cerco de Senaqueribe (caps. 36–39)",
         "en": "King of Judah during Sennacherib's siege (chs. 36–39)"
@@ -72,6 +78,9 @@
         "pt": "Ciro",
         "en": "Cyrus"
       },
+      "ids": [
+        "ciro"
+      ],
       "role": {
         "pt": "Rei persa chamado \"ungido\" (44:28; 45:1)",
         "en": "Persian king called \"anointed\" (44:28; 45:1)"

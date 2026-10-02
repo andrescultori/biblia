@@ -42,6 +42,9 @@
         "pt": "Paulo",
         "en": "Paul"
       },
+      "ids": [
+        "paulo"
+      ],
       "role": {
         "pt": "Apóstolo e autor",
         "en": "Apostle and author"
@@ -52,6 +55,9 @@
         "pt": "Febe",
         "en": "Phoebe"
       },
+      "ids": [
+        "febe"
+      ],
       "role": {
         "pt": "Diaconisa de Cencreia, provável portadora da carta (16:1–2)",
         "en": "Deacon of Cenchreae, likely the carrier of the letter (16:1–2)"
@@ -62,6 +68,9 @@
         "pt": "Prisca e Áquila",
         "en": "Priscilla and Aquila"
       },
+      "ids": [
+        "priscila-aquila"
+      ],
       "role": {
         "pt": "Colaboradores de Paulo (16:3–5)",
         "en": "Paul's coworkers (16:3–5)"

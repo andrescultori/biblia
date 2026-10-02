@@ -42,6 +42,9 @@
         "pt": "Ester",
         "en": "Esther"
       },
+      "ids": [
+        "ester"
+      ],
       "role": {
         "pt": "Rainha judia que intercede pelo seu povo",
         "en": "Jewish queen who intercedes for her people"
@@ -52,6 +55,9 @@
         "pt": "Mardoqueu",
         "en": "Mordecai"
       },
+      "ids": [
+        "mardoqueu"
+      ],
       "role": {
         "pt": "Primo e tutor de Ester",
         "en": "Esther's cousin and guardian"
@@ -62,6 +68,9 @@
         "pt": "Hamã",
         "en": "Haman"
       },
+      "ids": [
+        "hama"
+      ],
       "role": {
         "pt": "Oficial persa que planeja exterminar os judeus",
         "en": "Persian official who plots to exterminate the Jews"

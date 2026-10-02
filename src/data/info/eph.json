@@ -42,6 +42,9 @@
         "pt": "Paulo",
         "en": "Paul"
       },
+      "ids": [
+        "paulo"
+      ],
       "role": {
         "pt": "Apóstolo e autor, preso",
         "en": "Apostle and author, in prison"
@@ -52,6 +55,9 @@
         "pt": "Tíquico",
         "en": "Tychicus"
       },
+      "ids": [
+        "tiquico"
+      ],
       "role": {
         "pt": "Portador da carta (6:21–22)",
         "en": "Carrier of the letter (6:21–22)"

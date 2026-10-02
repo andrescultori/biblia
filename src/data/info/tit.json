@@ -42,6 +42,9 @@
         "pt": "Tito",
         "en": "Titus"
       },
+      "ids": [
+        "tito"
+      ],
       "role": {
         "pt": "Colaborador de Paulo, em Creta",
         "en": "Paul's coworker, in Crete"
@@ -52,6 +55,9 @@
         "pt": "Paulo",
         "en": "Paul"
       },
+      "ids": [
+        "paulo"
+      ],
       "role": {
         "pt": "Apóstolo e autor",
         "en": "Apostle and author"
@@ -62,6 +68,10 @@
         "pt": "Zenas e Apolo",
         "en": "Zenas and Apollos"
       },
+      "ids": [
+        null,
+        "apolo"
+      ],
       "role": {
         "pt": "Mencionados em 3:13",
         "en": "Mentioned in 3:13"

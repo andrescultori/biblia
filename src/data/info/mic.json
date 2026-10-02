@@ -42,6 +42,9 @@
         "pt": "Miqueias",
         "en": "Micah"
       },
+      "ids": [
+        "miqueias"
+      ],
       "role": {
         "pt": "Profeta de Moresete",
         "en": "Prophet of Moresheth"
@@ -52,6 +55,9 @@
         "pt": "Ezequias",
         "en": "Hezekiah"
       },
+      "ids": [
+        "ezequias"
+      ],
       "role": {
         "pt": "Rei de Judá, lembrado em Jr 26:18",
         "en": "King of Judah, recalled in Jer 26:18"

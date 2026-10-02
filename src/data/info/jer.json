@@ -42,6 +42,9 @@
         "pt": "Jeremias",
         "en": "Jeremiah"
       },
+      "ids": [
+        "jeremias"
+      ],
       "role": {
         "pt": "Profeta; sofre perseguição e prisão",
         "en": "Prophet; suffers persecution and imprisonment"
@@ -52,6 +55,9 @@
         "pt": "Baruque",
         "en": "Baruch"
       },
+      "ids": [
+        "baruque"
+      ],
       "role": {
         "pt": "Escriba de Jeremias (cap. 36)",
         "en": "Jeremiah's scribe (ch. 36)"
@@ -62,6 +68,11 @@
         "pt": "Josias, Jeoaquim e Zedequias",
         "en": "Josiah, Jehoiakim and Zedekiah"
       },
+      "ids": [
+        "josias",
+        null,
+        null
+      ],
       "role": {
         "pt": "Reis de Judá do período",
         "en": "Kings of Judah of the period"
@@ -82,6 +93,9 @@
         "pt": "Nabucodonosor",
         "en": "Nebuchadnezzar"
       },
+      "ids": [
+        "nabucodonosor"
+      ],
       "role": {
         "pt": "Rei da Babilônia",
         "en": "King of Babylon"

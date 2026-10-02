@@ -42,6 +42,9 @@
         "pt": "Neemias",
         "en": "Nehemiah"
       },
+      "ids": [
+        "neemias"
+      ],
       "role": {
         "pt": "Copeiro do rei e governador de Judá",
         "en": "The king's cupbearer and governor of Judah"
@@ -62,6 +65,9 @@
         "pt": "Esdras",
         "en": "Ezra"
       },
+      "ids": [
+        "esdras"
+      ],
       "role": {
         "pt": "Escriba que lê a lei (cap. 8)",
         "en": "Scribe who reads the law (ch. 8)"

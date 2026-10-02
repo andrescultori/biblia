@@ -42,6 +42,9 @@
         "pt": "Ana",
         "en": "Hannah"
       },
+      "ids": [
+        "ana"
+      ],
       "role": {
         "pt": "Mãe de Samuel; seu cântico está no cap. 2",
         "en": "Mother of Samuel; her song is in ch. 2"
@@ -52,6 +55,9 @@
         "pt": "Eli",
         "en": "Eli"
       },
+      "ids": [
+        "eli"
+      ],
       "role": {
         "pt": "Sacerdote em Siló",
         "en": "Priest at Shiloh"
@@ -62,6 +68,9 @@
         "pt": "Samuel",
         "en": "Samuel"
       },
+      "ids": [
+        "samuel"
+      ],
       "role": {
         "pt": "Último juiz e profeta; unge Saul e Davi",
         "en": "Last judge and prophet; anoints Saul and David"
@@ -72,6 +81,9 @@
         "pt": "Saul",
         "en": "Saul"
       },
+      "ids": [
+        "saul"
+      ],
       "role": {
         "pt": "Primeiro rei de Israel",
         "en": "First king of Israel"
@@ -82,6 +94,9 @@
         "pt": "Jônatas",
         "en": "Jonathan"
       },
+      "ids": [
+        "jonatas"
+      ],
       "role": {
         "pt": "Filho de Saul; amigo de Davi",
         "en": "Saul's son; David's friend"
@@ -92,6 +107,9 @@
         "pt": "Davi",
         "en": "David"
       },
+      "ids": [
+        "davi"
+      ],
       "role": {
         "pt": "Ungido por Samuel; serve Saul e foge dele",
         "en": "Anointed by Samuel; serves Saul and flees from him"
@@ -102,6 +120,9 @@
         "pt": "Golias",
         "en": "Goliath"
       },
+      "ids": [
+        "golias"
+      ],
       "role": {
         "pt": "Guerreiro filisteu derrotado por Davi (cap. 17)",
         "en": "Philistine warrior defeated by David (ch. 17)"

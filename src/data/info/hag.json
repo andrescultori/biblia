@@ -52,6 +52,9 @@
         "pt": "Zorobabel",
         "en": "Zerubbabel"
       },
+      "ids": [
+        "zorobabel"
+      ],
       "role": {
         "pt": "Governador de Judá",
         "en": "Governor of Judah"
@@ -62,6 +65,9 @@
         "pt": "Josué",
         "en": "Joshua"
       },
+      "ids": [
+        "josue-sacerdote"
+      ],
       "role": {
         "pt": "Sumo sacerdote",
         "en": "High priest"

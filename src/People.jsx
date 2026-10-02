@@ -5,6 +5,7 @@ import timeline from './data/timeline.json';
 import { psalms } from './data/psalms.json';
 import { pick, range, main } from './timelineUtil.js';
 import { hrefs, go } from './route.js';
+import { usePageTitle } from './pageTitle.js';
 
 const norm = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
 const byId = Object.fromEntries(people.map((p) => [p.id, p]));
@@ -38,6 +39,7 @@ export default function People({ lang, t, focusId, onOpenBook, onOpenTimeline, o
   }, [list, sort, lang]);
 
   const person = byId[focusId];
+  usePageTitle([person && pick(person.name, lang), t.people], t.title);
   const choose = (id) => onSelect(id);
 
   return (

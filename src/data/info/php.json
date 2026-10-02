@@ -42,6 +42,9 @@
         "pt": "Paulo",
         "en": "Paul"
       },
+      "ids": [
+        "paulo"
+      ],
       "role": {
         "pt": "Apóstolo e autor, preso",
         "en": "Apostle and author, in prison"
@@ -52,6 +55,9 @@
         "pt": "Timóteo",
         "en": "Timothy"
       },
+      "ids": [
+        "timoteo"
+      ],
       "role": {
         "pt": "Co-remetente (1:1; 2:19–24)",
         "en": "Co-sender (1:1; 2:19–24)"
@@ -62,6 +68,9 @@
         "pt": "Epafrodito",
         "en": "Epaphroditus"
       },
+      "ids": [
+        "epafrodito"
+      ],
       "role": {
         "pt": "Enviado pela igreja de Filipos (2:25–30)",
         "en": "Sent by the church in Philippi (2:25–30)"

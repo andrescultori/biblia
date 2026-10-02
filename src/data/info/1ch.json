@@ -42,6 +42,9 @@
         "pt": "Davi",
         "en": "David"
       },
+      "ids": [
+        "davi"
+      ],
       "role": {
         "pt": "Figura central; prepara o templo",
         "en": "Central figure; prepares the temple"
@@ -52,6 +55,9 @@
         "pt": "Salomão",
         "en": "Solomon"
       },
+      "ids": [
+        "salomao"
+      ],
       "role": {
         "pt": "Sucessor de Davi, encarregado de construir o templo (caps. 22; 28–29)",
         "en": "David's successor, charged with building the temple (chs. 22; 28–29)"
@@ -62,6 +68,9 @@
         "pt": "Joabe",
         "en": "Joab"
       },
+      "ids": [
+        "joabe"
+      ],
       "role": {
         "pt": "Comandante do exército de Davi",
         "en": "Commander of David's army"

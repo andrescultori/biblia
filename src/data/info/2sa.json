@@ -42,6 +42,9 @@
         "pt": "Davi",
         "en": "David"
       },
+      "ids": [
+        "davi"
+      ],
       "role": {
         "pt": "Rei de Judá e depois de todo o Israel",
         "en": "King of Judah and then of all Israel"
@@ -52,6 +55,9 @@
         "pt": "Joabe",
         "en": "Joab"
       },
+      "ids": [
+        "joabe"
+      ],
       "role": {
         "pt": "Comandante do exército",
         "en": "Commander of the army"
@@ -62,6 +68,9 @@
         "pt": "Natã",
         "en": "Nathan"
       },
+      "ids": [
+        "nata"
+      ],
       "role": {
         "pt": "Profeta; entrega a promessa e confronta Davi (caps. 7 e 12)",
         "en": "Prophet; delivers the promise and confronts David (chs. 7 and 12)"
@@ -72,6 +81,10 @@
         "pt": "Bate-Seba e Urias",
         "en": "Bathsheba and Uriah"
       },
+      "ids": [
+        "bate-seba",
+        null
+      ],
       "role": {
         "pt": "Envolvidos no pecado de Davi (caps. 11–12)",
         "en": "Involved in David's sin (chs. 11–12)"
@@ -82,6 +95,9 @@
         "pt": "Absalão",
         "en": "Absalom"
       },
+      "ids": [
+        "absalao"
+      ],
       "role": {
         "pt": "Filho de Davi; lidera uma rebelião (caps. 15–18)",
         "en": "David's son; leads a rebellion (chs. 15–18)"

@@ -42,6 +42,9 @@
         "pt": "Rute",
         "en": "Ruth"
       },
+      "ids": [
+        "rute"
+      ],
       "role": {
         "pt": "Moabita que fica com a sogra e se casa com Boaz",
         "en": "Moabite who stays with her mother-in-law and marries Boaz"
@@ -52,6 +55,9 @@
         "pt": "Noemi",
         "en": "Naomi"
       },
+      "ids": [
+        "noemi"
+      ],
       "role": {
         "pt": "Viúva de Belém que volta de Moabe",
         "en": "Widow of Bethlehem who returns from Moab"
@@ -62,6 +68,9 @@
         "pt": "Boaz",
         "en": "Boaz"
       },
+      "ids": [
+        "boaz"
+      ],
       "role": {
         "pt": "Parente de Elimeleque; resgata a terra e se casa com Rute",
         "en": "Relative of Elimelech; redeems the land and marries Ruth"

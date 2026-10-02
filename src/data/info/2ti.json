@@ -42,6 +42,9 @@
         "pt": "Paulo",
         "en": "Paul"
       },
+      "ids": [
+        "paulo"
+      ],
       "role": {
         "pt": "Apóstolo e autor, preso",
         "en": "Apostle and author, in prison"
@@ -52,6 +55,9 @@
         "pt": "Timóteo",
         "en": "Timothy"
       },
+      "ids": [
+        "timoteo"
+      ],
       "role": {
         "pt": "Destinatário",
         "en": "Recipient"
@@ -72,6 +78,10 @@
         "pt": "Marcos e Lucas",
         "en": "Mark and Luke"
       },
+      "ids": [
+        "joao-marcos",
+        "lucas"
+      ],
       "role": {
         "pt": "Colaboradores mencionados (4:11)",
         "en": "Coworkers mentioned (4:11)"

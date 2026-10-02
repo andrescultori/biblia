@@ -37,12 +37,12 @@
     "en": "The setting is New Kingdom Egypt, in the most common reading, with forced labor on building projects (Exod 1:11). The pharaoh is not named in the text, and his identification depends on the chronology adopted. The Decalogue and the covenant laws have been compared with legal forms and treaties of the ancient Near East."
   },
   "characters": [
-    { "name": { "pt": "Moisés", "en": "Moses" }, "role": { "pt": "Libertador e mediador da aliança", "en": "Deliverer and mediator of the covenant" } },
-    { "name": { "pt": "Arão", "en": "Aaron" }, "role": { "pt": "Irmão de Moisés; primeiro sumo sacerdote", "en": "Moses' brother; first high priest" } },
-    { "name": { "pt": "Miriã", "en": "Miriam" }, "role": { "pt": "Irmã de Moisés; chamada profetisa (15:20)", "en": "Moses' sister; called a prophetess (15:20)" } },
+    { "name": { "pt": "Moisés", "en": "Moses" }, "ids": ["moises"], "role": { "pt": "Libertador e mediador da aliança", "en": "Deliverer and mediator of the covenant" } },
+    { "name": { "pt": "Arão", "en": "Aaron" }, "ids": ["arao"], "role": { "pt": "Irmão de Moisés; primeiro sumo sacerdote", "en": "Moses' brother; first high priest" } },
+    { "name": { "pt": "Miriã", "en": "Miriam" }, "ids": ["miria"], "role": { "pt": "Irmã de Moisés; chamada profetisa (15:20)", "en": "Moses' sister; called a prophetess (15:20)" } },
     { "name": { "pt": "Faraó (não nomeado)", "en": "Pharaoh (unnamed)" }, "role": { "pt": "Rei do Egito que se opõe à libertação", "en": "King of Egypt who resists the liberation" } },
-    { "name": { "pt": "Jetro", "en": "Jethro" }, "role": { "pt": "Sogro de Moisés; sacerdote de Midiã (caps. 3 e 18)", "en": "Moses' father-in-law; priest of Midian (chs. 3 and 18)" } },
-    { "name": { "pt": "Josué", "en": "Joshua" }, "role": { "pt": "Auxiliar de Moisés; combate Amaleque (17:9–13)", "en": "Moses' assistant; fights Amalek (17:9–13)" } },
+    { "name": { "pt": "Jetro", "en": "Jethro" }, "ids": ["jetro"], "role": { "pt": "Sogro de Moisés; sacerdote de Midiã (caps. 3 e 18)", "en": "Moses' father-in-law; priest of Midian (chs. 3 and 18)" } },
+    { "name": { "pt": "Josué", "en": "Joshua" }, "ids": ["josue"], "role": { "pt": "Auxiliar de Moisés; combate Amaleque (17:9–13)", "en": "Moses' assistant; fights Amalek (17:9–13)" } },
     { "name": { "pt": "Bezalel", "en": "Bezalel" }, "role": { "pt": "Artesão encarregado da obra do tabernáculo (31:1–5)", "en": "Craftsman in charge of the tabernacle work (31:1–5)" } }
   ],
   "outline": [

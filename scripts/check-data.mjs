@@ -29,6 +29,20 @@ const refOk = (ref, slug, where) => {
 const LON = [-12, 72];
 const LAT = [-2, 52];
 
+// `ids` do personagem da ficha: ids de people.json (ou null); com mais de um id, o número de nomes no texto precisa bater
+const personIds = new Set(read('src/data/people.json').people.map((p) => p.id));
+function checkCharIds(c, where) {
+  if (c.ids === undefined) return;
+  if (!Array.isArray(c.ids) || !c.ids.length) { err(`${where}: ids deve ser uma lista não vazia`); return; }
+  c.ids.forEach((id) => { if (id !== null && !personIds.has(id)) err(`${where}: personagem "${id}" não existe`); });
+  if (c.ids.length > 1) {
+    for (const [lang, sep] of [['pt', / e |, /], ['en', / and |, /]]) {
+      const n = c.name?.[lang]?.split(sep).length;
+      if (n !== c.ids.length) err(`${where}: ${c.ids.length} ids, mas o nome ${lang.toUpperCase()} tem ${n} parte(s)`);
+    }
+  }
+}
+
 for (const slug of books) {
   const file = `src/data/info/${slug}.json`;
   if (!fs.existsSync(path.join(root, file))) { err(`${file}: ficha ausente`); continue; }
@@ -37,7 +51,7 @@ for (const slug of books) {
   for (const k of ['author', 'date']) for (const v of ['traditional', 'scholarly']) bilingual(d[k]?.[v], `${slug}.${k}.${v}`);
   refOk(d.keyVerse, slug, `${slug}.keyVerse`);
   if (!Array.isArray(d.characters) || !d.characters.length) err(`${slug}: sem personagens`);
-  (d.characters ?? []).forEach((c, i) => { bilingual(c.name, `${slug}.characters[${i}].name`); bilingual(c.role, `${slug}.characters[${i}].role`); });
+  (d.characters ?? []).forEach((c, i) => { bilingual(c.name, `${slug}.characters[${i}].name`); bilingual(c.role, `${slug}.characters[${i}].role`); checkCharIds(c, `${slug}.characters[${i}]`); });
   if (!Array.isArray(d.outline) || !d.outline.length) err(`${slug}: sem esboço`);
   (d.outline ?? []).forEach((o, i) => { refOk(o.ref, slug, `${slug}.outline[${i}]`); bilingual(o.title, `${slug}.outline[${i}].title`); });
 

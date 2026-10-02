@@ -42,6 +42,9 @@
         "pt": "Paulo",
         "en": "Paul"
       },
+      "ids": [
+        "paulo"
+      ],
       "role": {
         "pt": "Apóstolo e autor, preso",
         "en": "Apostle and author, in prison"
@@ -52,6 +55,9 @@
         "pt": "Filemom",
         "en": "Philemon"
       },
+      "ids": [
+        "filemom"
+      ],
       "role": {
         "pt": "Destinatário",
         "en": "Recipient"
@@ -62,6 +68,9 @@
         "pt": "Onésimo",
         "en": "Onesimus"
       },
+      "ids": [
+        "onesimo"
+      ],
       "role": {
         "pt": "Escravo de Filemom que está com Paulo",
         "en": "Philemon's slave who is with Paul"
@@ -72,6 +81,9 @@
         "pt": "Timóteo",
         "en": "Timothy"
       },
+      "ids": [
+        "timoteo"
+      ],
       "role": {
         "pt": "Co-remetente (v. 1)",
         "en": "Co-sender (v. 1)"

@@ -76,6 +76,8 @@ O botão **Personagens** abre uma página com a lista (busca e filtro por livro)
 - `summary` é o resumo de uma frase a três (aparece na lista e abre a página); `bio` é o texto mais longo, em 2 a 3 parágrafos, mostrado abaixo do resumo (PT e EN com o mesmo número de parágrafos).
 - O resumo e a bio se limitam ao que o texto bíblico diz, com referências. Pessoas distintas de mesmo nome têm ids distintos (`josue`, `josue-sacerdote`). Genealogia ainda não faz parte.
 
+Na ficha do livro (`src/data/info/<slug>.json`), cada item de `characters` pode ter `ids`: lista de ids de `people.json` (ou `null` para uma parte sem página). Com um id, o nome inteiro vira link para `#person/<id>`; com vários, cada parte do nome ("Adão e Eva", "Paulo, Silvano e Timóteo") liga ao id da mesma posição, e o `npm run check` confere que o número de partes bate nos dois idiomas.
+
 ## Configurações
 
 O botão ⚙ abre as preferências de estudo, guardadas no navegador (`localStorage`). Por enquanto: **mostrar a posição acadêmica** (padrão: ligado). Desligada, a ficha mostra só a posição tradicional de autoria e datação, e a linha do tempo só a leitura tradicional das datas. O aviso de que a outra posição existe fica só na própria tela de Configurações. Em Personagens, a lista pode ser ordenada A–Z ou por livro (lembrada no navegador).
@@ -108,4 +110,4 @@ A chave opcional `structure` da ficha (`src/data/info/<slug>.json`) mostra a aba
 
 ## Versões parciais
 
-Uma versão em `src/data/bible.js` pode ter `books: [19, 43]` (números 1 a 66). Ela só aparece no leitor desses livros, e o `npm run check` só exige os arquivos deles. É o caso da Almeida 1911 atualizada, em piloto (`docs/ortografia-alm1911.md`).
+Uma versão em `src/data/bible.js` pode ter `books: [19, 43]` (números 1 a 66). Ela só aparece no leitor desses livros, e o `npm run check` só exige os arquivos deles. Hoje nenhuma versão usa isso (a Almeida 1911 atualizada já cobre os 66 livros), mas o recurso continua disponível para versões parciais.

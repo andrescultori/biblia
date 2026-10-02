@@ -42,6 +42,9 @@
         "pt": "Pedro",
         "en": "Peter"
       },
+      "ids": [
+        "pedro"
+      ],
       "role": {
         "pt": "Apóstolo e autor, na leitura tradicional",
         "en": "Apostle and author, in the traditional reading"
@@ -52,6 +55,9 @@
         "pt": "Silvano",
         "en": "Silvanus"
       },
+      "ids": [
+        "silas"
+      ],
       "role": {
         "pt": "Escriba ou portador (5:12)",
         "en": "Scribe or carrier (5:12)"
@@ -62,6 +68,9 @@
         "pt": "Marcos",
         "en": "Mark"
       },
+      "ids": [
+        "joao-marcos"
+      ],
       "role": {
         "pt": "Mencionado em 5:13 como \"meu filho\"",
         "en": "Mentioned in 5:13 as \"my son\""
