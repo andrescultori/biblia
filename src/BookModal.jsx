@@ -1,3 +1,4 @@
+import { usePageTitle } from './pageTitle.js';
 import React, { Suspense, lazy, useEffect, useRef, useState } from 'react';
 import { BOOKS, SECTIONS } from './data/books.js';
 import { VERSIONS, loadBook } from './data/bible.js';
@@ -31,6 +32,7 @@ export default function BookModal({ book, lang, t, initialTab, initialPlace, onN
   const setTab = (k) => { setTabState(k); sync(hrefs.book(book.slug, k)); };
   // o endereço mudou por navegação (link, voltar): acompanha a aba
   useEffect(() => { setTabState(initialTab ?? 'summary'); }, [initialTab, initialPlace]);
+  usePageTitle([book.name[lang], tab !== 'summary' && t[tab] !== book.name[lang] && t[tab]], t.title);
   const section = SECTIONS.find((s) => s.id === book.section);
   const prev = BOOKS[book.n - 2];
   const next = BOOKS[book.n];

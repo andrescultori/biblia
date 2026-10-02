@@ -5,6 +5,7 @@ import BookModal from './BookModal.jsx';
 import SettingsModal from './SettingsModal.jsx';
 import { SettingsContext } from './settings.js';
 import { parseHash, hrefs, go } from './route.js';
+import { usePageTitle } from './pageTitle.js';
 
 // Linha do tempo só carrega quando aberta.
 const Timeline = lazy(() => import('./Timeline.jsx'));
@@ -27,6 +28,8 @@ export default function App() {
   const [showSettings, setShowSettings] = useState(false);
   const t = T[lang];
 
+  // Livro, linha do tempo e personagens ajustam o título com o detalhe (aba, evento, pessoa); aqui fica o da grade.
+  usePageTitle([], t.title, route.kind === 'home');
   useEffect(() => { store.set('showScholarly', settings.showScholarly ? '1' : '0'); }, [settings]);
   useEffect(() => { document.documentElement.lang = lang === 'pt' ? 'pt-BR' : 'en'; store.set('lang', lang); }, [lang]);
   useEffect(() => {
