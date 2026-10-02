@@ -52,6 +52,8 @@ Tabela interativa dos 66 livros da Bíblia (inspirada no "TaBíblia Periódica")
 5. Páginas de personagens bíblicos (`src/People.jsx`, dados em `src/data/people.json`). **Em andamento:** estrutura pronta e 113 personagens (AT e NT, seleção de principais; os Doze completos), cada um com `summary` e `bio` de 2 a 3 parágrafos (revisão do André pendente); faltam os demais, por seção, com revisão do André. Cada personagem liga a livros, eventos da linha do tempo e lugares do mapa (nos dois sentidos). Resumos só com o que o texto bíblico diz. **Genealogia (pai, filho, cônjuge) fica para mais adiante**, por exigir fontes e decisões de mérito. Outros conteúdos: a definir.
 6. Integração linha do tempo ↔ mapas: **feita** (evento → lugares do mapa; lugar → eventos). Cada evento pode ter `places: [{book, name, en}]`, validado contra o mapa da ficha. Os três (linha do tempo, mapa e personagens) já se ligam nos dois sentidos.
 
+7. Plano de leitura (ex.: Provérbios em 31 dias, Salmos em 30). **Mais adiante**, depois da genealogia dos personagens e de mais eventos na linha do tempo (reis e profetas).
+
 ## Comandos
 - `npm install` e `npm run dev`: desenvolvimento.
 - `npm run check`: confere fichas (campos PT/EN, referências de capítulo), lugares do mapa (coordenadas dentro da costa, nome repetido), linha do tempo, personagens (ids, livros, eventos e lugares existentes), chaves repetidas ou faltando no `i18n.js` e textos bíblicos (66 livros, capítulos iguais aos da KJV, null só onde falta versículo). Rode antes de abrir PR.
