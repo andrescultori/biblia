@@ -42,6 +42,7 @@
         "pt": "João",
         "en": "John"
       },
+      "ids": ["joao-apostolo"],
       "role": {
         "pt": "Vidente em Patmos",
         "en": "Seer on Patmos"
