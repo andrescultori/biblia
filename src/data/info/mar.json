@@ -42,6 +42,9 @@
         "pt": "Jesus",
         "en": "Jesus"
       },
+      "ids": [
+        "jesus"
+      ],
       "role": {
         "pt": "Filho de Deus que serve e sofre",
         "en": "Son of God who serves and suffers"
@@ -52,6 +55,9 @@
         "pt": "João Batista",
         "en": "John the Baptist"
       },
+      "ids": [
+        "joao-batista"
+      ],
       "role": {
         "pt": "Precursor (1:2–8)",
         "en": "Forerunner (1:2–8)"
@@ -72,6 +78,9 @@
         "pt": "Pedro",
         "en": "Peter"
       },
+      "ids": [
+        "pedro"
+      ],
       "role": {
         "pt": "Confessa o Messias (8:29) e nega Jesus (14:66–72)",
         "en": "Confesses the Messiah (8:29) and denies Jesus (14:66–72)"
@@ -82,6 +91,9 @@
         "pt": "Pilatos",
         "en": "Pilate"
       },
+      "ids": [
+        "pilatos"
+      ],
       "role": {
         "pt": "Governador romano",
         "en": "Roman governor"

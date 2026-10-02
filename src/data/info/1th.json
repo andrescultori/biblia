@@ -42,6 +42,11 @@
         "pt": "Paulo, Silvano e Timóteo",
         "en": "Paul, Silvanus and Timothy"
       },
+      "ids": [
+        "paulo",
+        "silas",
+        "timoteo"
+      ],
       "role": {
         "pt": "Remetentes (1:1)",
         "en": "Senders (1:1)"

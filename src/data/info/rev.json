@@ -42,6 +42,7 @@
         "pt": "João",
         "en": "John"
       },
+      "ids": ["joao-apostolo"],
       "role": {
         "pt": "Vidente em Patmos",
         "en": "Seer on Patmos"
@@ -52,6 +53,9 @@
         "pt": "Jesus Cristo",
         "en": "Jesus Christ"
       },
+      "ids": [
+        "jesus"
+      ],
       "role": {
         "pt": "O Cordeiro e Senhor da história (1:5; 5:6)",
         "en": "The Lamb and Lord of history (1:5; 5:6)"

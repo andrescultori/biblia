@@ -42,6 +42,9 @@
         "pt": "Salomão",
         "en": "Solomon"
       },
+      "ids": [
+        "salomao"
+      ],
       "role": {
         "pt": "Constrói e dedica o templo (caps. 2–7)",
         "en": "Builds and dedicates the temple (chs. 2–7)"
@@ -62,6 +65,9 @@
         "pt": "Ezequias",
         "en": "Hezekiah"
       },
+      "ids": [
+        "ezequias"
+      ],
       "role": {
         "pt": "Reforma e Páscoa (caps. 29–32)",
         "en": "Reform and Passover (chs. 29–32)"
@@ -82,6 +88,9 @@
         "pt": "Josias",
         "en": "Josiah"
       },
+      "ids": [
+        "josias"
+      ],
       "role": {
         "pt": "Reforma e Páscoa (caps. 34–35)",
         "en": "Reform and Passover (chs. 34–35)"
@@ -92,6 +101,9 @@
         "pt": "Ciro",
         "en": "Cyrus"
       },
+      "ids": [
+        "ciro"
+      ],
       "role": {
         "pt": "Rei da Pérsia; decreta o retorno (36:22–23)",
         "en": "King of Persia; decrees the return (36:22–23)"

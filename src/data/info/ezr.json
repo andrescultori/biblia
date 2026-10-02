@@ -42,6 +42,9 @@
         "pt": "Ciro",
         "en": "Cyrus"
       },
+      "ids": [
+        "ciro"
+      ],
       "role": {
         "pt": "Rei da Pérsia; decreta o retorno",
         "en": "King of Persia; decrees the return"
@@ -52,6 +55,10 @@
         "pt": "Zorobabel e Jesua",
         "en": "Zerubbabel and Jeshua"
       },
+      "ids": [
+        "zorobabel",
+        null
+      ],
       "role": {
         "pt": "Líderes do primeiro retorno e da reconstrução do templo",
         "en": "Leaders of the first return and the rebuilding of the temple"
@@ -82,6 +89,9 @@
         "pt": "Esdras",
         "en": "Ezra"
       },
+      "ids": [
+        "esdras"
+      ],
       "role": {
         "pt": "Sacerdote e escriba; ensina a lei",
         "en": "Priest and scribe; teaches the law"

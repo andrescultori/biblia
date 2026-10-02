@@ -42,6 +42,9 @@
         "pt": "Jesus",
         "en": "Jesus"
       },
+      "ids": [
+        "jesus"
+      ],
       "role": {
         "pt": "A Palavra feita carne",
         "en": "The Word made flesh"
@@ -52,6 +55,9 @@
         "pt": "João Batista",
         "en": "John the Baptist"
       },
+      "ids": [
+        "joao-batista"
+      ],
       "role": {
         "pt": "Testemunha de Jesus (1:6–8, 19–34)",
         "en": "Witness to Jesus (1:6–8, 19–34)"
@@ -62,6 +68,9 @@
         "pt": "Nicodemos",
         "en": "Nicodemus"
       },
+      "ids": [
+        "nicodemos"
+      ],
       "role": {
         "pt": "Fariseu que procura Jesus à noite (cap. 3)",
         "en": "Pharisee who seeks Jesus at night (ch. 3)"
@@ -72,6 +81,9 @@
         "pt": "Maria Madalena",
         "en": "Mary Magdalene"
       },
+      "ids": [
+        "maria-madalena"
+      ],
       "role": {
         "pt": "Primeira a ver o Ressuscitado (cap. 20)",
         "en": "First to see the risen Lord (ch. 20)"
@@ -82,6 +94,11 @@
         "pt": "Lázaro, Marta e Maria",
         "en": "Lazarus, Martha and Mary"
       },
+      "ids": [
+        "lazaro",
+        "marta",
+        "maria-de-betania"
+      ],
       "role": {
         "pt": "Amigos de Jesus em Betânia (cap. 11)",
         "en": "Friends of Jesus in Bethany (ch. 11)"
@@ -92,6 +109,9 @@
         "pt": "Tomé",
         "en": "Thomas"
       },
+      "ids": [
+        "tome"
+      ],
       "role": {
         "pt": "Discípulo que duvida e depois confessa (cap. 20)",
         "en": "Disciple who doubts and then confesses (ch. 20)"

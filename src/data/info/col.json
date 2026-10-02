@@ -42,6 +42,9 @@
         "pt": "Paulo",
         "en": "Paul"
       },
+      "ids": [
+        "paulo"
+      ],
       "role": {
         "pt": "Apóstolo e autor, preso",
         "en": "Apostle and author, in prison"
@@ -52,6 +55,9 @@
         "pt": "Timóteo",
         "en": "Timothy"
       },
+      "ids": [
+        "timoteo"
+      ],
       "role": {
         "pt": "Co-remetente (1:1)",
         "en": "Co-sender (1:1)"
@@ -62,6 +68,9 @@
         "pt": "Epafras",
         "en": "Epaphras"
       },
+      "ids": [
+        "epafras"
+      ],
       "role": {
         "pt": "Fundador da igreja de Colossos (1:7; 4:12)",
         "en": "Founder of the church in Colossae (1:7; 4:12)"
@@ -72,6 +81,9 @@
         "pt": "Onésimo",
         "en": "Onesimus"
       },
+      "ids": [
+        "onesimo"
+      ],
       "role": {
         "pt": "Acompanha Tíquico (4:9); aparece também em Filemom",
         "en": "Accompanies Tychicus (4:9); also appears in Philemon"
@@ -82,6 +94,9 @@
         "pt": "Tíquico",
         "en": "Tychicus"
       },
+      "ids": [
+        "tiquico"
+      ],
       "role": {
         "pt": "Portador da carta (4:7)",
         "en": "Carrier of the letter (4:7)"

@@ -42,6 +42,9 @@
         "pt": "Paulo",
         "en": "Paul"
       },
+      "ids": [
+        "paulo"
+      ],
       "role": {
         "pt": "Apóstolo e autor",
         "en": "Apostle and author"
@@ -52,6 +55,9 @@
         "pt": "Timóteo",
         "en": "Timothy"
       },
+      "ids": [
+        "timoteo"
+      ],
       "role": {
         "pt": "Jovem colaborador, em Éfeso (1:2–3)",
         "en": "Young coworker, in Ephesus (1:2–3)"

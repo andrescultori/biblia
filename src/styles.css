@@ -226,3 +226,7 @@ input[type='search'] { flex: 1 1 200px; min-width: 0; border: 1px solid var(--li
 .st-reading { border-left: 3px solid var(--line); padding-left: 12px; margin-bottom: 10px; }
 .st-reading p { margin: 0 0 4px; }
 .st-reading i { font-style: normal; color: var(--muted); }
+
+/* nome de personagem na ficha do livro: link para a página da pessoa */
+.sheetinfo a.plink { color: inherit; text-decoration: underline; text-decoration-color: var(--c, currentColor); text-decoration-thickness: 2px; text-underline-offset: 3px; }
+.sheetinfo a.plink:hover { color: var(--c, inherit); }

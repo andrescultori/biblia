@@ -37,8 +37,8 @@
     "en": "The book is set at Sinai, between the building of the tabernacle (Exod 40) and the people's departure (Num 10). Its vocabulary of sacrifice and purity has parallels in ancient Near Eastern cult practice, but the theology of the book is its own. The Day of Atonement (ch. 16) and the jubilee year (ch. 25) are central regulations."
   },
   "characters": [
-    { "name": { "pt": "Moisés", "en": "Moses" }, "role": { "pt": "Recebe e transmite as instruções", "en": "Receives and relays the instructions" } },
-    { "name": { "pt": "Arão", "en": "Aaron" }, "role": { "pt": "Sumo sacerdote; consagrado nos caps. 8–9", "en": "High priest; consecrated in chs. 8–9" } },
+    { "name": { "pt": "Moisés", "en": "Moses" }, "ids": ["moises"], "role": { "pt": "Recebe e transmite as instruções", "en": "Receives and relays the instructions" } },
+    { "name": { "pt": "Arão", "en": "Aaron" }, "ids": ["arao"], "role": { "pt": "Sumo sacerdote; consagrado nos caps. 8–9", "en": "High priest; consecrated in chs. 8–9" } },
     { "name": { "pt": "Nadabe e Abiú", "en": "Nadab and Abihu" }, "role": { "pt": "Filhos de Arão; morrem ao oferecer fogo estranho (cap. 10)", "en": "Sons of Aaron; die after offering unauthorized fire (ch. 10)" } },
     { "name": { "pt": "Eleazar e Itamar", "en": "Eleazar and Ithamar" }, "role": { "pt": "Filhos de Arão que seguem no sacerdócio (cap. 10)", "en": "Sons of Aaron who continue in the priesthood (ch. 10)" } }
   ],

@@ -42,6 +42,9 @@
         "pt": "Paulo",
         "en": "Paul"
       },
+      "ids": [
+        "paulo"
+      ],
       "role": {
         "pt": "Apóstolo e autor",
         "en": "Apostle and author"
@@ -52,6 +55,9 @@
         "pt": "Pedro (Cefas)",
         "en": "Peter (Cephas)"
       },
+      "ids": [
+        "pedro"
+      ],
       "role": {
         "pt": "Confrontado por Paulo em Antioquia (2:11–14)",
         "en": "Confronted by Paul in Antioch (2:11–14)"
@@ -62,6 +68,11 @@
         "pt": "Tiago, Pedro e João",
         "en": "James, Peter and John"
       },
+      "ids": [
+        "tiago-jerusalem",
+        "pedro",
+        "joao-apostolo"
+      ],
       "role": {
         "pt": "\"Colunas\" da igreja de Jerusalém (2:9)",
         "en": "\"Pillars\" of the Jerusalem church (2:9)"
@@ -72,6 +83,9 @@
         "pt": "Barnabé",
         "en": "Barnabas"
       },
+      "ids": [
+        "barnabe"
+      ],
       "role": {
         "pt": "Companheiro de Paulo (2:1, 13)",
         "en": "Paul's companion (2:1, 13)"
