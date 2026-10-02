@@ -26,6 +26,16 @@ export const hrefs = {
 };
 
 // Navegar adiciona uma entrada ao histórico (o botão voltar funciona). Trocar o hash pela mesma rota não faz nada.
+// Posição na pilha de navegação do app (guardada em history.state): serve para o botão Voltar saber se há para onde voltar.
+let idx = history.state?.i ?? 0;
+history.replaceState({ ...history.state, i: idx }, '');
+window.addEventListener('hashchange', () => {
+  if (history.state?.i == null) { idx += 1; history.replaceState({ ...history.state, i: idx }, ''); } else idx = history.state.i;
+});
+export const canGoBack = () => idx > 0;
+// Voltar à página anterior do app; sem histórico (link aberto direto), vai para o início.
+export const goBack = () => { if (idx > 0) history.back(); else location.hash = '#'; };
+
 export const go = (hash) => { if (location.hash !== hash && !(hash === '#' && !location.hash)) location.hash = hash; };
 // Ajuste dentro da mesma página (troca de aba, lugar selecionado): atualiza o link sem criar entrada no histórico.
-export const sync = (hash) => { history.replaceState(null, '', hash === '#' ? location.pathname + location.search : hash); };
+export const sync = (hash) => { history.replaceState({ i: idx }, '', hash === '#' ? location.pathname + location.search : hash); };

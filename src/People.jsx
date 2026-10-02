@@ -4,6 +4,7 @@ import { people } from './data/people.json';
 import timeline from './data/timeline.json';
 import { psalms } from './data/psalms.json';
 import { pick, range, main } from './timelineUtil.js';
+import BackButton from './BackButton.jsx';
 import { hrefs, go } from './route.js';
 import { usePageTitle } from './pageTitle.js';
 
@@ -50,7 +51,10 @@ export default function People({ lang, t, focusId, onOpenBook, onOpenTimeline, o
             <h2 id="pp-title">{person ? pick(person.name, lang) : t.people}</h2>
             <p>{person ? t.people : t.peopleSub}</p>
           </div>
-          <a className="ghost back" href={hrefs.home}>← {t.home}</a>
+          <div className="head-actions">
+            <a className="ghost" href={hrefs.timeline()}>{t.timeline}</a>
+            <BackButton t={t} />
+          </div>
         </div>
 
         {!person && (
