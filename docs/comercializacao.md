@@ -4,7 +4,7 @@ Plano de levar o projeto de site público gratuito para produto com três planos
 
 ## Planos
 
-| | Free | Pro | Premium (2º momento) |
+| | Free | Pro | Premium (mais para frente, com o produto consolidado) |
 |---|---|---|---|
 | Preço | R$0 | De R$39,90 por R$19,90 | De R$59,90 por R$29,90 |
 | Cobrança | n/a | Pagamento único (vitalício) | Pagamento único (vitalício) |
@@ -14,6 +14,11 @@ Premium (a definir o que entra): fichas em PDF (cogitado); devocionais (5 min) e
 
 ## Decisões já tomadas
 
+- **[decidido]** O **Pro é o projeto completo como está hoje**. O Free é restrito conforme a tabela acima. O Premium só entra depois, com o produto consolidado.
+- **[decidido]** O **texto bíblico fica disponível em todos os planos, inclusive o Free** (importante para as licenças de uso).
+- **[decidido]** A **licença do código e do conteúdo pode mudar** (hoje MIT). Atenção: mudar a licença não revoga o MIT de quem já copiou o que foi publicado; e partes de terceiros mantêm a licença original (mapas OpenBible e Bíblia Livre, CC BY 4.0, com atribuição).
+- **[decidido]** Nome ainda em aberto; candidatos do André: "Bereia App" e "Bere.IA" (irmãos de Beréia, em Atos 17). Ver pendências.
+- **[informado]** O André já usa o Mercado Pago no projeto LGND Checklist e a conta não exigiu domínio próprio.
 - **[decidido]** Hospedagem no **Cloudflare Pages**, no endereço `nome-do-projeto.pages.dev`. **Sem domínio próprio por enquanto**: primeiro validar se vende.
 - **[decidido]** Vercel descartado: o plano Hobby é restrito a uso não comercial (fonte: vercel.com/docs/limits/fair-use-guidelines).
 - **[decidido]** Reescrita em **Next.js**, com **Supabase** (login, banco, regras de acesso por plano) e conteúdo Pro fora do repositório público.
@@ -33,8 +38,8 @@ Premium (a definir o que entra): fichas em PDF (cogitado); devocionais (5 min) e
 
 **0. Decisões do André (antes de tocar no código)**
 - O que é Pro? As fichas, personagens, mapas e linha do tempo **já estão no repositório público sob MIT** e no histórico do git: o que já foi publicado não dá para despublicar. Definir se o Pro vende conteúdo novo, recursos (PDF, plano de leitura, IA) ou uma experiência melhor sobre o que já é aberto.
-- Licença do código e do conteúdo (MIT cobre as fichas?) e visibilidade do repositório.
-- Nome do produto.
+- Escolher a nova licença (código e conteúdo) e a visibilidade do repositório. Para o Free ser de fato restrito, o conteúdo Pro não pode continuar sendo servido a todos: o site atual publica todos os JSON, e o repositório público guarda tudo, inclusive no histórico.
+- Nome do produto (checar INPI e lojas; "Bereia" já aparece em apps e livraria no Brasil).
 - Confirmar os dois itens "assumido".
 
 **1. Migrar o site atual para o Cloudflare Pages (sem reescrever)**
