@@ -106,4 +106,4 @@ A chave opcional `structure` da ficha (`src/data/info/<slug>.json`) mostra a aba
 
 ## Versões parciais
 
-Uma versão em `src/data/bible.js` pode ter `books: [19, 43]` (números 1 a 66). Ela só aparece no leitor desses livros, e o `npm run check` só exige os arquivos deles. É o caso da Almeida 1911 atualizada, em piloto (`docs/ortografia-alm1911.md`).
+Uma versão em `src/data/bible.js` pode ter `books: [19, 43]` (números 1 a 66). Ela só aparece no leitor desses livros, e o `npm run check` só exige os arquivos deles. Hoje nenhuma versão usa isso (a Almeida 1911 atualizada já cobre os 66 livros), mas o recurso continua disponível para versões parciais.
