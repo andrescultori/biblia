@@ -3,6 +3,9 @@ import React, { Suspense, lazy, useEffect, useRef, useState } from 'react';
 import { BOOKS, SECTIONS } from './data/books.js';
 import { VERSIONS, loadBook } from './data/bible.js';
 import { useSettings } from './settings.js';
+import BackButton from './BackButton.jsx';
+import Icon from './icons.jsx';
+import { useLinkIndex, Rich } from './linkify.jsx';
 import { hrefs, sync } from './route.js';
 
 // Fichas carregadas sob demanda: cada src/data/info/<slug>.json vira um chunk separado.
@@ -56,7 +59,7 @@ export default function BookModal({ book, lang, t, initialTab, initialPlace, onN
             <h2 id="book-title">{book.name[lang]}</h2>
             <p>{section[lang]}</p>
           </div>
-          <a className="ghost back" href={hrefs.home}>← {t.home}</a>
+          <BackButton t={t} />
         </div>
 
         <div className="seg tabs" role="tablist">
@@ -123,37 +126,40 @@ function CharName({ c, lang }) {
 
 function Sheet({ book, lang, t, info, error }) {
   const { showScholarly } = useSettings();
+  const index = useLinkIndex(book, info, lang);
   if (!hasInfo(book.slug)) return <p className="soon">{t.soon}</p>;
   if (error) return <p className="soon">{t.loadError}</p>;
   if (!info) return <p className="soon">{t.loading}</p>;
 
   const ref = (r) => `${book.ab[lang]} ${r}`;
+  const rich = (v) => <Rich text={pick(v, lang)} index={index} />;
   const view = (pair) => (
     <>
-      <p><b>{t.traditional}.</b> {pick(pair.traditional, lang)}</p>
-      {showScholarly && <p><b>{t.scholarly}.</b> {pick(pair.scholarly, lang)}</p>}
+      <p>{showScholarly && <b>{t.traditional}. </b>}{rich(pair.traditional)}</p>
+      {showScholarly && <p><b>{t.scholarly}.</b> {rich(pair.scholarly)}</p>}
     </>
   );
-  const text = (label, v) => (<section><h3>{label}</h3><p>{pick(v, lang)}</p></section>);
+  const head = (icon, label) => <h3><Icon name={icon} />{label}</h3>;
+  const text = (icon, label, v) => (<section>{head(icon, label)}<p>{rich(v)}</p></section>);
 
   return (
     <div className="sheetinfo">
-      <section><h3>{t.author}</h3>{view(info.author)}</section>
-      <section><h3>{t.date}</h3>{view(info.date)}</section>
-      {text(t.place, info.place)}
-      {text(t.recipients, info.recipients)}
-      <section><h3>{t.keyVerse}</h3><p>{ref(info.keyVerse)}</p></section>
-      {text(t.theme, info.theme)}
-      {text(t.historicalContext, info.historicalContext)}
+      <section>{head('author', t.author)}{view(info.author)}</section>
+      <section>{head('date', t.date)}{view(info.date)}</section>
+      {text('place', t.place, info.place)}
+      {text('recipients', t.recipients, info.recipients)}
+      <section>{head('keyVerse', t.keyVerse)}<p>{ref(info.keyVerse)}</p></section>
+      {text('theme', t.theme, info.theme)}
+      {text('historicalContext', t.historicalContext, info.historicalContext)}
       <section>
-        <h3>{t.characters}</h3>
-        <ul>{info.characters.map((c, i) => (<li key={i}><b><CharName c={c} lang={lang} /></b>: {pick(c.role, lang)}</li>))}</ul>
+        {head('characters', t.characters)}
+        <ul>{info.characters.map((c, i) => (<li key={i}><b><CharName c={c} lang={lang} /></b>: {rich(c.role)}</li>))}</ul>
       </section>
       <section>
-        <h3>{t.outline}</h3>
+        {head('outline', t.outline)}
         <ol className="outline">{info.outline.map((o, i) => (<li key={i}><span>{ref(o.ref)}</span> {pick(o.title, lang)}</li>))}</ol>
       </section>
-      {text(t.connections, info.connections)}
+      {text('connections', t.connections, info.connections)}
       <p className="note">{t.sheetNote}</p>
     </div>
   );
@@ -206,10 +212,12 @@ function Reader({ book, lang, t, initialChapter }) {
             </optgroup>
           ))}
         </select>
-        <label htmlFor="chap">{t.chapter}</label>
-        <select id="chap" value={chapter} onChange={(e) => setChapter(Number(e.target.value))}>
-          {Array.from({ length: book.chapters }, (_, i) => <option key={i} value={i + 1}>{i + 1}</option>)}
-        </select>
+        <span className="pair">
+          <label htmlFor="chap">{t.chapter}</label>
+          <select id="chap" value={chapter} onChange={(e) => setChapter(Number(e.target.value))}>
+            {Array.from({ length: book.chapters }, (_, i) => <option key={i} value={i + 1}>{i + 1}</option>)}
+          </select>
+        </span>
       </div>
       {error && <p className="soon">{t.loadError}</p>}
       {!error && !verses && <p className="soon">{t.loading}</p>}

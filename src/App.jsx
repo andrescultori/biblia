@@ -75,7 +75,12 @@ export default function App() {
     <SettingsContext.Provider value={settings}>
       <header className="top">
         <div className="brand">
-          <h1><a href={hrefs.home}>{t.title}</a></h1>
+          <h1>
+            <a className="homelink" href={hrefs.home} aria-label={t.home} title={t.home}>
+              <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M3 11.5 12 4l9 7.5" /><path d="M5.5 10v9.5h13V10" /><path d="M10 19.5v-5h4v5" /></svg>
+            </a>
+            <a href={hrefs.home}>{t.title}</a>
+          </h1>
           <p>{t.subtitle}</p>
         </div>
         <div className="tools">

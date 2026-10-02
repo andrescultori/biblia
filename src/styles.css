@@ -231,3 +231,20 @@ input[type='search'] { flex: 1 1 200px; min-width: 0; border: 1px solid var(--li
 /* nome de personagem na ficha do livro: link para a página da pessoa */
 .sheetinfo a.plink { color: inherit; text-decoration: underline; text-decoration-color: var(--c, currentColor); text-decoration-thickness: 2px; text-underline-offset: 3px; }
 .sheetinfo a.plink:hover { color: var(--c, inherit); }
+
+/* leitor: o rótulo "Capítulo" e o seletor andam juntos e quebram de linha como um bloco só */
+.reader .pair { display: inline-flex; align-items: center; gap: 8px; white-space: nowrap; }
+.reader select#ver { max-width: 100%; min-width: 0; }
+/* seletores no padrão do tema (também na aba Personagens) */
+select { border: 1px solid var(--line); background: var(--panel); color: var(--fg); border-radius: 999px; padding: 7px 12px; cursor: pointer; }
+.reader select { border-radius: 8px; padding: 6px 8px; }
+/* casinha ao lado do título e ações do cabeçalho das páginas */
+h1 { display: flex; align-items: center; gap: 8px; }
+h1 a { color: inherit; text-decoration: none; }
+.homelink { display: inline-flex; opacity: 0.75; }
+.homelink:hover { opacity: 1; }
+.head-actions { margin-left: auto; align-self: flex-start; display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.head-actions a.ghost { color: inherit; text-decoration: none; }
+.sheetinfo h3 { display: flex; align-items: center; gap: 8px; }
+.sheetinfo h3 .ico { flex: none; color: var(--c, currentColor); }
+@media (max-width: 520px) { .head:has(.head-actions) { flex-wrap: wrap; } .head-actions { flex-basis: 100%; margin-left: 0; } }

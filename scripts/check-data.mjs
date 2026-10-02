@@ -30,6 +30,12 @@ const LON = [-12, 72];
 const LAT = [-2, 52];
 
 // `ids` do personagem da ficha: ids de people.json (ou null); com mais de um id, o número de nomes no texto precisa bater
+// people-index.json (usado para ligar nomes nas fichas) precisa estar em dia com people.json
+{
+  const { buildIndex } = await import('./build-people-index.mjs');
+  const saved = fs.readFileSync(path.join(root, 'src/data/people-index.json'), 'utf8').trim();
+  if (saved !== JSON.stringify(buildIndex())) err('src/data/people-index.json está desatualizado: rode node scripts/build-people-index.mjs');
+}
 const personIds = new Set(read('src/data/people.json').people.map((p) => p.id));
 function checkCharIds(c, where) {
   if (c.ids === undefined) return;

@@ -78,6 +78,8 @@ O botão **Personagens** abre uma página com a lista (busca e filtro por livro)
 
 Na ficha do livro (`src/data/info/<slug>.json`), cada item de `characters` pode ter `ids`: lista de ids de `people.json` (ou `null` para uma parte sem página). Com um id, o nome inteiro vira link para `#person/<id>`; com vários, cada parte do nome ("Adão e Eva", "Paulo, Silvano e Timóteo") liga ao id da mesma posição, e o `npm run check` confere que o número de partes bate nos dois idiomas.
 
+Nos textos da ficha, os nomes de personagens e os lugares do mapa do livro viram links automaticamente (`src/linkify.jsx`), a partir de `src/data/people-index.json`, gerado por `node scripts/build-people-index.mjs` sempre que `people.json` mudar.
+
 ## Configurações
 
 O botão ⚙ abre as preferências de estudo, guardadas no navegador (`localStorage`). Por enquanto: **mostrar a posição acadêmica** (padrão: ligado). Desligada, a ficha mostra só a posição tradicional de autoria e datação, e a linha do tempo só a leitura tradicional das datas. O aviso de que a outra posição existe fica só na própria tela de Configurações. Em Personagens, a lista pode ser ordenada A–Z ou por livro (lembrada no navegador).

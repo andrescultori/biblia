@@ -89,7 +89,7 @@ export default function PsalmsView({ lang, t, initialN, onSelect, onOpenPerson }
               <h4>{t.psalmsHist}</h4>
               <p>{pick(p.hist.text, lang)}</p>
               {p.hist.ref && <p className="tl-scalenote">{bySlug[p.hist.ref.book].ab[lang]} {p.hist.ref.ref}</p>}
-              <p><b>{t.traditional}.</b> {t.psalmsHistTrad}</p>
+              <p>{showScholarly && <b>{t.traditional}. </b>}{t.psalmsHistTrad}</p>
               {showScholarly && <p><b>{t.scholarly}.</b> {t.psalmsHistSch}</p>}
               <div className="tl-places">
                 {p.hist.people.map((id) => <button key={id} type="button" className="tl-place" onClick={() => onOpenPerson(id)}>{pick(people.find((x) => x.id === id).name, lang)}</button>)}

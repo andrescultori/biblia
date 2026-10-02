@@ -28,6 +28,8 @@ Tabela interativa dos 66 livros da Bíblia (inspirada no "TaBíblia Periódica")
 - `src/StructureView.jsx`: aba **Estrutura** (Jó, Provérbios, Eclesiastes e Cantares), lida da chave `structure` da ficha: capítulos coloridos pela parte (em Jó, pela voz), lista das partes e, em Eclesiastes e Cantares, as leituras (a acadêmica some com a posição acadêmica desligada).
 - `src/SettingsModal.jsx` e `src/settings.js`: modal de Configurações (⚙ no topo) e contexto das preferências de estudo. Hoje: mostrar/esconder a posição acadêmica (fichas e linha do tempo); o padrão é mostrar. Guardado no navegador.
 - Rodapé de assinatura em `src/App.jsx` (classe `.assinatura`; texto "Desenvolvido por" / "Developed by" na chave `madeBy` do i18n; segue o idioma ativo). "André Scultori" → github.com/andrescultori; **"GitHub" → o repositório** (github.com/andrescultori/biblia), por decisão do André, **não** o GitHub Pages, que é o padrão da skill de assinatura. Ano: 2026 (criação). Manter assim.
+- `src/linkify.jsx` e `src/data/people-index.json`: na ficha do livro, nomes de personagens ligam a `#person/<id>` e lugares do mapa do próprio livro ligam à aba Mapa (só a 1ª ocorrência por bloco; nome ambíguo como José/Tiago só liga se o livro desambiguar). O índice é gerado de `people.json` por `node scripts/build-people-index.mjs` (rode ao mudar `people.json`; o `npm run check` avisa se estiver velho).
+- `src/BackButton.jsx` e `src/route.js` (`goBack`, `canGoBack`): botão Voltar das páginas volta à página anterior do app (sem histórico, vai ao início). O início tem a casinha ao lado do título.
 - `src/BookModal.jsx`: página do livro (nome histórico; abas Resumo, Ficha, Mapa e Ler). `src/App.jsx`: grade, filtros, tema, idioma, link direto por hash (`#joh`).
 
 ## Regras de conteúdo
@@ -52,7 +54,8 @@ Tabela interativa dos 66 livros da Bíblia (inspirada no "TaBíblia Periódica")
 5. Páginas de personagens bíblicos (`src/People.jsx`, dados em `src/data/people.json`). **Em andamento:** estrutura pronta e 113 personagens (AT e NT, seleção de principais; os Doze completos), cada um com `summary` e `bio` de 2 a 3 parágrafos (revisão do André pendente); faltam os demais, por seção, com revisão do André. Cada personagem liga a livros, eventos da linha do tempo e lugares do mapa (nos dois sentidos). Resumos só com o que o texto bíblico diz. **Genealogia (pai, filho, cônjuge) fica para mais adiante**, por exigir fontes e decisões de mérito. Outros conteúdos: a definir.
 6. Integração linha do tempo ↔ mapas: **feita** (evento → lugares do mapa; lugar → eventos). Cada evento pode ter `places: [{book, name, en}]`, validado contra o mapa da ficha. Os três (linha do tempo, mapa e personagens) já se ligam nos dois sentidos.
 
-7. Plano de leitura (ex.: Provérbios em 31 dias, Salmos em 30). **Mais adiante**, depois da genealogia dos personagens e de mais eventos na linha do tempo (reis e profetas).
+7. Versículos das fichas (versículo-chave, referências no esboço, nos textos e nas bios) linkados ao texto bíblico. **Adiado** até se decidir como o texto bíblico será oferecido (leitor próprio, YouVersion ou os dois; ver "Decisões em aberto").
+8. Plano de leitura (ex.: Provérbios em 31 dias, Salmos em 30). **Mais adiante**, depois da genealogia dos personagens e de mais eventos na linha do tempo (reis e profetas).
 
 ## Comandos
 - `npm install` e `npm run dev`: desenvolvimento.

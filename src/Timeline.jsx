@@ -4,6 +4,7 @@ import data from './data/timeline.json';
 import { people } from './data/people.json';
 import { pick, range, views, main } from './timelineUtil.js';
 import { useSettings } from './settings.js';
+import BackButton from './BackButton.jsx';
 import { hrefs } from './route.js';
 import { usePageTitle } from './pageTitle.js';
 
@@ -69,7 +70,10 @@ export default function Timeline({ lang, t, focusId, onClose, onOpenBook, onOpen
             <h2 id="tl-title">{t.timeline}</h2>
             <p>{t.timelineSub}</p>
           </div>
-          <a className="ghost back" href={hrefs.home}>← {t.home}</a>
+          <div className="head-actions">
+            <a className="ghost" href={hrefs.person()}>{t.people}</a>
+            <BackButton t={t} />
+          </div>
         </div>
 
         <div className="tl-strip" role="group" aria-label={t.timelineStrip}>
