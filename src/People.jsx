@@ -92,6 +92,7 @@ export default function People({ lang, t, focusId, onOpenBook, onOpenTimeline, o
           <div className="body tl-detail">
             <button type="button" className="ghost" onClick={() => choose(null)}>← {t.peopleBack}</button>
             <p className="pp-summary">{pick(person.summary, lang)}</p>
+            {person.bio && <div className="pp-bio">{pick(person.bio, lang).map((para, i) => <p key={i}>{para}</p>)}</div>}
             {person.note && <p className="tl-warn">{pick(person.note, lang)}</p>}
 
             <h4>{t.peopleInBooks}</h4>

@@ -67,12 +67,14 @@ O botão **Personagens** abre uma página com a lista (busca e filtro por livro)
   "books": [{ "book": "1sa", "role": { "pt": "...", "en": "..." } }],
   "events": ["davi"],
   "places": [{ "book": "2sa", "name": "Hebrom", "en": "Hebron" }],
+  "bio": { "pt": ["parágrafo 1", "parágrafo 2"], "en": ["paragraph 1", "paragraph 2"] },
   "note": { "pt": "...", "en": "..." } }
 ```
 
 - `events` usa os ids de `timeline.json`; `places` usa o nome em PT do lugar no mapa da ficha daquele livro (e o `en` igual). `npm run check` confere ids únicos, livros, eventos, lugares e PT/EN.
 - O evento da linha do tempo lista as pessoas ligadas a ele e o lugar do mapa também.
-- O resumo se limita ao que o texto bíblico diz. Pessoas distintas de mesmo nome têm ids distintos (`josue`, `josue-sacerdote`). Genealogia ainda não faz parte.
+- `summary` é o resumo de uma frase a três (aparece na lista e abre a página); `bio` é o texto mais longo, em 2 a 3 parágrafos, mostrado abaixo do resumo (PT e EN com o mesmo número de parágrafos).
+- O resumo e a bio se limitam ao que o texto bíblico diz, com referências. Pessoas distintas de mesmo nome têm ids distintos (`josue`, `josue-sacerdote`). Genealogia ainda não faz parte.
 
 ## Configurações
 

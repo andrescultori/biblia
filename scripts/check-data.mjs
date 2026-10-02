@@ -175,6 +175,10 @@ for (const ver of VERSIONS) {
     seen.add(p.id);
     bilingual(p.name, `${w}.name`); bilingual(p.summary, `${w}.summary`);
     if (p.note) bilingual(p.note, `${w}.note`);
+    if (p.bio !== undefined) {
+      const [a, b] = [p.bio?.pt, p.bio?.en];
+      if (!Array.isArray(a) || !Array.isArray(b) || a.length < 2 || a.length !== b.length || [...a, ...b].some((x) => typeof x !== 'string' || !x.trim())) err(`${w}.bio: precisa de listas PT e EN de parágrafos, com 2 ou mais e o mesmo número`);
+    }
     if (p.uncertain !== undefined && typeof p.uncertain !== 'boolean') err(`${w}.uncertain: deve ser true/false`);
     if (!Array.isArray(p.books) || !p.books.length) err(`${w}: sem livros`);
     const bs = new Set();
