@@ -127,6 +127,20 @@
         "pt": "Guerreiro filisteu derrotado por Davi (cap. 17)",
         "en": "Philistine warrior defeated by David (ch. 17)"
       }
+    },
+    {
+      "name": {
+        "pt": "Mical e Abigail",
+        "en": "Michal and Abigail"
+      },
+      "ids": [
+        "mical",
+        "abigail"
+      ],
+      "role": {
+        "pt": "Esposas de Davi (caps. 18–19; 25)",
+        "en": "David's wives (chs. 18–19; 25)"
+      }
     }
   ],
   "outline": [
