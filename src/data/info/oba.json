@@ -42,6 +42,9 @@
         "pt": "Obadias",
         "en": "Obadiah"
       },
+      "ids": [
+        "obadias"
+      ],
       "role": {
         "pt": "Profeta",
         "en": "Prophet"
