@@ -9460,6 +9460,409 @@
       "linkBooks": [
         "gen"
       ]
+    },
+    {
+      "id": "mical",
+      "name": {
+        "pt": "Mical",
+        "en": "Michal"
+      },
+      "summary": {
+        "pt": "Filha de Saul e primeira esposa de Davi. Ajuda Davi a escapar de Saul, é dada a outro homem e depois devolvida a Davi; despreza-o ao vê-lo dançar diante da arca (1Sm 18–19; 25:44; 2Sm 3; 6).",
+        "en": "Saul’s daughter and David’s first wife. She helps David escape Saul, is given to another man and later returned to David; she despises him on seeing him dance before the ark (1 Sam 18–19; 25:44; 2 Sam 3; 6)."
+      },
+      "bio": {
+        "pt": [
+          "Mical é a filha mais nova de Saul. O texto diz que ela amou Davi, e a notícia agrada a Saul, que vê nisso uma armadilha: pede cem prepúcios de filisteus como preço do casamento, esperando que Davi morra na tentativa. Davi traz o dobro e se casa com ela (1Sm 18:20–27). Quando Saul manda homens à casa de Davi para matá-lo, Mical o desce por uma janela e coloca um ídolo doméstico na cama, com pelo de cabra, para ganhar tempo; depois diz a Saul que Davi a ameaçou (1Sm 19:11–17).",
+          "Saul dá Mical a Paltiel, filho de Laís (1Sm 25:44). Quando Abner negocia a passagem do reino a Davi, este exige Mical de volta, e Is-Bosete a toma de Paltiel, que a segue chorando até ser mandado de volta (2Sm 3:12–16).",
+          "Em 2Samuel 6:16, 20–23 ela vê da janela o rei Davi “saltando e dançando” diante do Senhor quando a arca entra em Jerusalém, e o despreza no coração. Quando Davi volta para abençoar a casa, ela o repreende ironicamente; ele responde que o Senhor o escolheu em lugar do pai dela e que continuará a se humilhar diante dele. O texto conclui: “Mical, filha de Saul, não teve filhos até o dia da sua morte” (2Sm 6:23)."
+        ],
+        "en": [
+          "Michal is Saul’s younger daughter. The text says she loved David, and the news pleases Saul, who sees a snare in it: he asks for a hundred Philistine foreskins as the bride price, hoping David will die trying. David brings double and marries her (1 Sam 18:20–27). When Saul sends men to David’s house to kill him, Michal lets him down through a window and puts a household idol in the bed, with goats’ hair, to gain time; later she tells Saul that David threatened her (1 Sam 19:11–17).",
+          "Saul gives Michal to Paltiel, son of Laish (1 Sam 25:44). When Abner negotiates handing the kingdom to David, David demands Michal back, and Ish-bosheth takes her from Paltiel, who follows her weeping until he is sent back (2 Sam 3:12–16).",
+          "In 2 Samuel 6:16, 20–23 she sees King David from a window “leaping and dancing” before the Lord as the ark enters Jerusalem, and despises him in her heart. When David returns to bless his household she rebukes him sarcastically; he answers that the Lord chose him over her father and that he will keep humbling himself before him. The text concludes: “And Michal the daughter of Saul had no child to the day of her death” (2 Sam 6:23)."
+        ]
+      },
+      "books": [
+        {
+          "book": "1sa",
+          "role": {
+            "pt": "Filha de Saul; esposa de Davi (18–19; 25:44)",
+            "en": "Saul’s daughter; David’s wife (18–19; 25:44)"
+          }
+        },
+        {
+          "book": "2sa",
+          "role": {
+            "pt": "Devolvida a Davi; despreza-o diante da arca (3; 6)",
+            "en": "Returned to David; despises him before the ark (3; 6)"
+          }
+        }
+      ],
+      "events": [
+        "davi"
+      ],
+      "note": {
+        "pt": "2Samuel 21:8 fala de “cinco filhos de Mical”; vários manuscritos hebraicos e versões trazem “Merabe”, irmã dela, que se casou com Adriel. O texto massorético e 2Sm 6:23 divergem, e a questão é debatida.",
+        "en": "2 Samuel 21:8 speaks of “the five sons of Michal”; several Hebrew manuscripts and versions read “Merab,” her sister, who married Adriel. The Masoretic text and 2 Sam 6:23 diverge, and the question is debated."
+      }
+    },
+    {
+      "id": "abigail",
+      "name": {
+        "pt": "Abigail, esposa de Davi",
+        "en": "Abigail, wife of David"
+      },
+      "summary": {
+        "pt": "Esposa de Nabal, de Maom, que se adianta a Davi com provisões e evita um derramamento de sangue; depois da morte de Nabal torna-se esposa de Davi (1Sm 25).",
+        "en": "Wife of Nabal of Maon, who goes out to meet David with provisions and prevents bloodshed; after Nabal’s death she becomes David’s wife (1 Sam 25)."
+      },
+      "bio": {
+        "pt": [
+          "O texto apresenta Abigail como “mulher de bom entendimento e formosa”, casada com Nabal, homem rico e “duro e maligno”. Quando Davi, no deserto, pede mantimentos a Nabal em troca da proteção que seus homens deram aos pastores, Nabal os insulta. Davi parte com quatrocentos homens para matá-lo. Avisada por um servo, Abigail leva em segredo pães, vinho, carneiros e outras provisões e se prostra diante de Davi, assume a culpa e o lembra de que o Senhor lhe dará uma casa segura e que ele não deve carregar sangue inocente (1Sm 25:2–31).",
+          "Davi a bendiz por tê-lo impedido de se vingar com as próprias mãos. Dez dias depois o Senhor fere Nabal, e ele morre; Davi manda pedir Abigail em casamento, e ela aceita (1Sm 25:32–42). Ela vive com Davi em Gate e em Ziclague, é levada cativa pelos amalequitas e resgatada (1Sm 27:3; 30:5, 18). Em Hebrom, Abigail é mãe de Quileabe (Daniel em 1Cr 3:1), segundo filho de Davi (2Sm 2:2; 3:3)."
+        ],
+        "en": [
+          "The text presents Abigail as “discerning and beautiful,” married to Nabal, a rich man who was “harsh and badly behaved.” When David, in the wilderness, asks Nabal for provisions in return for the protection his men gave the shepherds, Nabal insults them. David sets out with four hundred men to kill him. Warned by a servant, Abigail secretly takes loaves, wine, sheep and other provisions and bows before David, takes the guilt on herself and reminds him that the Lord will give him a sure house and that he should not bear innocent blood (1 Sam 25:2–31).",
+          "David blesses her for keeping him from avenging himself with his own hand. Ten days later the Lord strikes Nabal and he dies; David sends to ask Abigail in marriage, and she accepts (1 Sam 25:32–42). She lives with David in Gath and in Ziklag, is carried off by the Amalekites and rescued (1 Sam 27:3; 30:5, 18). At Hebron Abigail is the mother of Chileab (Daniel in 1 Chr 3:1), David’s second son (2 Sam 2:2; 3:3)."
+        ]
+      },
+      "books": [
+        {
+          "book": "1sa",
+          "role": {
+            "pt": "Esposa de Nabal e depois de Davi (25; 27; 30)",
+            "en": "Wife of Nabal and later of David (25; 27; 30)"
+          }
+        },
+        {
+          "book": "2sa",
+          "role": {
+            "pt": "Esposa de Davi em Hebrom (2:2; 3:3)",
+            "en": "David’s wife at Hebron (2:2; 3:3)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "1sa",
+          "name": "Ziclague",
+          "en": "Ziklag"
+        }
+      ],
+      "linkBooks": [
+        "1sa",
+        "2sa"
+      ]
+    },
+    {
+      "id": "abner",
+      "name": {
+        "pt": "Abner",
+        "en": "Abner"
+      },
+      "summary": {
+        "pt": "Comandante do exército de Saul. Depois da morte de Saul, sustenta Is-Bosete no trono, rompe com ele e se volta para Davi; Joabe o mata em Hebrom (1Sm 14:50; 2Sm 2–3).",
+        "en": "Commander of Saul’s army. After Saul’s death he upholds Ish-bosheth on the throne, breaks with him and turns to David; Joab kills him at Hebron (1 Sam 14:50; 2 Sam 2–3)."
+      },
+      "bio": {
+        "pt": [
+          "Abner é filho de Ner e parente de Saul (1Sm 14:50–51). Ele é o chefe do exército e se senta ao lado do rei à mesa (1Sm 20:25). Davi o repreende quando Saul dorme com a lança e a bilha de água ao lado e Abner não guarda o ungido do Senhor (1Sm 26:5, 14–16).",
+          "Morto Saul, Abner leva Is-Bosete, filho de Saul, a Maanaim e o faz rei sobre Israel, enquanto Davi reina em Judá (2Sm 2:8–10). No poço de Gibeão, os homens dele e os de Joabe se enfrentam; na fuga, Abner mata Asael, irmão de Joabe, o que lhe custará a vida (2Sm 2:12–32). Is-Bosete o acusa de ter ido à concubina de Saul, e Abner se irrita, passa a negociar com Davi e vai até ele em Hebrom, onde Davi o recebe com um banquete (2Sm 3:6–21).",
+          "Joabe, ao saber, repreende Davi e manda trazer Abner de volta, e o mata à porta de Hebrom, em vingança de Asael (2Sm 3:22–27). Davi declara-se inocente, manda que todos chorem e segue o caixão, compondo um lamento: “Morreu Abner como morre o insensato?” (2Sm 3:28–39)."
+        ],
+        "en": [
+          "Abner is the son of Ner and a relative of Saul (1 Sam 14:50–51). He is the head of the army and sits beside the king at table (1 Sam 20:25). David rebukes him when Saul sleeps with his spear and water jar beside him and Abner has not guarded the Lord’s anointed (1 Sam 26:5, 14–16).",
+          "After Saul’s death Abner takes Ish-bosheth, Saul’s son, to Mahanaim and makes him king over Israel, while David reigns in Judah (2 Sam 2:8–10). At the pool of Gibeon his men and Joab’s meet in combat; in flight Abner kills Asahel, Joab’s brother, which will cost him his life (2 Sam 2:12–32). Ish-bosheth accuses him of going in to Saul’s concubine, and Abner, angered, begins to negotiate with David and goes to him at Hebron, where David receives him with a feast (2 Sam 3:6–21).",
+          "When Joab learns of it he rebukes David and has Abner called back, and kills him at the gate of Hebron in revenge for Asahel (2 Sam 3:22–27). David declares himself innocent, orders all to mourn and follows the bier, composing a lament: “Should Abner die as a fool dies?” (2 Sam 3:28–39)."
+        ]
+      },
+      "books": [
+        {
+          "book": "1sa",
+          "role": {
+            "pt": "Comandante de Saul (14:50; 17:55; 26:5, 14–16)",
+            "en": "Saul’s commander (14:50; 17:55; 26:5, 14–16)"
+          }
+        },
+        {
+          "book": "2sa",
+          "role": {
+            "pt": "Apoia Is-Bosete, passa a Davi e é morto por Joabe (2–3)",
+            "en": "Backs Ish-bosheth, goes over to David and is killed by Joab (2–3)"
+          }
+        }
+      ],
+      "events": [
+        "davi"
+      ],
+      "places": [
+        {
+          "book": "2sa",
+          "name": "Hebrom",
+          "en": "Hebron"
+        },
+        {
+          "book": "2sa",
+          "name": "Maanaim",
+          "en": "Mahanaim"
+        },
+        {
+          "book": "2sa",
+          "name": "Gibeão",
+          "en": "Gibeon"
+        }
+      ]
+    },
+    {
+      "id": "geazi",
+      "name": {
+        "pt": "Geazi",
+        "en": "Gehazi"
+      },
+      "summary": {
+        "pt": "Servo do profeta Eliseu. Aparece na história da sunamita e de seu filho; depois mente para ficar com os presentes de Naamã e é atingido pela lepra dele (2Rs 4–5; 8:1–6).",
+        "en": "Servant of the prophet Elisha. He appears in the story of the Shunammite and her son; later he lies to keep Naaman’s gifts and is struck with Naaman’s leprosy (2 Kings 4–5; 8:1–6)."
+      },
+      "bio": {
+        "pt": [
+          "Geazi é o servo de Eliseu na história da sunamita de Suném, que hospeda o profeta em um quarto no terraço. Eliseu pede a Geazi que a chame e, por meio dele, descobre que ela não tem filho, e promete que terá um (2Rs 4:8–17). Quando o menino morre, Eliseu manda Geazi com o cajado dele colocar sobre o rosto do menino, mas nada acontece; o próprio Eliseu o ressuscita (2Rs 4:29–37).",
+          "No capítulo 5, Naamã é curado da lepra e quer pagar Eliseu, que recusa. Geazi corre atrás de Naamã, mente dizendo que dois jovens profetas chegaram e pede prata e roupas. Eliseu, que o viu “em espírito”, o confronta, e diz que a lepra de Naamã se apegará a ele e à sua descendência; Geazi sai “leproso, branco como a neve” (2Rs 5:20–27).",
+          "Em 2Reis 8:1–6, Geazi conta ao rei os feitos de Eliseu quando a sunamita chega pedindo suas terras de volta. O texto não explica quando ele foi curado, nem se foi, e a ordem dos capítulos 5 e 8 é debatida."
+        ],
+        "en": [
+          "Gehazi is Elisha’s servant in the story of the Shunammite woman of Shunem, who hosts the prophet in a rooftop room. Elisha asks Gehazi to call her and, through him, learns that she has no son, and promises that she will have one (2 Kings 4:8–17). When the boy dies, Elisha sends Gehazi with his staff to lay it on the boy’s face, but nothing happens; Elisha himself raises him (2 Kings 4:29–37).",
+          "In chapter 5 Naaman is healed of leprosy and wants to pay Elisha, who refuses. Gehazi runs after Naaman, lies by saying two young prophets have arrived and asks for silver and clothing. Elisha, who saw it “in spirit,” confronts him and says Naaman’s leprosy will cling to him and his descendants; Gehazi goes out “leprous, like snow” (2 Kings 5:20–27).",
+          "In 2 Kings 8:1–6 Gehazi tells the king of Elisha’s deeds when the Shunammite arrives asking for her land back. The text does not explain when he was healed, or whether he was, and the order of chapters 5 and 8 is debated."
+        ]
+      },
+      "books": [
+        {
+          "book": "2ki",
+          "role": {
+            "pt": "Servo de Eliseu (4:12–37; 5:20–27; 8:1–6)",
+            "en": "Elisha’s servant (4:12–37; 5:20–27; 8:1–6)"
+          }
+        }
+      ],
+      "events": [
+        "eliseu"
+      ],
+      "places": [
+        {
+          "book": "2ki",
+          "name": "Suném",
+          "en": "Shunem"
+        },
+        {
+          "book": "2ki",
+          "name": "Samaria",
+          "en": "Samaria"
+        }
+      ],
+      "note": {
+        "pt": "A ordem cronológica de 2Rs 5 e 8:1–6 é debatida: a menção a Geazi em 8:4 pode ser anterior à lepra, ou ele ainda estar leproso.",
+        "en": "The chronological order of 2 Kings 5 and 8:1–6 is debated: the mention of Gehazi in 8:4 may come before the leprosy, or he may still be leprous."
+      }
+    },
+    {
+      "id": "atalia",
+      "name": {
+        "pt": "Atalia, rainha de Judá",
+        "en": "Athaliah, queen of Judah"
+      },
+      "summary": {
+        "pt": "Filha da casa de Acabe, esposa do rei Jeorão de Judá e mãe de Acazias. Depois da morte do filho, mata a descendência real e reina seis anos, até ser deposta pelo sacerdote Joiada (2Rs 11).",
+        "en": "Of the house of Ahab, wife of King Jehoram of Judah and mother of Ahaziah. After her son’s death she destroys the royal offspring and reigns six years, until deposed by the priest Jehoiada (2 Kings 11)."
+      },
+      "bio": {
+        "pt": [
+          "Atalia casa-se com Jeorão, rei de Judá, e o texto diz que ele “andou no caminho dos reis de Israel, como fez a casa de Acabe, porque a filha de Acabe era sua mulher” (2Rs 8:18). Ela é mãe de Acazias, que reina em Judá e é morto por Jeú (2Rs 8:26–27; 9:27). Ao saber da morte do filho, Atalia “se levantou e destruiu toda a descendência real” (2Rs 11:1).",
+          "Jeoseba, filha do rei Jeorão e irmã de Acazias, esconde Joás, ainda bebê, no templo por seis anos, enquanto Atalia reina (2Rs 11:2–3). No sétimo ano, o sacerdote Joiada reúne os chefes e a guarda, mostra-lhes o filho do rei e o coroa. Atalia ouve o alarido, entra no templo e grita “Traição! Traição!”; é levada para fora e morta perto do palácio (2Rs 11:4–16). Depois disso, o povo derruba o templo de Baal (2Rs 11:18)."
+        ],
+        "en": [
+          "Athaliah marries Jehoram, king of Judah, and the text says he “walked in the way of the kings of Israel, as the house of Ahab had done, for the daughter of Ahab was his wife” (2 Kings 8:18). She is the mother of Ahaziah, who reigns in Judah and is killed by Jehu (2 Kings 8:26–27; 9:27). On learning of her son’s death Athaliah “arose and destroyed all the royal family” (2 Kings 11:1).",
+          "Jehosheba, King Jehoram’s daughter and Ahaziah’s sister, hides Joash, still an infant, in the temple for six years while Athaliah reigns (2 Kings 11:2–3). In the seventh year the priest Jehoiada gathers the captains and guard, shows them the king’s son and crowns him. Athaliah hears the noise, enters the temple and cries “Treason! Treason!”; she is led out and put to death near the palace (2 Kings 11:4–16). After that the people tear down the temple of Baal (2 Kings 11:18)."
+        ]
+      },
+      "books": [
+        {
+          "book": "2ki",
+          "role": {
+            "pt": "Rainha de Judá; deposta por Joiada (8:18, 26; 11)",
+            "en": "Queen of Judah; deposed by Jehoiada (8:18, 26; 11)"
+          }
+        },
+        {
+          "book": "2ch",
+          "role": {
+            "pt": "Reina seis anos; morta no palácio (22:10–23:21)",
+            "en": "Reigns six years; put to death at the palace (22:10–23:21)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "2ki",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ],
+      "note": {
+        "pt": "Atalia é chamada “filha de Acabe” (2Rs 8:18) e “filha de Onri” (2Rs 8:26; 2Cr 22:2); “filha” pode significar neta. O texto não resolve.",
+        "en": "Athaliah is called “daughter of Ahab” (2 Kings 8:18) and “daughter of Omri” (2 Kings 8:26; 2 Chr 22:2); “daughter” may mean granddaughter. The text does not settle it."
+      }
+    },
+    {
+      "id": "joiada",
+      "name": {
+        "pt": "Joiada, o sacerdote",
+        "en": "Jehoiada the priest"
+      },
+      "summary": {
+        "pt": "Sacerdote em Jerusalém no tempo de Atalia e de Joás. Coroa Joás, faz aliança com o povo e orienta o rei enquanto vive; morre aos 130 anos (2Rs 11–12; 2Cr 23–24).",
+        "en": "Priest in Jerusalem in the time of Athaliah and Joash. He crowns Joash, makes a covenant with the people and guides the king while he lives; he dies at 130 (2 Kings 11–12; 2 Chr 23–24)."
+      },
+      "bio": {
+        "pt": [
+          "Joiada é o sacerdote casado com Jeoseba, que escondera Joás no templo (2Cr 22:11). No sétimo ano de Atalia, ele reúne os chefes da guarda e faz com eles um juramento no templo, mostra o filho do rei e organiza o serviço de guarda. Joás é coroado e ungido, e Atalia é morta (2Rs 11:4–16; 2Cr 23:1–15).",
+          "Joiada faz uma aliança entre o Senhor, o rei e o povo, para serem o povo do Senhor, e uma aliança entre o rei e o povo; o povo derruba o templo de Baal e mata o sacerdote Matã (2Rs 11:17–18). Joás “fez o que era reto aos olhos do Senhor todos os dias em que o sacerdote Joiada o instruiu” (2Rs 12:2), e juntos mandam reformar o templo (2Rs 12:4–16; 2Cr 24:4–14).",
+          "Joiada morre velho, aos 130 anos, e é sepultado entre os reis na cidade de Davi, “porque fizera bem em Israel” (2Cr 24:15–16). Depois da sua morte, os chefes de Judá convencem Joás a abandonar o templo; Zacarias, filho de Joiada, os repreende e é apedrejado por ordem do rei (2Cr 24:17–22)."
+        ],
+        "en": [
+          "Jehoiada is the priest married to Jehosheba, who had hidden Joash in the temple (2 Chr 22:11). In Athaliah’s seventh year he gathers the captains of the guard and makes an oath with them in the temple, shows them the king’s son and organizes the guard. Joash is crowned and anointed, and Athaliah is put to death (2 Kings 11:4–16; 2 Chr 23:1–15).",
+          "Jehoiada makes a covenant between the Lord, the king and the people, that they should be the Lord’s people, and a covenant between the king and the people; the people tear down the temple of Baal and kill the priest Mattan (2 Kings 11:17–18). Joash “did what was right in the eyes of the Lord all his days, because Jehoiada the priest instructed him” (2 Kings 12:2), and together they have the temple repaired (2 Kings 12:4–16; 2 Chr 24:4–14).",
+          "Jehoiada dies old, at 130, and is buried among the kings in the city of David, “because he had done good in Israel” (2 Chr 24:15–16). After his death the officials of Judah persuade Joash to abandon the temple; Zechariah, Jehoiada’s son, rebukes them and is stoned by order of the king (2 Chr 24:17–22)."
+        ]
+      },
+      "books": [
+        {
+          "book": "2ki",
+          "role": {
+            "pt": "Sacerdote que coroa Joás (11–12)",
+            "en": "Priest who crowns Joash (11–12)"
+          }
+        },
+        {
+          "book": "2ch",
+          "role": {
+            "pt": "Casado com Jeoseba; reforma e morte (22:11; 23–24)",
+            "en": "Married to Jehosheba; reform and death (22:11; 23–24)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "2ki",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ],
+      "note": {
+        "pt": "Há outro Joiada, sumo sacerdote no tempo de Neemias (Ne 12:10–11), que não é o mesmo.",
+        "en": "There is another Jehoiada, a high priest in Nehemiah’s time (Neh 12:10–11), who is not the same man."
+      },
+      "linkBooks": [
+        "2ki",
+        "2ch"
+      ]
+    },
+    {
+      "id": "hulda",
+      "name": {
+        "pt": "Hulda, a profetisa",
+        "en": "Huldah the prophetess"
+      },
+      "summary": {
+        "pt": "Profetisa em Jerusalém, esposa de Salum. Consultada por enviados de Josias depois de achado o livro da lei, anuncia o juízo sobre o povo e a paz pessoal para o rei (2Rs 22:14–20).",
+        "en": "Prophetess in Jerusalem, wife of Shallum. Consulted by Josiah’s envoys after the book of the law is found, she announces judgment on the people and personal peace for the king (2 Kings 22:14–20)."
+      },
+      "bio": {
+        "pt": [
+          "Hulda é apresentada como profetisa, esposa de Salum, filho de Ticvá, guarda das vestes, e mora em Jerusalém “no segundo bairro” (2Rs 22:14). Quando o livro da lei é achado no templo e o rei Josias rasga as vestes, ele manda o sacerdote Hilquias e outros consultarem o Senhor “por mim e pelo povo” (2Rs 22:8–13). Os enviados vão a Hulda, e não há indicação de que procurassem outro profeta.",
+          "Ela responde em nome do Senhor com duas mensagens. Sobre o lugar e o povo: o Senhor trará o mal prometido no livro, porque o abandonaram e queimaram incenso a outros deuses. Sobre o rei: porque seu coração se abrandou e ele se humilhou, será sepultado em paz e não verá o mal que virá (2Rs 22:15–20; 2Cr 34:22–28). O rei então reúne o povo, lê o livro e renova a aliança (2Rs 23:1–3)."
+        ],
+        "en": [
+          "Huldah is presented as a prophetess, wife of Shallum son of Tikvah, keeper of the wardrobe, and lives in Jerusalem “in the Second Quarter” (2 Kings 22:14). When the book of the law is found in the temple and King Josiah tears his clothes, he sends the priest Hilkiah and others to inquire of the Lord “for me and for the people” (2 Kings 22:8–13). The envoys go to Huldah, and there is no indication they sought another prophet.",
+          "She answers in the Lord’s name with two messages. About the place and the people: the Lord will bring the evil promised in the book, because they have forsaken him and burned incense to other gods. About the king: because his heart was tender and he humbled himself, he will be buried in peace and will not see the evil that is coming (2 Kings 22:15–20; 2 Chr 34:22–28). The king then gathers the people, reads the book and renews the covenant (2 Kings 23:1–3)."
+        ]
+      },
+      "books": [
+        {
+          "book": "2ki",
+          "role": {
+            "pt": "Profetisa consultada por Josias (22:14–20)",
+            "en": "Prophetess consulted by Josiah (22:14–20)"
+          }
+        },
+        {
+          "book": "2ch",
+          "role": {
+            "pt": "Profetisa consultada por Josias (34:22–28)",
+            "en": "Prophetess consulted by Josiah (34:22–28)"
+          }
+        }
+      ],
+      "events": [
+        "josias"
+      ],
+      "places": [
+        {
+          "book": "2ki",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ],
+      "note": {
+        "pt": "O texto não diz por que Hulda foi consultada e não Jeremias ou Sofonias, contemporâneos; as razões propostas são conjecturas.",
+        "en": "The text does not say why Huldah was consulted rather than Jeremiah or Zephaniah, her contemporaries; proposed reasons are conjecture."
+      }
+    },
+    {
+      "id": "ebede-meleque",
+      "name": {
+        "pt": "Ebede-Meleque",
+        "en": "Ebed-melech"
+      },
+      "summary": {
+        "pt": "Etíope (cuxita), oficial da casa do rei Zedequias, que tira Jeremias da cisterna e recebe a promessa de livramento (Jr 38:7–13; 39:15–18).",
+        "en": "Ethiopian (Cushite), an official in King Zedekiah’s house, who lifts Jeremiah out of the cistern and receives a promise of deliverance (Jer 38:7–13; 39:15–18)."
+      },
+      "bio": {
+        "pt": [
+          "Ebede-Meleque é um cuxita (etíope), “eunuco” ou oficial da casa do rei, que ouve que Jeremias foi lançado numa cisterna de lama e deixado ali para morrer de fome (Jr 38:6–7). Estando o rei assentado à porta de Benjamim, ele vai até lá e diz: esses homens agiram mal com o profeta, e ele morrerá na cisterna, pois já não há pão na cidade (Jr 38:7–9).",
+          "O rei lhe manda tirar Jeremias com trinta homens. Ebede-Meleque pega trapos e roupas gastas, os desce por cordas, manda Jeremias colocá-los debaixo dos braços e o içam; o profeta fica no pátio da guarda (Jr 38:10–13).",
+          "Quando Jerusalém é tomada, Jeremias recebe uma mensagem para Ebede-Meleque: o Senhor cumprirá suas palavras contra a cidade, mas o livrará naquele dia e ele não cairá nas mãos dos que teme, “porque confiaste em mim” (Jr 39:15–18)."
+        ],
+        "en": [
+          "Ebed-melech is a Cushite (Ethiopian), a “eunuch” or official in the king’s house, who hears that Jeremiah has been put into a muddy cistern and left there to die of hunger (Jer 38:6–7). The king being seated at the Benjamin Gate, he goes there and says that these men have done evil to the prophet, and he will die in the cistern, since there is no more bread in the city (Jer 38:7–9).",
+          "The king orders him to take thirty men and lift Jeremiah out. Ebed-melech takes rags and worn clothes, lets them down by ropes, tells Jeremiah to put them under his armpits, and they pull him up; the prophet stays in the court of the guard (Jer 38:10–13).",
+          "When Jerusalem is taken, Jeremiah receives a message for Ebed-melech: the Lord will carry out his words against the city, but will deliver him that day and he will not fall into the hands of those he fears, “because you have trusted in me” (Jer 39:15–18)."
+        ]
+      },
+      "books": [
+        {
+          "book": "jer",
+          "role": {
+            "pt": "Tira Jeremias da cisterna (38:7–13; 39:15–18)",
+            "en": "Lifts Jeremiah out of the cistern (38:7–13; 39:15–18)"
+          }
+        }
+      ],
+      "events": [
+        "jerusalem-586"
+      ],
+      "places": [
+        {
+          "book": "jer",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ],
+      "note": {
+        "pt": "A palavra hebraica traduzida por “eunuco” (saris) pode designar também um oficial da corte; o texto não decide.",
+        "en": "The Hebrew word translated “eunuch” (saris) can also mean a court official; the text does not decide."
+      }
     }
   ]
 }

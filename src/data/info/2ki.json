@@ -65,6 +65,19 @@
     },
     {
       "name": {
+        "pt": "Geazi",
+        "en": "Gehazi"
+      },
+      "ids": [
+        "geazi"
+      ],
+      "role": {
+        "pt": "Servo de Eliseu (caps. 4–5)",
+        "en": "Elisha's servant (chs. 4–5)"
+      }
+    },
+    {
+      "name": {
         "pt": "Naamã",
         "en": "Naaman"
       },
@@ -91,6 +104,20 @@
     },
     {
       "name": {
+        "pt": "Atalia e Joiada",
+        "en": "Athaliah and Jehoiada"
+      },
+      "ids": [
+        "atalia",
+        "joiada"
+      ],
+      "role": {
+        "pt": "A rainha de Judá e o sacerdote que a depõe (cap. 11)",
+        "en": "The queen of Judah and the priest who deposes her (ch. 11)"
+      }
+    },
+    {
+      "name": {
         "pt": "Ezequias",
         "en": "Hezekiah"
       },
@@ -113,6 +140,19 @@
       "role": {
         "pt": "Rei de Judá; reforma ao achar o livro da lei (caps. 22–23)",
         "en": "King of Judah; reform after the book of the law is found (chs. 22–23)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Hulda",
+        "en": "Huldah"
+      },
+      "ids": [
+        "hulda"
+      ],
+      "role": {
+        "pt": "Profetisa consultada depois de achado o livro da lei (22:14–20)",
+        "en": "Prophetess consulted after the book of the law is found (22:14–20)"
       }
     },
     {
