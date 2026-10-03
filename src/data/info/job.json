@@ -55,6 +55,11 @@
         "pt": "Elifaz, Bildade e Zofar",
         "en": "Eliphaz, Bildad and Zophar"
       },
+      "ids": [
+        "elifaz",
+        "bildade",
+        "zofar"
+      ],
       "role": {
         "pt": "Os três amigos que o visitam",
         "en": "The three friends who visit him"
@@ -65,6 +70,9 @@
         "pt": "Eliú",
         "en": "Elihu"
       },
+      "ids": [
+        "eliu"
+      ],
       "role": {
         "pt": "Jovem que fala nos caps. 32–37",
         "en": "Young man who speaks in chs. 32–37"

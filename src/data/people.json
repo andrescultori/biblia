@@ -6436,6 +6436,346 @@
           "en": "Jerusalem"
         }
       ]
+    },
+    {
+      "id": "asa",
+      "name": {
+        "pt": "Asa",
+        "en": "Asa"
+      },
+      "summary": {
+        "pt": "Rei de Judá por 41 anos, filho de Abião. Faz o que é reto e remove ídolos, vence Zerá, o cuxita, com a ajuda do Senhor, mas depois confia na Síria e não no Senhor (1Rs 15:9–24; 2Cr 14–16).",
+        "en": "King of Judah for 41 years, son of Abijam. He does what is right and removes idols, defeats Zerah the Cushite with the Lord’s help, but later trusts Syria and not the Lord (1 Kgs 15:9–24; 2 Chr 14–16)."
+      },
+      "bio": {
+        "pt": [
+          "Asa, filho de Abião, começa a reinar em Judá no vigésimo ano de Jeroboão e reina quarenta e um anos em Jerusalém (1Rs 15:9–10). Os livros dos Reis dizem que ele fez o que era reto aos olhos do Senhor, como Davi: expulsou do país os prostitutos cultuais, removeu os ídolos e tirou Maacá, chamada de sua mãe, da posição de rainha-mãe por ter feito uma imagem de Aserá. Os altos, porém, não foram removidos (1Rs 15:11–14).",
+          "Crônicas conta que, num tempo de paz, Asa fortifica cidades e organiza um exército. Quando Zerá, o cuxita, avança contra Judá com um milhão de homens, Asa clama ao Senhor, e o inimigo é derrotado em Maressa (2Cr 14:6–15). O profeta Azarias, filho de Obede, lhe diz: “O Senhor está convosco, enquanto vós estiverdes com ele” (2Cr 15:1–2). O rei renova a aliança, e o povo busca o Senhor de todo o coração (2Cr 15:8–15).",
+          "Mas no trigésimo sexto ano, quando Baasa, rei de Israel, fortifica Ramá contra Judá, Asa toma prata e ouro do templo e do palácio e os envia a Ben-Hadade, rei da Síria, para que rompa com Baasa (1Rs 15:16–20; 2Cr 16:1–6). O vidente Hanani o repreende por ter confiado no rei da Síria e não no Senhor, e Asa o põe na prisão (2Cr 16:7–10). No fim da vida, adoece dos pés e “nem na sua enfermidade buscou ao Senhor, mas aos médicos” (2Cr 16:12). Morre no quadragésimo primeiro ano, e seu filho Josafá o sucede (2Cr 16:13; 1Rs 15:24)."
+        ],
+        "en": [
+          "Asa, son of Abijam, begins to reign in Judah in the twentieth year of Jeroboam and reigns forty-one years in Jerusalem (1 Kgs 15:9–10). The books of Kings say he did what was right in the eyes of the Lord, like David: he drove the male cult prostitutes out of the land, removed the idols and removed Maacah, called his mother, from being queen mother because she had made an image of Asherah. The high places, however, were not removed (1 Kgs 15:11–14).",
+          "Chronicles tells that in a time of peace Asa fortifies cities and organizes an army. When Zerah the Cushite advances against Judah with a million men, Asa cries out to the Lord, and the enemy is defeated at Mareshah (2 Chr 14:6–15). The prophet Azariah son of Oded tells him, “The Lord is with you while you are with him” (2 Chr 15:1–2). The king renews the covenant, and the people seek the Lord with all their heart (2 Chr 15:8–15).",
+          "But in the thirty-sixth year, when Baasha, king of Israel, fortifies Ramah against Judah, Asa takes silver and gold from the temple and the palace and sends it to Ben-hadad, king of Syria, to break with Baasha (1 Kgs 15:16–20; 2 Chr 16:1–6). The seer Hanani rebukes him for relying on the king of Syria and not on the Lord, and Asa puts him in prison (2 Chr 16:7–10). Late in life he is diseased in his feet, and “even in his disease he did not seek the Lord, but sought help from physicians” (2 Chr 16:12). He dies in the forty-first year, and his son Jehoshaphat succeeds him (2 Chr 16:13; 1 Kgs 15:24)."
+        ]
+      },
+      "books": [
+        {
+          "book": "1ki",
+          "role": {
+            "pt": "Rei de Judá; reforma e guerra com Baasa (15:9–24)",
+            "en": "King of Judah; reform and war with Baasha (15:9–24)"
+          }
+        },
+        {
+          "book": "2ch",
+          "role": {
+            "pt": "Vence Zerá e depois confia na Síria (14–16)",
+            "en": "Defeats Zerah and later trusts Syria (14–16)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "2ch",
+          "name": "Maressa",
+          "en": "Mareshah"
+        },
+        {
+          "book": "2ch",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        {
+          "book": "2ch",
+          "name": "Damasco",
+          "en": "Damascus"
+        }
+      ]
+    },
+    {
+      "id": "josafa",
+      "name": {
+        "pt": "Josafá",
+        "en": "Jehoshaphat"
+      },
+      "summary": {
+        "pt": "Rei de Judá por 25 anos, filho de Asa. Manda ensinar a lei em Judá e nomeia juízes, mas se alia a Acabe e quase morre em Ramote-Gileade; em outra ocasião, ora, e o Senhor o livra de Moabe e Amom (1Rs 22; 2Cr 17–20).",
+        "en": "King of Judah for 25 years, son of Asa. He sends teachers of the law throughout Judah and appoints judges, but allies with Ahab and nearly dies at Ramoth-gilead; on another occasion he prays, and the Lord delivers him from Moab and Ammon (1 Kgs 22; 2 Chr 17–20)."
+      },
+      "bio": {
+        "pt": [
+          "Josafá, filho de Asa, começa a reinar aos trinta e cinco anos e reina vinte e cinco anos em Jerusalém (1Rs 22:41–42). Os livros dos Reis dizem que ele andou no caminho do pai e fez o que era reto, embora os altos não fossem removidos (1Rs 22:43). Crônicas diz que o Senhor estava com ele porque andou nos primeiros caminhos de Davi e não buscou os baalins: ele envia príncipes, levitas e sacerdotes com o livro da lei para ensinar nas cidades de Judá, e seu reino se fortalece em riqueza e exército (2Cr 17:3–19).",
+          "Mas Josafá faz aliança com Acabe, rei de Israel, por casamento (2Cr 18:1). Acompanha-o à guerra contra Ramote-Gileade e, enquanto quatrocentos profetas prometem vitória, pede que se consulte um profeta do Senhor; Micaías prediz a derrota (1Rs 22:1–28; 2Cr 18). Na batalha, Josafá quase é morto e é salvo quando clama; Acabe morre. O vidente Jeú, filho de Hanani, o repreende: “Ajudas ao ímpio e amas os que aborrecem ao Senhor?” (2Cr 19:1–3). Josafá também se une a Jorão de Israel contra Moabe e consulta Eliseu (2Rs 3).",
+          "De volta, o rei percorre o país chamando o povo ao Senhor e estabelece juízes em cada cidade fortificada, com a instrução de julgar “não para os homens, mas para o Senhor” (2Cr 19:4–11). Quando moabitas e amonitas invadem Judá, Josafá proclama jejum e ora: “Em nós não há força… nossos olhos estão em ti”; o Senhor responde por meio de Jaaziel, e os cantores saem à frente do exército, e os invasores se destroem entre si (2Cr 20:1–30). Seus navios para Társis se perdem por causa da aliança com Acazias de Israel (2Cr 20:35–37). Josafá morre, e Jeorão o sucede (1Rs 22:50)."
+        ],
+        "en": [
+          "Jehoshaphat, son of Asa, begins to reign at thirty-five and reigns twenty-five years in Jerusalem (1 Kgs 22:41–42). The books of Kings say he walked in his father’s way and did what was right, although the high places were not removed (1 Kgs 22:43). Chronicles says the Lord was with him because he walked in the earlier ways of David and did not seek the Baals: he sends officials, Levites and priests with the book of the law to teach in the cities of Judah, and his kingdom grows strong in wealth and army (2 Chr 17:3–19).",
+          "But Jehoshaphat makes an alliance with Ahab, king of Israel, by marriage (2 Chr 18:1). He goes with him to war against Ramoth-gilead and, while four hundred prophets promise victory, asks that a prophet of the Lord be consulted; Micaiah predicts defeat (1 Kgs 22:1–28; 2 Chr 18). In the battle Jehoshaphat is nearly killed and is saved when he cries out; Ahab dies. The seer Jehu son of Hanani rebukes him: “Should you help the wicked and love those who hate the Lord?” (2 Chr 19:1–3). Jehoshaphat also joins Joram of Israel against Moab and consults Elisha (2 Kgs 3).",
+          "Back home, the king goes through the country calling the people to the Lord and sets up judges in each fortified city, with the instruction to judge “not for man but for the Lord” (2 Chr 19:4–11). When Moabites and Ammonites invade Judah, Jehoshaphat proclaims a fast and prays: “We do not know what to do, but our eyes are on you”; the Lord answers through Jahaziel, and the singers go out ahead of the army, and the invaders destroy one another (2 Chr 20:1–30). His ships for Tarshish are wrecked because of the alliance with Ahaziah of Israel (2 Chr 20:35–37). Jehoshaphat dies, and Jehoram succeeds him (1 Kgs 22:50)."
+        ]
+      },
+      "books": [
+        {
+          "book": "1ki",
+          "role": {
+            "pt": "Rei de Judá; alia-se a Acabe em Ramote-Gileade (22)",
+            "en": "King of Judah; allies with Ahab at Ramoth-gilead (22)"
+          }
+        },
+        {
+          "book": "2ki",
+          "role": {
+            "pt": "Acompanha Jorão contra Moabe; consulta Eliseu (3)",
+            "en": "Joins Joram against Moab; consults Elisha (3)"
+          }
+        },
+        {
+          "book": "2ch",
+          "role": {
+            "pt": "Reformas, juízes e a vitória sobre Moabe e Amom (17–20)",
+            "en": "Reforms, judges and the victory over Moab and Ammon (17–20)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "2ch",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        {
+          "book": "2ch",
+          "name": "Ramote-Gileade",
+          "en": "Ramoth-gilead"
+        },
+        {
+          "book": "2ch",
+          "name": "Samaria",
+          "en": "Samaria"
+        }
+      ]
+    },
+    {
+      "id": "gomer",
+      "name": {
+        "pt": "Gômer",
+        "en": "Gomer"
+      },
+      "summary": {
+        "pt": "Filha de Diblaim, mulher de Oseias. O Senhor manda Oseias casar-se com “uma mulher de prostituições”, como sinal da infidelidade de Israel; ela dá à luz Jezreel, Lo-Ruama e Lo-Ami (Os 1:2–9).",
+        "en": "Daughter of Diblaim, Hosea’s wife. The Lord tells Hosea to take “a wife of whoredom” as a sign of Israel’s unfaithfulness; she bears Jezreel, Lo-ruhamah and Lo-ammi (Hos 1:2–9)."
+      },
+      "bio": {
+        "pt": [
+          "O livro de Oseias abre com uma ordem de Deus: “Vai, toma uma mulher de prostituições e filhos de prostituição, porque a terra se prostitui, afastando-se do Senhor” (Os 1:2). Oseias se casa com Gômer, filha de Diblaim (Os 1:3). O texto não explica como entender “mulher de prostituições”: se já o era ao se casar, ou se se tornaria infiel depois, e se o casamento foi real ou uma imagem profética. Os intérpretes divergem.",
+          "Gômer dá à luz um filho, a quem o Senhor manda chamar Jezreel, em alusão ao sangue de Jezreel que seria cobrado da casa de Jeú; depois uma filha, Lo-Ruama (“não compadecida”); e outro filho, Lo-Ami (“não meu povo”) (Os 1:3–9). Os nomes dos filhos anunciam o juízo sobre Israel, mas o capítulo termina com a promessa de que o povo será chamado “filhos do Deus vivo” (Os 1:10–2:1). O capítulo 2 compara Israel a uma esposa que corre atrás de seus amantes, e o Senhor promete atraí-la de novo ao deserto e falar-lhe ao coração (Os 2:2–23).",
+          "No capítulo 3, o Senhor manda Oseias amar “uma mulher amada de seu amigo e adúltera” e comprá-la de volta por quinze peças de prata e um ômer e meio de cevada, como Deus ama Israel apesar de seus ídolos (Os 3:1–5). O texto não diz o nome da mulher; muitos a identificam com Gômer, mas outros pensam em outra mulher. Fora do livro de Oseias, Gômer não é mencionada na Bíblia."
+        ],
+        "en": [
+          "The book of Hosea opens with a command from God: “Go, take to yourself a wife of whoredom and have children of whoredom, for the land commits great whoredom by forsaking the Lord” (Hos 1:2). Hosea marries Gomer, daughter of Diblaim (Hos 1:3). The text does not explain how to understand “a wife of whoredom”: whether she already was one when he married her or would become unfaithful later, and whether the marriage was real or a prophetic image. Interpreters differ.",
+          "Gomer bears a son, whom the Lord tells Hosea to name Jezreel, alluding to the blood of Jezreel that would be avenged on the house of Jehu; then a daughter, Lo-ruhamah (“not pitied”); and another son, Lo-ammi (“not my people”) (Hos 1:3–9). The children’s names announce judgment on Israel, but the chapter ends with the promise that the people will be called “children of the living God” (Hos 1:10–2:1). Chapter 2 compares Israel to a wife who chases after her lovers, and the Lord promises to allure her again into the wilderness and speak tenderly to her (Hos 2:2–23).",
+          "In chapter 3 the Lord tells Hosea to love “a woman who is loved by another man and is an adulteress” and to buy her back for fifteen shekels of silver and a homer and a lethech of barley, as God loves Israel despite their idols (Hos 3:1–5). The text does not give the woman’s name; many identify her with Gomer, but others think of another woman. Outside the book of Hosea, Gomer is not mentioned in the Bible."
+        ]
+      },
+      "books": [
+        {
+          "book": "hos",
+          "role": {
+            "pt": "Mulher de Oseias; sinal da infidelidade de Israel (1–3)",
+            "en": "Hosea’s wife; a sign of Israel’s unfaithfulness (1–3)"
+          }
+        }
+      ],
+      "events": [
+        "jeroboao-ii"
+      ],
+      "places": [
+        {
+          "book": "hos",
+          "name": "Jezreel",
+          "en": "Jezreel"
+        },
+        {
+          "book": "hos",
+          "name": "Samaria",
+          "en": "Samaria"
+        }
+      ],
+      "note": {
+        "pt": "Gômer, filha de Diblaim, não é o Gômer filho de Jafé (Gn 10:2).",
+        "en": "Gomer, daughter of Diblaim, is not Gomer son of Japheth (Gen 10:2)."
+      }
+    },
+    {
+      "id": "vasti",
+      "name": {
+        "pt": "Vasti",
+        "en": "Vashti"
+      },
+      "summary": {
+        "pt": "Rainha do rei Assuero. Recusa-se a comparecer ao banquete do rei e é deposta; seu lugar abre caminho para Ester (Et 1–2).",
+        "en": "Queen of King Ahasuerus. She refuses to appear at the king’s banquet and is deposed; her place opens the way for Esther (Esth 1–2)."
+      },
+      "bio": {
+        "pt": [
+          "Vasti é a esposa do rei Assuero, que reina da Índia à Etiópia, em Susã (Et 1:1–2, 9). No terceiro ano de seu reinado, o rei oferece um banquete de cento e oitenta dias aos nobres e governadores, e depois outro de sete dias para todo o povo da cidade. Vasti dá, ao mesmo tempo, um banquete para as mulheres no palácio real (Et 1:3–9).",
+          "No sétimo dia, com o coração alegre de vinho, o rei manda sete eunucos chamarem Vasti diante dele com a coroa real, para mostrar sua beleza aos povos e aos príncipes. “A rainha Vasti recusou vir”, e o rei se enfurece (Et 1:10–12). O texto não diz por que ela recusou nem faz juízo sobre a recusa. O rei consulta seus sábios; Memucã declara que o ato de Vasti se tornaria conhecido por todas as mulheres do reino, que passariam a desprezar os maridos, e propõe um decreto real: Vasti não virá mais diante do rei, e a coroa será dada a outra melhor do que ela (Et 1:13–20).",
+          "O decreto é enviado a todas as províncias, em todas as línguas, para que “cada homem fosse senhor em sua casa” (Et 1:21–22). Depois, quando passa a ira do rei, ele se lembra de Vasti e do que fora decretado (Et 2:1), e seus servos propõem reunir jovens para escolher a nova rainha. Assim Ester é levada ao palácio (Et 2:2–17). Vasti não aparece de novo no livro."
+        ],
+        "en": [
+          "Vashti is the wife of King Ahasuerus, who reigns from India to Ethiopia, at Susa (Esth 1:1–2, 9). In the third year of his reign the king gives a banquet of a hundred and eighty days for the nobles and governors, and afterward another of seven days for all the people of the city. At the same time Vashti gives a banquet for the women in the royal palace (Esth 1:3–9).",
+          "On the seventh day, his heart merry with wine, the king orders seven eunuchs to bring Vashti before him with the royal crown, to show her beauty to the peoples and the princes. “But Queen Vashti refused to come,” and the king is enraged (Esth 1:10–12). The text does not say why she refused or pass judgment on the refusal. The king consults his wise men; Memucan declares that Vashti’s act would become known to all the women of the kingdom, who would come to despise their husbands, and proposes a royal decree: Vashti shall not again come before the king, and her royal position will be given to another who is better than she (Esth 1:13–20).",
+          "The decree is sent to all the provinces, in every language, so that “every man be master in his own house” (Esth 1:21–22). Afterward, when the king’s anger subsides, he remembers Vashti and what had been decreed (Esth 2:1), and his servants propose gathering young women to choose the new queen. So Esther is taken to the palace (Esth 2:2–17). Vashti does not appear again in the book."
+        ]
+      },
+      "books": [
+        {
+          "book": "est",
+          "role": {
+            "pt": "Rainha deposta (1:9–22; 2:1)",
+            "en": "Deposed queen (1:9–22; 2:1)"
+          }
+        }
+      ],
+      "events": [
+        "ester"
+      ],
+      "places": [
+        {
+          "book": "est",
+          "name": "Susã",
+          "en": "Susa"
+        }
+      ]
+    },
+    {
+      "id": "elifaz",
+      "name": {
+        "pt": "Elifaz",
+        "en": "Eliphaz"
+      },
+      "summary": {
+        "pt": "Elifaz, o temanita, um dos três amigos de Jó. Fala primeiro e defende que o sofrimento vem do pecado; o Senhor lhe diz que não falou dele o que era reto (Jó 4–5; 15; 22; 42:7–9).",
+        "en": "Eliphaz the Temanite, one of Job’s three friends. He speaks first and argues that suffering comes from sin; the Lord tells him he has not spoken of him what is right (Job 4–5; 15; 22; 42:7–9)."
+      },
+      "bio": {
+        "pt": [
+          "Elifaz, o temanita, é um dos três amigos de Jó que, ao saberem do mal que lhe sobreveio, vêm de seus lugares para lamentar com ele e consolá-lo (Jó 2:11). Ao vê-lo de longe, quase irreconhecível, choram em voz alta, rasgam as vestes e se sentam com ele no chão durante sete dias e sete noites sem falar (Jó 2:12–13). Temã é um nome ligado a Edom, conhecido nas Escrituras por sua sabedoria (Jr 49:7; Ob 8).",
+          "Quando Jó rompe o silêncio com seu lamento, Elifaz é o primeiro a responder. Fala com delicadeza, lembra a Jó como ele ensinava os outros e diz: “Quem, sendo inocente, jamais pereceu?” (Jó 4:1–11). Conta uma visão noturna em que ouviu uma voz perguntar se o homem pode ser mais justo do que Deus (Jó 4:12–21) e aconselha Jó a buscar a Deus: “Bem-aventurado o homem a quem Deus repreende” (Jó 5:8, 17). Nas rodadas seguintes, seu tom endurece: ele acusa Jó de sua própria boca e, por fim, o acusa diretamente de maldades e de ter explorado os pobres, e o exorta a se reconciliar com Deus (Jó 15; 22).",
+          "No final do livro, o Senhor diz a Elifaz: “A minha ira se acendeu contra ti e contra os teus dois amigos, porque não falastes de mim o que era reto, como o meu servo Jó”. Manda-os trazer sete novilhos e sete carneiros em holocausto, e Jó ora por eles; o Senhor aceita a oração de Jó (Jó 42:7–9). Assim o livro mostra que a explicação de Elifaz, de que o sofrimento de Jó se devia a seu pecado, não era a de Deus."
+        ],
+        "en": [
+          "Eliphaz the Temanite is one of Job’s three friends who, hearing of all the evil that has come upon him, come each from his own place to show sympathy and comfort him (Job 2:11). Seeing him from afar, hardly recognizable, they weep aloud, tear their robes and sit with him on the ground for seven days and seven nights without speaking (Job 2:12–13). Teman is a name linked with Edom, known in Scripture for its wisdom (Jer 49:7; Obad 8).",
+          "When Job breaks the silence with his lament, Eliphaz is the first to answer. He speaks gently, reminds Job how he used to instruct others and says, “Who that was innocent ever perished?” (Job 4:1–11). He tells of a night vision in which he heard a voice ask whether a man can be more righteous than God (Job 4:12–21) and counsels Job to seek God: “Blessed is the one whom God reproves” (Job 5:8, 17). In the following rounds his tone hardens: he accuses Job out of his own mouth and finally accuses him directly of wickedness and of having exploited the poor, and urges him to be reconciled with God (Job 15; 22).",
+          "At the end of the book the Lord says to Eliphaz, “My anger burns against you and against your two friends, for you have not spoken of me what is right, as my servant Job has.” He tells them to bring seven bulls and seven rams as a burnt offering, and Job prays for them; the Lord accepts Job’s prayer (Job 42:7–9). So the book shows that Eliphaz’s explanation, that Job’s suffering was due to his sin, was not God’s."
+        ]
+      },
+      "books": [
+        {
+          "book": "job",
+          "role": {
+            "pt": "Amigo de Jó; fala três vezes (4–5; 15; 22)",
+            "en": "Job’s friend; speaks three times (4–5; 15; 22)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bildade",
+      "name": {
+        "pt": "Bildade",
+        "en": "Bildad"
+      },
+      "summary": {
+        "pt": "Bildade, o suíta, um dos três amigos de Jó. Defende a justiça de Deus e a sabedoria dos antigos, e conclui que Jó deve ter pecado (Jó 8; 18; 25; 42:7–9).",
+        "en": "Bildad the Shuhite, one of Job’s three friends. He defends God’s justice and the wisdom of the ancients, and concludes that Job must have sinned (Job 8; 18; 25; 42:7–9)."
+      },
+      "bio": {
+        "pt": [
+          "Bildade, o suíta, é o segundo dos amigos de Jó a falar (Jó 2:11; 8:1). O texto não diz onde ficava Suá. Seu primeiro discurso começa com dureza: “Até quando falarás tais coisas?” Pergunta se Deus perverteria o juízo e sugere que os filhos de Jó pecaram, por isso foram entregues à sua transgressão (Jó 8:1–4).",
+          "Ele apela à tradição: pede a Jó que interrogue as gerações passadas, “porque nós somos de ontem e nada sabemos” (Jó 8:8–10). Usa imagens da natureza, como o papiro que seca sem água, para dizer que o destino do ímpio é a ruína, mas Deus não rejeita o íntegro e ainda lhe encherá a boca de riso (Jó 8:11–22). Na segunda rodada, descreve longamente o fim do perverso, com luz que se apaga, laços que o prendem e memória que desaparece, como se descrevesse Jó (Jó 18). Seu terceiro discurso é o mais curto da discussão: afirma que Deus é soberano e que o homem, um verme, não pode ser puro diante dele (Jó 25).",
+          "Jó responde a Bildade que ele e os outros são “consoladores molestos” (Jó 16:2) e declara a sua esperança no redentor (Jó 19:25). No fim do livro, o Senhor inclui Bildade na repreensão a Elifaz e seus dois amigos, “porque não falastes de mim o que era reto, como o meu servo Jó”, e Jó intercede por eles (Jó 42:7–9)."
+        ],
+        "en": [
+          "Bildad the Shuhite is the second of Job’s friends to speak (Job 2:11; 8:1). The text does not say where Shuah was. His first speech begins harshly: “How long will you say these things?” He asks whether God would pervert justice and suggests that Job’s children sinned, so they were given over to their transgression (Job 8:1–4).",
+          "He appeals to tradition: he asks Job to inquire of former generations, “for we are but of yesterday and know nothing” (Job 8:8–10). He uses images from nature, such as the papyrus that withers without water, to say that the fate of the godless is ruin, but God does not reject the blameless and will yet fill his mouth with laughter (Job 8:11–22). In the second round he describes at length the end of the wicked, with a light that goes out, snares that hold him and a memory that disappears, as if describing Job (Job 18). His third speech is the shortest of the debate: he affirms that God is sovereign and that man, a worm, cannot be clean before him (Job 25).",
+          "Job answers Bildad and the others that they are “miserable comforters” (Job 16:2) and declares his hope in the redeemer (Job 19:25). At the end of the book the Lord includes Bildad in the rebuke to Eliphaz and his two friends, “for you have not spoken of me what is right, as my servant Job has,” and Job intercedes for them (Job 42:7–9)."
+        ]
+      },
+      "books": [
+        {
+          "book": "job",
+          "role": {
+            "pt": "Amigo de Jó; fala três vezes (8; 18; 25)",
+            "en": "Job’s friend; speaks three times (8; 18; 25)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "zofar",
+      "name": {
+        "pt": "Zofar",
+        "en": "Zophar"
+      },
+      "summary": {
+        "pt": "Zofar, o naamatita, o terceiro amigo de Jó. Seus discursos são os mais ásperos: diz a Jó que Deus lhe cobra menos do que merece (Jó 11; 20; 42:7–9).",
+        "en": "Zophar the Naamathite, Job’s third friend. His speeches are the harshest: he tells Job that God exacts of him less than his guilt deserves (Job 11; 20; 42:7–9)."
+      },
+      "bio": {
+        "pt": [
+          "Zofar, o naamatita, é o terceiro amigo de Jó (Jó 2:11). O texto não informa onde ficava Naamate. É o que mais fala com impaciência: em seu primeiro discurso, pergunta se uma multidão de palavras ficará sem resposta e se um tagarela terá razão. Diz a Jó que, se Deus falasse, mostraria os segredos da sua sabedoria, e “saberias que Deus exige de ti menos do que merece a tua iniquidade” (Jó 11:1–6).",
+          "Ele pergunta se o homem pode descobrir as profundezas de Deus e promete a Jó que, se endireitar o coração e afastar a iniquidade de sua tenda, levantará o rosto sem mancha e terá segurança (Jó 11:7–20). No segundo discurso, descreve a alegria breve do ímpio e a ruína final, que atribui à ação de Deus, e conclui que essa é a herança do perverso (Jó 20). Zofar não responde na terceira rodada, e a discussão entre Jó e os amigos se encerra sem convencê-los (Jó 27:1; 32:1).",
+          "No epílogo, o Senhor se irrita com ele e com Elifaz e Bildade por não terem falado de Deus o que era reto, como Jó (Jó 42:7). Zofar traz o seu sacrifício, e Jó ora por ele (Jó 42:8–9). O epílogo contradiz a ideia, defendida por Zofar, de que o sofrimento seria sempre castigo pelo pecado."
+        ],
+        "en": [
+          "Zophar the Naamathite is Job’s third friend (Job 2:11). The text does not say where Naamah was. He is the one who speaks most impatiently: in his first speech he asks whether a multitude of words must go unanswered and whether a man full of talk is right. He tells Job that if God would speak he would show the secrets of wisdom, and “know then that God exacts of you less than your guilt deserves” (Job 11:1–6).",
+          "He asks whether man can find out the depths of God and promises Job that if he sets his heart right and puts iniquity far from his tent, he will lift up his face without blemish and be secure (Job 11:7–20). In his second speech he describes the brief joy of the wicked and their final ruin, which he attributes to God’s action, and concludes that this is the heritage of the wicked (Job 20). Zophar does not answer in the third round, and the debate between Job and his friends ends without convincing them (Job 27:1; 32:1).",
+          "In the epilogue the Lord is angry with him, with Eliphaz and with Bildad for not having spoken of God what was right, as Job did (Job 42:7). Zophar brings his offering, and Job prays for him (Job 42:8–9). The epilogue contradicts the idea, defended by Zophar, that suffering is always punishment for sin."
+        ]
+      },
+      "books": [
+        {
+          "book": "job",
+          "role": {
+            "pt": "Amigo de Jó; fala duas vezes (11; 20)",
+            "en": "Job’s friend; speaks twice (11; 20)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "eliu",
+      "name": {
+        "pt": "Eliú",
+        "en": "Elihu"
+      },
+      "summary": {
+        "pt": "Jovem, filho de Baraquel, o buzita. Fala depois dos três amigos, irritado com Jó e com eles, e defende a justiça de Deus (Jó 32–37). O Senhor não o menciona no epílogo.",
+        "en": "A young man, son of Barachel the Buzite. He speaks after the three friends, angry with Job and with them, and defends God’s justice (Job 32–37). The Lord does not mention him in the epilogue."
+      },
+      "bio": {
+        "pt": [
+          "Eliú, filho de Baraquel, o buzita, da família de Rão, aparece de repente em Jó 32, quando os três amigos deixam de responder a Jó porque ele se considerava justo (Jó 32:1–2). O texto diz que sua ira se acendeu contra Jó, porque ele se justificava a si mesmo em vez de a Deus, e contra os três amigos, porque não tinham achado resposta, mas haviam condenado Jó (Jó 32:2–3). Eliú esperou para falar porque os outros eram mais velhos; mas diz que “não são os de muita idade os sábios”, e que é o espírito no homem que dá entendimento (Jó 32:4–9).",
+          "Seus discursos ocupam os capítulos 32 a 37, sem que Jó lhe responda. Ele cita palavras de Jó e as contesta, defende que Deus fala ao homem por sonhos e por sofrimentos que o corrigem, e que há um mediador, um intérprete, que o livra (Jó 33). Afirma que Deus não pratica o mal nem perverte o juízo (Jó 34) e que a justiça ou o pecado do homem não acrescenta nem tira nada a Deus, mas alcança o próprio homem (Jó 35). Termina exaltando a grandeza de Deus na criação, com a chuva, o trovão e a tempestade (Jó 36–37).",
+          "O Senhor responde a Jó do redemoinho, logo em seguida, sem se referir a Eliú (Jó 38:1). No epílogo, a repreensão é dirigida a Elifaz e aos dois amigos, e Eliú não é nem repreendido nem aprovado (Jó 42:7–9). Os leitores discutem se o livro o apresenta como uma voz sábia, que prepara a resposta de Deus, ou como mais um que fala sem entender; o texto não decide."
+        ],
+        "en": [
+          "Elihu son of Barachel the Buzite, of the family of Ram, appears suddenly in Job 32, when the three friends stop answering Job because he was righteous in his own eyes (Job 32:1–2). The text says his anger burned against Job, because he justified himself rather than God, and against the three friends, because they had found no answer, yet had condemned Job (Job 32:2–3). Elihu waited to speak because the others were older; but he says, “It is not the old who are wise,” and that it is the spirit in man that gives understanding (Job 32:4–9).",
+          "His speeches fill chapters 32 to 37, with no reply from Job. He quotes Job’s words and contests them, argues that God speaks to man through dreams and through sufferings that correct him, and that there is a mediator, an interpreter, who delivers him (Job 33). He affirms that God does not do wickedness or pervert justice (Job 34) and that man’s righteousness or sin neither adds to nor takes from God, but reaches man himself (Job 35). He ends by exalting God’s greatness in creation, with the rain, the thunder and the storm (Job 36–37).",
+          "The Lord answers Job out of the whirlwind right afterward, without referring to Elihu (Job 38:1). In the epilogue the rebuke is directed to Eliphaz and the two friends, and Elihu is neither rebuked nor approved (Job 42:7–9). Readers discuss whether the book presents him as a wise voice who prepares God’s answer or as one more who speaks without understanding; the text does not decide."
+        ]
+      },
+      "books": [
+        {
+          "book": "job",
+          "role": {
+            "pt": "Fala depois dos três amigos (32–37)",
+            "en": "Speaks after the three friends (32–37)"
+          }
+        }
+      ]
     }
   ]
 }
