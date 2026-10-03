@@ -8237,6 +8237,400 @@
           "en": "Persia"
         }
       ]
+    },
+    {
+      "id": "baraque",
+      "name": {
+        "pt": "Baraque",
+        "en": "Barak"
+      },
+      "summary": {
+        "pt": "Filho de Abinoão, de Quedes de Naftali. Chamado por Débora, reúne dez mil homens no Tabor e derrota o exército de Sísera; a vitória é cantada no cântico de Débora e Baraque (Jz 4–5).",
+        "en": "Son of Abinoam, of Kedesh in Naphtali. Called by Deborah, he gathers ten thousand men at Tabor and defeats Sisera’s army; the victory is sung in the song of Deborah and Barak (Judg 4–5)."
+      },
+      "bio": {
+        "pt": [
+          "Baraque, filho de Abinoão, é de Quedes de Naftali (Jz 4:6). Quando Israel clama ao Senhor por causa da opressão de Jabim, rei de Canaã, e de seu comandante Sísera, a juíza e profetisa Débora manda chamá-lo e lhe transmite a ordem do Senhor: ir ao monte Tabor com dez mil homens de Naftali e Zebulom, e o Senhor atrairá Sísera, com seus carros, ao ribeiro de Quisom e o entregará nas suas mãos (Jz 4:1–7).",
+          "Baraque responde: “Se fores comigo, irei; mas, se não fores comigo, não irei” (Jz 4:8). Débora concorda em ir, mas avisa que a honra da jornada não será dele, pois o Senhor entregará Sísera nas mãos de uma mulher (Jz 4:9). Baraque reúne Zebulom e Naftali, e dez mil homens o seguem. Quando Débora diz “Levanta-te, porque este é o dia”, ele desce do Tabor, e o Senhor derrota Sísera e todos os seus carros (Jz 4:10–15). Baraque persegue os carros até Harosete-Hagoim, e todo o exército de Sísera cai à espada (Jz 4:16).",
+          "Sísera foge a pé e é morto por Jael, e, quando Baraque chega, ela lhe mostra o inimigo morto (Jz 4:17–22). O capítulo 5 traz o “cântico de Débora e Baraque, filho de Abinoão”, com o refrão “Desperta, desperta, Débora… levanta-te, Baraque, e leva presos os teus cativos” (Jz 5:1, 12). Hebreus 11:32 inclui Baraque na lista dos que viveram pela fé. A tribo de Issacar e as de Efraim, Benjamim, Maquir, Zebulom e Naftali são louvadas no cântico por terem vindo (Jz 5:14–15, 18)."
+        ],
+        "en": [
+          "Barak son of Abinoam is from Kedesh in Naphtali (Judg 4:6). When Israel cries out to the Lord because of the oppression of Jabin, king of Canaan, and his commander Sisera, the judge and prophetess Deborah summons him and gives him the Lord’s command: to go to Mount Tabor with ten thousand men of Naphtali and Zebulun, and the Lord will draw Sisera, with his chariots, to the river Kishon and give him into his hand (Judg 4:1–7).",
+          "Barak answers, “If you will go with me, I will go, but if you will not go with me, I will not go” (Judg 4:8). Deborah agrees to go, but warns that the honor of the journey will not be his, for the Lord will sell Sisera into the hand of a woman (Judg 4:9). Barak summons Zebulun and Naphtali, and ten thousand men follow him. When Deborah says, “Up! For this is the day,” he goes down from Tabor, and the Lord routs Sisera and all his chariots (Judg 4:10–15). Barak pursues the chariots to Harosheth-hagoyim, and all Sisera’s army falls by the sword (Judg 4:16).",
+          "Sisera flees on foot and is killed by Jael, and when Barak arrives she shows him the dead enemy (Judg 4:17–22). Chapter 5 gives the “song of Deborah and Barak the son of Abinoam,” with the refrain “Awake, awake, Deborah… Arise, Barak, lead away your captives” (Judg 5:1, 12). Hebrews 11:32 includes Barak in the list of those who lived by faith. The tribes of Issachar, Ephraim, Benjamin, Machir, Zebulun and Naphtali are praised in the song for having come (Judg 5:14–15, 18)."
+        ]
+      },
+      "books": [
+        {
+          "book": "jdg",
+          "role": {
+            "pt": "Comanda o exército de Israel com Débora (4–5)",
+            "en": "Commands Israel’s army with Deborah (4–5)"
+          }
+        },
+        {
+          "book": "heb",
+          "role": {
+            "pt": "Entre os que viveram pela fé (11:32)",
+            "en": "Among those who lived by faith (11:32)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "jdg",
+          "name": "Monte Tabor",
+          "en": "Mount Tabor"
+        }
+      ]
+    },
+    {
+      "id": "mefibosete",
+      "name": {
+        "pt": "Mefibosete",
+        "en": "Mephibosheth"
+      },
+      "summary": {
+        "pt": "Filho de Jônatas e neto de Saul, coxo desde os cinco anos. Davi o acolhe por amor a Jônatas, restitui-lhe as terras de Saul e o faz comer à sua mesa (2Sm 4:4; 9).",
+        "en": "Son of Jonathan and grandson of Saul, lame since the age of five. David takes him in for Jonathan’s sake, restores Saul’s land to him and has him eat at his table (2 Sam 4:4; 9)."
+      },
+      "bio": {
+        "pt": [
+          "Mefibosete é filho de Jônatas e neto de Saul. Tinha cinco anos quando chegou a notícia da morte de Saul e Jônatas em Jezreel, e a ama, fugindo, o deixou cair, e ele ficou coxo dos dois pés (2Sm 4:4). Cresceu em Lo-Debar, na casa de Maquir (2Sm 9:4). As genealogias de Crônicas o chamam Meribe-Baal (1Cr 8:34; 9:40).",
+          "Depois de firmar o reino, Davi pergunta se resta alguém da casa de Saul a quem possa mostrar bondade “por amor de Jônatas”. O servo Ziba lhe fala de Mefibosete, e Davi o manda chamar. Mefibosete se prostra, e Davi lhe diz: “Não temas, porque certamente usarei de bondade para contigo, por amor de teu pai Jônatas; e te restituirei todas as terras de teu pai Saul, e tu comerás pão à minha mesa continuamente” (2Sm 9:1–13). Mefibosete responde chamando-se “cão morto”. Ziba e seus filhos passam a cultivar as terras para ele.",
+          "Na revolta de Absalão, Ziba vem a Davi com provisões e acusa seu senhor de ter ficado em Jerusalém na esperança de recuperar o reino do pai; Davi dá a Ziba tudo o que era de Mefibosete (2Sm 16:1–4). Na volta de Davi, Mefibosete o encontra sem ter cuidado dos pés nem da barba, diz que Ziba o enganou e aceita o veredicto do rei, que divide as terras entre os dois (2Sm 19:24–30). Quando Davi entrega aos gibeonitas descendentes de Saul, poupa Mefibosete por causa do juramento feito a Jônatas (2Sm 21:7). O texto não resolve quem dizia a verdade."
+        ],
+        "en": [
+          "Mephibosheth is the son of Jonathan and grandson of Saul. He was five when the news came of the death of Saul and Jonathan at Jezreel, and his nurse, fleeing, dropped him, and he became lame in both feet (2 Sam 4:4). He grew up in Lo-debar, in the house of Machir (2 Sam 9:4). The genealogies of Chronicles call him Merib-baal (1 Chr 8:34; 9:40).",
+          "After establishing the kingdom, David asks whether anyone remains of the house of Saul to whom he can show kindness “for Jonathan’s sake.” The servant Ziba tells him about Mephibosheth, and David sends for him. Mephibosheth falls on his face, and David tells him, “Do not fear, for I will show you kindness for the sake of your father Jonathan, and I will restore to you all the land of Saul your father, and you shall eat at my table always” (2 Sam 9:1–13). Mephibosheth answers by calling himself a “dead dog.” Ziba and his sons now farm the land for him.",
+          "In Absalom’s revolt Ziba comes to David with provisions and accuses his master of having stayed in Jerusalem in the hope of recovering his father’s kingdom; David gives Ziba everything that had belonged to Mephibosheth (2 Sam 16:1–4). On David’s return Mephibosheth meets him having cared neither for his feet nor his beard, says Ziba deceived him and accepts the king’s verdict, which divides the land between them (2 Sam 19:24–30). When David hands over descendants of Saul to the Gibeonites, he spares Mephibosheth because of the oath made with Jonathan (2 Sam 21:7). The text does not resolve who was telling the truth."
+        ]
+      },
+      "books": [
+        {
+          "book": "2sa",
+          "role": {
+            "pt": "Neto de Saul, acolhido por Davi (4:4; 9; 16; 19; 21)",
+            "en": "Saul’s grandson, taken in by David (4:4; 9; 16; 19; 21)"
+          }
+        },
+        {
+          "book": "1ch",
+          "role": {
+            "pt": "Chamado Meribe-Baal (8:34; 9:40)",
+            "en": "Called Merib-baal (8:34; 9:40)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "2sa",
+          "name": "Lo-Debar",
+          "en": "Lo-debar"
+        },
+        {
+          "book": "2sa",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "urias",
+      "name": {
+        "pt": "Urias, o heteu",
+        "en": "Uriah the Hittite"
+      },
+      "summary": {
+        "pt": "Um dos valentes de Davi e marido de Bate-Seba. Recusa-se a ir para casa enquanto a arca e o exército estão em campanha; Davi manda Joabe pô-lo na frente da batalha, e ele morre (2Sm 11; 23:39).",
+        "en": "One of David’s mighty men and Bathsheba’s husband. He refuses to go home while the ark and the army are on campaign; David has Joab put him at the front of the battle, and he dies (2 Sam 11; 23:39)."
+      },
+      "bio": {
+        "pt": [
+          "Urias, o heteu, aparece na lista dos valentes de Davi (2Sm 23:39). Mora em Jerusalém, perto do palácio, e é casado com Bate-Seba, filha de Eliã (2Sm 11:3). Quando Davi, depois de se deitar com Bate-Seba e de ela avisar que estava grávida, manda chamá-lo da guerra contra Amom, pergunta-lhe pela batalha e lhe diz: “Desce a tua casa e lava os teus pés” (2Sm 11:4–8).",
+          "Urias, porém, dorme à porta do palácio com os servos do rei e não vai para casa. Quando Davi lhe pergunta o motivo, ele responde: “A arca e Israel e Judá ficam em tendas, e meu senhor Joabe e os servos do meu senhor estão acampados no campo; e eu entraria na minha casa, para comer e beber e para me deitar com a minha mulher? Por tua vida e pela vida da tua alma, não farei tal coisa” (2Sm 11:9–11). Davi o embriaga no dia seguinte, mas Urias continua sem ir para casa (2Sm 11:12–13).",
+          "Davi escreve uma carta a Joabe, que Urias leva: “Põe Urias na frente, onde a peleja for mais forte, e deixa-o sozinho, para que seja ferido e morra” (2Sm 11:14–15). Joabe o põe junto ao muro de Rabá, e Urias morre com outros soldados (2Sm 11:16–25). O profeta Natã denuncia depois: “Feriste à espada Urias, o heteu, e tomaste por mulher a sua mulher” (2Sm 12:9). Em 1Reis 15:5, o autor diz que Davi fez o que era reto, “exceto no caso de Urias, o heteu”. Mateus 1:6 chama Bate-Seba “a que foi de Urias”."
+        ],
+        "en": [
+          "Uriah the Hittite appears in the list of David’s mighty men (2 Sam 23:39). He lives in Jerusalem, near the palace, and is married to Bathsheba, daughter of Eliam (2 Sam 11:3). When David, after lying with Bathsheba and her telling him she was pregnant, summons him from the war against Ammon, he asks him about the battle and tells him, “Go down to your house and wash your feet” (2 Sam 11:4–8).",
+          "Uriah, however, sleeps at the door of the palace with the king’s servants and does not go home. When David asks him why, he answers, “The ark and Israel and Judah dwell in booths, and my lord Joab and the servants of my lord are camping in the open field. Shall I then go to my house, to eat and to drink and to lie with my wife? As you live, and as your soul lives, I will not do this thing” (2 Sam 11:9–11). David makes him drunk the next day, but Uriah still does not go home (2 Sam 11:12–13).",
+          "David writes a letter to Joab, which Uriah carries: “Set Uriah in the forefront of the hardest fighting, and then draw back from him, that he may be struck down and die” (2 Sam 11:14–15). Joab puts him near the wall of Rabbah, and Uriah dies with other soldiers (2 Sam 11:16–25). The prophet Nathan later denounces: “You have struck down Uriah the Hittite with the sword and have taken his wife to be your wife” (2 Sam 12:9). In 1 Kings 15:5 the author says David did what was right, “except in the matter of Uriah the Hittite.” Matthew 1:6 calls Bathsheba “the wife of Uriah.”"
+        ]
+      },
+      "books": [
+        {
+          "book": "2sa",
+          "role": {
+            "pt": "Soldado fiel, marido de Bate-Seba (11; 23:39)",
+            "en": "Faithful soldier, Bathsheba’s husband (11; 23:39)"
+          }
+        },
+        {
+          "book": "1ki",
+          "role": {
+            "pt": "Lembrado como a exceção na vida de Davi (15:5)",
+            "en": "Recalled as the exception in David’s life (15:5)"
+          }
+        },
+        {
+          "book": "mat",
+          "role": {
+            "pt": "“A que foi de Urias” na genealogia de Jesus (1:6)",
+            "en": "“Her who had been the wife of Uriah” in Jesus’ genealogy (1:6)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "2sa",
+          "name": "Rabá",
+          "en": "Rabbah"
+        },
+        {
+          "book": "2sa",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ],
+      "note": {
+        "pt": "Não confundir com o profeta Urias, morto por Jeoaquim (Jr 26:20–23).",
+        "en": "Not to be confused with the prophet Uriah, put to death by Jehoiakim (Jer 26:20–23)."
+      }
+    },
+    {
+      "id": "orfa",
+      "name": {
+        "pt": "Orfa",
+        "en": "Orpah"
+      },
+      "summary": {
+        "pt": "Nora moabita de Noemi, mulher de Quiliom. Beija a sogra e volta para o seu povo, enquanto Rute fica (Rt 1:4–14).",
+        "en": "Moabite daughter-in-law of Naomi, wife of Chilion. She kisses her mother-in-law and returns to her people, while Ruth stays (Ruth 1:4–14)."
+      },
+      "bio": {
+        "pt": [
+          "Orfa é uma das duas moabitas com quem os filhos de Elimeleque e Noemi se casam em Moabe: Orfa com Quiliom e Rute com Malom (Rt 1:4). Cerca de dez anos depois, morrem Malom e Quiliom, e Noemi fica sem marido e sem filhos (Rt 1:5). Quando Noemi decide voltar a Belém, ouvindo que o Senhor visitara o seu povo com pão, as duas noras saem com ela (Rt 1:6–7).",
+          "No caminho, Noemi lhes pede que voltem cada uma à casa da mãe, abençoando-as: “O Senhor use de misericórdia convosco, como vós usastes com os que morreram e comigo” (Rt 1:8–9). Elas choram, beijam-na e dizem que irão com ela. Noemi insiste: não tem mais filhos para dar-lhes por maridos, e “a mão do Senhor se manifestou contra mim” (Rt 1:10–13). Orfa beija a sogra e volta; Rute se apega a ela (Rt 1:14).",
+          "Noemi diz a Rute: “Eis que tua cunhada voltou ao seu povo e aos seus deuses; volta tu também após a tua cunhada” (Rt 1:15). Rute responde com sua declaração de fidelidade (Rt 1:16–17). O texto não julga Orfa nem diz o que aconteceu com ela depois; seu retorno serve de contraste com a escolha de Rute."
+        ],
+        "en": [
+          "Orpah is one of the two Moabite women whom the sons of Elimelech and Naomi marry in Moab: Orpah to Chilion and Ruth to Mahlon (Ruth 1:4). About ten years later Mahlon and Chilion die, and Naomi is left without husband or sons (Ruth 1:5). When Naomi decides to return to Bethlehem, hearing that the Lord had visited his people and given them food, the two daughters-in-law set out with her (Ruth 1:6–7).",
+          "On the way Naomi asks them to return each to her mother’s house, blessing them: “May the Lord deal kindly with you, as you have dealt with the dead and with me” (Ruth 1:8–9). They weep, kiss her and say they will go with her. Naomi insists: she has no more sons to give them as husbands, and “the hand of the Lord has gone out against me” (Ruth 1:10–13). Orpah kisses her mother-in-law and returns; Ruth clings to her (Ruth 1:14).",
+          "Naomi says to Ruth, “Behold, your sister-in-law has gone back to her people and to her gods; return after your sister-in-law” (Ruth 1:15). Ruth answers with her declaration of loyalty (Ruth 1:16–17). The text does not judge Orpah or say what happened to her afterward; her return serves as a contrast to Ruth’s choice."
+        ]
+      },
+      "books": [
+        {
+          "book": "rut",
+          "role": {
+            "pt": "Nora de Noemi; volta a Moabe (1:4–15)",
+            "en": "Naomi’s daughter-in-law; returns to Moab (1:4–15)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "rut",
+          "name": "Moabe",
+          "en": "Moab"
+        }
+      ]
+    },
+    {
+      "id": "obede",
+      "name": {
+        "pt": "Obede",
+        "en": "Obed"
+      },
+      "summary": {
+        "pt": "Filho de Boaz e Rute, nascido em Belém. Noemi o toma ao colo; ele é pai de Jessé e avô de Davi (Rt 4:13–22; Mt 1:5).",
+        "en": "Son of Boaz and Ruth, born in Bethlehem. Naomi takes him in her arms; he is the father of Jesse and grandfather of David (Ruth 4:13–22; Matt 1:5)."
+      },
+      "bio": {
+        "pt": [
+          "Obede nasce do casamento de Boaz com Rute: “O Senhor lhe concedeu que concebesse, e deu à luz um filho” (Rt 4:13). As mulheres de Belém dizem a Noemi: “Bendito seja o Senhor, que não deixou de te dar hoje um resgatador… e ele será restaurador da tua vida e sustentador da tua velhice, porque te deu à luz a tua nora, que te ama e que é melhor para ti do que sete filhos” (Rt 4:14–15).",
+          "Noemi toma o menino ao colo e se torna sua ama; as vizinhas dizem: “Nasceu um filho a Noemi”, e lhe dão o nome de Obede (Rt 4:16–17). O texto explica que ele é “o pai de Jessé, pai de Davi” (Rt 4:17). O livro termina com a genealogia que vai de Perez a Davi, em que Obede aparece entre Boaz e Jessé (Rt 4:18–22).",
+          "Obede é lembrado nas listas de Judá (1Cr 2:12) e nas genealogias de Jesus em Mateus 1:5 e Lucas 3:32. Fora do capítulo 4 de Rute, a Bíblia não conta nada mais de sua vida."
+        ],
+        "en": [
+          "Obed is born of the marriage of Boaz and Ruth: “The Lord gave her conception, and she bore a son” (Ruth 4:13). The women of Bethlehem say to Naomi, “Blessed be the Lord, who has not left you this day without a redeemer… He shall be to you a restorer of life and a nourisher of your old age, for your daughter-in-law who loves you, who is more to you than seven sons, has given him birth” (Ruth 4:14–15).",
+          "Naomi takes the child in her arms and becomes his nurse; the neighbor women say, “A son has been born to Naomi,” and give him the name Obed (Ruth 4:16–17). The text explains that he is “the father of Jesse, the father of David” (Ruth 4:17). The book ends with the genealogy from Perez to David, in which Obed appears between Boaz and Jesse (Ruth 4:18–22).",
+          "Obed is remembered in the lists of Judah (1 Chr 2:12) and in the genealogies of Jesus in Matthew 1:5 and Luke 3:32. Apart from chapter 4 of Ruth, the Bible tells nothing more of his life."
+        ]
+      },
+      "books": [
+        {
+          "book": "rut",
+          "role": {
+            "pt": "Filho de Boaz e Rute; avô de Davi (4:13–22)",
+            "en": "Son of Boaz and Ruth; grandfather of David (4:13–22)"
+          }
+        },
+        {
+          "book": "mat",
+          "role": {
+            "pt": "Na genealogia de Jesus (1:5)",
+            "en": "In Jesus’ genealogy (1:5)"
+          }
+        },
+        {
+          "book": "luk",
+          "role": {
+            "pt": "Na genealogia de Jesus (3:32)",
+            "en": "In Jesus’ genealogy (3:32)"
+          }
+        },
+        {
+          "book": "1ch",
+          "role": {
+            "pt": "Na genealogia de Judá (2:12)",
+            "en": "In Judah’s genealogy (2:12)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "rut",
+          "name": "Belém",
+          "en": "Bethlehem"
+        }
+      ],
+      "note": {
+        "pt": "Não confundir com Obede-Edom (2Sm 6:10–12).",
+        "en": "Not to be confused with Obed-edom (2 Sam 6:10–12)."
+      }
+    },
+    {
+      "id": "sambalate",
+      "name": {
+        "pt": "Sambalate, o horonita",
+        "en": "Sanballat the Horonite"
+      },
+      "summary": {
+        "pt": "Oficial que, com Tobias e Geséim, se opõe à reconstrução dos muros de Jerusalém por Neemias, zomba dos judeus e trama contra o governador (Ne 2:10, 19; 4; 6; 13:28).",
+        "en": "Official who, with Tobiah and Geshem, opposes Nehemiah’s rebuilding of the walls of Jerusalem, mocks the Jews and plots against the governor (Neh 2:10, 19; 4; 6; 13:28)."
+      },
+      "bio": {
+        "pt": [
+          "Sambalate, chamado “o horonita”, aparece quando Neemias chega a Jerusalém: ele e Tobias, “o servo amonita”, ficam muito desgostosos por alguém ter vindo procurar o bem dos filhos de Israel (Ne 2:10). Quando Neemias convoca o povo a reconstruir o muro, Sambalate, Tobias e Geséim, o árabe, zombam e perguntam: “Que é isso que fazeis? Rebelar-vos-eis contra o rei?” Neemias responde que o Deus dos céus fará prosperar a obra e que eles não têm parte nem direito em Jerusalém (Ne 2:19–20).",
+          "À medida que o muro cresce, Sambalate, com o exército de Samaria, zomba: “Que fazem estes fracos judeus?… Acaso reviverão as pedras dos montões de entulho?” (Ne 4:1–3). Depois, ele e os aliados conspiram para atacar Jerusalém, e Neemias manda armar os trabalhadores e orar (Ne 4:7–23). Quando o muro está pronto, Sambalate e Geséim convidam Neemias a se encontrar com eles numa das aldeias da planície de Ono, querendo fazer-lhe mal; ele responde quatro vezes que está fazendo uma grande obra e não pode descer (Ne 6:1–4). Numa quinta ocasião, manda uma carta aberta acusando Neemias de preparar uma rebelião e de querer ser rei, o que Neemias nega (Ne 6:5–9). Também subornam Semaías para amedrontar Neemias e levá-lo a refugiar-se no templo, o que ele recusa (Ne 6:10–14).",
+          "Já no fim do livro, Neemias expulsa de sua presença um neto do sumo sacerdote Eliasibe, que era genro de Sambalate (Ne 13:28). O texto não diz mais sobre Sambalate. Documentos judaicos de Elefantina, no Egito, fora da Bíblia, citam um Sambalate (Sanbalat) como governador de Samaria, o que costuma ser ligado a esse adversário de Neemias."
+        ],
+        "en": [
+          "Sanballat, called “the Horonite,” appears when Nehemiah arrives in Jerusalem: he and Tobiah, “the Ammonite servant,” are very much displeased that someone had come to seek the welfare of the people of Israel (Neh 2:10). When Nehemiah calls the people to rebuild the wall, Sanballat, Tobiah and Geshem the Arab mock and ask, “What is this thing that you are doing? Are you rebelling against the king?” Nehemiah answers that the God of heaven will make the work prosper and that they have no portion or right in Jerusalem (Neh 2:19–20).",
+          "As the wall rises, Sanballat, with the army of Samaria, scoffs: “What are these feeble Jews doing?… Will they revive the stones out of the heaps of rubbish?” (Neh 4:1–3). Later he and his allies conspire to attack Jerusalem, and Nehemiah has the workers armed and prays (Neh 4:7–23). When the wall is finished, Sanballat and Geshem invite Nehemiah to meet them in one of the villages in the plain of Ono, intending to harm him; he answers four times that he is doing a great work and cannot come down (Neh 6:1–4). On a fifth occasion he sends an open letter accusing Nehemiah of preparing a rebellion and of wanting to be king, which Nehemiah denies (Neh 6:5–9). They also bribe Shemaiah to frighten Nehemiah into taking refuge in the temple, which he refuses (Neh 6:10–14).",
+          "Near the end of the book Nehemiah drives away from him a grandson of the high priest Eliashib who was a son-in-law of Sanballat (Neh 13:28). The text says nothing more about Sanballat. Jewish documents from Elephantine in Egypt, outside the Bible, mention a Sanballat as governor of Samaria, which is usually linked to this adversary of Nehemiah."
+        ]
+      },
+      "books": [
+        {
+          "book": "neh",
+          "role": {
+            "pt": "Adversário de Neemias (2:10, 19; 4; 6; 13:28)",
+            "en": "Nehemiah’s adversary (2:10, 19; 4; 6; 13:28)"
+          }
+        }
+      ],
+      "events": [
+        "neemias"
+      ],
+      "places": [
+        {
+          "book": "neh",
+          "name": "Ono",
+          "en": "Ono"
+        },
+        {
+          "book": "neh",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "tobias-amonita",
+      "name": {
+        "pt": "Tobias, o amonita",
+        "en": "Tobiah the Ammonite"
+      },
+      "summary": {
+        "pt": "Oficial amonita aliado de Sambalate contra Neemias. Tem laços de família com a nobreza de Judá e chega a ocupar uma câmara do templo, que Neemias esvazia (Ne 2:10, 19; 6:17–19; 13:4–9).",
+        "en": "Ammonite official allied with Sanballat against Nehemiah. He has family ties with the nobility of Judah and even occupies a chamber of the temple, which Nehemiah empties (Neh 2:10, 19; 6:17–19; 13:4–9)."
+      },
+      "bio": {
+        "pt": [
+          "Tobias aparece em Neemias sempre ao lado de Sambalate, descrito como “o servo amonita” (Ne 2:10, 19). Junto com ele, zomba da reconstrução do muro: “Se uma raposa subir, derrubará o muro de pedras” (Ne 4:3). Planeja com os aliados atacar Jerusalém (Ne 4:7–8) e, no fim da obra, manda cartas para amedrontar Neemias (Ne 6:19).",
+          "Tobias tinha muitos parentes em Judá. Neemias conta que muitos judeus se haviam comprometido por juramento com ele, porque era genro de Secanias, filho de Ara, e seu filho Joanã se casou com a filha de Mesulão, filho de Berequias; esses aliados elogiavam suas boas obras diante de Neemias e levavam a ele o que Neemias dizia (Ne 6:17–19).",
+          "Em Neemias 13:4–9, quando o governador volta de Susã, descobre que o sacerdote Eliasibe, parente de Tobias, preparou para ele uma grande câmara nos átrios do templo, onde antes se guardavam as ofertas, o incenso e os dízimos. Neemias se irrita, joga fora toda a mobília de Tobias, manda purificar as câmaras e devolver os utensílios do templo (Ne 13:4–9). Não se conta mais nada sobre Tobias."
+        ],
+        "en": [
+          "Tobiah appears in Nehemiah always alongside Sanballat, described as “the Ammonite servant” (Neh 2:10, 19). With him he mocks the rebuilding of the wall: “If a fox goes up on it he will break down their stone wall!” (Neh 4:3). He plans with his allies to attack Jerusalem (Neh 4:7–8) and, at the end of the work, sends letters to intimidate Nehemiah (Neh 6:19).",
+          "Tobiah had many relatives in Judah. Nehemiah tells that many Jews had sworn allegiance to him, because he was son-in-law of Shecaniah son of Arah, and his son Jehohanan married the daughter of Meshullam son of Berechiah; these allies spoke of his good deeds before Nehemiah and reported Nehemiah’s words to him (Neh 6:17–19).",
+          "In Nehemiah 13:4–9, when the governor returns from Susa, he finds that the priest Eliashib, a relative of Tobiah, had prepared for him a large chamber in the courts of the temple, where grain offerings, incense and the tithes had been stored. Nehemiah is angry, throws all of Tobiah’s household furniture out, orders the chambers cleansed and the vessels of the temple put back (Neh 13:4–9). Nothing more is told about Tobiah."
+        ]
+      },
+      "books": [
+        {
+          "book": "neh",
+          "role": {
+            "pt": "Adversário de Neemias (2:10, 19; 4; 6; 13:4–9)",
+            "en": "Nehemiah’s adversary (2:10, 19; 4; 6; 13:4–9)"
+          }
+        }
+      ],
+      "events": [
+        "neemias"
+      ],
+      "places": [
+        {
+          "book": "neh",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ],
+      "note": {
+        "pt": "Não confundir com o Tobias de Zc 6:10, 14, que volta do exílio.",
+        "en": "Not to be confused with the Tobiah of Zech 6:10, 14, who returns from exile."
+      }
+    },
+    {
+      "id": "gogue",
+      "name": {
+        "pt": "Gogue",
+        "en": "Gog"
+      },
+      "summary": {
+        "pt": "Príncipe de Rôs, Meseque e Tubal, da terra de Magogue, contra quem o Senhor profere um oráculo em Ezequiel 38–39: vem do norte contra Israel restaurado e cai nos montes de Israel.",
+        "en": "Prince of Rosh, Meshech and Tubal, of the land of Magog, against whom the Lord pronounces an oracle in Ezekiel 38–39: he comes from the north against restored Israel and falls on the mountains of Israel."
+      },
+      "bio": {
+        "pt": [
+          "Ezequiel 38:2 manda o profeta voltar o rosto contra “Gogue, da terra de Magogue, príncipe de Rôs, Meseque e Tubal”. O Senhor o atrai com ganchos nas mandíbulas, com um grande exército de muitas nações, entre elas Pérsia, Cuxe, Pute, Gômer e Togarma, para atacar “um povo recolhido da espada, congregado dentre muitos povos”, que vive em segurança nas aldeias sem muros, “nos últimos anos” e “nos últimos dias” (Ez 38:1–16).",
+          "Mas o Senhor se levanta com fúria: haverá um grande terremoto, espadas se voltarão umas contra as outras, peste, sangue, chuva de pedras, fogo e enxofre (Ez 38:17–23). Em Ezequiel 39, o Senhor diz que o fará cair nos montes de Israel, com todas as suas tropas, e que será alimento para aves e animais (Ez 39:1–6). Israel queimará as armas por sete anos, e os mortos serão sepultados por sete meses no vale chamado Hamom-Gogue (Ez 39:9–16). O objetivo é que as nações saibam que o Senhor é Deus e que Israel foi levado cativo por causa da sua iniquidade, e agora o Senhor o reúne (Ez 39:21–29).",
+          "Apocalipse 20:7–9 retoma o nome: no fim do milênio, Satanás é solto e sai para enganar “as nações que estão nos quatro cantos da terra, Gogue e Magogue”, para a batalha final, onde fogo desce do céu e as devora. Os intérpretes divergem sobre Ezequiel 38–39: alguns veem um personagem histórico (propõem-se vários reis antigos), outros um acontecimento futuro e outros uma imagem do mal contra o povo de Deus. O texto não identifica Gogue com nenhum rei conhecido."
+        ],
+        "en": [
+          "Ezekiel 38:2 tells the prophet to set his face against “Gog, of the land of Magog, the chief prince of Meshech and Tubal.” The Lord draws him with hooks in his jaws, with a great army of many nations, among them Persia, Cush, Put, Gomer and Togarmah, to attack “a land that has been restored from war, whose people were gathered from many nations,” living securely in unwalled villages, “after many days” and “in the latter years” (Ezek 38:1–16).",
+          "But the Lord rises in fury: there will be a great earthquake, swords will turn against one another, pestilence, blood, torrential rain, hailstones, fire and sulfur (Ezek 38:17–23). In Ezekiel 39 the Lord says he will make him fall on the mountains of Israel, with all his troops, and that he will be food for birds and beasts (Ezek 39:1–6). Israel will burn the weapons for seven years, and the dead will be buried for seven months in the valley called Hamon-gog (Ezek 39:9–16). The purpose is that the nations may know that the Lord is God and that Israel was taken into exile for its iniquity, and now the Lord gathers it (Ezek 39:21–29).",
+          "Revelation 20:7–9 takes up the name: at the end of the thousand years, Satan is released and goes out to deceive “the nations that are at the four corners of the earth, Gog and Magog,” for the final battle, where fire comes down from heaven and consumes them. Interpreters differ about Ezekiel 38–39: some see a historical figure (several ancient kings have been proposed), others a future event and others an image of evil against the people of God. The text does not identify Gog with any known king."
+        ]
+      },
+      "books": [
+        {
+          "book": "eze",
+          "role": {
+            "pt": "Alvo do oráculo de juízo (38–39)",
+            "en": "Target of the oracle of judgment (38–39)"
+          }
+        },
+        {
+          "book": "rev",
+          "role": {
+            "pt": "“Gogue e Magogue” (20:8)",
+            "en": "“Gog and Magog” (20:8)"
+          }
+        }
+      ]
     }
   ]
 }
