@@ -254,7 +254,8 @@
         "jer",
         "lam",
         "eze",
-        "dan"
+        "dan",
+        "oba"
       ]
     },
     {
@@ -620,6 +621,70 @@
       ]
     },
     {
+      "id": "davi-jerusalem",
+      "period": "monarquia-unida",
+      "title": {
+        "pt": "Davi toma Jerusalém e a faz capital",
+        "en": "David takes Jerusalem and makes it his capital"
+      },
+      "note": {
+        "pt": "Davi reina sete anos e meio em Hebrom e trinta e três em Jerusalém, tomada dos jebuseus (2Sm 5:5–9). A data soma esses anos a partir de c. 1010 a.C.",
+        "en": "David reigns seven and a half years in Hebron and thirty-three in Jerusalem, taken from the Jebusites (2 Sam 5:5–9). The date adds these years from c. 1010 BC."
+      },
+      "dates": {
+        "start": -1003,
+        "approx": true
+      },
+      "ref": {
+        "book": "2sa",
+        "ref": "5:5"
+      },
+      "places": [
+        {
+          "book": "2sa",
+          "name": "Hebrom",
+          "en": "Hebron"
+        },
+        {
+          "book": "2sa",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "salomao-rei",
+      "period": "monarquia-unida",
+      "title": {
+        "pt": "Salomão assume o trono",
+        "en": "Solomon takes the throne"
+      },
+      "note": {
+        "pt": "Davi reinou quarenta anos (1Rs 2:11), de modo que Salomão começa a reinar por volta de 970 a.C. A sucessão foi disputada por Adonias (1Rs 1–2).",
+        "en": "David reigned forty years (1 Kgs 2:11), so Solomon begins to reign around 970 BC. The succession was contested by Adonijah (1 Kgs 1–2)."
+      },
+      "dates": {
+        "start": -970,
+        "approx": true
+      },
+      "ref": {
+        "book": "1ki",
+        "ref": "2:11"
+      },
+      "places": [
+        {
+          "book": "1ki",
+          "name": "Gibeão",
+          "en": "Gibeon"
+        },
+        {
+          "book": "1ki",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
       "id": "templo",
       "period": "monarquia-unida",
       "title": {
@@ -637,6 +702,33 @@
       "ref": {
         "book": "1ki",
         "ref": "6:1"
+      },
+      "places": [
+        {
+          "book": "1ki",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "templo-dedicacao",
+      "period": "monarquia-unida",
+      "title": {
+        "pt": "Dedicação do templo",
+        "en": "Dedication of the temple"
+      },
+      "note": {
+        "pt": "Salomão leva sete anos para construir o templo (1Rs 6:38) e o dedica com oração e sacrifícios (1Rs 8). A data soma esses anos ao início da obra, c. 966 a.C.",
+        "en": "Solomon takes seven years to build the temple (1 Kgs 6:38) and dedicates it with prayer and sacrifices (1 Kgs 8). The date adds those years to the start of the work, c. 966 BC."
+      },
+      "dates": {
+        "start": -959,
+        "approx": true
+      },
+      "ref": {
+        "book": "1ki",
+        "ref": "8:1"
       },
       "places": [
         {
@@ -674,6 +766,104 @@
       ]
     },
     {
+      "id": "elias",
+      "period": "reino-dividido",
+      "title": {
+        "pt": "Elias: a seca e o Carmelo, no reinado de Acabe",
+        "en": "Elijah: the drought and Carmel, in Ahab’s reign"
+      },
+      "note": {
+        "pt": "Elias anuncia a seca, é sustentado em Sarepta e enfrenta os profetas de Baal no Carmelo (1Rs 17–18). O texto não dá o ano; as datas mostram o reinado de Acabe, que durou 22 anos (1Rs 16:29).",
+        "en": "Elijah announces the drought, is sustained at Zarephath and confronts the prophets of Baal on Carmel (1 Kgs 17–18). The text gives no year; the dates show Ahab’s reign, which lasted 22 years (1 Kgs 16:29)."
+      },
+      "dates": {
+        "start": -874,
+        "end": -853,
+        "approx": true
+      },
+      "ref": {
+        "book": "1ki",
+        "ref": "17:1"
+      },
+      "places": [
+        {
+          "book": "1ki",
+          "name": "Sarepta",
+          "en": "Zarephath"
+        },
+        {
+          "book": "1ki",
+          "name": "Monte Carmelo",
+          "en": "Mount Carmel"
+        }
+      ]
+    },
+    {
+      "id": "qarqar",
+      "period": "reino-dividido",
+      "title": {
+        "pt": "Acabe na batalha de Qarqar",
+        "en": "Ahab at the battle of Qarqar"
+      },
+      "note": {
+        "pt": "O Monólito de Kurkh, de Salmanasar III da Assíria, lista \"Acabe, o israelita\" com 2.000 carros e 10.000 soldados entre os aliados que enfrentaram a Assíria em Qarqar. A Bíblia não narra essa batalha; o registro ajuda a datar o reinado de Acabe.",
+        "en": "The Kurkh Monolith of Shalmaneser III of Assyria lists \"Ahab the Israelite\" with 2,000 chariots and 10,000 soldiers among the allies who faced Assyria at Qarqar. The Bible does not narrate this battle; the record helps date Ahab’s reign."
+      },
+      "dates": {
+        "start": -853
+      },
+      "ref": {
+        "book": "1ki",
+        "ref": "16:29"
+      },
+      "attested": true,
+      "places": [
+        {
+          "book": "1ki",
+          "name": "Samaria",
+          "en": "Samaria"
+        }
+      ]
+    },
+    {
+      "id": "eliseu",
+      "period": "reino-dividido",
+      "title": {
+        "pt": "Ministério de Eliseu",
+        "en": "Ministry of Elisha"
+      },
+      "note": {
+        "pt": "Eliseu sucede Elias (2Rs 2) e atua sob vários reis de Israel, até o tempo de Joás (2Rs 13:14–20). O texto não dá as datas; elas seguem os reinados.",
+        "en": "Elisha succeeds Elijah (2 Kgs 2) and serves under several kings of Israel, down to the time of Joash (2 Kgs 13:14–20). The text gives no dates; they follow the reigns."
+      },
+      "dates": {
+        "start": -850,
+        "end": -800,
+        "approx": true
+      },
+      "ref": {
+        "book": "2ki",
+        "ref": "2:9"
+      },
+      "places": [
+        {
+          "book": "2ki",
+          "name": "Jericó",
+          "en": "Jericho"
+        },
+        {
+          "book": "2ki",
+          "name": "Suném",
+          "en": "Shunem"
+        },
+        {
+          "book": "2ki",
+          "name": "Samaria",
+          "en": "Samaria"
+        }
+      ]
+    },
+    {
       "id": "jeu",
       "period": "reino-dividido",
       "title": {
@@ -698,6 +888,203 @@
           "book": "2ki",
           "name": "Jezreel",
           "en": "Jezreel"
+        }
+      ]
+    },
+    {
+      "id": "mesa",
+      "period": "reino-dividido",
+      "title": {
+        "pt": "Estela de Mesa, rei de Moabe",
+        "en": "Mesha Stele, king of Moab"
+      },
+      "note": {
+        "pt": "Mesa de Moabe narra a revolta contra Israel, cita Onri e o nome do Senhor (YHWH). A inscrição se liga ao relato de 2Rs 3. A data é aproximada.",
+        "en": "Mesha of Moab tells of his revolt against Israel and mentions Omri and the name of the Lord (YHWH). The inscription connects with the account of 2 Kgs 3. The date is approximate."
+      },
+      "dates": {
+        "start": -840,
+        "approx": true
+      },
+      "ref": {
+        "book": "2ki",
+        "ref": "3:4"
+      },
+      "attested": true,
+      "places": [
+        {
+          "book": "2ki",
+          "name": "Samaria",
+          "en": "Samaria"
+        }
+      ]
+    },
+    {
+      "id": "joel",
+      "period": "reino-dividido",
+      "title": {
+        "pt": "Joel",
+        "en": "Joel"
+      },
+      "note": {
+        "pt": "O livro de Joel não traz data nem cita rei de Judá. Há duas leituras: pré-exílica, no reinado de Joás (c. 835 a.C.), ou pós-exílica (séc. V a.C.), pelo silêncio sobre rei e pela atividade do templo e dos sacerdotes. Aqui ele aparece entre os reinos, como uma das duas.",
+        "en": "The book of Joel gives no date and names no king of Judah. There are two readings: pre-exilic, in the reign of Joash (c. 835 BC), or post-exilic (5th century BC), because of its silence about a king and the activity of the temple and priests. Here it appears among the kingdoms, as one of the two."
+      },
+      "dates": {
+        "traditional": {
+          "start": -835,
+          "approx": true,
+          "note": {
+            "pt": "Leitura pré-exílica, no reinado de Joás de Judá.",
+            "en": "Pre-exilic reading, in the reign of Joash of Judah."
+          }
+        },
+        "scholarly": {
+          "start": -450,
+          "end": -400,
+          "approx": true,
+          "note": {
+            "pt": "Leitura pós-exílica.",
+            "en": "Post-exilic reading."
+          }
+        }
+      },
+      "ref": {
+        "book": "joe",
+        "ref": "1:1"
+      },
+      "uncertain": true
+    },
+    {
+      "id": "jeroboao-ii",
+      "period": "reino-dividido",
+      "title": {
+        "pt": "Jeroboão II; Jonas, Amós e Oseias",
+        "en": "Jeroboam II; Jonah, Amos and Hosea"
+      },
+      "note": {
+        "pt": "Jeroboão II reina 41 anos em Israel e restaura as fronteiras segundo a palavra de Jonas (2Rs 14:23–25). Amós e Oseias profetizam nesse tempo (Am 1:1; Os 1:1). As datas seguem o reinado.",
+        "en": "Jeroboam II reigns 41 years in Israel and restores its borders according to the word of Jonah (2 Kgs 14:23–25). Amos and Hosea prophesy in this time (Amos 1:1; Hos 1:1). The dates follow the reign."
+      },
+      "dates": {
+        "start": -793,
+        "end": -753,
+        "approx": true
+      },
+      "ref": {
+        "book": "2ki",
+        "ref": "14:23"
+      },
+      "places": [
+        {
+          "book": "amo",
+          "name": "Betel",
+          "en": "Bethel"
+        },
+        {
+          "book": "amo",
+          "name": "Samaria",
+          "en": "Samaria"
+        }
+      ]
+    },
+    {
+      "id": "isaias-visao",
+      "period": "reino-dividido",
+      "title": {
+        "pt": "Isaías vê o Senhor no templo",
+        "en": "Isaiah sees the Lord in the temple"
+      },
+      "note": {
+        "pt": "Isaías vê o Senhor \"no ano em que morreu o rei Uzias\" (Is 6:1). A morte de Uzias é situada entre c. 742 e 735 a.C., de modo que a data é aproximada.",
+        "en": "Isaiah sees the Lord \"in the year that King Uzziah died\" (Isa 6:1). Uzziah’s death is placed between c. 742 and 735 BC, so the date is approximate."
+      },
+      "dates": {
+        "start": -740,
+        "approx": true
+      },
+      "ref": {
+        "book": "isa",
+        "ref": "6:1"
+      },
+      "uncertain": true,
+      "places": [
+        {
+          "book": "isa",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "menaem",
+      "period": "reino-dividido",
+      "title": {
+        "pt": "Menaém paga tributo a Tiglate-Pileser III",
+        "en": "Menahem pays tribute to Tiglath-Pileser III"
+      },
+      "note": {
+        "pt": "Menaém de Israel dá mil talentos de prata a \"Pul\", rei da Assíria (2Rs 15:19–20). Os anais de Tiglate-Pileser III citam o tributo de \"Menaém de Samaria\", por volta de 738 a.C.",
+        "en": "Menahem of Israel gives a thousand talents of silver to \"Pul,\" king of Assyria (2 Kgs 15:19–20). The annals of Tiglath-Pileser III mention the tribute of \"Menahem of Samaria,\" around 738 BC."
+      },
+      "dates": {
+        "start": -738,
+        "approx": true
+      },
+      "ref": {
+        "book": "2ki",
+        "ref": "15:19"
+      },
+      "attested": true,
+      "places": [
+        {
+          "book": "2ki",
+          "name": "Samaria",
+          "en": "Samaria"
+        },
+        {
+          "book": "2ki",
+          "name": "Assíria",
+          "en": "Assyria"
+        }
+      ]
+    },
+    {
+      "id": "siro-efraimita",
+      "period": "reino-dividido",
+      "title": {
+        "pt": "Guerra siro-efraimita: Isaías e Acaz",
+        "en": "Syro-Ephraimite war: Isaiah and Ahaz"
+      },
+      "note": {
+        "pt": "Rezim de Damasco e Peca de Israel atacam Acaz de Judá. Isaías oferece o sinal do Emanuel (Is 7), mas Acaz pede ajuda a Tiglate-Pileser III (2Rs 16:5–9). Os anais assírios situam a queda de Damasco em 732 a.C.",
+        "en": "Rezin of Damascus and Pekah of Israel attack Ahaz of Judah. Isaiah offers the sign of Immanuel (Isa 7), but Ahaz asks Tiglath-Pileser III for help (2 Kgs 16:5–9). The Assyrian annals place the fall of Damascus in 732 BC."
+      },
+      "dates": {
+        "start": -735,
+        "end": -732,
+        "approx": true
+      },
+      "ref": {
+        "book": "2ki",
+        "ref": "16:5"
+      },
+      "attested": true,
+      "places": [
+        {
+          "book": "isa",
+          "name": "Damasco",
+          "en": "Damascus"
+        },
+        {
+          "book": "isa",
+          "name": "Samaria",
+          "en": "Samaria"
+        },
+        {
+          "book": "isa",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
         }
       ]
     },
@@ -730,6 +1117,38 @@
       ]
     },
     {
+      "id": "ezequias-reforma",
+      "period": "juda",
+      "title": {
+        "pt": "Ezequias começa a reinar; reforma religiosa",
+        "en": "Hezekiah begins to reign; religious reform"
+      },
+      "note": {
+        "pt": "Ezequias reina 29 anos em Jerusalém e promove reforma (2Rs 18:1–7; 2Cr 29–31). O 14º ano dele é o do cerco de Senaqueribe, 701 a.C. (2Rs 18:13), o que leva a c. 715 a.C.",
+        "en": "Hezekiah reigns 29 years in Jerusalem and promotes reform (2 Kgs 18:1–7; 2 Chr 29–31). His 14th year is that of Sennacherib’s siege, 701 BC (2 Kgs 18:13), which leads to c. 715 BC."
+      },
+      "dates": {
+        "start": -715,
+        "approx": true,
+        "note": {
+          "pt": "Depende de como se contam as co-regências; alguns situam o início por volta de 729 a.C.",
+          "en": "It depends on how co-regencies are counted; some place the start around 729 BC."
+        }
+      },
+      "ref": {
+        "book": "2ki",
+        "ref": "18:1"
+      },
+      "uncertain": true,
+      "places": [
+        {
+          "book": "2ki",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
       "id": "senaqueribe",
       "period": "juda",
       "title": {
@@ -756,6 +1175,129 @@
         },
         {
           "book": "2ki",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "manasses",
+      "period": "juda",
+      "title": {
+        "pt": "Manassés reina 55 anos",
+        "en": "Manasseh reigns 55 years"
+      },
+      "note": {
+        "pt": "Manassés, filho de Ezequias, reina 55 anos, o reinado mais longo de Judá (2Rs 21:1–18). A data depende da de Ezequias e das co-regências.",
+        "en": "Manasseh, Hezekiah’s son, reigns 55 years, the longest reign in Judah (2 Kgs 21:1–18). The date depends on Hezekiah’s and on co-regencies."
+      },
+      "dates": {
+        "start": -697,
+        "end": -642,
+        "approx": true
+      },
+      "ref": {
+        "book": "2ki",
+        "ref": "21:1"
+      },
+      "uncertain": true,
+      "places": [
+        {
+          "book": "2ki",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "naum",
+      "period": "juda",
+      "title": {
+        "pt": "Naum anuncia a queda de Nínive",
+        "en": "Nahum announces the fall of Nineveh"
+      },
+      "note": {
+        "pt": "Naum fala da queda de Nínive (Na 1–3) e cita a de Tebas (No-Amom) como já ocorrida (Na 3:8–10), c. 663 a.C. Nínive cai em 612 a.C. O livro fica entre esses dois marcos; o ano exato é debatido.",
+        "en": "Nahum speaks of the fall of Nineveh (Nah 1–3) and cites that of Thebes (No-amon) as already past (Nah 3:8–10), c. 663 BC. Nineveh falls in 612 BC. The book lies between these two landmarks; the exact year is debated."
+      },
+      "dates": {
+        "start": -663,
+        "end": -612,
+        "approx": true
+      },
+      "ref": {
+        "book": "nah",
+        "ref": "3:8"
+      },
+      "uncertain": true,
+      "places": [
+        {
+          "book": "nah",
+          "name": "Nínive",
+          "en": "Nineveh"
+        },
+        {
+          "book": "nah",
+          "name": "Tebas (No-Amom)",
+          "en": "Thebes (No-Amon)"
+        }
+      ]
+    },
+    {
+      "id": "sofonias",
+      "period": "juda",
+      "title": {
+        "pt": "Sofonias profetiza no reinado de Josias",
+        "en": "Zephaniah prophesies in Josiah’s reign"
+      },
+      "note": {
+        "pt": "Sofonias profetiza \"nos dias de Josias\" (Sf 1:1), rei de c. 640 a 609 a.C. O texto não dá o ano exato.",
+        "en": "Zephaniah prophesies \"in the days of Josiah\" (Zeph 1:1), king from c. 640 to 609 BC. The text does not give the exact year."
+      },
+      "dates": {
+        "start": -640,
+        "end": -609,
+        "approx": true
+      },
+      "ref": {
+        "book": "zep",
+        "ref": "1:1"
+      },
+      "places": [
+        {
+          "book": "zep",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "jeremias-chamado",
+      "period": "juda",
+      "title": {
+        "pt": "Jeremias é chamado",
+        "en": "Jeremiah is called"
+      },
+      "note": {
+        "pt": "Jeremias é chamado \"no décimo terceiro ano\" de Josias (Jr 1:2). Como a reforma de Josias é do 18º ano (c. 622 a.C.), isso leva a c. 627 a.C.",
+        "en": "Jeremiah is called \"in the thirteenth year\" of Josiah (Jer 1:2). Since Josiah’s reform is in the 18th year (c. 622 BC), this leads to c. 627 BC."
+      },
+      "dates": {
+        "start": -627,
+        "approx": true
+      },
+      "ref": {
+        "book": "jer",
+        "ref": "1:2"
+      },
+      "places": [
+        {
+          "book": "jer",
+          "name": "Anatote",
+          "en": "Anathoth"
+        },
+        {
+          "book": "jer",
           "name": "Jerusalém",
           "en": "Jerusalem"
         }
@@ -862,6 +1404,56 @@
       ]
     },
     {
+      "id": "habacuque",
+      "period": "juda",
+      "title": {
+        "pt": "Habacuque e o levantar dos caldeus",
+        "en": "Habakkuk and the rising of the Chaldeans"
+      },
+      "note": {
+        "pt": "Habacuque pergunta a Deus sobre a violência em Judá e ouve que ele \"levanta os caldeus\" (Hc 1:5–6). O livro não tem data. Costuma-se situá-lo entre a ascensão da Babilônia (605 a.C.) e a primeira conquista de Jerusalém (597 a.C.); alguns propõem datas mais antigas.",
+        "en": "Habakkuk asks God about the violence in Judah and hears that he is \"raising up the Chaldeans\" (Hab 1:5–6). The book has no date. It is usually placed between Babylon’s rise (605 BC) and the first conquest of Jerusalem (597 BC); some propose earlier dates."
+      },
+      "dates": {
+        "start": -605,
+        "end": -597,
+        "approx": true
+      },
+      "ref": {
+        "book": "hab",
+        "ref": "1:6"
+      },
+      "uncertain": true
+    },
+    {
+      "id": "rolo-jeoaquim",
+      "period": "juda",
+      "title": {
+        "pt": "Jeoaquim queima o rolo de Jeremias",
+        "en": "Jehoiakim burns Jeremiah’s scroll"
+      },
+      "note": {
+        "pt": "No 4º ano de Jeoaquim, Jeremias dita a Baruque suas profecias; no ano seguinte, o rei queima o rolo, e Jeremias dita outro (Jr 36).",
+        "en": "In Jehoiakim’s 4th year Jeremiah dictates his prophecies to Baruch; the following year the king burns the scroll, and Jeremiah dictates another (Jer 36)."
+      },
+      "dates": {
+        "start": -605,
+        "end": -604,
+        "approx": true
+      },
+      "ref": {
+        "book": "jer",
+        "ref": "36:1"
+      },
+      "places": [
+        {
+          "book": "jer",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
       "id": "joaquim",
       "period": "juda",
       "title": {
@@ -885,6 +1477,37 @@
           "book": "2ki",
           "name": "Jerusalém",
           "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "ezequiel-chamado",
+      "period": "exilio",
+      "title": {
+        "pt": "Ezequiel é chamado junto ao Quebar",
+        "en": "Ezekiel is called by the Chebar"
+      },
+      "note": {
+        "pt": "No 5º ano do exílio do rei Joaquim, Ezequiel vê a glória do Senhor junto ao rio Quebar (Ez 1:1–3). O livro registra datas precisas, de 593 a 571 a.C.",
+        "en": "In the 5th year of King Jehoiachin’s exile, Ezekiel sees the glory of the Lord by the river Chebar (Ezek 1:1–3). The book records precise dates, from 593 to 571 BC."
+      },
+      "dates": {
+        "start": -593
+      },
+      "ref": {
+        "book": "eze",
+        "ref": "1:1"
+      },
+      "places": [
+        {
+          "book": "eze",
+          "name": "Rio Quebar",
+          "en": "Chebar River"
+        },
+        {
+          "book": "eze",
+          "name": "Babilônia",
+          "en": "Babylon"
         }
       ]
     },
@@ -915,6 +1538,69 @@
       "places": [
         {
           "book": "2ki",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "obadias",
+      "period": "exilio",
+      "title": {
+        "pt": "Obadias contra Edom",
+        "en": "Obadiah against Edom"
+      },
+      "note": {
+        "pt": "Obadias condena Edom por ter se alegrado e lucrado com a queda de Jerusalém (Ob 10–14). A leitura mais comum situa o livro depois de 586 a.C.",
+        "en": "Obadiah condemns Edom for rejoicing and profiting at the fall of Jerusalem (Obad 10–14). The most common reading places the book after 586 BC."
+      },
+      "dates": {
+        "start": -586,
+        "approx": true,
+        "note": {
+          "pt": "Alguns ligam a invasão descrita à de Jeorão de Judá (c. 848–841 a.C.; 2Cr 21:16–17), o que antecederia o livro em vários séculos.",
+          "en": "Some connect the invasion described with that in the reign of Jehoram of Judah (c. 848–841 BC; 2 Chr 21:16–17), which would place the book several centuries earlier."
+        }
+      },
+      "ref": {
+        "book": "oba",
+        "ref": "1:11"
+      },
+      "uncertain": true,
+      "places": [
+        {
+          "book": "oba",
+          "name": "Edom",
+          "en": "Edom"
+        },
+        {
+          "book": "oba",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "ezequiel-templo",
+      "period": "exilio",
+      "title": {
+        "pt": "Ezequiel vê o novo templo",
+        "en": "Ezekiel sees the new temple"
+      },
+      "note": {
+        "pt": "No 25º ano do exílio, Ezequiel recebe a visão do novo templo e da glória do Senhor que volta (Ez 40–48).",
+        "en": "In the 25th year of the exile, Ezekiel receives the vision of the new temple and of the glory of the Lord returning (Ezek 40–48)."
+      },
+      "dates": {
+        "start": -573
+      },
+      "ref": {
+        "book": "eze",
+        "ref": "40:1"
+      },
+      "places": [
+        {
+          "book": "eze",
           "name": "Jerusalém",
           "en": "Jerusalem"
         }
@@ -1001,6 +1687,59 @@
       ]
     },
     {
+      "id": "alicerce-templo",
+      "period": "restauracao",
+      "title": {
+        "pt": "Lançado o alicerce do segundo templo",
+        "en": "Foundation of the second temple laid"
+      },
+      "note": {
+        "pt": "No 2º ano da volta, Zorobabel e Jesua lançam o alicerce do templo, entre gritos de alegria e o choro dos anciãos (Ed 3:8–13). A obra para até o 2º ano de Dario.",
+        "en": "In the 2nd year of the return, Zerubbabel and Jeshua lay the foundation of the temple, amid shouts of joy and the weeping of the elders (Ezra 3:8–13). The work stops until Darius’s 2nd year."
+      },
+      "dates": {
+        "start": -536,
+        "approx": true
+      },
+      "ref": {
+        "book": "ezr",
+        "ref": "3:8"
+      },
+      "places": [
+        {
+          "book": "ezr",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "ageu-zacarias",
+      "period": "restauracao",
+      "title": {
+        "pt": "Ageu e Zacarias: a obra do templo é retomada",
+        "en": "Haggai and Zechariah: work on the temple resumes"
+      },
+      "note": {
+        "pt": "No 2º ano de Dario, Ageu e Zacarias incentivam Zorobabel e Jesua, e a obra recomeça (Ag 1:1; Zc 1:1; Ed 5:1–2). O 2º ano de Dario I é 520 a.C.",
+        "en": "In Darius’s 2nd year, Haggai and Zechariah encourage Zerubbabel and Jeshua, and the work begins again (Hag 1:1; Zech 1:1; Ezra 5:1–2). Darius I’s 2nd year is 520 BC."
+      },
+      "dates": {
+        "start": -520
+      },
+      "ref": {
+        "book": "hag",
+        "ref": "1:1"
+      },
+      "places": [
+        {
+          "book": "ezr",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
       "id": "templo-516",
       "period": "restauracao",
       "title": {
@@ -1054,6 +1793,28 @@
           "en": "Susa"
         }
       ]
+    },
+    {
+      "id": "malaquias",
+      "period": "restauracao",
+      "title": {
+        "pt": "Malaquias",
+        "en": "Malachi"
+      },
+      "note": {
+        "pt": "O livro não traz data. O templo já funciona (Ml 1:7–10) e há um \"governador\" (Ml 1:8), por isso é situado depois de 516 a.C. A maioria o coloca no séc. V a.C., perto de Neemias; a data é debatida.",
+        "en": "The book gives no date. The temple is already functioning (Mal 1:7–10) and there is a \"governor\" (Mal 1:8), so it is placed after 516 BC. Most place it in the 5th century BC, near Nehemiah; the date is debated."
+      },
+      "dates": {
+        "start": -460,
+        "end": -430,
+        "approx": true
+      },
+      "ref": {
+        "book": "mal",
+        "ref": "1:1"
+      },
+      "uncertain": true
     },
     {
       "id": "esdras",

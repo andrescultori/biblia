@@ -253,6 +253,10 @@
           }
         }
       ],
+      "events": [
+        "alicerce-templo",
+        "ageu-zacarias"
+      ],
       "note": {
         "pt": "Pessoa distinta do Josué do livro de Josué; a ficha do site usa só \"Josué\" nos dois casos.",
         "en": "A different person from the Joshua of the book of Joshua; the site's book sheets use just \"Joshua\" in both cases."
@@ -311,7 +315,8 @@
         }
       ],
       "events": [
-        "davi"
+        "davi",
+        "davi-jerusalem"
       ],
       "places": [
         {
@@ -396,7 +401,9 @@
         }
       ],
       "events": [
-        "templo"
+        "templo",
+        "salomao-rei",
+        "templo-dedicacao"
       ],
       "places": [
         {
@@ -455,6 +462,9 @@
             "en": "Example of prayer, with Job (5:11, 17)"
           }
         }
+      ],
+      "events": [
+        "elias"
       ],
       "places": [
         {
@@ -522,7 +532,8 @@
         }
       ],
       "events": [
-        "senaqueribe"
+        "senaqueribe",
+        "ezequias-reforma"
       ],
       "places": [
         {
@@ -578,7 +589,8 @@
         }
       ],
       "events": [
-        "josias"
+        "josias",
+        "jeremias-chamado"
       ],
       "places": [
         {
@@ -2111,6 +2123,10 @@
           }
         }
       ],
+      "events": [
+        "elias",
+        "qarqar"
+      ],
       "places": [
         {
           "book": "1ki",
@@ -2161,7 +2177,8 @@
         }
       ],
       "events": [
-        "jeu"
+        "jeu",
+        "elias"
       ],
       "places": [
         {
@@ -2201,6 +2218,9 @@
             "en": "Elijah's successor; prophet of miracles"
           }
         }
+      ],
+      "events": [
+        "eliseu"
       ],
       "places": [
         {
@@ -2304,7 +2324,10 @@
         }
       ],
       "events": [
-        "senaqueribe"
+        "senaqueribe",
+        "isaias-visao",
+        "siro-efraimita",
+        "ezequias-reforma"
       ],
       "places": [
         {
@@ -2347,7 +2370,9 @@
       ],
       "events": [
         "carquemis",
-        "jerusalem-586"
+        "jerusalem-586",
+        "jeremias-chamado",
+        "rolo-jeoaquim"
       ],
       "places": [
         {
@@ -2404,7 +2429,9 @@
         }
       ],
       "events": [
-        "joaquim"
+        "joaquim",
+        "ezequiel-chamado",
+        "ezequiel-templo"
       ],
       "places": [
         {
@@ -2504,7 +2531,8 @@
         }
       ],
       "events": [
-        "ninive"
+        "ninive",
+        "jeroboao-ii"
       ],
       "places": [
         {
@@ -2704,7 +2732,9 @@
         }
       ],
       "events": [
-        "templo-516"
+        "templo-516",
+        "alicerce-templo",
+        "ageu-zacarias"
       ],
       "places": [
         {
@@ -3987,6 +4017,9 @@
           }
         }
       ],
+      "events": [
+        "salomao-rei"
+      ],
       "places": [
         {
           "book": "2sa",
@@ -4034,7 +4067,8 @@
         }
       ],
       "events": [
-        "templo"
+        "templo",
+        "templo-dedicacao"
       ],
       "places": [
         {
@@ -4178,6 +4212,9 @@
           }
         }
       ],
+      "events": [
+        "eliseu"
+      ],
       "places": [
         {
           "book": "2ki",
@@ -4306,6 +4343,9 @@
           }
         }
       ],
+      "events": [
+        "jeroboao-ii"
+      ],
       "places": [
         {
           "book": "hos",
@@ -4349,6 +4389,9 @@
             "en": "Shepherd of Tekoa called to prophesy"
           }
         }
+      ],
+      "events": [
+        "jeroboao-ii"
       ],
       "places": [
         {
@@ -4394,6 +4437,9 @@
           }
         }
       ],
+      "events": [
+        "ezequias-reforma"
+      ],
       "places": [
         {
           "book": "mic",
@@ -4437,6 +4483,9 @@
             "en": "Jeremiah's scribe (ch. 36)"
           }
         }
+      ],
+      "events": [
+        "rolo-jeoaquim"
       ],
       "places": [
         {
