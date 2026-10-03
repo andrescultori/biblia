@@ -8237,6 +8237,1229 @@
           "en": "Persia"
         }
       ]
+    },
+    {
+      "id": "baraque",
+      "name": {
+        "pt": "Baraque",
+        "en": "Barak"
+      },
+      "summary": {
+        "pt": "Filho de Abinoão, de Quedes de Naftali. Chamado por Débora, reúne dez mil homens no Tabor e derrota o exército de Sísera; a vitória é cantada no cântico de Débora e Baraque (Jz 4–5).",
+        "en": "Son of Abinoam, of Kedesh in Naphtali. Called by Deborah, he gathers ten thousand men at Tabor and defeats Sisera’s army; the victory is sung in the song of Deborah and Barak (Judg 4–5)."
+      },
+      "bio": {
+        "pt": [
+          "Baraque, filho de Abinoão, é de Quedes de Naftali (Jz 4:6). Quando Israel clama ao Senhor por causa da opressão de Jabim, rei de Canaã, e de seu comandante Sísera, a juíza e profetisa Débora manda chamá-lo e lhe transmite a ordem do Senhor: ir ao monte Tabor com dez mil homens de Naftali e Zebulom, e o Senhor atrairá Sísera, com seus carros, ao ribeiro de Quisom e o entregará nas suas mãos (Jz 4:1–7).",
+          "Baraque responde: “Se fores comigo, irei; mas, se não fores comigo, não irei” (Jz 4:8). Débora concorda em ir, mas avisa que a honra da jornada não será dele, pois o Senhor entregará Sísera nas mãos de uma mulher (Jz 4:9). Baraque reúne Zebulom e Naftali, e dez mil homens o seguem. Quando Débora diz “Levanta-te, porque este é o dia”, ele desce do Tabor, e o Senhor derrota Sísera e todos os seus carros (Jz 4:10–15). Baraque persegue os carros até Harosete-Hagoim, e todo o exército de Sísera cai à espada (Jz 4:16).",
+          "Sísera foge a pé e é morto por Jael, e, quando Baraque chega, ela lhe mostra o inimigo morto (Jz 4:17–22). O capítulo 5 traz o “cântico de Débora e Baraque, filho de Abinoão”, com o refrão “Desperta, desperta, Débora… levanta-te, Baraque, e leva presos os teus cativos” (Jz 5:1, 12). Hebreus 11:32 inclui Baraque na lista dos que viveram pela fé. A tribo de Issacar e as de Efraim, Benjamim, Maquir, Zebulom e Naftali são louvadas no cântico por terem vindo (Jz 5:14–15, 18)."
+        ],
+        "en": [
+          "Barak son of Abinoam is from Kedesh in Naphtali (Judg 4:6). When Israel cries out to the Lord because of the oppression of Jabin, king of Canaan, and his commander Sisera, the judge and prophetess Deborah summons him and gives him the Lord’s command: to go to Mount Tabor with ten thousand men of Naphtali and Zebulun, and the Lord will draw Sisera, with his chariots, to the river Kishon and give him into his hand (Judg 4:1–7).",
+          "Barak answers, “If you will go with me, I will go, but if you will not go with me, I will not go” (Judg 4:8). Deborah agrees to go, but warns that the honor of the journey will not be his, for the Lord will sell Sisera into the hand of a woman (Judg 4:9). Barak summons Zebulun and Naphtali, and ten thousand men follow him. When Deborah says, “Up! For this is the day,” he goes down from Tabor, and the Lord routs Sisera and all his chariots (Judg 4:10–15). Barak pursues the chariots to Harosheth-hagoyim, and all Sisera’s army falls by the sword (Judg 4:16).",
+          "Sisera flees on foot and is killed by Jael, and when Barak arrives she shows him the dead enemy (Judg 4:17–22). Chapter 5 gives the “song of Deborah and Barak the son of Abinoam,” with the refrain “Awake, awake, Deborah… Arise, Barak, lead away your captives” (Judg 5:1, 12). Hebrews 11:32 includes Barak in the list of those who lived by faith. The tribes of Issachar, Ephraim, Benjamin, Machir, Zebulun and Naphtali are praised in the song for having come (Judg 5:14–15, 18)."
+        ]
+      },
+      "books": [
+        {
+          "book": "jdg",
+          "role": {
+            "pt": "Comanda o exército de Israel com Débora (4–5)",
+            "en": "Commands Israel’s army with Deborah (4–5)"
+          }
+        },
+        {
+          "book": "heb",
+          "role": {
+            "pt": "Entre os que viveram pela fé (11:32)",
+            "en": "Among those who lived by faith (11:32)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "jdg",
+          "name": "Monte Tabor",
+          "en": "Mount Tabor"
+        }
+      ]
+    },
+    {
+      "id": "mefibosete",
+      "name": {
+        "pt": "Mefibosete",
+        "en": "Mephibosheth"
+      },
+      "summary": {
+        "pt": "Filho de Jônatas e neto de Saul, coxo desde os cinco anos. Davi o acolhe por amor a Jônatas, restitui-lhe as terras de Saul e o faz comer à sua mesa (2Sm 4:4; 9).",
+        "en": "Son of Jonathan and grandson of Saul, lame since the age of five. David takes him in for Jonathan’s sake, restores Saul’s land to him and has him eat at his table (2 Sam 4:4; 9)."
+      },
+      "bio": {
+        "pt": [
+          "Mefibosete é filho de Jônatas e neto de Saul. Tinha cinco anos quando chegou a notícia da morte de Saul e Jônatas em Jezreel, e a ama, fugindo, o deixou cair, e ele ficou coxo dos dois pés (2Sm 4:4). Cresceu em Lo-Debar, na casa de Maquir (2Sm 9:4). As genealogias de Crônicas o chamam Meribe-Baal (1Cr 8:34; 9:40).",
+          "Depois de firmar o reino, Davi pergunta se resta alguém da casa de Saul a quem possa mostrar bondade “por amor de Jônatas”. O servo Ziba lhe fala de Mefibosete, e Davi o manda chamar. Mefibosete se prostra, e Davi lhe diz: “Não temas, porque certamente usarei de bondade para contigo, por amor de teu pai Jônatas; e te restituirei todas as terras de teu pai Saul, e tu comerás pão à minha mesa continuamente” (2Sm 9:1–13). Mefibosete responde chamando-se “cão morto”. Ziba e seus filhos passam a cultivar as terras para ele.",
+          "Na revolta de Absalão, Ziba vem a Davi com provisões e acusa seu senhor de ter ficado em Jerusalém na esperança de recuperar o reino do pai; Davi dá a Ziba tudo o que era de Mefibosete (2Sm 16:1–4). Na volta de Davi, Mefibosete o encontra sem ter cuidado dos pés nem da barba, diz que Ziba o enganou e aceita o veredicto do rei, que divide as terras entre os dois (2Sm 19:24–30). Quando Davi entrega aos gibeonitas descendentes de Saul, poupa Mefibosete por causa do juramento feito a Jônatas (2Sm 21:7). O texto não resolve quem dizia a verdade."
+        ],
+        "en": [
+          "Mephibosheth is the son of Jonathan and grandson of Saul. He was five when the news came of the death of Saul and Jonathan at Jezreel, and his nurse, fleeing, dropped him, and he became lame in both feet (2 Sam 4:4). He grew up in Lo-debar, in the house of Machir (2 Sam 9:4). The genealogies of Chronicles call him Merib-baal (1 Chr 8:34; 9:40).",
+          "After establishing the kingdom, David asks whether anyone remains of the house of Saul to whom he can show kindness “for Jonathan’s sake.” The servant Ziba tells him about Mephibosheth, and David sends for him. Mephibosheth falls on his face, and David tells him, “Do not fear, for I will show you kindness for the sake of your father Jonathan, and I will restore to you all the land of Saul your father, and you shall eat at my table always” (2 Sam 9:1–13). Mephibosheth answers by calling himself a “dead dog.” Ziba and his sons now farm the land for him.",
+          "In Absalom’s revolt Ziba comes to David with provisions and accuses his master of having stayed in Jerusalem in the hope of recovering his father’s kingdom; David gives Ziba everything that had belonged to Mephibosheth (2 Sam 16:1–4). On David’s return Mephibosheth meets him having cared neither for his feet nor his beard, says Ziba deceived him and accepts the king’s verdict, which divides the land between them (2 Sam 19:24–30). When David hands over descendants of Saul to the Gibeonites, he spares Mephibosheth because of the oath made with Jonathan (2 Sam 21:7). The text does not resolve who was telling the truth."
+        ]
+      },
+      "books": [
+        {
+          "book": "2sa",
+          "role": {
+            "pt": "Neto de Saul, acolhido por Davi (4:4; 9; 16; 19; 21)",
+            "en": "Saul’s grandson, taken in by David (4:4; 9; 16; 19; 21)"
+          }
+        },
+        {
+          "book": "1ch",
+          "role": {
+            "pt": "Chamado Meribe-Baal (8:34; 9:40)",
+            "en": "Called Merib-baal (8:34; 9:40)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "2sa",
+          "name": "Lo-Debar",
+          "en": "Lo-debar"
+        },
+        {
+          "book": "2sa",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "urias",
+      "name": {
+        "pt": "Urias, o heteu",
+        "en": "Uriah the Hittite"
+      },
+      "summary": {
+        "pt": "Um dos valentes de Davi e marido de Bate-Seba. Recusa-se a ir para casa enquanto a arca e o exército estão em campanha; Davi manda Joabe pô-lo na frente da batalha, e ele morre (2Sm 11; 23:39).",
+        "en": "One of David’s mighty men and Bathsheba’s husband. He refuses to go home while the ark and the army are on campaign; David has Joab put him at the front of the battle, and he dies (2 Sam 11; 23:39)."
+      },
+      "bio": {
+        "pt": [
+          "Urias, o heteu, aparece na lista dos valentes de Davi (2Sm 23:39). Mora em Jerusalém, perto do palácio, e é casado com Bate-Seba, filha de Eliã (2Sm 11:3). Quando Davi, depois de se deitar com Bate-Seba e de ela avisar que estava grávida, manda chamá-lo da guerra contra Amom, pergunta-lhe pela batalha e lhe diz: “Desce a tua casa e lava os teus pés” (2Sm 11:4–8).",
+          "Urias, porém, dorme à porta do palácio com os servos do rei e não vai para casa. Quando Davi lhe pergunta o motivo, ele responde: “A arca e Israel e Judá ficam em tendas, e meu senhor Joabe e os servos do meu senhor estão acampados no campo; e eu entraria na minha casa, para comer e beber e para me deitar com a minha mulher? Por tua vida e pela vida da tua alma, não farei tal coisa” (2Sm 11:9–11). Davi o embriaga no dia seguinte, mas Urias continua sem ir para casa (2Sm 11:12–13).",
+          "Davi escreve uma carta a Joabe, que Urias leva: “Põe Urias na frente, onde a peleja for mais forte, e deixa-o sozinho, para que seja ferido e morra” (2Sm 11:14–15). Joabe o põe junto ao muro de Rabá, e Urias morre com outros soldados (2Sm 11:16–25). O profeta Natã denuncia depois: “Feriste à espada Urias, o heteu, e tomaste por mulher a sua mulher” (2Sm 12:9). Em 1Reis 15:5, o autor diz que Davi fez o que era reto, “exceto no caso de Urias, o heteu”. Mateus 1:6 chama Bate-Seba “a que foi de Urias”."
+        ],
+        "en": [
+          "Uriah the Hittite appears in the list of David’s mighty men (2 Sam 23:39). He lives in Jerusalem, near the palace, and is married to Bathsheba, daughter of Eliam (2 Sam 11:3). When David, after lying with Bathsheba and her telling him she was pregnant, summons him from the war against Ammon, he asks him about the battle and tells him, “Go down to your house and wash your feet” (2 Sam 11:4–8).",
+          "Uriah, however, sleeps at the door of the palace with the king’s servants and does not go home. When David asks him why, he answers, “The ark and Israel and Judah dwell in booths, and my lord Joab and the servants of my lord are camping in the open field. Shall I then go to my house, to eat and to drink and to lie with my wife? As you live, and as your soul lives, I will not do this thing” (2 Sam 11:9–11). David makes him drunk the next day, but Uriah still does not go home (2 Sam 11:12–13).",
+          "David writes a letter to Joab, which Uriah carries: “Set Uriah in the forefront of the hardest fighting, and then draw back from him, that he may be struck down and die” (2 Sam 11:14–15). Joab puts him near the wall of Rabbah, and Uriah dies with other soldiers (2 Sam 11:16–25). The prophet Nathan later denounces: “You have struck down Uriah the Hittite with the sword and have taken his wife to be your wife” (2 Sam 12:9). In 1 Kings 15:5 the author says David did what was right, “except in the matter of Uriah the Hittite.” Matthew 1:6 calls Bathsheba “the wife of Uriah.”"
+        ]
+      },
+      "books": [
+        {
+          "book": "2sa",
+          "role": {
+            "pt": "Soldado fiel, marido de Bate-Seba (11; 23:39)",
+            "en": "Faithful soldier, Bathsheba’s husband (11; 23:39)"
+          }
+        },
+        {
+          "book": "1ki",
+          "role": {
+            "pt": "Lembrado como a exceção na vida de Davi (15:5)",
+            "en": "Recalled as the exception in David’s life (15:5)"
+          }
+        },
+        {
+          "book": "mat",
+          "role": {
+            "pt": "“A que foi de Urias” na genealogia de Jesus (1:6)",
+            "en": "“Her who had been the wife of Uriah” in Jesus’ genealogy (1:6)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "2sa",
+          "name": "Rabá",
+          "en": "Rabbah"
+        },
+        {
+          "book": "2sa",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ],
+      "note": {
+        "pt": "Não confundir com o profeta Urias, morto por Jeoaquim (Jr 26:20–23).",
+        "en": "Not to be confused with the prophet Uriah, put to death by Jehoiakim (Jer 26:20–23)."
+      }
+    },
+    {
+      "id": "orfa",
+      "name": {
+        "pt": "Orfa",
+        "en": "Orpah"
+      },
+      "summary": {
+        "pt": "Nora moabita de Noemi, mulher de Quiliom. Beija a sogra e volta para o seu povo, enquanto Rute fica (Rt 1:4–14).",
+        "en": "Moabite daughter-in-law of Naomi, wife of Chilion. She kisses her mother-in-law and returns to her people, while Ruth stays (Ruth 1:4–14)."
+      },
+      "bio": {
+        "pt": [
+          "Orfa é uma das duas moabitas com quem os filhos de Elimeleque e Noemi se casam em Moabe: Orfa com Quiliom e Rute com Malom (Rt 1:4). Cerca de dez anos depois, morrem Malom e Quiliom, e Noemi fica sem marido e sem filhos (Rt 1:5). Quando Noemi decide voltar a Belém, ouvindo que o Senhor visitara o seu povo com pão, as duas noras saem com ela (Rt 1:6–7).",
+          "No caminho, Noemi lhes pede que voltem cada uma à casa da mãe, abençoando-as: “O Senhor use de misericórdia convosco, como vós usastes com os que morreram e comigo” (Rt 1:8–9). Elas choram, beijam-na e dizem que irão com ela. Noemi insiste: não tem mais filhos para dar-lhes por maridos, e “a mão do Senhor se manifestou contra mim” (Rt 1:10–13). Orfa beija a sogra e volta; Rute se apega a ela (Rt 1:14).",
+          "Noemi diz a Rute: “Eis que tua cunhada voltou ao seu povo e aos seus deuses; volta tu também após a tua cunhada” (Rt 1:15). Rute responde com sua declaração de fidelidade (Rt 1:16–17). O texto não julga Orfa nem diz o que aconteceu com ela depois; seu retorno serve de contraste com a escolha de Rute."
+        ],
+        "en": [
+          "Orpah is one of the two Moabite women whom the sons of Elimelech and Naomi marry in Moab: Orpah to Chilion and Ruth to Mahlon (Ruth 1:4). About ten years later Mahlon and Chilion die, and Naomi is left without husband or sons (Ruth 1:5). When Naomi decides to return to Bethlehem, hearing that the Lord had visited his people and given them food, the two daughters-in-law set out with her (Ruth 1:6–7).",
+          "On the way Naomi asks them to return each to her mother’s house, blessing them: “May the Lord deal kindly with you, as you have dealt with the dead and with me” (Ruth 1:8–9). They weep, kiss her and say they will go with her. Naomi insists: she has no more sons to give them as husbands, and “the hand of the Lord has gone out against me” (Ruth 1:10–13). Orpah kisses her mother-in-law and returns; Ruth clings to her (Ruth 1:14).",
+          "Naomi says to Ruth, “Behold, your sister-in-law has gone back to her people and to her gods; return after your sister-in-law” (Ruth 1:15). Ruth answers with her declaration of loyalty (Ruth 1:16–17). The text does not judge Orpah or say what happened to her afterward; her return serves as a contrast to Ruth’s choice."
+        ]
+      },
+      "books": [
+        {
+          "book": "rut",
+          "role": {
+            "pt": "Nora de Noemi; volta a Moabe (1:4–15)",
+            "en": "Naomi’s daughter-in-law; returns to Moab (1:4–15)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "rut",
+          "name": "Moabe",
+          "en": "Moab"
+        }
+      ]
+    },
+    {
+      "id": "obede",
+      "name": {
+        "pt": "Obede",
+        "en": "Obed"
+      },
+      "summary": {
+        "pt": "Filho de Boaz e Rute, nascido em Belém. Noemi o toma ao colo; ele é pai de Jessé e avô de Davi (Rt 4:13–22; Mt 1:5).",
+        "en": "Son of Boaz and Ruth, born in Bethlehem. Naomi takes him in her arms; he is the father of Jesse and grandfather of David (Ruth 4:13–22; Matt 1:5)."
+      },
+      "bio": {
+        "pt": [
+          "Obede nasce do casamento de Boaz com Rute: “O Senhor lhe concedeu que concebesse, e deu à luz um filho” (Rt 4:13). As mulheres de Belém dizem a Noemi: “Bendito seja o Senhor, que não deixou de te dar hoje um resgatador… e ele será restaurador da tua vida e sustentador da tua velhice, porque te deu à luz a tua nora, que te ama e que é melhor para ti do que sete filhos” (Rt 4:14–15).",
+          "Noemi toma o menino ao colo e se torna sua ama; as vizinhas dizem: “Nasceu um filho a Noemi”, e lhe dão o nome de Obede (Rt 4:16–17). O texto explica que ele é “o pai de Jessé, pai de Davi” (Rt 4:17). O livro termina com a genealogia que vai de Perez a Davi, em que Obede aparece entre Boaz e Jessé (Rt 4:18–22).",
+          "Obede é lembrado nas listas de Judá (1Cr 2:12) e nas genealogias de Jesus em Mateus 1:5 e Lucas 3:32. Fora do capítulo 4 de Rute, a Bíblia não conta nada mais de sua vida."
+        ],
+        "en": [
+          "Obed is born of the marriage of Boaz and Ruth: “The Lord gave her conception, and she bore a son” (Ruth 4:13). The women of Bethlehem say to Naomi, “Blessed be the Lord, who has not left you this day without a redeemer… He shall be to you a restorer of life and a nourisher of your old age, for your daughter-in-law who loves you, who is more to you than seven sons, has given him birth” (Ruth 4:14–15).",
+          "Naomi takes the child in her arms and becomes his nurse; the neighbor women say, “A son has been born to Naomi,” and give him the name Obed (Ruth 4:16–17). The text explains that he is “the father of Jesse, the father of David” (Ruth 4:17). The book ends with the genealogy from Perez to David, in which Obed appears between Boaz and Jesse (Ruth 4:18–22).",
+          "Obed is remembered in the lists of Judah (1 Chr 2:12) and in the genealogies of Jesus in Matthew 1:5 and Luke 3:32. Apart from chapter 4 of Ruth, the Bible tells nothing more of his life."
+        ]
+      },
+      "books": [
+        {
+          "book": "rut",
+          "role": {
+            "pt": "Filho de Boaz e Rute; avô de Davi (4:13–22)",
+            "en": "Son of Boaz and Ruth; grandfather of David (4:13–22)"
+          }
+        },
+        {
+          "book": "mat",
+          "role": {
+            "pt": "Na genealogia de Jesus (1:5)",
+            "en": "In Jesus’ genealogy (1:5)"
+          }
+        },
+        {
+          "book": "luk",
+          "role": {
+            "pt": "Na genealogia de Jesus (3:32)",
+            "en": "In Jesus’ genealogy (3:32)"
+          }
+        },
+        {
+          "book": "1ch",
+          "role": {
+            "pt": "Na genealogia de Judá (2:12)",
+            "en": "In Judah’s genealogy (2:12)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "rut",
+          "name": "Belém",
+          "en": "Bethlehem"
+        }
+      ],
+      "note": {
+        "pt": "Não confundir com Obede-Edom (2Sm 6:10–12).",
+        "en": "Not to be confused with Obed-edom (2 Sam 6:10–12)."
+      }
+    },
+    {
+      "id": "sambalate",
+      "name": {
+        "pt": "Sambalate, o horonita",
+        "en": "Sanballat the Horonite"
+      },
+      "summary": {
+        "pt": "Oficial que, com Tobias e Geséim, se opõe à reconstrução dos muros de Jerusalém por Neemias, zomba dos judeus e trama contra o governador (Ne 2:10, 19; 4; 6; 13:28).",
+        "en": "Official who, with Tobiah and Geshem, opposes Nehemiah’s rebuilding of the walls of Jerusalem, mocks the Jews and plots against the governor (Neh 2:10, 19; 4; 6; 13:28)."
+      },
+      "bio": {
+        "pt": [
+          "Sambalate, chamado “o horonita”, aparece quando Neemias chega a Jerusalém: ele e Tobias, “o servo amonita”, ficam muito desgostosos por alguém ter vindo procurar o bem dos filhos de Israel (Ne 2:10). Quando Neemias convoca o povo a reconstruir o muro, Sambalate, Tobias e Geséim, o árabe, zombam e perguntam: “Que é isso que fazeis? Rebelar-vos-eis contra o rei?” Neemias responde que o Deus dos céus fará prosperar a obra e que eles não têm parte nem direito em Jerusalém (Ne 2:19–20).",
+          "À medida que o muro cresce, Sambalate, com o exército de Samaria, zomba: “Que fazem estes fracos judeus?… Acaso reviverão as pedras dos montões de entulho?” (Ne 4:1–3). Depois, ele e os aliados conspiram para atacar Jerusalém, e Neemias manda armar os trabalhadores e orar (Ne 4:7–23). Quando o muro está pronto, Sambalate e Geséim convidam Neemias a se encontrar com eles numa das aldeias da planície de Ono, querendo fazer-lhe mal; ele responde quatro vezes que está fazendo uma grande obra e não pode descer (Ne 6:1–4). Numa quinta ocasião, manda uma carta aberta acusando Neemias de preparar uma rebelião e de querer ser rei, o que Neemias nega (Ne 6:5–9). Também subornam Semaías para amedrontar Neemias e levá-lo a refugiar-se no templo, o que ele recusa (Ne 6:10–14).",
+          "Já no fim do livro, Neemias expulsa de sua presença um neto do sumo sacerdote Eliasibe, que era genro de Sambalate (Ne 13:28). O texto não diz mais sobre Sambalate. Documentos judaicos de Elefantina, no Egito, fora da Bíblia, citam um Sambalate (Sanbalat) como governador de Samaria, o que costuma ser ligado a esse adversário de Neemias."
+        ],
+        "en": [
+          "Sanballat, called “the Horonite,” appears when Nehemiah arrives in Jerusalem: he and Tobiah, “the Ammonite servant,” are very much displeased that someone had come to seek the welfare of the people of Israel (Neh 2:10). When Nehemiah calls the people to rebuild the wall, Sanballat, Tobiah and Geshem the Arab mock and ask, “What is this thing that you are doing? Are you rebelling against the king?” Nehemiah answers that the God of heaven will make the work prosper and that they have no portion or right in Jerusalem (Neh 2:19–20).",
+          "As the wall rises, Sanballat, with the army of Samaria, scoffs: “What are these feeble Jews doing?… Will they revive the stones out of the heaps of rubbish?” (Neh 4:1–3). Later he and his allies conspire to attack Jerusalem, and Nehemiah has the workers armed and prays (Neh 4:7–23). When the wall is finished, Sanballat and Geshem invite Nehemiah to meet them in one of the villages in the plain of Ono, intending to harm him; he answers four times that he is doing a great work and cannot come down (Neh 6:1–4). On a fifth occasion he sends an open letter accusing Nehemiah of preparing a rebellion and of wanting to be king, which Nehemiah denies (Neh 6:5–9). They also bribe Shemaiah to frighten Nehemiah into taking refuge in the temple, which he refuses (Neh 6:10–14).",
+          "Near the end of the book Nehemiah drives away from him a grandson of the high priest Eliashib who was a son-in-law of Sanballat (Neh 13:28). The text says nothing more about Sanballat. Jewish documents from Elephantine in Egypt, outside the Bible, mention a Sanballat as governor of Samaria, which is usually linked to this adversary of Nehemiah."
+        ]
+      },
+      "books": [
+        {
+          "book": "neh",
+          "role": {
+            "pt": "Adversário de Neemias (2:10, 19; 4; 6; 13:28)",
+            "en": "Nehemiah’s adversary (2:10, 19; 4; 6; 13:28)"
+          }
+        }
+      ],
+      "events": [
+        "neemias"
+      ],
+      "places": [
+        {
+          "book": "neh",
+          "name": "Ono",
+          "en": "Ono"
+        },
+        {
+          "book": "neh",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "tobias-amonita",
+      "name": {
+        "pt": "Tobias, o amonita",
+        "en": "Tobiah the Ammonite"
+      },
+      "summary": {
+        "pt": "Oficial amonita aliado de Sambalate contra Neemias. Tem laços de família com a nobreza de Judá e chega a ocupar uma câmara do templo, que Neemias esvazia (Ne 2:10, 19; 6:17–19; 13:4–9).",
+        "en": "Ammonite official allied with Sanballat against Nehemiah. He has family ties with the nobility of Judah and even occupies a chamber of the temple, which Nehemiah empties (Neh 2:10, 19; 6:17–19; 13:4–9)."
+      },
+      "bio": {
+        "pt": [
+          "Tobias aparece em Neemias sempre ao lado de Sambalate, descrito como “o servo amonita” (Ne 2:10, 19). Junto com ele, zomba da reconstrução do muro: “Se uma raposa subir, derrubará o muro de pedras” (Ne 4:3). Planeja com os aliados atacar Jerusalém (Ne 4:7–8) e, no fim da obra, manda cartas para amedrontar Neemias (Ne 6:19).",
+          "Tobias tinha muitos parentes em Judá. Neemias conta que muitos judeus se haviam comprometido por juramento com ele, porque era genro de Secanias, filho de Ara, e seu filho Joanã se casou com a filha de Mesulão, filho de Berequias; esses aliados elogiavam suas boas obras diante de Neemias e levavam a ele o que Neemias dizia (Ne 6:17–19).",
+          "Em Neemias 13:4–9, quando o governador volta de Susã, descobre que o sacerdote Eliasibe, parente de Tobias, preparou para ele uma grande câmara nos átrios do templo, onde antes se guardavam as ofertas, o incenso e os dízimos. Neemias se irrita, joga fora toda a mobília de Tobias, manda purificar as câmaras e devolver os utensílios do templo (Ne 13:4–9). Não se conta mais nada sobre Tobias."
+        ],
+        "en": [
+          "Tobiah appears in Nehemiah always alongside Sanballat, described as “the Ammonite servant” (Neh 2:10, 19). With him he mocks the rebuilding of the wall: “If a fox goes up on it he will break down their stone wall!” (Neh 4:3). He plans with his allies to attack Jerusalem (Neh 4:7–8) and, at the end of the work, sends letters to intimidate Nehemiah (Neh 6:19).",
+          "Tobiah had many relatives in Judah. Nehemiah tells that many Jews had sworn allegiance to him, because he was son-in-law of Shecaniah son of Arah, and his son Jehohanan married the daughter of Meshullam son of Berechiah; these allies spoke of his good deeds before Nehemiah and reported Nehemiah’s words to him (Neh 6:17–19).",
+          "In Nehemiah 13:4–9, when the governor returns from Susa, he finds that the priest Eliashib, a relative of Tobiah, had prepared for him a large chamber in the courts of the temple, where grain offerings, incense and the tithes had been stored. Nehemiah is angry, throws all of Tobiah’s household furniture out, orders the chambers cleansed and the vessels of the temple put back (Neh 13:4–9). Nothing more is told about Tobiah."
+        ]
+      },
+      "books": [
+        {
+          "book": "neh",
+          "role": {
+            "pt": "Adversário de Neemias (2:10, 19; 4; 6; 13:4–9)",
+            "en": "Nehemiah’s adversary (2:10, 19; 4; 6; 13:4–9)"
+          }
+        }
+      ],
+      "events": [
+        "neemias"
+      ],
+      "places": [
+        {
+          "book": "neh",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ],
+      "note": {
+        "pt": "Não confundir com o Tobias de Zc 6:10, 14, que volta do exílio.",
+        "en": "Not to be confused with the Tobiah of Zech 6:10, 14, who returns from exile."
+      }
+    },
+    {
+      "id": "gogue",
+      "name": {
+        "pt": "Gogue",
+        "en": "Gog"
+      },
+      "summary": {
+        "pt": "Príncipe de Rôs, Meseque e Tubal, da terra de Magogue, contra quem o Senhor profere um oráculo em Ezequiel 38–39: vem do norte contra Israel restaurado e cai nos montes de Israel.",
+        "en": "Prince of Rosh, Meshech and Tubal, of the land of Magog, against whom the Lord pronounces an oracle in Ezekiel 38–39: he comes from the north against restored Israel and falls on the mountains of Israel."
+      },
+      "bio": {
+        "pt": [
+          "Ezequiel 38:2 manda o profeta voltar o rosto contra “Gogue, da terra de Magogue, príncipe de Rôs, Meseque e Tubal”. O Senhor o atrai com ganchos nas mandíbulas, com um grande exército de muitas nações, entre elas Pérsia, Cuxe, Pute, Gômer e Togarma, para atacar “um povo recolhido da espada, congregado dentre muitos povos”, que vive em segurança nas aldeias sem muros, “nos últimos anos” e “nos últimos dias” (Ez 38:1–16).",
+          "Mas o Senhor se levanta com fúria: haverá um grande terremoto, espadas se voltarão umas contra as outras, peste, sangue, chuva de pedras, fogo e enxofre (Ez 38:17–23). Em Ezequiel 39, o Senhor diz que o fará cair nos montes de Israel, com todas as suas tropas, e que será alimento para aves e animais (Ez 39:1–6). Israel queimará as armas por sete anos, e os mortos serão sepultados por sete meses no vale chamado Hamom-Gogue (Ez 39:9–16). O objetivo é que as nações saibam que o Senhor é Deus e que Israel foi levado cativo por causa da sua iniquidade, e agora o Senhor o reúne (Ez 39:21–29).",
+          "Apocalipse 20:7–9 retoma o nome: no fim do milênio, Satanás é solto e sai para enganar “as nações que estão nos quatro cantos da terra, Gogue e Magogue”, para a batalha final, onde fogo desce do céu e as devora. Os intérpretes divergem sobre Ezequiel 38–39: alguns veem um personagem histórico (propõem-se vários reis antigos), outros um acontecimento futuro e outros uma imagem do mal contra o povo de Deus. O texto não identifica Gogue com nenhum rei conhecido."
+        ],
+        "en": [
+          "Ezekiel 38:2 tells the prophet to set his face against “Gog, of the land of Magog, the chief prince of Meshech and Tubal.” The Lord draws him with hooks in his jaws, with a great army of many nations, among them Persia, Cush, Put, Gomer and Togarmah, to attack “a land that has been restored from war, whose people were gathered from many nations,” living securely in unwalled villages, “after many days” and “in the latter years” (Ezek 38:1–16).",
+          "But the Lord rises in fury: there will be a great earthquake, swords will turn against one another, pestilence, blood, torrential rain, hailstones, fire and sulfur (Ezek 38:17–23). In Ezekiel 39 the Lord says he will make him fall on the mountains of Israel, with all his troops, and that he will be food for birds and beasts (Ezek 39:1–6). Israel will burn the weapons for seven years, and the dead will be buried for seven months in the valley called Hamon-gog (Ezek 39:9–16). The purpose is that the nations may know that the Lord is God and that Israel was taken into exile for its iniquity, and now the Lord gathers it (Ezek 39:21–29).",
+          "Revelation 20:7–9 takes up the name: at the end of the thousand years, Satan is released and goes out to deceive “the nations that are at the four corners of the earth, Gog and Magog,” for the final battle, where fire comes down from heaven and consumes them. Interpreters differ about Ezekiel 38–39: some see a historical figure (several ancient kings have been proposed), others a future event and others an image of evil against the people of God. The text does not identify Gog with any known king."
+        ]
+      },
+      "books": [
+        {
+          "book": "eze",
+          "role": {
+            "pt": "Alvo do oráculo de juízo (38–39)",
+            "en": "Target of the oracle of judgment (38–39)"
+          }
+        },
+        {
+          "book": "rev",
+          "role": {
+            "pt": "“Gogue e Magogue” (20:8)",
+            "en": "“Gog and Magog” (20:8)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gaio-3jo",
+      "name": {
+        "pt": "Gaio (destinatário de 3 João)",
+        "en": "Gaius (recipient of 3 John)"
+      },
+      "summary": {
+        "pt": "Destinatário da terceira carta de João, a quem o presbítero chama de “amado” e elogia por andar na verdade e acolher os irmãos viajantes (3Jo 1–8).",
+        "en": "Recipient of John’s third letter, whom the elder calls “beloved” and praises for walking in the truth and welcoming traveling brothers (3 John 1–8)."
+      },
+      "bio": {
+        "pt": [
+          "A terceira carta de João começa: “O presbítero ao amado Gaio, a quem eu amo na verdade” (3Jo 1). O autor lhe deseja que prospere em tudo e tenha saúde, como prospera a sua alma (3Jo 2). Diz ter ficado muito alegre quando irmãos chegaram e deram testemunho de que Gaio andava na verdade: “Não tenho maior alegria do que esta, a de ouvir que meus filhos andam na verdade” (3Jo 3–4).",
+          "O elogio principal é pela hospitalidade. Gaio age fielmente em tudo o que faz pelos irmãos, “ainda que sejam estrangeiros”, e eles deram testemunho do seu amor diante da igreja. O presbítero lhe pede que os ajude na viagem de modo digno de Deus, porque “saíram pelo Nome, nada recebendo dos gentios”, e por isso devemos acolher tais pessoas, “para sermos cooperadores da verdade” (3Jo 5–8). Mais adiante, a carta o adverte a respeito de Diótrefes e o exorta: “Amado, não imites o mal, mas o bem” (3Jo 9–11).",
+          "O texto não diz onde Gaio vivia nem quem ele era além disso. O nome era muito comum; outros Gaios aparecem no Novo Testamento, de Macedônia (At 19:29), de Derbe (At 20:4) e de Corinto (Rm 16:23; 1Co 1:14), e a carta não os identifica com este."
+        ],
+        "en": [
+          "The third letter of John begins: “The elder to the beloved Gaius, whom I love in truth” (3 John 1). The author wishes that he may prosper in all things and be in good health, as his soul prospers (3 John 2). He says he rejoiced greatly when brothers came and testified to Gaius’s walking in the truth: “I have no greater joy than to hear that my children are walking in the truth” (3 John 3–4).",
+          "The main praise is for hospitality. Gaius acts faithfully in all he does for the brothers, “especially as they are strangers,” and they testified to his love before the church. The elder asks him to send them on their journey in a manner worthy of God, because “they have gone out for the sake of the name, accepting nothing from the Gentiles,” and so we ought to support such people, “that we may be fellow workers for the truth” (3 John 5–8). Further on, the letter warns him about Diotrephes and urges him: “Beloved, do not imitate evil but imitate good” (3 John 9–11).",
+          "The text does not say where Gaius lived or who he was beyond this. The name was very common; other Gaiuses appear in the New Testament, from Macedonia (Acts 19:29), from Derbe (Acts 20:4) and from Corinth (Rom 16:23; 1 Cor 1:14), and the letter does not identify them with this one."
+        ]
+      },
+      "books": [
+        {
+          "book": "3jn",
+          "role": {
+            "pt": "Destinatário; elogiado pela hospitalidade (1–8)",
+            "en": "Recipient; praised for hospitality (1–8)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "diotrefes",
+      "name": {
+        "pt": "Diótrefes",
+        "en": "Diotrephes"
+      },
+      "summary": {
+        "pt": "Membro de uma igreja que “gosta de ter o primeiro lugar”, não acolhe o presbítero nem os irmãos e expulsa da igreja quem os recebe (3Jo 9–10).",
+        "en": "Member of a church who “likes to put himself first,” does not welcome the elder or the brothers and drives out of the church those who receive them (3 John 9–10)."
+      },
+      "bio": {
+        "pt": [
+          "Diótrefes aparece só em 3 João 9–10. O presbítero diz que escreveu à igreja, “mas Diótrefes, que gosta de ter o primeiro lugar entre eles, não nos recebe”. Por isso, diz, quando for, lembrará as obras que ele pratica: “falando mal de nós com palavras maldosas”, e, “não contente com isso, nem ele mesmo recebe os irmãos, e impede os que querem recebê-los e os expulsa da igreja”.",
+          "Logo em seguida, o presbítero exorta Gaio: “Amado, não imites o mal, mas o bem. Quem faz o bem é de Deus; quem faz o mal não tem visto a Deus” (3Jo 11). O texto não diz quem era Diótrefes, que cargo tinha, nem o motivo exato do conflito, que pode ter sido de autoridade ou de doutrina. Também não conta como o episódio terminou."
+        ],
+        "en": [
+          "Diotrephes appears only in 3 John 9–10. The elder says he wrote to the church, “but Diotrephes, who likes to put himself first, does not acknowledge our authority.” So, he says, when he comes he will bring up what he is doing: “talking wicked nonsense against us,” and, “not content with that, he refuses to welcome the brothers, and also stops those who want to and puts them out of the church.”",
+          "Right afterward the elder urges Gaius: “Beloved, do not imitate evil but imitate good. Whoever does good is from God; whoever does evil has not seen God” (3 John 11). The text does not say who Diotrephes was, what position he held, or the exact reason for the conflict, which may have been about authority or doctrine. It also does not tell how the episode ended."
+        ]
+      },
+      "books": [
+        {
+          "book": "3jn",
+          "role": {
+            "pt": "Resiste ao presbítero e aos irmãos (9–10)",
+            "en": "Resists the elder and the brothers (9–10)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "demetrio",
+      "name": {
+        "pt": "Demétrio",
+        "en": "Demetrius"
+      },
+      "summary": {
+        "pt": "Cristão a quem 3 João dá testemunho: “Todos dão bom testemunho de Demétrio, e a própria verdade” (3Jo 12). Pode ser o portador da carta, mas o texto não diz.",
+        "en": "Christian to whom 3 John gives testimony: “Everyone has testified favorably about Demetrius, and so has the truth itself” (3 John 12). He may be the bearer of the letter, but the text does not say."
+      },
+      "bio": {
+        "pt": [
+          "Demétrio é citado só em 3 João 12: “Todos dão bom testemunho de Demétrio, e a própria verdade; e nós também testificamos, e sabeis que o nosso testemunho é verdadeiro”. O versículo vem logo depois da advertência contra Diótrefes e do apelo para imitar o bem (3Jo 9–11), de modo que Demétrio é apresentado como exemplo do bem.",
+          "A carta não diz quem era Demétrio nem por que ele é recomendado. Muitos entendem que era o portador da carta, ou um dos irmãos viajantes que Gaio devia acolher (3Jo 5–8), mas o texto não afirma. O nome era comum; Atos 19:24–41 fala de um Demétrio, ourives de Éfeso, que se opôs a Paulo, sem relação indicada com este."
+        ],
+        "en": [
+          "Demetrius is mentioned only in 3 John 12: “Everyone has testified favorably about Demetrius, and so has the truth itself. We also add our testimony, and you know that our testimony is true.” The verse comes right after the warning against Diotrephes and the appeal to imitate good (3 John 9–11), so Demetrius is presented as an example of good.",
+          "The letter does not say who Demetrius was or why he is commended. Many understand that he was the bearer of the letter, or one of the traveling brothers Gaius was to welcome (3 John 5–8), but the text does not affirm it. The name was common; Acts 19:24–41 speaks of a Demetrius, a silversmith of Ephesus, who opposed Paul, with no connection indicated to this one."
+        ]
+      },
+      "books": [
+        {
+          "book": "3jn",
+          "role": {
+            "pt": "Recomendado ao leitor (12)",
+            "en": "Commended to the reader (12)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "evodia-sintique",
+      "name": {
+        "pt": "Evódia e Síntique",
+        "en": "Euodia and Syntyche"
+      },
+      "summary": {
+        "pt": "Duas mulheres da igreja de Filipos que “combateram no evangelho” com Paulo. Ele pede que tenham o mesmo sentimento no Senhor (Fp 4:2–3).",
+        "en": "Two women of the church in Philippi who “labored side by side with me in the gospel.” Paul asks that they agree in the Lord (Phil 4:2–3)."
+      },
+      "bio": {
+        "pt": [
+          "Em Filipenses 4:2–3, Paulo escreve: “Rogo a Evódia e rogo a Síntique que sintam o mesmo no Senhor. E peço também a ti, fiel companheiro, que ajudes essas mulheres, que combateram comigo no evangelho, com Clemente e os demais cooperadores, cujos nomes estão no livro da vida”. O texto não diz qual era o desentendimento entre as duas.",
+          "O trecho mostra que as duas eram colaboradoras de Paulo na pregação do evangelho e que a igreja tinha de cuidar da reconciliação. Paulo não toma partido: pede o mesmo sentimento “no Senhor” e confia a um “fiel companheiro” que as ajude. Não se sabe quem era esse companheiro, nem se “companheiro” (grego syzygos) é um nome próprio. Filipos foi a primeira cidade da Europa em que Paulo pregou, e Atos mostra o papel de mulheres na igreja ali, como Lídia (At 16:13–15)."
+        ],
+        "en": [
+          "In Philippians 4:2–3 Paul writes: “I entreat Euodia and I entreat Syntyche to agree in the Lord. Yes, I ask you also, true companion, help these women, who have labored side by side with me in the gospel together with Clement and the rest of my fellow workers, whose names are in the book of life.” The text does not say what the disagreement between the two was.",
+          "The passage shows that the two were Paul’s co-workers in preaching the gospel and that the church had to care for their reconciliation. Paul does not take sides: he asks for agreement “in the Lord” and entrusts a “true companion” to help them. It is not known who this companion was, or whether “companion” (Greek syzygos) is a proper name. Philippi was the first city in Europe where Paul preached, and Acts shows the role of women in the church there, such as Lydia (Acts 16:13–15)."
+        ]
+      },
+      "books": [
+        {
+          "book": "php",
+          "role": {
+            "pt": "Duas cooperadoras de Paulo em Filipos (4:2–3)",
+            "en": "Two co-workers of Paul in Philippi (4:2–3)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "php",
+          "name": "Filipos",
+          "en": "Philippi"
+        }
+      ]
+    },
+    {
+      "id": "loide-eunice",
+      "name": {
+        "pt": "Lóide e Eunice",
+        "en": "Lois and Eunice"
+      },
+      "summary": {
+        "pt": "Avó e mãe de Timóteo, cuja fé sincera Paulo lembra. Eunice era judia crente, casada com um grego; Timóteo conhecia as Escrituras desde a infância (2Tm 1:5; 3:14–15; At 16:1).",
+        "en": "Grandmother and mother of Timothy, whose sincere faith Paul recalls. Eunice was a Jewish believer married to a Greek; Timothy knew the Scriptures from childhood (2 Tim 1:5; 3:14–15; Acts 16:1)."
+      },
+      "bio": {
+        "pt": [
+          "Paulo escreve a Timóteo: “Lembro-me da fé não fingida que há em ti, a qual habitou primeiro em tua avó Lóide e em tua mãe Eunice, e estou certo de que também em ti” (2Tm 1:5). É o único lugar da Bíblia em que as duas são nomeadas. Atos 16:1 completa a informação: Timóteo, de Listra, era filho de uma judia crente e de pai grego.",
+          "Paulo também lembra a Timóteo que, “desde a infância, sabes as sagradas letras, que podem tornar-te sábio para a salvação, pela fé em Cristo Jesus”, e o exorta a permanecer no que aprendeu e de quem aprendeu (2Tm 3:14–15). O texto não diz que as duas o tenham ensinado, mas liga a fé de Timóteo à de sua família. Não se conta mais sobre Lóide e Eunice."
+        ],
+        "en": [
+          "Paul writes to Timothy: “I am reminded of your sincere faith, a faith that dwelt first in your grandmother Lois and your mother Eunice and now, I am sure, dwells in you as well” (2 Tim 1:5). It is the only place in the Bible where the two are named. Acts 16:1 completes the information: Timothy, of Lystra, was the son of a Jewish woman who was a believer and a Greek father.",
+          "Paul also reminds Timothy that “from childhood you have been acquainted with the sacred writings, which are able to make you wise for salvation through faith in Christ Jesus,” and urges him to continue in what he has learned and from whom he learned it (2 Tim 3:14–15). The text does not say that the two taught him, but it links Timothy’s faith with that of his family. Nothing more is told about Lois and Eunice."
+        ]
+      },
+      "books": [
+        {
+          "book": "2ti",
+          "role": {
+            "pt": "Avó e mãe de Timóteo (1:5; 3:14–15)",
+            "en": "Timothy’s grandmother and mother (1:5; 3:14–15)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "2ti",
+          "name": "Listra",
+          "en": "Lystra"
+        }
+      ]
+    },
+    {
+      "id": "sostenes",
+      "name": {
+        "pt": "Sóstenes",
+        "en": "Sosthenes"
+      },
+      "summary": {
+        "pt": "Chamado “o irmão”, é co-remetente de 1 Coríntios (1Co 1:1). Em Atos 18:17, um Sóstenes, chefe da sinagoga de Corinto, é espancado diante de Gálio; se é o mesmo, o texto não diz.",
+        "en": "Called “our brother,” he is co-sender of 1 Corinthians (1 Cor 1:1). In Acts 18:17 a Sosthenes, ruler of the synagogue in Corinth, is beaten before Gallio; whether it is the same man the text does not say."
+      },
+      "bio": {
+        "pt": [
+          "A primeira carta aos Coríntios começa: “Paulo, chamado apóstolo de Cristo Jesus pela vontade de Deus, e o irmão Sóstenes, à igreja de Deus que está em Corinto” (1Co 1:1–2). Sóstenes é apresentado só como “o irmão”, sem detalhes. Como co-remetente, devia ser conhecido dos coríntios e estar com Paulo quando a carta foi escrita, em Éfeso (1Co 16:8).",
+          "Em Atos 18:12–17, os judeus de Corinto levam Paulo ao tribunal do procônsul Gálio, que recusa julgar a questão; a multidão então agarra Sóstenes, chefe da sinagoga, e o espanca diante do tribunal, e Gálio não se importa. O texto não diz por que o espancaram. Atos não o liga ao Sóstenes de 1 Coríntios; muitos o identificam com ele, o que implicaria uma conversão posterior, mas isso é uma possibilidade, não uma afirmação do texto."
+        ],
+        "en": [
+          "The first letter to the Corinthians begins: “Paul, called by the will of God to be an apostle of Christ Jesus, and our brother Sosthenes, to the church of God that is in Corinth” (1 Cor 1:1–2). Sosthenes is presented only as “our brother,” without details. As co-sender, he must have been known to the Corinthians and with Paul when the letter was written, in Ephesus (1 Cor 16:8).",
+          "In Acts 18:12–17 the Jews of Corinth bring Paul before the tribunal of the proconsul Gallio, who refuses to judge the matter; the crowd then seizes Sosthenes, the ruler of the synagogue, and beats him in front of the tribunal, and Gallio takes no notice. The text does not say why they beat him. Acts does not link him with the Sosthenes of 1 Corinthians; many identify the two, which would imply a later conversion, but this is a possibility, not a statement of the text."
+        ]
+      },
+      "books": [
+        {
+          "book": "1co",
+          "role": {
+            "pt": "Co-remetente da carta (1:1)",
+            "en": "Co-sender of the letter (1:1)"
+          }
+        },
+        {
+          "book": "act",
+          "role": {
+            "pt": "Chefe da sinagoga, espancado em Corinto (18:17)",
+            "en": "Ruler of the synagogue, beaten in Corinth (18:17)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "1co",
+          "name": "Corinto",
+          "en": "Corinth"
+        }
+      ]
+    },
+    {
+      "id": "estefanas",
+      "name": {
+        "pt": "Estéfanas",
+        "en": "Stephanas"
+      },
+      "summary": {
+        "pt": "Cristão de Corinto cuja casa Paulo batizou e que ele chama “primícias da Acaia”. Paulo pede à igreja que se sujeite a pessoas como ele e se alegra com a vinda dele (1Co 1:16; 16:15–18).",
+        "en": "Christian of Corinth whose household Paul baptized and whom he calls “the firstfruits of Achaia.” Paul asks the church to be subject to people like him and rejoices at his coming (1 Cor 1:16; 16:15–18)."
+      },
+      "bio": {
+        "pt": [
+          "Em 1 Coríntios 1:14–16, Paulo agradece a Deus por ter batizado em Corinto só Crispo e Gaio, e depois lembra: “Também batizei a casa de Estéfanas”. Em 16:15, ele diz que a casa de Estéfanas é “as primícias da Acaia” e que seus membros “se dedicaram ao ministério dos santos”.",
+          "Paulo pede aos coríntios: “Rogo-vos, irmãos… que também vos sujeiteis a tais pessoas e a todo aquele que coopera e trabalha” (1Co 16:15–16). Depois, alegra-se “com a vinda de Estéfanas, de Fortunato e de Acaico, porque eles suprirão a vossa falta, pois recrearam o meu espírito e o vosso”, e diz que se deve reconhecer pessoas assim (1Co 16:17–18). O texto não diz se Estéfanas levou a carta a Corinto, mas é possível que ele e os outros dois tenham levado a pergunta da igreja a Paulo (1Co 7:1)."
+        ],
+        "en": [
+          "In 1 Corinthians 1:14–16 Paul thanks God that he baptized in Corinth only Crispus and Gaius, and then recalls: “I did baptize also the household of Stephanas.” In 16:15 he says that the household of Stephanas is “the firstfruits of Achaia” and that its members “have devoted themselves to the service of the saints.”",
+          "Paul asks the Corinthians: “I urge you, brothers… be subject to such as these, and to every fellow worker and laborer” (1 Cor 16:15–16). Then he rejoices “at the coming of Stephanas and Fortunatus and Achaicus, because they have made up for your absence, for they refreshed my spirit as well as yours,” and says that such people should be recognized (1 Cor 16:17–18). The text does not say whether Stephanas carried the letter to Corinth, but it is possible that he and the other two brought the church’s question to Paul (1 Cor 7:1)."
+        ]
+      },
+      "books": [
+        {
+          "book": "1co",
+          "role": {
+            "pt": "Batizado por Paulo; primícias da Acaia (1:16; 16:15–18)",
+            "en": "Baptized by Paul; firstfruits of Achaia (1:16; 16:15–18)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "1co",
+          "name": "Corinto",
+          "en": "Corinth"
+        },
+        {
+          "book": "1co",
+          "name": "Acaia",
+          "en": "Achaia"
+        }
+      ]
+    },
+    {
+      "id": "tercio",
+      "name": {
+        "pt": "Tércio",
+        "en": "Tertius"
+      },
+      "summary": {
+        "pt": "Secretário que escreveu a carta aos Romanos ditada por Paulo e acrescenta sua saudação: “Eu, Tércio, que escrevi esta carta, vos saúdo no Senhor” (Rm 16:22).",
+        "en": "Secretary who wrote down the letter to the Romans as Paul dictated and adds his own greeting: “I, Tertius, who wrote this letter, greet you in the Lord” (Rom 16:22)."
+      },
+      "bio": {
+        "pt": [
+          "Tércio é mencionado só em Romanos 16:22, no meio das saudações finais: “Eu, Tércio, que escrevi esta carta, vos saúdo no Senhor”. O verbo grego indica que ele foi o escriba, o secretário que escrevia o que Paulo ditava. É o único secretário de uma carta de Paulo cujo nome o texto conserva.",
+          "O costume de ditar a escribas aparece em outras cartas de Paulo, que às vezes termina com algumas palavras escritas de próprio punho: “A saudação, de meu próprio punho, Paulo” (1Co 16:21; Gl 6:11; Cl 4:18; 2Ts 3:17). O versículo mostra que Tércio era um cristão, que saúda “no Senhor” e está com Paulo quando ele escreve a Roma. A tradição situa a carta em Corinto, perto dos nomes que a acompanham (Gaio, Erasto; Rm 16:23), mas o texto não diz onde foi escrita."
+        ],
+        "en": [
+          "Tertius is mentioned only in Romans 16:22, amid the closing greetings: “I Tertius, who wrote this letter, greet you in the Lord.” The Greek verb indicates that he was the scribe, the secretary who wrote down what Paul dictated. He is the only secretary of a Pauline letter whose name the text preserves.",
+          "The custom of dictating to scribes appears in other letters of Paul, which sometimes end with a few words in his own hand: “I, Paul, write this greeting with my own hand” (1 Cor 16:21; Gal 6:11; Col 4:18; 2 Thess 3:17). The verse shows that Tertius was a Christian, who greets “in the Lord” and is with Paul when he writes to Rome. Tradition places the letter in Corinth, near the names that accompany it (Gaius, Erastus; Rom 16:23), but the text does not say where it was written."
+        ]
+      },
+      "books": [
+        {
+          "book": "rom",
+          "role": {
+            "pt": "Escreveu a carta ditada por Paulo (16:22)",
+            "en": "Wrote down the letter dictated by Paul (16:22)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "zenas",
+      "name": {
+        "pt": "Zenas, o jurista",
+        "en": "Zenas the lawyer"
+      },
+      "summary": {
+        "pt": "Companheiro de Apolo, chamado “o intérprete da lei” (ou jurista). Paulo pede a Tito que os ajude na viagem, para que nada lhes falte (Tt 3:13).",
+        "en": "Companion of Apollos, called “the lawyer.” Paul asks Titus to help them on their journey, so that nothing is lacking for them (Titus 3:13)."
+      },
+      "bio": {
+        "pt": [
+          "Tito 3:13 diz: “Encaminha com diligência o jurista Zenas e Apolo, para que nada lhes falte”. O texto usa a palavra grega nomikos, que pode significar um especialista na lei judaica (um escriba) ou um advogado no sentido romano; o contexto não decide. Não há outras menções a Zenas no Novo Testamento.",
+          "O pedido está perto do fim da carta, em que Paulo diz que espera passar o inverno em Nicópolis e pede a Tito que o encontre ali (Tt 3:12). Zenas e Apolo parecem ser portadores da carta ou viajantes que passavam por Creta. Paulo quer que a igreja os ajude nos preparativos, e acrescenta: “Que os nossos aprendam também a destacar-se nas boas obras, nas necessidades urgentes, para não ficarem sem fruto” (Tt 3:14)."
+        ],
+        "en": [
+          "Titus 3:13 says: “Do your best to speed Zenas the lawyer and Apollos on their way; see that they lack nothing.” The text uses the Greek word nomikos, which can mean a specialist in Jewish law (a scribe) or a lawyer in the Roman sense; the context does not decide. There are no other mentions of Zenas in the New Testament.",
+          "The request is near the end of the letter, in which Paul says he hopes to spend the winter at Nicopolis and asks Titus to come to him there (Titus 3:12). Zenas and Apollos seem to be bearers of the letter or travelers passing through Crete. Paul wants the church to help them with preparations, and adds: “And let our people learn to devote themselves to good works, so as to help cases of urgent need, and not be unfruitful” (Titus 3:14)."
+        ]
+      },
+      "books": [
+        {
+          "book": "tit",
+          "role": {
+            "pt": "Companheiro de Apolo (3:13)",
+            "en": "Companion of Apollos (3:13)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "tit",
+          "name": "Nicópolis",
+          "en": "Nicopolis"
+        }
+      ]
+    },
+    {
+      "id": "filhas-zelofeade",
+      "name": {
+        "pt": "As filhas de Zelofeade",
+        "en": "The daughters of Zelophehad"
+      },
+      "summary": {
+        "pt": "Maalá, Noa, Hogla, Milca e Tirza, da tribo de Manassés. Pedem a Moisés a herança do pai, que morreu sem filhos homens, e o Senhor decide a favor delas (Nm 27:1–11; 36; Js 17:3–6).",
+        "en": "Mahlah, Noah, Hoglah, Milcah and Tirzah, of the tribe of Manasseh. They ask Moses for their father’s inheritance, since he died without sons, and the Lord rules in their favor (Num 27:1–11; 36; Josh 17:3–6)."
+      },
+      "bio": {
+        "pt": [
+          "Zelofeade, da tribo de Manassés, morreu no deserto sem filhos homens, e deixou cinco filhas: Maalá, Noa, Hogla, Milca e Tirza (Nm 26:33). No recenseamento, a terra de Canaã seria dividida por sorteio entre os homens das tribos, e a família ficaria sem herança. As filhas se apresentam à porta da tenda do encontro, diante de Moisés, Eleazar e os chefes, e dizem que o pai morreu no deserto por seu próprio pecado, sem ter participado da rebelião de Corá, e pedem: “Por que se apagaria o nome de nosso pai do meio da sua família, porque não teve filho? Dá-nos possessão entre os irmãos de nosso pai” (Nm 27:1–4).",
+          "Moisés leva a causa ao Senhor, que responde: “As filhas de Zelofeade falam o que é justo; certamente lhes darás possessão de herança entre os irmãos de seu pai” (Nm 27:5–7). A decisão vira lei geral de herança: se um homem morrer sem filho, a herança passa à filha; se não tiver filha, aos irmãos, e assim por diante (Nm 27:8–11).",
+          "Em Números 36, os chefes da família de Manassés temem que, se as filhas casarem com homens de outra tribo, a terra passe a ela. O Senhor decide: as filhas podem casar com quem quiserem, desde que seja da família da tribo do pai, para que a herança não passe de tribo em tribo. As cinco casam com primos (Nm 36:1–12). Em Josué 17:3–6, depois da conquista, as filhas vão a Eleazar, a Josué e aos chefes e reivindicam o que o Senhor ordenara; recebem herança entre os irmãos do pai."
+        ],
+        "en": [
+          "Zelophehad, of the tribe of Manasseh, died in the wilderness without sons, and left five daughters: Mahlah, Noah, Hoglah, Milcah and Tirzah (Num 26:33). In the census, the land of Canaan was to be divided by lot among the men of the tribes, and the family would be left without inheritance. The daughters present themselves at the entrance of the tent of meeting, before Moses, Eleazar and the chiefs, and say that their father died in the wilderness for his own sin, without having taken part in Korah’s rebellion, and ask: “Why should the name of our father be taken away from his clan because he had no son? Give to us a possession among our father’s brothers” (Num 27:1–4).",
+          "Moses brings the case before the Lord, who answers: “The daughters of Zelophehad are right. You shall give them possession of an inheritance among their father’s brothers” (Num 27:5–7). The decision becomes a general law of inheritance: if a man dies without a son, his inheritance passes to his daughter; if he has no daughter, to his brothers, and so on (Num 27:8–11).",
+          "In Numbers 36 the heads of the clan of Manasseh fear that if the daughters marry men of another tribe, the land will pass to it. The Lord decides: the daughters may marry whom they wish, provided it is within the clan of their father’s tribe, so that no inheritance passes from tribe to tribe. All five marry cousins (Num 36:1–12). In Joshua 17:3–6, after the conquest, the daughters go to Eleazar, Joshua and the chiefs and claim what the Lord had commanded; they receive an inheritance among their father’s brothers."
+        ]
+      },
+      "books": [
+        {
+          "book": "num",
+          "role": {
+            "pt": "Pedem a herança do pai (26:33; 27:1–11; 36)",
+            "en": "Ask for their father’s inheritance (26:33; 27:1–11; 36)"
+          }
+        },
+        {
+          "book": "jos",
+          "role": {
+            "pt": "Recebem a herança (17:3–6)",
+            "en": "Receive the inheritance (17:3–6)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "num",
+          "name": "Planícies de Moabe",
+          "en": "Plains of Moab"
+        }
+      ]
+    },
+    {
+      "id": "agur",
+      "name": {
+        "pt": "Agur",
+        "en": "Agur"
+      },
+      "summary": {
+        "pt": "Filho de Jaque, de Massá, a quem se atribuem as “palavras” de Provérbios 30: confessa sua limitação, pergunta quem subiu ao céu e pede nem pobreza nem riqueza (Pv 30:1–9).",
+        "en": "Son of Jakeh, of Massa, to whom the “words” of Proverbs 30 are attributed: he confesses his limitation, asks who has ascended to heaven and prays for neither poverty nor riches (Prov 30:1–9)."
+      },
+      "bio": {
+        "pt": [
+          "Provérbios 30:1 abre: “Palavras de Agur, filho de Jaque, de Massá. Oráculo desse homem a Itiel, a Itiel e a Ucal”. Nada mais se sabe dele. O texto não diz quem eram Itiel e Ucal, e a palavra “Massá” pode ser um lugar (há um Massá, filho de Ismael, em Gn 25:14) ou significar “oráculo”; a leitura é debatida. Não há informação sobre a época de Agur.",
+          "Ele começa com humildade: “Certamente sou mais bruto do que qualquer homem, e não tenho o entendimento de um homem; não aprendi a sabedoria, nem tenho o conhecimento do Santo” (Pv 30:2–3). Pergunta: “Quem subiu ao céu e desceu? Quem encerrou os ventos nos seus punhos? Quem atou as águas na sua roupa? Quem estabeleceu todas as extremidades da terra? Qual é o seu nome, e qual é o nome de seu filho, se o sabes?” (Pv 30:4). Em seguida diz que “toda palavra de Deus é pura” e adverte: “Nada acrescentes às suas palavras” (Pv 30:5–6).",
+          "Agur faz uma oração: “Duas coisas te peço… afasta de mim a falsidade e a mentira; não me dês nem a pobreza nem a riqueza; dá-me o pão que me for necessário, para que, estando farto, não te negue… ou, empobrecido, não furte” (Pv 30:7–9). O capítulo continua com provérbios numéricos, como “três coisas há que são maravilhosas demais para mim, e quatro que não entendo” (Pv 30:15–33). Os intérpretes discutem onde termina a fala de Agur; a leitura comum é que ela vai até o fim do capítulo 30."
+        ],
+        "en": [
+          "Proverbs 30:1 opens: “The words of Agur son of Jakeh. The oracle. The man declares to Ithiel, to Ithiel and to Ucal.” Nothing more is known about him. The text does not say who Ithiel and Ucal were, and the word “Massa” may be a place (there is a Massa, son of Ishmael, in Gen 25:14) or mean “oracle”; the reading is debated. There is no information about Agur’s time.",
+          "He begins with humility: “Surely I am too stupid to be a man. I have not the understanding of a man. I have not learned wisdom, nor have I knowledge of the Holy One” (Prov 30:2–3). He asks: “Who has ascended to heaven and come down? Who has gathered the wind in his fists? Who has wrapped up the waters in a garment? Who has established all the ends of the earth? What is his name, and what is his son’s name? Surely you know!” (Prov 30:4). Then he says that “every word of God proves true” and warns: “Do not add to his words” (Prov 30:5–6).",
+          "Agur makes a prayer: “Two things I ask of you… Remove far from me falsehood and lying; give me neither poverty nor riches; feed me with the food that is needful for me, lest I be full and deny you… or lest I be poor and steal” (Prov 30:7–9). The chapter continues with numerical proverbs, such as “Three things are too wonderful for me; four I do not understand” (Prov 30:15–33). Interpreters discuss where Agur’s speech ends; the common reading is that it runs to the end of chapter 30."
+        ]
+      },
+      "books": [
+        {
+          "book": "pro",
+          "role": {
+            "pt": "Autor das palavras de Provérbios 30",
+            "en": "Author of the words of Proverbs 30"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lemuel",
+      "name": {
+        "pt": "Lemuel",
+        "en": "Lemuel"
+      },
+      "summary": {
+        "pt": "Rei a quem sua mãe ensinou as palavras de Provérbios 31: não gastar a força com mulheres nem com vinho e defender os pobres e necessitados (Pv 31:1–9).",
+        "en": "King whose mother taught him the words of Proverbs 31: not to spend his strength on women or wine, and to defend the poor and needy (Prov 31:1–9)."
+      },
+      "bio": {
+        "pt": [
+          "Provérbios 31:1 abre: “Palavras do rei Lemuel, oráculo que lhe ensinou sua mãe”. Não se sabe quem era esse rei: o nome só aparece aqui, e o texto não diz de que reino ele era. Como no caso de Agur, a palavra “oráculo” (hebraico massa) pode também ser o nome de um lugar; a leitura é debatida. Alguns antigos intérpretes judeus o identificaram com Salomão, e outros o consideram um rei estrangeiro; o texto não decide.",
+          "A mãe o chama de “meu filho”, “filho do meu ventre” e “filho dos meus votos” e adverte: “Não dês às mulheres a tua força, nem os teus caminhos aos que destroem os reis. Não é dos reis, ó Lemuel, não é dos reis beber vinho, nem dos príncipes desejar bebida forte, para que não bebam e se esqueçam da lei e pervertam o direito de todos os aflitos” (Pv 31:1–5). Dá a bebida forte a quem está perecendo, mas ao rei pede: “Abre a tua boca a favor do mudo, pela causa de todos os que são desamparados. Abre a tua boca, julga retamente, e faze justiça ao pobre e ao necessitado” (Pv 31:6–9).",
+          "Em seguida, o livro termina com o poema alfabético da mulher virtuosa (Pv 31:10–31). O texto não diz se esse poema também faz parte do que a mãe de Lemuel lhe ensinou; muitos o veem como uma peça à parte, e outros o ligam às palavras de Lemuel."
+        ],
+        "en": [
+          "Proverbs 31:1 opens: “The words of King Lemuel. An oracle that his mother taught him.” It is not known who this king was: the name appears only here, and the text does not say of what kingdom he was. As in the case of Agur, the word “oracle” (Hebrew massa) may also be the name of a place; the reading is debated. Some ancient Jewish interpreters identified him with Solomon, and others consider him a foreign king; the text does not decide.",
+          "His mother calls him “my son,” “son of my womb” and “son of my vows” and warns: “Do not give your strength to women, your ways to those who destroy kings. It is not for kings, O Lemuel, it is not for kings to drink wine, or for rulers to take strong drink, lest they drink and forget what has been decreed and pervert the rights of all the afflicted” (Prov 31:1–5). She gives strong drink to the one who is perishing, but asks the king: “Open your mouth for the mute, for the rights of all who are destitute. Open your mouth, judge righteously, defend the rights of the poor and needy” (Prov 31:6–9).",
+          "Then the book ends with the alphabetic poem of the excellent wife (Prov 31:10–31). The text does not say whether this poem is also part of what Lemuel’s mother taught him; many see it as a separate piece, and others link it with Lemuel’s words."
+        ]
+      },
+      "books": [
+        {
+          "book": "pro",
+          "role": {
+            "pt": "Rei, destinatário das palavras de sua mãe (31:1–9)",
+            "en": "King, recipient of his mother’s words (31:1–9)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "asafe",
+      "name": {
+        "pt": "Asafe",
+        "en": "Asaph"
+      },
+      "summary": {
+        "pt": "Levita, filho de Berequias, chefe dos cantores do tempo de Davi. Seus descendentes servem no templo, e doze salmos levam seu nome no título (1Cr 6:39; 15:16–19; 25; Sl 50; 73–83).",
+        "en": "Levite, son of Berekiah, chief of the singers in David’s time. His descendants serve in the temple, and twelve psalms carry his name in the title (1 Chr 6:39; 15:16–19; 25; Pss 50; 73–83)."
+      },
+      "bio": {
+        "pt": [
+          "Asafe, filho de Berequias, é levita da família de Gérson (1Cr 6:39). Quando Davi traz a arca a Jerusalém, os chefes dos levitas indicam os cantores, e Asafe é um dos três mestres, com Hemã e Etã, que tocam címbalos de bronze (1Cr 15:16–19). Davi o deixa diante da arca para ministrar continuamente, e é ele quem dirige os louvores a que se refere 1Crônicas 16:4–7, 37.",
+          "Em 1Crônicas 25, Davi e os chefes separam para o serviço musical os filhos de Asafe, Hemã e Jedutum, “que profetizavam com harpas, com saltérios e com címbalos”, e os filhos de Asafe ficam “sob a direção de Asafe, que profetizava segundo a ordem do rei” (1Cr 25:1–2, 6). Em 2Crônicas 29:30, Asafe é chamado “vidente”, e os levitas, no tempo de Ezequias, louvam ao Senhor com as palavras de Davi e de Asafe.",
+          "O título do Salmo 50 e dos Salmos 73 a 83 diz “de Asafe” ou “salmo de Asafe”. Se foram compostos por ele, por seus filhos ou por uma guilda de cantores com seu nome, é debatido. Depois do exílio, “os filhos de Asafe” voltam a Jerusalém (Ed 2:41; Ne 7:44) e cantam na fundação do segundo templo (Ed 3:10), e Neemias lembra que “nos dias de Davi e de Asafe, antigamente, havia chefes dos cantores” (Ne 12:46). Não se deve confundir com o Asafe guarda da floresta do rei, em Neemias 2:8."
+        ],
+        "en": [
+          "Asaph son of Berechiah is a Levite of the family of Gershom (1 Chr 6:39). When David brings the ark to Jerusalem, the chiefs of the Levites name the singers, and Asaph is one of the three masters, with Heman and Ethan, who sound bronze cymbals (1 Chr 15:16–19). David leaves him before the ark to minister continually, and he is the one who directs the praises mentioned in 1 Chronicles 16:4–7, 37.",
+          "In 1 Chronicles 25 David and the chiefs set apart for musical service the sons of Asaph, Heman and Jeduthun, “who prophesied with lyres, with harps, and with cymbals,” and the sons of Asaph are “under the direction of Asaph, who prophesied under the direction of the king” (1 Chr 25:1–2, 6). In 2 Chronicles 29:30 Asaph is called a “seer,” and the Levites, in Hezekiah’s time, praise the Lord with the words of David and of Asaph.",
+          "The title of Psalm 50 and Psalms 73 to 83 says “of Asaph” or “a psalm of Asaph.” Whether they were composed by him, by his sons or by a guild of singers bearing his name is debated. After the exile “the sons of Asaph” return to Jerusalem (Ezra 2:41; Neh 7:44) and sing at the founding of the second temple (Ezra 3:10), and Nehemiah recalls that “in the days of David and Asaph of old, there were directors of the singers” (Neh 12:46). He should not be confused with the Asaph keeper of the king’s forest in Nehemiah 2:8."
+        ]
+      },
+      "books": [
+        {
+          "book": "1ch",
+          "role": {
+            "pt": "Chefe dos cantores no tempo de Davi (6:39; 15:16–19; 16:4–7; 25)",
+            "en": "Chief of the singers in David’s time (6:39; 15:16–19; 16:4–7; 25)"
+          }
+        },
+        {
+          "book": "2ch",
+          "role": {
+            "pt": "Vidente; seus filhos cantam (29:30; 35:15)",
+            "en": "Seer; his sons sing (29:30; 35:15)"
+          }
+        },
+        {
+          "book": "psa",
+          "role": {
+            "pt": "Salmos 50 e 73–83 levam seu nome (títulos)",
+            "en": "Psalms 50 and 73–83 carry his name (titles)"
+          }
+        },
+        {
+          "book": "ezr",
+          "role": {
+            "pt": "Seus descendentes voltam do exílio (2:41; 3:10)",
+            "en": "His descendants return from exile (2:41; 3:10)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "1ch",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "lo",
+      "name": {
+        "pt": "Ló, sobrinho de Abraão",
+        "en": "Lot, Abraham’s nephew"
+      },
+      "summary": {
+        "pt": "Sobrinho de Abraão que o acompanha de Harã a Canaã, escolhe a planície do Jordão, mora em Sodoma e é tirado de lá antes da destruição (Gn 11–13; 14; 19).",
+        "en": "Abraham’s nephew who goes with him from Haran to Canaan, chooses the Jordan plain, lives in Sodom and is brought out before its destruction (Gen 11–13; 14; 19)."
+      },
+      "bio": {
+        "pt": [
+          "Ló é filho de Harã, irmão de Abrão, e vai com Terá e Abrão de Ur até Harã (Gn 11:27–31). Quando Abrão sai de Harã por ordem de Deus, Ló vai com ele (Gn 12:4–5). Em Canaã, os rebanhos dos dois ficam grandes demais para a mesma terra e há atrito entre os pastores. Abrão dá a Ló a escolha, e Ló escolhe toda a planície do Jordão, “como o jardim do Senhor”, e arma as tendas até Sodoma (Gn 13:5–13).",
+          "Em Gênesis 14, reis do leste vencem Sodoma e levam Ló cativo; Abrão persegue os invasores e o liberta com seus bens. Em Gênesis 19, dois mensageiros chegam a Sodoma e Ló os hospeda; a cidade se reúne em torno da casa dele, e os mensageiros o tiram dali com a mulher e as duas filhas antes de Sodoma e Gomorra serem destruídas. A mulher de Ló olha para trás e vira estátua de sal (Gn 19:15–26). Ló se refugia em Zoar e depois num monte (Gn 19:30).",
+          "No fim, as filhas de Ló dão à luz Moabe e Ben-Ami, pais dos moabitas e dos amonitas (Gn 19:30–38). Deuteronômio 2:9, 19 lembra que Deus deu essas terras aos “filhos de Ló”. O Novo Testamento chama Ló de justo, aflito com a conduta dos ímpios (2Pe 2:7–8), e Jesus cita a mulher de Ló como aviso (Lc 17:28–32)."
+        ],
+        "en": [
+          "Lot is the son of Haran, Abram’s brother, and goes with Terah and Abram from Ur as far as Haran (Gen 11:27–31). When Abram leaves Haran at God’s command, Lot goes with him (Gen 12:4–5). In Canaan their flocks grow too large for the same land and there is strife between the herdsmen. Abram gives Lot the choice, and Lot chooses the whole plain of the Jordan, “like the garden of the Lord,” and pitches his tent toward Sodom (Gen 13:5–13).",
+          "In Genesis 14, eastern kings defeat Sodom and carry Lot off; Abram pursues the invaders and frees him with his goods. In Genesis 19 two messengers come to Sodom and Lot hosts them; the city gathers around his house, and the messengers bring him out with his wife and two daughters before Sodom and Gomorrah are destroyed. Lot’s wife looks back and becomes a pillar of salt (Gen 19:15–26). Lot takes refuge in Zoar and then in the hills (Gen 19:30).",
+          "In the end Lot’s daughters bear Moab and Ben-ammi, fathers of the Moabites and the Ammonites (Gen 19:30–38). Deuteronomy 2:9, 19 recalls that God gave those lands to the “sons of Lot.” The New Testament calls Lot righteous, distressed by the conduct of the lawless (2 Pet 2:7–8), and Jesus cites Lot’s wife as a warning (Luke 17:28–32)."
+        ]
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Sobrinho de Abraão; sai de Sodoma antes da destruição (11–19)",
+            "en": "Abraham’s nephew; leaves Sodom before its destruction (11–19)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "gen",
+          "name": "Sodoma",
+          "en": "Sodom"
+        },
+        {
+          "book": "gen",
+          "name": "Harã",
+          "en": "Haran"
+        }
+      ],
+      "note": {
+        "pt": "A identificação de Sodoma e Gomorra com sítios arqueológicos é debatida; o texto não localiza as cidades com precisão.",
+        "en": "The identification of Sodom and Gomorrah with archaeological sites is debated; the text does not locate the cities precisely."
+      },
+      "linkBooks": [
+        "gen"
+      ]
+    },
+    {
+      "id": "agar",
+      "name": {
+        "pt": "Agar",
+        "en": "Hagar"
+      },
+      "summary": {
+        "pt": "Serva egípcia de Sara, dada a Abrão como esposa; mãe de Ismael. Foge e é achada por um anjo (Gn 16) e, depois, é expulsa com o filho e socorrida por Deus (Gn 21:8–21).",
+        "en": "Egyptian servant of Sarai, given to Abram as a wife; mother of Ishmael. She flees and is found by an angel (Gen 16), and later is sent away with her son and helped by God (Gen 21:8–21)."
+      },
+      "bio": {
+        "pt": [
+          "Agar é uma serva egípcia de Sarai. Como Sarai não tinha filhos, ela a dá a Abrão como esposa, e Agar engravida; a relação entre as duas se azeda e Sarai a maltrata, de modo que Agar foge para o deserto (Gn 16:1–6). Ali o anjo do Senhor a encontra junto a uma fonte, manda que volte e promete multiplicar sua descendência. Ela dá ao Senhor o nome “Tu és o Deus que me vê” (El-Roí), e o poço fica conhecido por isso (Gn 16:7–14). Ela dá à luz Ismael (Gn 16:15–16).",
+          "Depois do nascimento de Isaque, Sara vê Ismael zombando e pede a Abraão que expulse a serva e seu filho. Abraão sofre com isso, mas Deus lhe diz que ouça Sara e promete fazer também de Ismael uma nação (Gn 21:8–13). Agar e o menino vagam pelo deserto de Berseba até a água acabar; Deus ouve a voz do menino, um anjo fala a Agar e abre seus olhos para um poço (Gn 21:14–19). Ismael cresce no deserto de Parã, e a mãe lhe arranja esposa no Egito (Gn 21:20–21).",
+          "Paulo usa Agar e Sara como duas alianças em Gálatas 4:21–31, lendo o episódio como alegoria. Nesse trecho Agar representa o monte Sinai, e Sara representa a promessa."
+        ],
+        "en": [
+          "Hagar is an Egyptian servant of Sarai. Since Sarai had no children, she gives her to Abram as a wife, and Hagar conceives; relations between the two sour and Sarai deals harshly with her, so Hagar flees into the wilderness (Gen 16:1–6). There the angel of the Lord finds her by a spring, tells her to return and promises to multiply her offspring. She calls the Lord “You are a God of seeing” (El-roi), and the well is known for it (Gen 16:7–14). She bears Ishmael (Gen 16:15–16).",
+          "After Isaac’s birth Sarah sees Ishmael laughing and asks Abraham to cast out the servant and her son. Abraham is distressed, but God tells him to listen to Sarah and promises to make a nation of Ishmael too (Gen 21:8–13). Hagar and the boy wander in the wilderness of Beersheba until the water runs out; God hears the boy’s voice, an angel speaks to Hagar and opens her eyes to a well (Gen 21:14–19). Ishmael grows up in the wilderness of Paran, and his mother gets him a wife from Egypt (Gen 21:20–21).",
+          "Paul uses Hagar and Sarah as two covenants in Galatians 4:21–31, reading the episode as an allegory. In that passage Hagar stands for Mount Sinai, and Sarah for the promise."
+        ]
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Serva de Sara; mãe de Ismael (16; 21)",
+            "en": "Sarah’s servant; mother of Ishmael (16; 21)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "gen",
+          "name": "Berseba",
+          "en": "Beersheba"
+        }
+      ]
+    },
+    {
+      "id": "ismael",
+      "name": {
+        "pt": "Ismael, filho de Abraão",
+        "en": "Ishmael, son of Abraham"
+      },
+      "summary": {
+        "pt": "Filho de Abraão e Agar. Deus promete fazer dele uma grande nação; é circuncidado aos 13 anos, expulso com a mãe e depois vive no deserto de Parã (Gn 16–17; 21; 25:12–18).",
+        "en": "Son of Abraham and Hagar. God promises to make him a great nation; he is circumcised at 13, sent away with his mother and later lives in the wilderness of Paran (Gen 16–17; 21; 25:12–18)."
+      },
+      "bio": {
+        "pt": [
+          "O anjo diz a Agar que o filho se chamará Ismael (“Deus ouve”), porque o Senhor ouviu sua aflição, e que será “homem selvagem” e viverá à vista de seus irmãos (Gn 16:11–12). Abrão tem 86 anos quando ele nasce (Gn 16:16). Em Gênesis 17, quando Deus promete que Sara dará à luz Isaque e estabelece a aliança com ele, atende também ao pedido de Abraão por Ismael: promete abençoá-lo, fazê-lo fecundo e pai de doze príncipes. Ismael é circuncidado nesse dia, aos 13 anos (Gn 17:18–27).",
+          "Em Gênesis 21 Ismael é expulso com a mãe e socorrido por Deus no deserto (Gn 21:8–21; ver Agar). Ele e Isaque voltam a aparecer juntos quando enterram Abraão em Macpela (Gn 25:9). Gênesis 25:12–18 lista os doze filhos de Ismael, com seus nomes, e diz que ele morreu aos 137 anos. Uma filha de Ismael, irmã de Nebaiote, torna-se esposa de Esaú (Gn 28:9; 36:3).",
+          "Gênesis 37:25–28 chama de ismaelitas os mercadores que compram José; o texto alterna esse nome com midianitas. O texto bíblico não liga Ismael a nenhum povo posterior além do que está em Gênesis 25."
+        ],
+        "en": [
+          "The angel tells Hagar the son will be named Ishmael (“God hears”), because the Lord heard her affliction, and that he will be “a wild donkey of a man” and live at odds with his brothers (Gen 16:11–12). Abram is 86 when he is born (Gen 16:16). In Genesis 17, when God promises that Sarah will bear Isaac and establishes the covenant with him, he also answers Abraham’s plea for Ishmael: he promises to bless him, make him fruitful and the father of twelve princes. Ishmael is circumcised that day, at age 13 (Gen 17:18–27).",
+          "In Genesis 21 Ishmael is sent away with his mother and helped by God in the wilderness (Gen 21:8–21; see Hagar). He and Isaac appear together again when they bury Abraham at Machpelah (Gen 25:9). Genesis 25:12–18 lists Ishmael’s twelve sons by name and says he died at 137. A daughter of Ishmael, sister of Nebaioth, becomes Esau’s wife (Gen 28:9; 36:3).",
+          "Genesis 37:25–28 calls the merchants who buy Joseph Ishmaelites; the text alternates this name with Midianites. The biblical text does not link Ishmael to any later people beyond what is in Genesis 25."
+        ]
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Filho de Abraão e Agar; pai de doze príncipes (16–17; 21; 25)",
+            "en": "Son of Abraham and Hagar; father of twelve princes (16–17; 21; 25)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "gen",
+          "name": "Berseba",
+          "en": "Beersheba"
+        }
+      ],
+      "note": {
+        "pt": "A descendência de Ismael e sua relação com povos posteriores são debatidas fora do texto bíblico; o projeto se limita ao que Gênesis diz. “Homem selvagem” traduz literalmente “jumento selvagem de homem” (Gn 16:12).",
+        "en": "Ishmael’s descent and its relation to later peoples are debated outside the biblical text; the project keeps to what Genesis says."
+      },
+      "linkBooks": [
+        "gen"
+      ]
+    },
+    {
+      "id": "labao",
+      "name": {
+        "pt": "Labão",
+        "en": "Laban"
+      },
+      "summary": {
+        "pt": "Irmão de Rebeca e tio de Jacó em Harã. Dá suas filhas Lia e Raquel a Jacó em troca de anos de serviço; depois os dois fazem uma aliança em Gileade (Gn 24; 29–31).",
+        "en": "Rebekah’s brother and Jacob’s uncle in Haran. He gives his daughters Leah and Rachel to Jacob in exchange for years of service; later the two make a covenant in Gilead (Gen 24; 29–31)."
+      },
+      "bio": {
+        "pt": [
+          "Labão é filho de Betuel e irmão de Rebeca. Quando o servo de Abraão chega a Harã procurando esposa para Isaque, Labão corre à fonte ao ver o presente que a irmã recebeu, hospeda o servo e, com o pai, concorda com o casamento (Gn 24:29–51).",
+          "Anos depois Jacó foge de Esaú e chega a Harã, onde Labão o recebe como parente e ele passa a trabalhar para o tio. Jacó pede Raquel e serve sete anos por ela, mas na noite de núpcias Labão lhe dá Lia, a mais velha, alegando que não se dá a mais nova antes. Jacó recebe Raquel uma semana depois e serve mais sete anos (Gn 29:13–30). Em seguida cuida dos rebanhos de Labão por mais seis anos, e Labão muda o salário dele dez vezes (Gn 30:25–43; 31:41).",
+          "Jacó parte às escondidas com a família e os bens. Labão o persegue e o alcança em Gileade, mas Deus o avisa em sonho para não ferir Jacó (Gn 31:22–29). Raquel tinha levado os ídolos domésticos do pai; Labão não os acha (Gn 31:30–35). Os dois fazem uma aliança, levantam um monte de pedras como testemunho e se separam (Gn 31:44–55). Labão não aparece mais."
+        ],
+        "en": [
+          "Laban is the son of Bethuel and Rebekah’s brother. When Abraham’s servant arrives in Haran looking for a wife for Isaac, Laban runs to the spring on seeing the gifts his sister received, hosts the servant and, with his father, agrees to the marriage (Gen 24:29–51).",
+          "Years later Jacob flees from Esau and reaches Haran, where Laban welcomes him as kin and he begins to work for his uncle. Jacob asks for Rachel and serves seven years for her, but on the wedding night Laban gives him Leah, the elder, claiming the younger is not given before the firstborn. Jacob receives Rachel a week later and serves seven more years (Gen 29:13–30). He then tends Laban’s flocks for six more years, and Laban changes his wages ten times (Gen 30:25–43; 31:41).",
+          "Jacob leaves secretly with his family and goods. Laban pursues and overtakes him in Gilead, but God warns him in a dream not to harm Jacob (Gen 31:22–29). Rachel had taken her father’s household idols; Laban does not find them (Gen 31:30–35). The two make a covenant, raise a heap of stones as witness and part (Gen 31:44–55). Laban does not appear again."
+        ]
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Irmão de Rebeca; sogro e tio de Jacó (24; 29–31)",
+            "en": "Rebekah’s brother; Jacob’s father-in-law and uncle (24; 29–31)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "gen",
+          "name": "Harã",
+          "en": "Haran"
+        }
+      ]
+    },
+    {
+      "id": "lia",
+      "name": {
+        "pt": "Lia",
+        "en": "Leah"
+      },
+      "summary": {
+        "pt": "Filha mais velha de Labão e primeira esposa de Jacó. Mãe de seis filhos, entre eles Levi e Judá, e de Diná (Gn 29–30; 35:23; 49:31).",
+        "en": "Laban’s elder daughter and Jacob’s first wife. Mother of six sons, among them Levi and Judah, and of Dinah (Gen 29–30; 35:23; 49:31)."
+      },
+      "bio": {
+        "pt": [
+          "Lia é a filha mais velha de Labão. O texto diz que seus olhos eram “delicados” (ou “fracos”) e que Raquel era bela de aparência (Gn 29:16–17). Labão a dá a Jacó na noite de núpcias no lugar de Raquel (Gn 29:21–25). Vendo que Lia era desprezada, o Senhor a faz fecunda: nascem Rúben, Simeão, Levi e Judá, e a cada nome ela exprime o desejo de ser amada pelo marido, ou de louvar o Senhor, no caso de Judá (Gn 29:31–35).",
+          "Mais tarde, depois de um período sem filhos, ela dá sua serva Zilpa a Jacó, e nascem Gade e Aser. Depois nascem de Lia Issacar e Zebulom e uma filha, Diná (Gn 30:9–21). Em Gênesis 30:14–16 ela negocia com Raquel as mandrágoras do filho Rúben em troca de uma noite com Jacó.",
+          "Quando Jacó volta a Canaã, ele divide a família e deixa Lia e seus filhos à frente de Raquel (Gn 33:1–2). Jacó diz, no fim da vida, que Lia foi sepultada na caverna de Macpela e pede para ser sepultado ali (Gn 49:29–31). Em Rute 4:11, Raquel e Lia são lembradas como as que “edificaram a casa de Israel”."
+        ],
+        "en": [
+          "Leah is Laban’s elder daughter. The text says her eyes were “weak” (or “tender”) while Rachel was beautiful in form and appearance (Gen 29:16–17). Laban gives her to Jacob on the wedding night in place of Rachel (Gen 29:21–25). Seeing that Leah was unloved, the Lord opens her womb: Reuben, Simeon, Levi and Judah are born, and with each name she voices her wish to be loved by her husband, or in Judah’s case to praise the Lord (Gen 29:31–35).",
+          "Later, after a time without children, she gives her servant Zilpah to Jacob, and Gad and Asher are born. Leah then bears Issachar and Zebulun and a daughter, Dinah (Gen 30:9–21). In Genesis 30:14–16 she bargains with Rachel over her son Reuben’s mandrakes in exchange for a night with Jacob.",
+          "When Jacob returns to Canaan he arranges the family with Leah and her children ahead of Rachel (Gen 33:1–2). At the end of his life Jacob says that Leah was buried in the cave of Machpelah and asks to be buried there (Gen 49:29–31). In Ruth 4:11 Rachel and Leah are remembered as the two who “built the house of Israel.”"
+        ]
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Primeira esposa de Jacó; mãe de seis tribos (29–30; 35)",
+            "en": "Jacob’s first wife; mother of six tribes (29–30; 35)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "gen",
+          "name": "Harã",
+          "en": "Haran"
+        }
+      ],
+      "note": {
+        "pt": "“Delicados” (hebraico rakkot) pode significar também “fracos” ou “sem brilho”; os tradutores divergem.",
+        "en": "“Weak” or “tender” (Hebrew rakkot) can also mean “dull”; translators differ."
+      }
+    },
+    {
+      "id": "raquel",
+      "name": {
+        "pt": "Raquel",
+        "en": "Rachel"
+      },
+      "summary": {
+        "pt": "Filha mais nova de Labão, a esposa que Jacó ama. Mãe de José e Benjamim; morre ao dar à luz Benjamim perto de Efrata (Gn 29–30; 35:16–20).",
+        "en": "Laban’s younger daughter, the wife Jacob loves. Mother of Joseph and Benjamin; she dies giving birth to Benjamin near Ephrath (Gen 29–30; 35:16–20)."
+      },
+      "bio": {
+        "pt": [
+          "Raquel, filha mais nova de Labão, é pastora e encontra Jacó junto ao poço em Harã (Gn 29:9–12). Ele a ama e serve sete anos por ela, que lhe “pareceram poucos dias, pelo muito que a amava” (Gn 29:18–20). Depois de receber Lia, Jacó recebe também Raquel e serve mais sete anos (Gn 29:25–30).",
+          "Raquel é estéril por muito tempo, o que a faz invejar Lia. Ela dá a serva Bila a Jacó, e nascem Dã e Naftali (Gn 30:1–8). Mais tarde, Deus se lembra dela e ela dá à luz José (Gn 30:22–24). Ao deixar a casa do pai, ela leva os ídolos domésticos e os esconde na sela do camelo; Labão não os acha (Gn 31:19, 30–35). Jacó, sem saber, havia dito que quem os tivesse não viveria (Gn 31:32).",
+          "Perto de Efrata, em trabalho de parto, ela dá à luz Benjamim, a quem chama Benoni (“filho da minha aflição”), e morre; Jacó levanta uma coluna sobre o túmulo (Gn 35:16–20). Jeremias 31:15 mostra “Raquel chorando seus filhos” em Ramá, texto que Mateus cita ao contar a matança de Belém (Mt 2:17–18)."
+        ],
+        "en": [
+          "Rachel, Laban’s younger daughter, is a shepherdess and meets Jacob at the well in Haran (Gen 29:9–12). He loves her and serves seven years for her, which “seemed to him but a few days because of the love he had for her” (Gen 29:18–20). After receiving Leah, Jacob receives Rachel as well and serves seven more years (Gen 29:25–30).",
+          "Rachel is barren for a long time, which makes her envy Leah. She gives her servant Bilhah to Jacob, and Dan and Naphtali are born (Gen 30:1–8). Later God remembers her and she bears Joseph (Gen 30:22–24). Leaving her father’s house, she takes the household idols and hides them in the camel’s saddle; Laban does not find them (Gen 31:19, 30–35). Jacob, unaware, had said that whoever had them would not live (Gen 31:32).",
+          "Near Ephrath, in hard labor, she bears Benjamin, whom she calls Ben-oni (“son of my sorrow”), and dies; Jacob sets up a pillar over her grave (Gen 35:16–20). Jeremiah 31:15 pictures “Rachel weeping for her children” at Ramah, a text Matthew cites in telling of the slaughter at Bethlehem (Matt 2:17–18)."
+        ]
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Esposa amada de Jacó; mãe de José e Benjamim (29–30; 35)",
+            "en": "Jacob’s beloved wife; mother of Joseph and Benjamin (29–30; 35)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "gen",
+          "name": "Harã",
+          "en": "Haran"
+        }
+      ],
+      "note": {
+        "pt": "A localização do túmulo de Raquel é debatida: Gênesis 35:19 o põe no caminho de Efrata (Belém), e 1Samuel 10:2 o põe no território de Benjamim.",
+        "en": "The location of Rachel’s tomb is debated: Genesis 35:19 puts it on the way to Ephrath (Bethlehem), while 1 Samuel 10:2 puts it in the territory of Benjamin."
+      }
+    },
+    {
+      "id": "juda",
+      "name": {
+        "pt": "Judá, filho de Jacó",
+        "en": "Judah, son of Jacob"
+      },
+      "summary": {
+        "pt": "Quarto filho de Jacó e Lia. Propõe vender José, protege Benjamim diante do governador do Egito e recebe de Jacó a bênção do cetro, de onde vem a linhagem de Davi (Gn 37–49).",
+        "en": "Fourth son of Jacob and Leah. He proposes selling Joseph, stands surety for Benjamin before the ruler of Egypt and receives from Jacob the blessing of the scepter, from which David’s line comes (Gen 37–49)."
+      },
+      "bio": {
+        "pt": [
+          "Judá é o quarto filho de Jacó e Lia; Lia o chama assim dizendo: “Desta vez louvarei o Senhor” (Gn 29:35). Quando os irmãos veem José em Dotã, Rúben quer salvá-lo, e Judá propõe vendê-lo aos ismaelitas em vez de matá-lo (Gn 37:25–28). Em Gênesis 38, ele se separa dos irmãos, casa-se com uma cananeia e tem filhos; depois não dá Selá, o filho mais novo, a Tamar, nora que ficou viúva, e acaba tendo filhos com ela sem a reconhecer. Quando se descobre a gravidez, ele reconhece: “Ela é mais justa do que eu” (Gn 38:26).",
+          "No Egito, Judá é quem convence Jacó a mandar Benjamim, tornando-se fiador do menino (Gn 43:8–10). Quando o copo de José é achado no saco de Benjamim, Judá se oferece para ficar como escravo no lugar do irmão e pede que o menino volte ao pai (Gn 44:14–34). José então se dá a conhecer (Gn 45:1–3).",
+          "Em Gênesis 49:8–12 Jacó abençoa Judá: seus irmãos o louvarão, ele é “leão novo” e “o cetro não se arredará de Judá” até que venha aquele a quem pertence. A tribo de Judá recebe o sul de Canaã, e dela vêm Davi (Rt 4:18–22) e, segundo Mateus e Lucas, Jesus (Mt 1:2–3; Lc 3:33). Em Apocalipse 5:5 Cristo é chamado “o Leão da tribo de Judá”."
+        ],
+        "en": [
+          "Judah is the fourth son of Jacob and Leah; Leah names him saying, “This time I will praise the Lord” (Gen 29:35). When the brothers see Joseph at Dothan, Reuben wants to save him, and Judah proposes selling him to the Ishmaelites instead of killing him (Gen 37:25–28). In Genesis 38 he separates from his brothers, marries a Canaanite woman and has sons; later he does not give Shelah, the youngest, to Tamar, the widowed daughter-in-law, and ends up having children with her without recognizing her. When the pregnancy is discovered he admits: “She is more in the right than I” (Gen 38:26).",
+          "In Egypt it is Judah who persuades Jacob to send Benjamin, becoming surety for the boy (Gen 43:8–10). When Joseph’s cup is found in Benjamin’s sack, Judah offers to stay as a slave in his brother’s place and asks that the boy go back to his father (Gen 44:14–34). Joseph then reveals himself (Gen 45:1–3).",
+          "In Genesis 49:8–12 Jacob blesses Judah: his brothers will praise him, he is a “lion’s cub,” and “the scepter shall not depart from Judah” until he comes to whom it belongs. The tribe of Judah receives the south of Canaan, and from it come David (Ruth 4:18–22) and, according to Matthew and Luke, Jesus (Matt 1:2–3; Luke 3:33). In Revelation 5:5 Christ is called “the Lion of the tribe of Judah.”"
+        ]
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Quarto filho de Jacó; ancestral de Davi (29:35; 37–38; 43–44; 49)",
+            "en": "Jacob’s fourth son; ancestor of David (29:35; 37–38; 43–44; 49)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "gen",
+          "name": "Dotã",
+          "en": "Dothan"
+        }
+      ],
+      "note": {
+        "pt": "Judá é também o nome do reino do sul e da tribo; esta página trata do patriarca. O sentido de Gênesis 49:10 (“Siló”) é debatido; o projeto não adota uma leitura.",
+        "en": "Judah is also the name of the southern kingdom and of the tribe; this page is about the patriarch. The meaning of Genesis 49:10 (“Shiloh”) is debated; the project does not adopt one reading."
+      },
+      "autoLink": false
+    },
+    {
+      "id": "tamar",
+      "name": {
+        "pt": "Tamar, nora de Judá",
+        "en": "Tamar, Judah’s daughter-in-law"
+      },
+      "summary": {
+        "pt": "Nora de Judá, viúva sem filhos. Engana Judá para ter descendência e dá à luz os gêmeos Perez e Zerá; o nome dela está na genealogia de Jesus (Gn 38; Mt 1:3).",
+        "en": "Judah’s daughter-in-law, a childless widow. She tricks Judah to have offspring and bears the twins Perez and Zerah; her name is in the genealogy of Jesus (Gen 38; Matt 1:3)."
+      },
+      "bio": {
+        "pt": [
+          "Tamar é a esposa de Er, primeiro filho de Judá. Er morre sem filhos por sua maldade, e Judá manda Onã, o irmão, cumprir o dever de dar descendência ao morto; Onã o evita e também morre (Gn 38:6–10). Judá manda Tamar esperar em casa do pai até que Selá, o mais novo, cresça, mas não cumpre a promessa (Gn 38:11–14). Esse costume é o do casamento do cunhado, que a lei de Moisés depois regulou (Dt 25:5–10).",
+          "Tamar se cobre com véu e se coloca à beira do caminho em Timna; Judá, já viúvo, a toma por prostituta e lhe deixa em penhor o selo, o cordão e o cajado (Gn 38:14–18). Quando a gravidez aparece e ela é condenada, Tamar mostra os três objetos e diz de quem é o filho. Judá reconhece: “Ela é mais justa do que eu, pois não a dei a meu filho Selá” (Gn 38:24–26).",
+          "Ela dá à luz gêmeos, Perez e Zerá (Gn 38:27–30). Perez está na linhagem de Davi (Rt 4:12, 18–22), e Mateus 1:3 cita Tamar entre as quatro mulheres da genealogia de Jesus, ao lado de Raabe, Rute e a mulher de Urias."
+        ],
+        "en": [
+          "Tamar is the wife of Er, Judah’s firstborn. Er dies childless because of his wickedness, and Judah tells Onan, his brother, to fulfill the duty of raising offspring for the dead man; Onan avoids it and also dies (Gen 38:6–10). Judah tells Tamar to wait in her father’s house until Shelah, the youngest, grows up, but does not keep his promise (Gen 38:11–14). This custom is that of brother-in-law marriage, later regulated in the law of Moses (Deut 25:5–10).",
+          "Tamar covers herself with a veil and sits by the road at Timnah; Judah, now a widower, takes her for a prostitute and leaves with her his signet, cord and staff as a pledge (Gen 38:14–18). When her pregnancy shows and she is condemned, Tamar produces the three objects and says whose child it is. Judah acknowledges: “She is more righteous than I, since I did not give her to my son Shelah” (Gen 38:24–26).",
+          "She bears twins, Perez and Zerah (Gen 38:27–30). Perez is in the line of David (Ruth 4:12, 18–22), and Matthew 1:3 names Tamar among the four women of the genealogy of Jesus, alongside Rahab, Ruth and the wife of Uriah."
+        ]
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Nora de Judá; mãe de Perez e Zerá (38)",
+            "en": "Judah’s daughter-in-law; mother of Perez and Zerah (38)"
+          }
+        }
+      ],
+      "linkBooks": [
+        "gen"
+      ]
     }
   ]
 }
