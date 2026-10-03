@@ -251,7 +251,7 @@ h1 a { color: inherit; text-decoration: none; }
 
 /* genealogia */
 .gn-wrap { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 16px; align-items: start; margin-top: 12px; }
-.gn-svg { display: block; width: 100%; max-width: 440px; height: auto; margin-inline: auto; }
+.gn-svg { display: block; width: 100%; max-width: 260px; height: auto; margin-inline: auto; }
 .gn-link { fill: none; stroke-width: 2; opacity: 0.8; }
 .gn-node { cursor: pointer; outline: none; }
 .gn-node rect { fill: var(--panel); stroke-width: 2; }
