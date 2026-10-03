@@ -11,7 +11,7 @@ const H = 30; // altura do nó
 const DX = 184; // distância entre colunas
 const DY = 46; // distância entre gerações
 const SPLIT = 34;
-const COLOR = { mt: 'var(--s-evangelhos)', lc: 'var(--s-atos)' };
+const COLOR = { mt: 'var(--s-evangelhos)' };
 
 function build(id) {
   return { id, kids: childrenOf(id).map((l) => build(l.to)) };

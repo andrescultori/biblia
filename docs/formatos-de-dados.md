@@ -85,11 +85,11 @@ Nos textos da ficha, os nomes de personagens e os lugares do mapa do livro viram
 
 `src/data/genealogia.json` guarda as árvores (hoje uma: `adao-jesus`). Três partes:
 
-- `trees[]`: `id`, `root` (nó da raiz), `title`, `intro`, `note` (PT/EN) e `branches` (nome de cada ramo, por exemplo `mt` = Mateus 1 e `lc` = Lucas 3).
-- `nodes{}`: um nó por posição na lista. `name` (PT/EN), `personId` opcional (liga à página do personagem), `branch` opcional e `note` opcional. A mesma pessoa pode ter dois nós (Zorobabel em Mateus e em Lucas); os ids são únicos.
+- `trees[]`: `id`, `root` (nó da raiz), `title`, `intro`, `note` (PT/EN) e `branches` (nome de cada ramo; hoje só `mt` = Mateus 1, de Salomão a Jesus).
+- `nodes{}`: um nó por posição na lista. `name` (PT/EN), `personId` opcional (liga à página do personagem), `branch` opcional e `note` opcional. Os ids são únicos; uma pessoa pode ter mais de um nó se aparecer em mais de uma lista.
 - `links[]`: ligações pai → filho. `from`, `to`, `refs[]` (**obrigatório**: `{book, ref}`, por exemplo `{"book":"gen","ref":"5:3"}`), `mother` opcional (id de `people.json`, quando o texto cita a mãe) e `note` opcional.
 
-Regras: nunca ligar sem referência bíblica; cada nó tem um pai só; todos os nós saem da raiz. Onde as listas divergem (Mateus × Lucas, Gênesis 11 hebraico × Lucas 3:36), a diferença vai em `note`, sem escolher uma leitura. `npm run check` confere ids, referências, pai único e ciclos. A página usa `d3-hierarchy` (`src/Genealogy.jsx`) e o bloco **Família** da página do personagem lê os mesmos dados (`src/genealogy.js`).
+Regras: nunca ligar sem referência bíblica; cada nó tem um pai só; todos os nós saem da raiz. A lista de Lucas 3 ficou de fora por decisão do André (deixava a árvore confusa); onde os textos divergem (por exemplo, Gênesis 11 hebraico × Septuaginta/Lucas 3:36), a diferença vai em `note`, sem escolher uma leitura. `npm run check` confere ids, referências, pai único e ciclos. A página usa `d3-hierarchy` (`src/Genealogy.jsx`) e o bloco **Família** da página do personagem lê os mesmos dados (`src/genealogy.js`).
 
 ## Configurações
 
@@ -110,7 +110,7 @@ A navegação usa o hash da URL, sem biblioteca de rotas; o botão voltar do nav
 | `#2ki/map/Laquis` | aba Mapa com o lugar selecionado (nome em PT) |
 | `#timeline`, `#timeline/exodo` | linha do tempo, com o evento em foco |
 | `#person`, `#person/davi` | lista de personagens ou a página de uma pessoa |
-| `#tree/adao-jesus`, `#tree/adao-jesus/lc-eli` | árvore genealógica, com o nome em foco |
+| `#tree/adao-jesus`, `#tree/adao-jesus/mt-salomao` | árvore genealógica, com o nome em foco |
 
 Trocar de aba ou de lugar atualiza o endereço sem criar entrada no histórico; ir para outra página cria. Ao voltar para a grade, a rolagem é restaurada. O código está em `src/route.js`.
 

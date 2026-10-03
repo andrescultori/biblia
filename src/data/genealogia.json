@@ -8,21 +8,17 @@
     "en": "From Adam to Jesus"
    },
    "intro": {
-    "pt": "A linhagem de Adão a Abraão vem de Gênesis 5 e 11 (texto hebraico), com Lucas 3 em paralelo; de Abraão a Davi, de Rute 4, 1Crônicas 2, Mateus 1 e Lucas 3. De Davi em diante a árvore se divide: Mateus 1 desce por Salomão (linha real) e Lucas 3 por Natã. Toque em um nome para ver as referências e as notas.",
-    "en": "The line from Adam to Abraham comes from Genesis 5 and 11 (Hebrew text), with Luke 3 in parallel; from Abraham to David, from Ruth 4, 1 Chronicles 2, Matthew 1 and Luke 3. From David on, the tree divides: Matthew 1 descends through Solomon (the royal line) and Luke 3 through Nathan. Tap a name to see the references and notes."
+    "pt": "A linhagem de Adão a Abraão vem de Gênesis 5 e 11 (texto hebraico); de Abraão a Davi, de Rute 4, 1Crônicas 2 e Mateus 1; de Davi a Jesus, de Mateus 1 (linha real, por Salomão). Toque em um nome para ver as referências e as notas.",
+    "en": "The line from Adam to Abraham comes from Genesis 5 and 11 (Hebrew text); from Abraham to David, from Ruth 4, 1 Chronicles 2 and Matthew 1; from David to Jesus, from Matthew 1 (the royal line, through Solomon). Tap a name to see the references and notes."
    },
    "note": {
-    "pt": "A árvore mostra o que cada texto diz e não calcula datas. “Gerou” e “filho de” podem indicar descendência mais distante; as listas de Mateus e Lucas têm formas diferentes de resumir. Mateus 1:17 organiza a sua em três grupos de catorze.",
-    "en": "The tree shows what each text says and does not calculate dates. “Begot” and “son of” can indicate more distant descent; the lists of Matthew and Luke summarize in different ways. Matthew 1:17 arranges his in three groups of fourteen."
+    "pt": "A árvore mostra o que o texto diz e não calcula datas. “Gerou” e “filho de” podem indicar descendência mais distante. Mateus 1:17 organiza a lista em três grupos de catorze. A lista de Lucas 3 tem outra forma e não está nesta árvore.",
+    "en": "The tree shows what the text says and does not calculate dates. “Begot” and “son of” can indicate more distant descent. Matthew 1:17 arranges the list in three groups of fourteen. The list in Luke 3 has a different form and is not in this tree."
    },
    "branches": {
     "mt": {
      "pt": "Mateus 1",
      "en": "Matthew 1"
-    },
-    "lc": {
-     "pt": "Lucas 3",
-     "en": "Luke 3"
     }
    }
   }
@@ -193,10 +189,6 @@
    "name": {
     "pt": "Rã",
     "en": "Ram"
-   },
-   "note": {
-    "pt": "Lucas 3:33 (Bíblia Livre) traz dois nomes, Admim e Arni, entre Esrom e Aminadabe, e outras edições leem “Arão” ou “Aram”; os manuscritos de Lucas variam aqui. O projeto segue Rute 4:19 e Mateus 1:3–4.",
-    "en": "Luke 3:33 (Bíblia Livre) has two names, Admin and Arni, between Hezron and Amminadab, and other editions read “Aram”; the manuscripts of Luke vary here. The project follows Ruth 4:19 and Matthew 1:3–4."
    }
   },
   "aminadabe": {
@@ -367,8 +359,8 @@
    },
    "branch": "mt",
    "note": {
-    "pt": "Mateus e Lucas coincidem em Salatiel e Zorobabel, mas dão pais diferentes a Salatiel (aqui, Jeconias; em Lucas 3:27, Neri). As explicações propostas são um casamento por levirato, a herança por duas linhas ou dois homens com o mesmo nome; o texto não decide. Jeremias 22:30 fala de Jeconias como “sem filhos” e entra na discussão.",
-    "en": "Matthew and Luke agree on Shealtiel and Zerubbabel, but give Shealtiel different fathers (here, Jechoniah; in Luke 3:27, Neri). Proposed explanations are a levirate marriage, inheritance through two lines, or two men with the same name; the text does not decide. Jeremiah 22:30 speaks of Jechoniah as “childless” and enters the discussion."
+    "pt": "Esdras 3:2 e Ageu 1:1 chamam Zorobabel “filho de Salatiel”, mas 1Crônicas 3:19 o dá como filho de Pedaías, irmão de Salatiel. Jeremias 22:30 fala de Jeconias como “sem filhos”; como isso se concilia com Mateus 1:12 é debatido.",
+    "en": "Ezra 3:2 and Haggai 1:1 call Zerubbabel “son of Shealtiel,” but 1 Chronicles 3:19 gives him as a son of Pedaiah, Shealtiel’s brother. Jeremiah 22:30 speaks of Jechoniah as “childless”; how this fits with Matthew 1:12 is debated."
    }
   },
   "mt-zorobabel": {
@@ -377,11 +369,7 @@
     "en": "Zerubbabel"
    },
    "personId": "zorobabel",
-   "branch": "mt",
-   "note": {
-    "pt": "Esdras 3:2 e Ageu 1:1 chamam Zorobabel “filho de Salatiel”, mas 1Crônicas 3:19 o dá como filho de Pedaías, irmão de Salatiel. Os nomes dos filhos de Zorobabel em 1Crônicas 3:19–20 também não incluem Abiúde.",
-    "en": "Ezra 3:2 and Haggai 1:1 call Zerubbabel “son of Shealtiel,” but 1 Chronicles 3:19 gives him as a son of Pedaiah, Shealtiel’s brother. The names of Zerubbabel’s sons in 1 Chronicles 3:19–20 also do not include Abiud."
-   }
+   "branch": "mt"
   },
   "mt-abiude": {
    "name": {
@@ -444,11 +432,7 @@
     "pt": "Jacó",
     "en": "Jacob"
    },
-   "branch": "mt",
-   "note": {
-    "pt": "Mateus dá Jacó como pai de José; Lucas 3:23 dá Eli. Ver a nota em Eli, na linha de Lucas.",
-    "en": "Matthew gives Jacob as Joseph’s father; Luke 3:23 gives Eli. See the note at Eli, in Luke’s line."
-   }
+   "branch": "mt"
   },
   "mt-jose": {
    "name": {
@@ -469,323 +453,6 @@
    },
    "personId": "jesus",
    "branch": "mt"
-  },
-  "lc-natan": {
-   "name": {
-    "pt": "Natã",
-    "en": "Nathan"
-   },
-   "branch": "lc",
-   "note": {
-    "pt": "Natã, filho de Davi e de Bate-Seba (2Sm 5:14; 1Cr 3:5; 14:4), não é o profeta Natã.",
-    "en": "Nathan, son of David and Bathsheba (2 Sam 5:14; 1 Chr 3:5; 14:4), is not the prophet Nathan."
-   }
-  },
-  "lc-mataata": {
-   "name": {
-    "pt": "Matatá",
-    "en": "Mattatha"
-   },
-   "branch": "lc"
-  },
-  "lc-mena": {
-   "name": {
-    "pt": "Mená",
-    "en": "Menna"
-   },
-   "branch": "lc"
-  },
-  "lc-melea": {
-   "name": {
-    "pt": "Meleá",
-    "en": "Melea"
-   },
-   "branch": "lc"
-  },
-  "lc-eliaquim": {
-   "name": {
-    "pt": "Eliaquim",
-    "en": "Eliakim"
-   },
-   "branch": "lc"
-  },
-  "lc-jona": {
-   "name": {
-    "pt": "Jonã",
-    "en": "Jonam"
-   },
-   "branch": "lc"
-  },
-  "lc-jose1": {
-   "name": {
-    "pt": "José",
-    "en": "Joseph"
-   },
-   "branch": "lc"
-  },
-  "lc-juda": {
-   "name": {
-    "pt": "Judá",
-    "en": "Judah"
-   },
-   "branch": "lc"
-  },
-  "lc-simeao": {
-   "name": {
-    "pt": "Simeão",
-    "en": "Simeon"
-   },
-   "branch": "lc"
-  },
-  "lc-levi1": {
-   "name": {
-    "pt": "Levi",
-    "en": "Levi"
-   },
-   "branch": "lc"
-  },
-  "lc-matate1": {
-   "name": {
-    "pt": "Matate",
-    "en": "Matthat"
-   },
-   "branch": "lc"
-  },
-  "lc-jorim": {
-   "name": {
-    "pt": "Jorim",
-    "en": "Joram"
-   },
-   "branch": "lc"
-  },
-  "lc-eliezer": {
-   "name": {
-    "pt": "Eliézer",
-    "en": "Eliezer"
-   },
-   "branch": "lc"
-  },
-  "lc-josue": {
-   "name": {
-    "pt": "Josué (Jesus)",
-    "en": "Joshua (Jesus)"
-   },
-   "branch": "lc"
-  },
-  "lc-er": {
-   "name": {
-    "pt": "Er",
-    "en": "Er"
-   },
-   "branch": "lc"
-  },
-  "lc-elmoda": {
-   "name": {
-    "pt": "Elmodã",
-    "en": "Elmadam"
-   },
-   "branch": "lc"
-  },
-  "lc-cosa": {
-   "name": {
-    "pt": "Cosã",
-    "en": "Cosam"
-   },
-   "branch": "lc"
-  },
-  "lc-adi": {
-   "name": {
-    "pt": "Adi",
-    "en": "Addi"
-   },
-   "branch": "lc"
-  },
-  "lc-melqui1": {
-   "name": {
-    "pt": "Melqui",
-    "en": "Melchi"
-   },
-   "branch": "lc"
-  },
-  "lc-neri": {
-   "name": {
-    "pt": "Neri",
-    "en": "Neri"
-   },
-   "branch": "lc"
-  },
-  "lc-salatiel": {
-   "name": {
-    "pt": "Salatiel",
-    "en": "Shealtiel"
-   },
-   "branch": "lc",
-   "note": {
-    "pt": "Mateus 1:12 dá Jeconias como pai de Salatiel; Lucas dá Neri. Ver a nota em Salatiel, na linha de Mateus.",
-    "en": "Matthew 1:12 gives Jechoniah as Shealtiel’s father; Luke gives Neri. See the note at Shealtiel, in Matthew’s line."
-   }
-  },
-  "lc-zorobabel": {
-   "name": {
-    "pt": "Zorobabel",
-    "en": "Zerubbabel"
-   },
-   "personId": "zorobabel",
-   "branch": "lc"
-  },
-  "lc-resa": {
-   "name": {
-    "pt": "Resa",
-    "en": "Rhesa"
-   },
-   "branch": "lc"
-  },
-  "lc-joana": {
-   "name": {
-    "pt": "Joanã",
-    "en": "Joanan"
-   },
-   "branch": "lc"
-  },
-  "lc-joda": {
-   "name": {
-    "pt": "Jodá",
-    "en": "Joda"
-   },
-   "branch": "lc"
-  },
-  "lc-joseque": {
-   "name": {
-    "pt": "Joseque",
-    "en": "Josech"
-   },
-   "branch": "lc",
-   "note": {
-    "pt": "Os manuscritos de Lucas 3:26 variam neste nome (Josec, José); o projeto segue a Bíblia Livre.",
-    "en": "The manuscripts of Luke 3:26 vary on this name (Josech, Joseph); the project follows the Bíblia Livre."
-   }
-  },
-  "lc-semei": {
-   "name": {
-    "pt": "Semei",
-    "en": "Semein"
-   },
-   "branch": "lc"
-  },
-  "lc-matatias1": {
-   "name": {
-    "pt": "Matatias",
-    "en": "Mattathias"
-   },
-   "branch": "lc"
-  },
-  "lc-maate": {
-   "name": {
-    "pt": "Maate",
-    "en": "Maath"
-   },
-   "branch": "lc"
-  },
-  "lc-nagai": {
-   "name": {
-    "pt": "Nagai",
-    "en": "Naggai"
-   },
-   "branch": "lc"
-  },
-  "lc-esli": {
-   "name": {
-    "pt": "Esli",
-    "en": "Esli"
-   },
-   "branch": "lc"
-  },
-  "lc-naum": {
-   "name": {
-    "pt": "Naum",
-    "en": "Nahum"
-   },
-   "branch": "lc"
-  },
-  "lc-amos": {
-   "name": {
-    "pt": "Amós",
-    "en": "Amos"
-   },
-   "branch": "lc"
-  },
-  "lc-matatias2": {
-   "name": {
-    "pt": "Matatias",
-    "en": "Mattathias"
-   },
-   "branch": "lc"
-  },
-  "lc-jose2": {
-   "name": {
-    "pt": "José",
-    "en": "Joseph"
-   },
-   "branch": "lc"
-  },
-  "lc-janai": {
-   "name": {
-    "pt": "Janai",
-    "en": "Jannai"
-   },
-   "branch": "lc"
-  },
-  "lc-melqui2": {
-   "name": {
-    "pt": "Melqui",
-    "en": "Melchi"
-   },
-   "branch": "lc"
-  },
-  "lc-levi2": {
-   "name": {
-    "pt": "Levi",
-    "en": "Levi"
-   },
-   "branch": "lc"
-  },
-  "lc-matate2": {
-   "name": {
-    "pt": "Matate",
-    "en": "Matthat"
-   },
-   "branch": "lc"
-  },
-  "lc-eli": {
-   "name": {
-    "pt": "Eli",
-    "en": "Heli"
-   },
-   "branch": "lc",
-   "note": {
-    "pt": "Mateus 1:16 dá Jacó como pai de José; Lucas 3:23 dá Eli. Há duas leituras principais. (1) Lucas segue a linha de Maria: “filho de Eli” se refere a Maria, e José entra por ser genro de Eli; no grego, José é o único nome da lista sem o artigo (“do”), o que alguns leem como sinal de que ele entra de outro modo (como genro). (2) As duas listas são de José: um dos dois é o pai biológico e o outro o pai legal, por casamento de levirato (Dt 25:5–10), leitura registrada pelo historiador antigo Eusébio, que cita Júlio Africano (História Eclesiástica 1.7). O texto bíblico não decide.",
-    "en": "Matthew 1:16 gives Jacob as Joseph’s father; Luke 3:23 gives Eli. There are two main readings. (1) Luke follows Mary’s line: “son of Eli” refers to Mary, and Joseph enters as Eli’s son-in-law; in the Greek, Joseph is the only name in the list without the article (“the”), which some read as a sign that he enters in a different way (as son-in-law). (2) Both lists are Joseph’s: one of the two is the biological father and the other the legal father, by levirate marriage (Deut 25:5–10), a reading recorded by the ancient historian Eusebius, citing Julius Africanus (Ecclesiastical History 1.7). The biblical text does not decide."
-   }
-  },
-  "lc-jose3": {
-   "name": {
-    "pt": "José",
-    "en": "Joseph"
-   },
-   "personId": "jose-marido-de-maria",
-   "branch": "lc",
-   "note": {
-    "pt": "Lucas diz que Jesus era “filho, como se pensava, de José” (3:23); o nascimento virginal está em Lucas 1:26–38.",
-    "en": "Luke says Jesus was “the son, as was supposed, of Joseph” (3:23); the virginal conception is in Luke 1:26–38."
-   }
-  },
-  "lc-jesus": {
-   "name": {
-    "pt": "Jesus",
-    "en": "Jesus"
-   },
-   "personId": "jesus",
-   "branch": "lc"
   }
  },
  "links": [
@@ -796,10 +463,6 @@
     {
      "book": "gen",
      "ref": "5:3"
-    },
-    {
-     "book": "luk",
-     "ref": "3:38"
     }
    ]
   },
@@ -810,10 +473,6 @@
     {
      "book": "gen",
      "ref": "5:6"
-    },
-    {
-     "book": "luk",
-     "ref": "3:38"
     }
    ]
   },
@@ -824,10 +483,6 @@
     {
      "book": "gen",
      "ref": "5:9"
-    },
-    {
-     "book": "luk",
-     "ref": "3:37"
     }
    ]
   },
@@ -838,10 +493,6 @@
     {
      "book": "gen",
      "ref": "5:12"
-    },
-    {
-     "book": "luk",
-     "ref": "3:37"
     }
    ]
   },
@@ -852,10 +503,6 @@
     {
      "book": "gen",
      "ref": "5:15"
-    },
-    {
-     "book": "luk",
-     "ref": "3:37"
     }
    ]
   },
@@ -866,10 +513,6 @@
     {
      "book": "gen",
      "ref": "5:18"
-    },
-    {
-     "book": "luk",
-     "ref": "3:37"
     }
    ]
   },
@@ -880,10 +523,6 @@
     {
      "book": "gen",
      "ref": "5:21"
-    },
-    {
-     "book": "luk",
-     "ref": "3:37"
     }
    ]
   },
@@ -894,10 +533,6 @@
     {
      "book": "gen",
      "ref": "5:25"
-    },
-    {
-     "book": "luk",
-     "ref": "3:36"
     }
    ]
   },
@@ -908,10 +543,6 @@
     {
      "book": "gen",
      "ref": "5:28–29"
-    },
-    {
-     "book": "luk",
-     "ref": "3:36"
     }
    ]
   },
@@ -926,10 +557,6 @@
     {
      "book": "gen",
      "ref": "11:10"
-    },
-    {
-     "book": "luk",
-     "ref": "3:36"
     }
    ]
   },
@@ -940,10 +567,6 @@
     {
      "book": "gen",
      "ref": "11:10"
-    },
-    {
-     "book": "luk",
-     "ref": "3:36"
     }
    ]
   },
@@ -954,10 +577,6 @@
     {
      "book": "gen",
      "ref": "11:12"
-    },
-    {
-     "book": "luk",
-     "ref": "3:35–36"
     }
    ]
   },
@@ -968,10 +587,6 @@
     {
      "book": "gen",
      "ref": "11:14"
-    },
-    {
-     "book": "luk",
-     "ref": "3:35"
     }
    ]
   },
@@ -982,10 +597,6 @@
     {
      "book": "gen",
      "ref": "11:16"
-    },
-    {
-     "book": "luk",
-     "ref": "3:35"
     }
    ]
   },
@@ -996,10 +607,6 @@
     {
      "book": "gen",
      "ref": "11:18"
-    },
-    {
-     "book": "luk",
-     "ref": "3:35"
     }
    ]
   },
@@ -1010,10 +617,6 @@
     {
      "book": "gen",
      "ref": "11:20"
-    },
-    {
-     "book": "luk",
-     "ref": "3:35"
     }
    ]
   },
@@ -1024,10 +627,6 @@
     {
      "book": "gen",
      "ref": "11:22"
-    },
-    {
-     "book": "luk",
-     "ref": "3:34–35"
     }
    ]
   },
@@ -1038,10 +637,6 @@
     {
      "book": "gen",
      "ref": "11:24"
-    },
-    {
-     "book": "luk",
-     "ref": "3:34"
     }
    ]
   },
@@ -1052,10 +647,6 @@
     {
      "book": "gen",
      "ref": "11:26"
-    },
-    {
-     "book": "luk",
-     "ref": "3:34"
     }
    ]
   },
@@ -1070,10 +661,6 @@
     {
      "book": "mat",
      "ref": "1:2"
-    },
-    {
-     "book": "luk",
-     "ref": "3:34"
     }
    ]
   },
@@ -1088,10 +675,6 @@
     {
      "book": "mat",
      "ref": "1:2"
-    },
-    {
-     "book": "luk",
-     "ref": "3:34"
     }
    ]
   },
@@ -1106,10 +689,6 @@
     {
      "book": "mat",
      "ref": "1:2"
-    },
-    {
-     "book": "luk",
-     "ref": "3:33–34"
     }
    ]
   },
@@ -1128,10 +707,6 @@
     {
      "book": "mat",
      "ref": "1:3"
-    },
-    {
-     "book": "luk",
-     "ref": "3:33"
     }
    ],
    "mother": "tamar"
@@ -1151,10 +726,6 @@
     {
      "book": "mat",
      "ref": "1:3"
-    },
-    {
-     "book": "luk",
-     "ref": "3:33"
     }
    ]
   },
@@ -1191,10 +762,6 @@
     {
      "book": "mat",
      "ref": "1:4"
-    },
-    {
-     "book": "luk",
-     "ref": "3:33"
     }
    ]
   },
@@ -1213,10 +780,6 @@
     {
      "book": "mat",
      "ref": "1:4"
-    },
-    {
-     "book": "luk",
-     "ref": "3:32"
     }
    ]
   },
@@ -1235,10 +798,6 @@
     {
      "book": "mat",
      "ref": "1:4"
-    },
-    {
-     "book": "luk",
-     "ref": "3:32"
     }
    ]
   },
@@ -1257,10 +816,6 @@
     {
      "book": "mat",
      "ref": "1:5"
-    },
-    {
-     "book": "luk",
-     "ref": "3:32"
     }
    ],
    "mother": "raabe",
@@ -1284,10 +839,6 @@
     {
      "book": "mat",
      "ref": "1:5"
-    },
-    {
-     "book": "luk",
-     "ref": "3:32"
     }
    ],
    "mother": "rute"
@@ -1307,10 +858,6 @@
     {
      "book": "mat",
      "ref": "1:5"
-    },
-    {
-     "book": "luk",
-     "ref": "3:32"
     }
    ]
   },
@@ -1329,10 +876,6 @@
     {
      "book": "mat",
      "ref": "1:6"
-    },
-    {
-     "book": "luk",
-     "ref": "3:31–32"
     }
    ]
   },
@@ -1688,438 +1231,6 @@
     {
      "book": "mat",
      "ref": "1:16"
-    }
-   ]
-  },
-  {
-   "from": "davi",
-   "to": "lc-natan",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:31"
-    },
-    {
-     "book": "2sa",
-     "ref": "5:14"
-    },
-    {
-     "book": "1ch",
-     "ref": "3:5"
-    }
-   ]
-  },
-  {
-   "from": "lc-natan",
-   "to": "lc-mataata",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:31"
-    }
-   ]
-  },
-  {
-   "from": "lc-mataata",
-   "to": "lc-mena",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:31"
-    }
-   ]
-  },
-  {
-   "from": "lc-mena",
-   "to": "lc-melea",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:31"
-    }
-   ]
-  },
-  {
-   "from": "lc-melea",
-   "to": "lc-eliaquim",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:30–31"
-    }
-   ]
-  },
-  {
-   "from": "lc-eliaquim",
-   "to": "lc-jona",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:30"
-    }
-   ]
-  },
-  {
-   "from": "lc-jona",
-   "to": "lc-jose1",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:30"
-    }
-   ]
-  },
-  {
-   "from": "lc-jose1",
-   "to": "lc-juda",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:30"
-    }
-   ]
-  },
-  {
-   "from": "lc-juda",
-   "to": "lc-simeao",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:30"
-    }
-   ]
-  },
-  {
-   "from": "lc-simeao",
-   "to": "lc-levi1",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:29–30"
-    }
-   ]
-  },
-  {
-   "from": "lc-levi1",
-   "to": "lc-matate1",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:29"
-    }
-   ]
-  },
-  {
-   "from": "lc-matate1",
-   "to": "lc-jorim",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:29"
-    }
-   ]
-  },
-  {
-   "from": "lc-jorim",
-   "to": "lc-eliezer",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:29"
-    }
-   ]
-  },
-  {
-   "from": "lc-eliezer",
-   "to": "lc-josue",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:29"
-    }
-   ]
-  },
-  {
-   "from": "lc-josue",
-   "to": "lc-er",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:28–29"
-    }
-   ]
-  },
-  {
-   "from": "lc-er",
-   "to": "lc-elmoda",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:28"
-    }
-   ]
-  },
-  {
-   "from": "lc-elmoda",
-   "to": "lc-cosa",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:28"
-    }
-   ]
-  },
-  {
-   "from": "lc-cosa",
-   "to": "lc-adi",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:28"
-    }
-   ]
-  },
-  {
-   "from": "lc-adi",
-   "to": "lc-melqui1",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:28"
-    }
-   ]
-  },
-  {
-   "from": "lc-melqui1",
-   "to": "lc-neri",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:27–28"
-    }
-   ]
-  },
-  {
-   "from": "lc-neri",
-   "to": "lc-salatiel",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:27"
-    }
-   ]
-  },
-  {
-   "from": "lc-salatiel",
-   "to": "lc-zorobabel",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:27"
-    },
-    {
-     "book": "ezr",
-     "ref": "3:2"
-    }
-   ]
-  },
-  {
-   "from": "lc-zorobabel",
-   "to": "lc-resa",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:27"
-    }
-   ]
-  },
-  {
-   "from": "lc-resa",
-   "to": "lc-joana",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:26–27"
-    }
-   ]
-  },
-  {
-   "from": "lc-joana",
-   "to": "lc-joda",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:26"
-    }
-   ]
-  },
-  {
-   "from": "lc-joda",
-   "to": "lc-joseque",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:26"
-    }
-   ]
-  },
-  {
-   "from": "lc-joseque",
-   "to": "lc-semei",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:26"
-    }
-   ]
-  },
-  {
-   "from": "lc-semei",
-   "to": "lc-matatias1",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:26"
-    }
-   ]
-  },
-  {
-   "from": "lc-matatias1",
-   "to": "lc-maate",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:25–26"
-    }
-   ]
-  },
-  {
-   "from": "lc-maate",
-   "to": "lc-nagai",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:25–26"
-    }
-   ]
-  },
-  {
-   "from": "lc-nagai",
-   "to": "lc-esli",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:25"
-    }
-   ]
-  },
-  {
-   "from": "lc-esli",
-   "to": "lc-naum",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:25"
-    }
-   ]
-  },
-  {
-   "from": "lc-naum",
-   "to": "lc-amos",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:25"
-    }
-   ]
-  },
-  {
-   "from": "lc-amos",
-   "to": "lc-matatias2",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:25"
-    }
-   ]
-  },
-  {
-   "from": "lc-matatias2",
-   "to": "lc-jose2",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:24–25"
-    }
-   ]
-  },
-  {
-   "from": "lc-jose2",
-   "to": "lc-janai",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:24"
-    }
-   ]
-  },
-  {
-   "from": "lc-janai",
-   "to": "lc-melqui2",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:24"
-    }
-   ]
-  },
-  {
-   "from": "lc-melqui2",
-   "to": "lc-levi2",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:24"
-    }
-   ]
-  },
-  {
-   "from": "lc-levi2",
-   "to": "lc-matate2",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:24"
-    }
-   ]
-  },
-  {
-   "from": "lc-matate2",
-   "to": "lc-eli",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:23–24"
-    }
-   ]
-  },
-  {
-   "from": "lc-eli",
-   "to": "lc-jose3",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:23"
-    }
-   ]
-  },
-  {
-   "from": "lc-jose3",
-   "to": "lc-jesus",
-   "refs": [
-    {
-     "book": "luk",
-     "ref": "3:23"
     }
    ]
   }

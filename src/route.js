@@ -7,7 +7,7 @@ import { bySlug } from './data/books.js';
 //   #psa/psalms/51  #psa/read/23   Salmos: aba da tabela com o salmo selecionado; leitor no capítulo
 //   #timeline  #timeline/exodo     linha do tempo (e evento em foco)
 //   #person  #person/davi          personagens (e pessoa)
-//   #tree/adao-jesus  #tree/adao-jesus/lc-eli   genealogia (árvore e nó em foco)
+//   #tree/adao-jesus  #tree/adao-jesus/mt-salomao   genealogia (árvore e nó em foco)
 const TABS = ['summary', 'sheet', 'map', 'psalms', 'structure', 'read'];
 
 export function parseHash(hash = location.hash) {

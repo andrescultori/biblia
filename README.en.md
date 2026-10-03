@@ -37,7 +37,7 @@ From the Exodus on the timeline, for example, one click opens the Exodus map alr
 - **A map** in 46 books, with its own vector coastline (no external tiles), collision-free labels, regional zoom, a legend and flags for debated locations.
 - **A timeline** with 13 periods and 69 events, on a per-block scale, with approximate dates marked and debated chronologies (such as the Exodus) shown side by side. Books are tied to the period their text describes.
 - **People**: 210 people, with a summary, the books they appear in, events and places; the list sorts alphabetically or by book.
-- **Genealogy**: a tree from Adam to Jesus with Matthew 1 and Luke 3 side by side; every link cites the biblical text and the differences between the lists are kept in notes.
+- **Genealogy**: a tree from Adam to Jesus (Genesis, Ruth, 1 Chronicles and Matthew 1); every link cites the biblical text and differences are kept in notes.
 - **Psalms as a table**: the 150 psalms colored by book of the Psalter, title or genre, with the psalms that have a historical title linked to David, the people and the timeline.
 - **Structure of Job, Proverbs, Ecclesiastes and Song of Songs**: chapters colored by part (in Job, by speaker), the list of parts and, in Ecclesiastes and Song of Songs, the readings side by side.
 - **A text reader** in KJV, WEB and ASV (English), Bíblia Livre (Portuguese), with the credit and license of each.
