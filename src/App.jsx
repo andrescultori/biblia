@@ -10,6 +10,7 @@ import { usePageTitle } from './pageTitle.js';
 // Linha do tempo só carrega quando aberta.
 const Timeline = lazy(() => import('./Timeline.jsx'));
 const People = lazy(() => import('./People.jsx'));
+const Genealogy = lazy(() => import('./Genealogy.jsx'));
 
 const store = {
   get(k, d) { try { return localStorage.getItem(k) ?? d; } catch { return d; } },
@@ -58,6 +59,7 @@ export default function App() {
   const openMap = (slug, place) => go(hrefs.book(slug, 'map', place));
   const openTimeline = (id = null) => go(hrefs.timeline(id));
   const openPerson = (id = null) => go(hrefs.person(id));
+  const openTree = (id, node) => go(hrefs.tree(id, node));
 
   const groups = useMemo(() => {
     const q = norm(query.trim());
@@ -106,6 +108,7 @@ export default function App() {
           </div>
           <button type="button" className="ghost" onClick={() => openTimeline()}>{t.timeline}</button>
           <button type="button" className="ghost" onClick={() => openPerson()}>{t.people}</button>
+          <button type="button" className="ghost" onClick={() => openTree()}>{t.genealogy}</button>
           <input type="search" id="q" value={query} onChange={(e) => setQuery(e.target.value)} placeholder={t.search} aria-label={t.search} />
         </div>
 
@@ -132,9 +135,14 @@ export default function App() {
           <Timeline lang={lang} t={t} focusId={route.id} onOpenBook={open} onOpenMap={openMap} onOpenPerson={openPerson} />
         </Suspense>
       )}
+      {route.kind === 'tree' && (
+        <Suspense fallback={<p className="soon page-wait">{t.loading}</p>}>
+          <Genealogy lang={lang} t={t} treeId={route.id} focusNode={route.node} onOpenBook={open} onOpenPerson={openPerson} onSelect={openTree} />
+        </Suspense>
+      )}
       {route.kind === 'person' && (
         <Suspense fallback={<p className="soon page-wait">{t.loading}</p>}>
-          <People lang={lang} t={t} focusId={route.id} onOpenBook={open} onOpenTimeline={openTimeline} onOpenMap={openMap} onSelect={openPerson} />
+          <People lang={lang} t={t} focusId={route.id} onOpenBook={open} onOpenTimeline={openTimeline} onOpenMap={openMap} onSelect={openPerson} onOpenTree={openTree} />
         </Suspense>
       )}
       {route.kind === 'book' && (

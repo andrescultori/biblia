@@ -37,6 +37,7 @@ From the Exodus on the timeline, for example, one click opens the Exodus map alr
 - **A map** in 46 books, with its own vector coastline (no external tiles), collision-free labels, regional zoom, a legend and flags for debated locations.
 - **A timeline** with 13 periods and 69 events, on a per-block scale, with approximate dates marked and debated chronologies (such as the Exodus) shown side by side. Books are tied to the period their text describes.
 - **People**: 210 people, with a summary, the books they appear in, events and places; the list sorts alphabetically or by book.
+- **Genealogy**: a tree from Adam to Jesus with Matthew 1 and Luke 3 side by side; every link cites the biblical text and the differences between the lists are kept in notes.
 - **Psalms as a table**: the 150 psalms colored by book of the Psalter, title or genre, with the psalms that have a historical title linked to David, the people and the timeline.
 - **Structure of Job, Proverbs, Ecclesiastes and Song of Songs**: chapters colored by part (in Job, by speaker), the list of parts and, in Ecclesiastes and Song of Songs, the readings side by side.
 - **A text reader** in KJV, WEB and ASV (English), Bíblia Livre (Portuguese), with the credit and license of each.
@@ -56,6 +57,7 @@ From the Exodus on the timeline, for example, one click opens the Exodus map alr
 |---|---|
 | UI | React 18 + Vite |
 | Maps | d3-geo, SVG at real pixels |
+| Genealogy | d3-hierarchy, tree in SVG |
 | Coastline | Natural Earth 50m (public domain), clipped |
 | Places | OpenBible.info Bible Geocoding Data (CC BY 4.0) |
 | Bible text | JSON files per book and version, loaded on demand |
@@ -90,6 +92,7 @@ Every pull request runs `npm run check` and `npm run build`; deployment to Pages
 - Coastline: [Natural Earth](https://www.naturalearthdata.com/) (public domain), via the `world-atlas` package, clipped and simplified.
 - Map places: [OpenBible.info Bible Geocoding Data](https://www.openbible.info/geo/), license [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Coordinates rounded and adapted.
 - Projection: [d3-geo](https://github.com/d3/d3-geo) (ISC).
+- Genealogy tree: [d3-hierarchy](https://github.com/d3/d3-hierarchy) (ISC).
 - Texts: KJV (public domain); WEB ([eBible.org](https://ebible.org/eng-web/), public domain); ASV (public domain, digital edition by [openbibleinfo](https://github.com/openbibleinfo/American-Standard-Version-Bible)); **Bíblia Livre (BLIVRE), © 2018 Diego Santos, Mario Sérgio and Marco Teles, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**, [source](https://github.com/blivre/BibliaLivre).
 
 Original idea of the table: "TaBíblia Periódica" (Grupo de Jovens Conquistando as Nações; source cited: Sociedade Bíblica do Brasil). This project has its own design and code.

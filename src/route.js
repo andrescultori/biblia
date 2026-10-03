@@ -7,6 +7,7 @@ import { bySlug } from './data/books.js';
 //   #psa/psalms/51  #psa/read/23   Salmos: aba da tabela com o salmo selecionado; leitor no capítulo
 //   #timeline  #timeline/exodo     linha do tempo (e evento em foco)
 //   #person  #person/davi          personagens (e pessoa)
+//   #tree/adao-jesus  #tree/adao-jesus/lc-eli   genealogia (árvore e nó em foco)
 const TABS = ['summary', 'sheet', 'map', 'psalms', 'structure', 'read'];
 
 export function parseHash(hash = location.hash) {
@@ -14,6 +15,7 @@ export function parseHash(hash = location.hash) {
   const [a, b, c] = parts;
   if (a === 'timeline') return { kind: 'timeline', id: b || null };
   if (a === 'person') return { kind: 'person', id: b || null };
+  if (a === 'tree') return { kind: 'tree', id: b || null, node: c || null };
   if (bySlug[a]) return { kind: 'book', slug: a, tab: TABS.includes(b) ? b : 'summary', place: c || null };
   return { kind: 'home' };
 }
@@ -23,6 +25,7 @@ export const hrefs = {
   book: (slug, tab, place) => `#${slug}${tab && tab !== 'summary' ? `/${tab}${place ? `/${encodeURIComponent(place)}` : ''}` : ''}`,
   timeline: (id) => (id ? `#timeline/${id}` : '#timeline'),
   person: (id) => (id ? `#person/${id}` : '#person'),
+  tree: (id = 'adao-jesus', node) => `#tree/${id}${node ? `/${node}` : ''}`,
 };
 
 // Navegar adiciona uma entrada ao histórico (o botão voltar funciona). Trocar o hash pela mesma rota não faz nada.

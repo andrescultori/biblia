@@ -1,0 +1,2127 @@
+{
+ "trees": [
+  {
+   "id": "adao-jesus",
+   "root": "adao",
+   "title": {
+    "pt": "De Adão a Jesus",
+    "en": "From Adam to Jesus"
+   },
+   "intro": {
+    "pt": "A linhagem de Adão a Abraão vem de Gênesis 5 e 11 (texto hebraico), com Lucas 3 em paralelo; de Abraão a Davi, de Rute 4, 1Crônicas 2, Mateus 1 e Lucas 3. De Davi em diante a árvore se divide: Mateus 1 desce por Salomão (linha real) e Lucas 3 por Natã. Toque em um nome para ver as referências e as notas.",
+    "en": "The line from Adam to Abraham comes from Genesis 5 and 11 (Hebrew text), with Luke 3 in parallel; from Abraham to David, from Ruth 4, 1 Chronicles 2, Matthew 1 and Luke 3. From David on, the tree divides: Matthew 1 descends through Solomon (the royal line) and Luke 3 through Nathan. Tap a name to see the references and notes."
+   },
+   "note": {
+    "pt": "A árvore mostra o que cada texto diz e não calcula datas. “Gerou” e “filho de” podem indicar descendência mais distante; as listas de Mateus e Lucas têm formas diferentes de resumir. Mateus 1:17 organiza a sua em três grupos de catorze.",
+    "en": "The tree shows what each text says and does not calculate dates. “Begot” and “son of” can indicate more distant descent; the lists of Matthew and Luke summarize in different ways. Matthew 1:17 arranges his in three groups of fourteen."
+   },
+   "branches": {
+    "mt": {
+     "pt": "Mateus 1",
+     "en": "Matthew 1"
+    },
+    "lc": {
+     "pt": "Lucas 3",
+     "en": "Luke 3"
+    }
+   }
+  }
+ ],
+ "nodes": {
+  "adao": {
+   "name": {
+    "pt": "Adão",
+    "en": "Adam"
+   },
+   "personId": "adao"
+  },
+  "sete": {
+   "name": {
+    "pt": "Sete",
+    "en": "Seth"
+   }
+  },
+  "enos": {
+   "name": {
+    "pt": "Enos",
+    "en": "Enosh"
+   }
+  },
+  "caina": {
+   "name": {
+    "pt": "Cainã",
+    "en": "Kenan"
+   }
+  },
+  "maalaleel": {
+   "name": {
+    "pt": "Maalaleel",
+    "en": "Mahalalel"
+   }
+  },
+  "jarede": {
+   "name": {
+    "pt": "Jarede",
+    "en": "Jared"
+   }
+  },
+  "enoque": {
+   "name": {
+    "pt": "Enoque",
+    "en": "Enoch"
+   },
+   "personId": "enoque"
+  },
+  "matusalem": {
+   "name": {
+    "pt": "Matusalém",
+    "en": "Methuselah"
+   }
+  },
+  "lameque": {
+   "name": {
+    "pt": "Lameque",
+    "en": "Lamech"
+   }
+  },
+  "noe": {
+   "name": {
+    "pt": "Noé",
+    "en": "Noah"
+   },
+   "personId": "noe"
+  },
+  "sem": {
+   "name": {
+    "pt": "Sem",
+    "en": "Shem"
+   }
+  },
+  "arfaxade": {
+   "name": {
+    "pt": "Arfaxade",
+    "en": "Arpachshad"
+   }
+  },
+  "sela": {
+   "name": {
+    "pt": "Selá",
+    "en": "Shelah"
+   },
+   "note": {
+    "pt": "Lucas 3:36 traz um nome a mais, Cainã, entre Arfaxade e Selá. Ele não está no texto hebraico de Gênesis 11:12, mas aparece na tradução grega (Septuaginta) de Gênesis 11:13 e em Lucas. O projeto segue o texto hebraico em Gênesis e registra a diferença; se Cainã deve entrar na linhagem é debatido.",
+    "en": "Luke 3:36 has one more name, Cainan, between Arpachshad and Shelah. It is not in the Hebrew text of Genesis 11:12, but appears in the Greek translation (Septuagint) of Genesis 11:13 and in Luke. The project follows the Hebrew text in Genesis and records the difference; whether Cainan belongs in the line is debated."
+   }
+  },
+  "heber": {
+   "name": {
+    "pt": "Éber",
+    "en": "Eber"
+   }
+  },
+  "pelegue": {
+   "name": {
+    "pt": "Pelegue",
+    "en": "Peleg"
+   }
+  },
+  "reu": {
+   "name": {
+    "pt": "Reú",
+    "en": "Reu"
+   }
+  },
+  "serugue": {
+   "name": {
+    "pt": "Serugue",
+    "en": "Serug"
+   }
+  },
+  "naor": {
+   "name": {
+    "pt": "Naor",
+    "en": "Nahor"
+   }
+  },
+  "tera": {
+   "name": {
+    "pt": "Terá",
+    "en": "Terah"
+   }
+  },
+  "abraao": {
+   "name": {
+    "pt": "Abraão",
+    "en": "Abraham"
+   },
+   "personId": "abraao"
+  },
+  "isaque": {
+   "name": {
+    "pt": "Isaque",
+    "en": "Isaac"
+   },
+   "personId": "isaque"
+  },
+  "jaco": {
+   "name": {
+    "pt": "Jacó",
+    "en": "Jacob"
+   },
+   "personId": "jaco"
+  },
+  "juda": {
+   "name": {
+    "pt": "Judá",
+    "en": "Judah"
+   },
+   "personId": "juda"
+  },
+  "perez": {
+   "name": {
+    "pt": "Perez",
+    "en": "Perez"
+   }
+  },
+  "esrom": {
+   "name": {
+    "pt": "Esrom (Hezrom)",
+    "en": "Hezron"
+   }
+  },
+  "ra": {
+   "name": {
+    "pt": "Rã",
+    "en": "Ram"
+   },
+   "note": {
+    "pt": "Lucas 3:33 (Bíblia Livre) traz dois nomes, Admim e Arni, entre Esrom e Aminadabe, e outras edições leem “Arão” ou “Aram”; os manuscritos de Lucas variam aqui. O projeto segue Rute 4:19 e Mateus 1:3–4.",
+    "en": "Luke 3:33 (Bíblia Livre) has two names, Admin and Arni, between Hezron and Amminadab, and other editions read “Aram”; the manuscripts of Luke vary here. The project follows Ruth 4:19 and Matthew 1:3–4."
+   }
+  },
+  "aminadabe": {
+   "name": {
+    "pt": "Aminadabe",
+    "en": "Amminadab"
+   }
+  },
+  "naassom": {
+   "name": {
+    "pt": "Naassom",
+    "en": "Nahshon"
+   }
+  },
+  "salmom": {
+   "name": {
+    "pt": "Salmom (Salma)",
+    "en": "Salmon"
+   }
+  },
+  "boaz": {
+   "name": {
+    "pt": "Boaz",
+    "en": "Boaz"
+   },
+   "personId": "boaz"
+  },
+  "obede": {
+   "name": {
+    "pt": "Obede",
+    "en": "Obed"
+   },
+   "personId": "obede"
+  },
+  "jesse": {
+   "name": {
+    "pt": "Jessé",
+    "en": "Jesse"
+   }
+  },
+  "davi": {
+   "name": {
+    "pt": "Davi",
+    "en": "David"
+   },
+   "personId": "davi"
+  },
+  "mt-salomao": {
+   "name": {
+    "pt": "Salomão",
+    "en": "Solomon"
+   },
+   "personId": "salomao",
+   "branch": "mt"
+  },
+  "mt-roboao": {
+   "name": {
+    "pt": "Roboão",
+    "en": "Rehoboam"
+   },
+   "personId": "roboao",
+   "branch": "mt"
+  },
+  "mt-abias": {
+   "name": {
+    "pt": "Abias (Abião)",
+    "en": "Abijah"
+   },
+   "branch": "mt"
+  },
+  "mt-asa": {
+   "name": {
+    "pt": "Asa",
+    "en": "Asa"
+   },
+   "personId": "asa",
+   "branch": "mt"
+  },
+  "mt-josafa": {
+   "name": {
+    "pt": "Josafá",
+    "en": "Jehoshaphat"
+   },
+   "personId": "josafa",
+   "branch": "mt"
+  },
+  "mt-jorao": {
+   "name": {
+    "pt": "Jorão (Jeorão)",
+    "en": "Joram"
+   },
+   "branch": "mt"
+  },
+  "mt-uzias": {
+   "name": {
+    "pt": "Uzias (Azarias)",
+    "en": "Uzziah"
+   },
+   "personId": "uzias",
+   "branch": "mt",
+   "note": {
+    "pt": "Mateus 1:8 passa de Jorão a Uzias e deixa de fora três reis de Judá: Acazias, Joás e Amazias (2Rs 8:24; 11:2; 12:21; 14:21). “Gerou” e “filho de” podem indicar descendência mais distante; Mateus resume a lista para chegar a três grupos de catorze (Mt 1:17).",
+    "en": "Matthew 1:8 goes from Joram to Uzziah and leaves out three kings of Judah: Ahaziah, Joash and Amaziah (2 Kings 8:24; 11:2; 12:21; 14:21). “Begot” and “son of” can indicate more distant descent; Matthew condenses the list to reach three groups of fourteen (Matt 1:17)."
+   }
+  },
+  "mt-jotao": {
+   "name": {
+    "pt": "Jotão",
+    "en": "Jotham"
+   },
+   "branch": "mt"
+  },
+  "mt-acaz": {
+   "name": {
+    "pt": "Acaz",
+    "en": "Ahaz"
+   },
+   "personId": "acaz",
+   "branch": "mt"
+  },
+  "mt-ezequias": {
+   "name": {
+    "pt": "Ezequias",
+    "en": "Hezekiah"
+   },
+   "personId": "ezequias",
+   "branch": "mt"
+  },
+  "mt-manasses": {
+   "name": {
+    "pt": "Manassés",
+    "en": "Manasseh"
+   },
+   "personId": "manasses",
+   "branch": "mt"
+  },
+  "mt-amom": {
+   "name": {
+    "pt": "Amom",
+    "en": "Amon"
+   },
+   "branch": "mt"
+  },
+  "mt-josias": {
+   "name": {
+    "pt": "Josias",
+    "en": "Josiah"
+   },
+   "personId": "josias",
+   "branch": "mt"
+  },
+  "mt-jeconias": {
+   "name": {
+    "pt": "Jeconias (Joaquim)",
+    "en": "Jechoniah (Jehoiachin)"
+   },
+   "personId": "joaquim",
+   "branch": "mt",
+   "note": {
+    "pt": "Mateus 1:11 passa de Josias a Jeconias e não cita Jeoaquim, filho de Josias e pai de Jeconias (2Rs 23:34; 24:6). “Seus irmãos” aparece no mesmo versículo.",
+    "en": "Matthew 1:11 goes from Josiah to Jechoniah and does not name Jehoiakim, Josiah’s son and Jechoniah’s father (2 Kings 23:34; 24:6). “His brothers” appears in the same verse."
+   }
+  },
+  "mt-salatiel": {
+   "name": {
+    "pt": "Salatiel (Sealtiel)",
+    "en": "Shealtiel"
+   },
+   "branch": "mt",
+   "note": {
+    "pt": "Mateus e Lucas coincidem em Salatiel e Zorobabel, mas dão pais diferentes a Salatiel (aqui, Jeconias; em Lucas 3:27, Neri). As explicações propostas são um casamento por levirato, a herança por duas linhas ou dois homens com o mesmo nome; o texto não decide. Jeremias 22:30 fala de Jeconias como “sem filhos” e entra na discussão.",
+    "en": "Matthew and Luke agree on Shealtiel and Zerubbabel, but give Shealtiel different fathers (here, Jechoniah; in Luke 3:27, Neri). Proposed explanations are a levirate marriage, inheritance through two lines, or two men with the same name; the text does not decide. Jeremiah 22:30 speaks of Jechoniah as “childless” and enters the discussion."
+   }
+  },
+  "mt-zorobabel": {
+   "name": {
+    "pt": "Zorobabel",
+    "en": "Zerubbabel"
+   },
+   "personId": "zorobabel",
+   "branch": "mt",
+   "note": {
+    "pt": "Esdras 3:2 e Ageu 1:1 chamam Zorobabel “filho de Salatiel”, mas 1Crônicas 3:19 o dá como filho de Pedaías, irmão de Salatiel. Os nomes dos filhos de Zorobabel em 1Crônicas 3:19–20 também não incluem Abiúde.",
+    "en": "Ezra 3:2 and Haggai 1:1 call Zerubbabel “son of Shealtiel,” but 1 Chronicles 3:19 gives him as a son of Pedaiah, Shealtiel’s brother. The names of Zerubbabel’s sons in 1 Chronicles 3:19–20 also do not include Abiud."
+   }
+  },
+  "mt-abiude": {
+   "name": {
+    "pt": "Abiúde",
+    "en": "Abiud"
+   },
+   "branch": "mt"
+  },
+  "mt-eliaquim": {
+   "name": {
+    "pt": "Eliaquim",
+    "en": "Eliakim"
+   },
+   "branch": "mt"
+  },
+  "mt-azor": {
+   "name": {
+    "pt": "Azor",
+    "en": "Azor"
+   },
+   "branch": "mt"
+  },
+  "mt-sadoque": {
+   "name": {
+    "pt": "Sadoque",
+    "en": "Zadok"
+   },
+   "branch": "mt"
+  },
+  "mt-aquim": {
+   "name": {
+    "pt": "Aquim",
+    "en": "Achim"
+   },
+   "branch": "mt"
+  },
+  "mt-eliude": {
+   "name": {
+    "pt": "Eliúde",
+    "en": "Eliud"
+   },
+   "branch": "mt"
+  },
+  "mt-eleazar": {
+   "name": {
+    "pt": "Eleazar",
+    "en": "Eleazar"
+   },
+   "branch": "mt"
+  },
+  "mt-matan": {
+   "name": {
+    "pt": "Matã",
+    "en": "Matthan"
+   },
+   "branch": "mt"
+  },
+  "mt-jaco": {
+   "name": {
+    "pt": "Jacó",
+    "en": "Jacob"
+   },
+   "branch": "mt",
+   "note": {
+    "pt": "Mateus dá Jacó como pai de José; Lucas 3:23 dá Eli. Ver a nota em Eli, na linha de Lucas.",
+    "en": "Matthew gives Jacob as Joseph’s father; Luke 3:23 gives Eli. See the note at Eli, in Luke’s line."
+   }
+  },
+  "mt-jose": {
+   "name": {
+    "pt": "José",
+    "en": "Joseph"
+   },
+   "personId": "jose-marido-de-maria",
+   "branch": "mt",
+   "note": {
+    "pt": "Mateus chama José “o marido de Maria, da qual nasceu Jesus” (1:16). O ensino sobre o nascimento virginal está em Mateus 1:18–25 e Lucas 1:26–38.",
+    "en": "Matthew calls Joseph “the husband of Mary, of whom Jesus was born” (1:16). The teaching on the virginal conception is in Matthew 1:18–25 and Luke 1:26–38."
+   }
+  },
+  "mt-jesus": {
+   "name": {
+    "pt": "Jesus",
+    "en": "Jesus"
+   },
+   "personId": "jesus",
+   "branch": "mt"
+  },
+  "lc-natan": {
+   "name": {
+    "pt": "Natã",
+    "en": "Nathan"
+   },
+   "branch": "lc",
+   "note": {
+    "pt": "Natã, filho de Davi e de Bate-Seba (2Sm 5:14; 1Cr 3:5; 14:4), não é o profeta Natã.",
+    "en": "Nathan, son of David and Bathsheba (2 Sam 5:14; 1 Chr 3:5; 14:4), is not the prophet Nathan."
+   }
+  },
+  "lc-mataata": {
+   "name": {
+    "pt": "Matatá",
+    "en": "Mattatha"
+   },
+   "branch": "lc"
+  },
+  "lc-mena": {
+   "name": {
+    "pt": "Mená",
+    "en": "Menna"
+   },
+   "branch": "lc"
+  },
+  "lc-melea": {
+   "name": {
+    "pt": "Meleá",
+    "en": "Melea"
+   },
+   "branch": "lc"
+  },
+  "lc-eliaquim": {
+   "name": {
+    "pt": "Eliaquim",
+    "en": "Eliakim"
+   },
+   "branch": "lc"
+  },
+  "lc-jona": {
+   "name": {
+    "pt": "Jonã",
+    "en": "Jonam"
+   },
+   "branch": "lc"
+  },
+  "lc-jose1": {
+   "name": {
+    "pt": "José",
+    "en": "Joseph"
+   },
+   "branch": "lc"
+  },
+  "lc-juda": {
+   "name": {
+    "pt": "Judá",
+    "en": "Judah"
+   },
+   "branch": "lc"
+  },
+  "lc-simeao": {
+   "name": {
+    "pt": "Simeão",
+    "en": "Simeon"
+   },
+   "branch": "lc"
+  },
+  "lc-levi1": {
+   "name": {
+    "pt": "Levi",
+    "en": "Levi"
+   },
+   "branch": "lc"
+  },
+  "lc-matate1": {
+   "name": {
+    "pt": "Matate",
+    "en": "Matthat"
+   },
+   "branch": "lc"
+  },
+  "lc-jorim": {
+   "name": {
+    "pt": "Jorim",
+    "en": "Joram"
+   },
+   "branch": "lc"
+  },
+  "lc-eliezer": {
+   "name": {
+    "pt": "Eliézer",
+    "en": "Eliezer"
+   },
+   "branch": "lc"
+  },
+  "lc-josue": {
+   "name": {
+    "pt": "Josué (Jesus)",
+    "en": "Joshua (Jesus)"
+   },
+   "branch": "lc"
+  },
+  "lc-er": {
+   "name": {
+    "pt": "Er",
+    "en": "Er"
+   },
+   "branch": "lc"
+  },
+  "lc-elmoda": {
+   "name": {
+    "pt": "Elmodã",
+    "en": "Elmadam"
+   },
+   "branch": "lc"
+  },
+  "lc-cosa": {
+   "name": {
+    "pt": "Cosã",
+    "en": "Cosam"
+   },
+   "branch": "lc"
+  },
+  "lc-adi": {
+   "name": {
+    "pt": "Adi",
+    "en": "Addi"
+   },
+   "branch": "lc"
+  },
+  "lc-melqui1": {
+   "name": {
+    "pt": "Melqui",
+    "en": "Melchi"
+   },
+   "branch": "lc"
+  },
+  "lc-neri": {
+   "name": {
+    "pt": "Neri",
+    "en": "Neri"
+   },
+   "branch": "lc"
+  },
+  "lc-salatiel": {
+   "name": {
+    "pt": "Salatiel",
+    "en": "Shealtiel"
+   },
+   "branch": "lc",
+   "note": {
+    "pt": "Mateus 1:12 dá Jeconias como pai de Salatiel; Lucas dá Neri. Ver a nota em Salatiel, na linha de Mateus.",
+    "en": "Matthew 1:12 gives Jechoniah as Shealtiel’s father; Luke gives Neri. See the note at Shealtiel, in Matthew’s line."
+   }
+  },
+  "lc-zorobabel": {
+   "name": {
+    "pt": "Zorobabel",
+    "en": "Zerubbabel"
+   },
+   "personId": "zorobabel",
+   "branch": "lc"
+  },
+  "lc-resa": {
+   "name": {
+    "pt": "Resa",
+    "en": "Rhesa"
+   },
+   "branch": "lc"
+  },
+  "lc-joana": {
+   "name": {
+    "pt": "Joanã",
+    "en": "Joanan"
+   },
+   "branch": "lc"
+  },
+  "lc-joda": {
+   "name": {
+    "pt": "Jodá",
+    "en": "Joda"
+   },
+   "branch": "lc"
+  },
+  "lc-joseque": {
+   "name": {
+    "pt": "Joseque",
+    "en": "Josech"
+   },
+   "branch": "lc",
+   "note": {
+    "pt": "Os manuscritos de Lucas 3:26 variam neste nome (Josec, José); o projeto segue a Bíblia Livre.",
+    "en": "The manuscripts of Luke 3:26 vary on this name (Josech, Joseph); the project follows the Bíblia Livre."
+   }
+  },
+  "lc-semei": {
+   "name": {
+    "pt": "Semei",
+    "en": "Semein"
+   },
+   "branch": "lc"
+  },
+  "lc-matatias1": {
+   "name": {
+    "pt": "Matatias",
+    "en": "Mattathias"
+   },
+   "branch": "lc"
+  },
+  "lc-maate": {
+   "name": {
+    "pt": "Maate",
+    "en": "Maath"
+   },
+   "branch": "lc"
+  },
+  "lc-nagai": {
+   "name": {
+    "pt": "Nagai",
+    "en": "Naggai"
+   },
+   "branch": "lc"
+  },
+  "lc-esli": {
+   "name": {
+    "pt": "Esli",
+    "en": "Esli"
+   },
+   "branch": "lc"
+  },
+  "lc-naum": {
+   "name": {
+    "pt": "Naum",
+    "en": "Nahum"
+   },
+   "branch": "lc"
+  },
+  "lc-amos": {
+   "name": {
+    "pt": "Amós",
+    "en": "Amos"
+   },
+   "branch": "lc"
+  },
+  "lc-matatias2": {
+   "name": {
+    "pt": "Matatias",
+    "en": "Mattathias"
+   },
+   "branch": "lc"
+  },
+  "lc-jose2": {
+   "name": {
+    "pt": "José",
+    "en": "Joseph"
+   },
+   "branch": "lc"
+  },
+  "lc-janai": {
+   "name": {
+    "pt": "Janai",
+    "en": "Jannai"
+   },
+   "branch": "lc"
+  },
+  "lc-melqui2": {
+   "name": {
+    "pt": "Melqui",
+    "en": "Melchi"
+   },
+   "branch": "lc"
+  },
+  "lc-levi2": {
+   "name": {
+    "pt": "Levi",
+    "en": "Levi"
+   },
+   "branch": "lc"
+  },
+  "lc-matate2": {
+   "name": {
+    "pt": "Matate",
+    "en": "Matthat"
+   },
+   "branch": "lc"
+  },
+  "lc-eli": {
+   "name": {
+    "pt": "Eli",
+    "en": "Heli"
+   },
+   "branch": "lc",
+   "note": {
+    "pt": "Mateus 1:16 dá Jacó como pai de José; Lucas 3:23 dá Eli. Há duas leituras principais. (1) Lucas segue a linha de Maria: “filho de Eli” se refere a Maria, e José entra por ser genro de Eli; no grego, José é o único nome da lista sem o artigo (“do”), o que alguns leem como sinal de que ele entra de outro modo (como genro). (2) As duas listas são de José: um dos dois é o pai biológico e o outro o pai legal, por casamento de levirato (Dt 25:5–10), leitura registrada pelo historiador antigo Eusébio, que cita Júlio Africano (História Eclesiástica 1.7). O texto bíblico não decide.",
+    "en": "Matthew 1:16 gives Jacob as Joseph’s father; Luke 3:23 gives Eli. There are two main readings. (1) Luke follows Mary’s line: “son of Eli” refers to Mary, and Joseph enters as Eli’s son-in-law; in the Greek, Joseph is the only name in the list without the article (“the”), which some read as a sign that he enters in a different way (as son-in-law). (2) Both lists are Joseph’s: one of the two is the biological father and the other the legal father, by levirate marriage (Deut 25:5–10), a reading recorded by the ancient historian Eusebius, citing Julius Africanus (Ecclesiastical History 1.7). The biblical text does not decide."
+   }
+  },
+  "lc-jose3": {
+   "name": {
+    "pt": "José",
+    "en": "Joseph"
+   },
+   "personId": "jose-marido-de-maria",
+   "branch": "lc",
+   "note": {
+    "pt": "Lucas diz que Jesus era “filho, como se pensava, de José” (3:23); o nascimento virginal está em Lucas 1:26–38.",
+    "en": "Luke says Jesus was “the son, as was supposed, of Joseph” (3:23); the virginal conception is in Luke 1:26–38."
+   }
+  },
+  "lc-jesus": {
+   "name": {
+    "pt": "Jesus",
+    "en": "Jesus"
+   },
+   "personId": "jesus",
+   "branch": "lc"
+  }
+ },
+ "links": [
+  {
+   "from": "adao",
+   "to": "sete",
+   "refs": [
+    {
+     "book": "gen",
+     "ref": "5:3"
+    },
+    {
+     "book": "luk",
+     "ref": "3:38"
+    }
+   ]
+  },
+  {
+   "from": "sete",
+   "to": "enos",
+   "refs": [
+    {
+     "book": "gen",
+     "ref": "5:6"
+    },
+    {
+     "book": "luk",
+     "ref": "3:38"
+    }
+   ]
+  },
+  {
+   "from": "enos",
+   "to": "caina",
+   "refs": [
+    {
+     "book": "gen",
+     "ref": "5:9"
+    },
+    {
+     "book": "luk",
+     "ref": "3:37"
+    }
+   ]
+  },
+  {
+   "from": "caina",
+   "to": "maalaleel",
+   "refs": [
+    {
+     "book": "gen",
+     "ref": "5:12"
+    },
+    {
+     "book": "luk",
+     "ref": "3:37"
+    }
+   ]
+  },
+  {
+   "from": "maalaleel",
+   "to": "jarede",
+   "refs": [
+    {
+     "book": "gen",
+     "ref": "5:15"
+    },
+    {
+     "book": "luk",
+     "ref": "3:37"
+    }
+   ]
+  },
+  {
+   "from": "jarede",
+   "to": "enoque",
+   "refs": [
+    {
+     "book": "gen",
+     "ref": "5:18"
+    },
+    {
+     "book": "luk",
+     "ref": "3:37"
+    }
+   ]
+  },
+  {
+   "from": "enoque",
+   "to": "matusalem",
+   "refs": [
+    {
+     "book": "gen",
+     "ref": "5:21"
+    },
+    {
+     "book": "luk",
+     "ref": "3:37"
+    }
+   ]
+  },
+  {
+   "from": "matusalem",
+   "to": "lameque",
+   "refs": [
+    {
+     "book": "gen",
+     "ref": "5:25"
+    },
+    {
+     "book": "luk",
+     "ref": "3:36"
+    }
+   ]
+  },
+  {
+   "from": "lameque",
+   "to": "noe",
+   "refs": [
+    {
+     "book": "gen",
+     "ref": "5:28–29"
+    },
+    {
+     "book": "luk",
+     "ref": "3:36"
+    }
+   ]
+  },
+  {
+   "from": "noe",
+   "to": "sem",
+   "refs": [
+    {
+     "book": "gen",
+     "ref": "5:32"
+    },
+    {
+     "book": "gen",
+     "ref": "11:10"
+    },
+    {
+     "book": "luk",
+     "ref": "3:36"
+    }
+   ]
+  },
+  {
+   "from": "sem",
+   "to": "arfaxade",
+   "refs": [
+    {
+     "book": "gen",
+     "ref": "11:10"
+    },
+    {
+     "book": "luk",
+     "ref": "3:36"
+    }
+   ]
+  },
+  {
+   "from": "arfaxade",
+   "to": "sela",
+   "refs": [
+    {
+     "book": "gen",
+     "ref": "11:12"
+    },
+    {
+     "book": "luk",
+     "ref": "3:35–36"
+    }
+   ]
+  },
+  {
+   "from": "sela",
+   "to": "heber",
+   "refs": [
+    {
+     "book": "gen",
+     "ref": "11:14"
+    },
+    {
+     "book": "luk",
+     "ref": "3:35"
+    }
+   ]
+  },
+  {
+   "from": "heber",
+   "to": "pelegue",
+   "refs": [
+    {
+     "book": "gen",
+     "ref": "11:16"
+    },
+    {
+     "book": "luk",
+     "ref": "3:35"
+    }
+   ]
+  },
+  {
+   "from": "pelegue",
+   "to": "reu",
+   "refs": [
+    {
+     "book": "gen",
+     "ref": "11:18"
+    },
+    {
+     "book": "luk",
+     "ref": "3:35"
+    }
+   ]
+  },
+  {
+   "from": "reu",
+   "to": "serugue",
+   "refs": [
+    {
+     "book": "gen",
+     "ref": "11:20"
+    },
+    {
+     "book": "luk",
+     "ref": "3:35"
+    }
+   ]
+  },
+  {
+   "from": "serugue",
+   "to": "naor",
+   "refs": [
+    {
+     "book": "gen",
+     "ref": "11:22"
+    },
+    {
+     "book": "luk",
+     "ref": "3:34–35"
+    }
+   ]
+  },
+  {
+   "from": "naor",
+   "to": "tera",
+   "refs": [
+    {
+     "book": "gen",
+     "ref": "11:24"
+    },
+    {
+     "book": "luk",
+     "ref": "3:34"
+    }
+   ]
+  },
+  {
+   "from": "tera",
+   "to": "abraao",
+   "refs": [
+    {
+     "book": "gen",
+     "ref": "11:26"
+    },
+    {
+     "book": "luk",
+     "ref": "3:34"
+    }
+   ]
+  },
+  {
+   "from": "abraao",
+   "to": "isaque",
+   "refs": [
+    {
+     "book": "gen",
+     "ref": "21:3"
+    },
+    {
+     "book": "mat",
+     "ref": "1:2"
+    },
+    {
+     "book": "luk",
+     "ref": "3:34"
+    }
+   ]
+  },
+  {
+   "from": "isaque",
+   "to": "jaco",
+   "refs": [
+    {
+     "book": "gen",
+     "ref": "25:26"
+    },
+    {
+     "book": "mat",
+     "ref": "1:2"
+    },
+    {
+     "book": "luk",
+     "ref": "3:34"
+    }
+   ]
+  },
+  {
+   "from": "jaco",
+   "to": "juda",
+   "refs": [
+    {
+     "book": "gen",
+     "ref": "29:35"
+    },
+    {
+     "book": "mat",
+     "ref": "1:2"
+    },
+    {
+     "book": "luk",
+     "ref": "3:33–34"
+    }
+   ]
+  },
+  {
+   "from": "juda",
+   "to": "perez",
+   "refs": [
+    {
+     "book": "gen",
+     "ref": "38:29"
+    },
+    {
+     "book": "rut",
+     "ref": "4:18"
+    },
+    {
+     "book": "mat",
+     "ref": "1:3"
+    },
+    {
+     "book": "luk",
+     "ref": "3:33"
+    }
+   ],
+   "mother": "tamar"
+  },
+  {
+   "from": "perez",
+   "to": "esrom",
+   "refs": [
+    {
+     "book": "rut",
+     "ref": "4:18"
+    },
+    {
+     "book": "1ch",
+     "ref": "2:5"
+    },
+    {
+     "book": "mat",
+     "ref": "1:3"
+    },
+    {
+     "book": "luk",
+     "ref": "3:33"
+    }
+   ]
+  },
+  {
+   "from": "esrom",
+   "to": "ra",
+   "refs": [
+    {
+     "book": "rut",
+     "ref": "4:19"
+    },
+    {
+     "book": "1ch",
+     "ref": "2:9"
+    },
+    {
+     "book": "mat",
+     "ref": "1:3"
+    }
+   ]
+  },
+  {
+   "from": "ra",
+   "to": "aminadabe",
+   "refs": [
+    {
+     "book": "rut",
+     "ref": "4:19"
+    },
+    {
+     "book": "1ch",
+     "ref": "2:10"
+    },
+    {
+     "book": "mat",
+     "ref": "1:4"
+    },
+    {
+     "book": "luk",
+     "ref": "3:33"
+    }
+   ]
+  },
+  {
+   "from": "aminadabe",
+   "to": "naassom",
+   "refs": [
+    {
+     "book": "rut",
+     "ref": "4:20"
+    },
+    {
+     "book": "1ch",
+     "ref": "2:10"
+    },
+    {
+     "book": "mat",
+     "ref": "1:4"
+    },
+    {
+     "book": "luk",
+     "ref": "3:32"
+    }
+   ]
+  },
+  {
+   "from": "naassom",
+   "to": "salmom",
+   "refs": [
+    {
+     "book": "rut",
+     "ref": "4:20"
+    },
+    {
+     "book": "1ch",
+     "ref": "2:11"
+    },
+    {
+     "book": "mat",
+     "ref": "1:4"
+    },
+    {
+     "book": "luk",
+     "ref": "3:32"
+    }
+   ]
+  },
+  {
+   "from": "salmom",
+   "to": "boaz",
+   "refs": [
+    {
+     "book": "rut",
+     "ref": "4:21"
+    },
+    {
+     "book": "1ch",
+     "ref": "2:11"
+    },
+    {
+     "book": "mat",
+     "ref": "1:5"
+    },
+    {
+     "book": "luk",
+     "ref": "3:32"
+    }
+   ],
+   "mother": "raabe",
+   "note": {
+    "pt": "Mateus 1:5 diz que Boaz nasceu de Raabe. A leitura comum é que se trata da Raabe de Jericó (Js 2; 6:25), mas o texto não o afirma.",
+    "en": "Matthew 1:5 says Boaz was born of Rahab. The common reading is that she is the Rahab of Jericho (Josh 2; 6:25), but the text does not say so."
+   }
+  },
+  {
+   "from": "boaz",
+   "to": "obede",
+   "refs": [
+    {
+     "book": "rut",
+     "ref": "4:21"
+    },
+    {
+     "book": "1ch",
+     "ref": "2:12"
+    },
+    {
+     "book": "mat",
+     "ref": "1:5"
+    },
+    {
+     "book": "luk",
+     "ref": "3:32"
+    }
+   ],
+   "mother": "rute"
+  },
+  {
+   "from": "obede",
+   "to": "jesse",
+   "refs": [
+    {
+     "book": "rut",
+     "ref": "4:22"
+    },
+    {
+     "book": "1ch",
+     "ref": "2:12"
+    },
+    {
+     "book": "mat",
+     "ref": "1:5"
+    },
+    {
+     "book": "luk",
+     "ref": "3:32"
+    }
+   ]
+  },
+  {
+   "from": "jesse",
+   "to": "davi",
+   "refs": [
+    {
+     "book": "rut",
+     "ref": "4:22"
+    },
+    {
+     "book": "1ch",
+     "ref": "2:13–15"
+    },
+    {
+     "book": "mat",
+     "ref": "1:6"
+    },
+    {
+     "book": "luk",
+     "ref": "3:31–32"
+    }
+   ]
+  },
+  {
+   "from": "davi",
+   "to": "mt-salomao",
+   "refs": [
+    {
+     "book": "mat",
+     "ref": "1:6"
+    },
+    {
+     "book": "2sa",
+     "ref": "12:24"
+    },
+    {
+     "book": "1ch",
+     "ref": "3:5"
+    }
+   ],
+   "mother": "bate-seba"
+  },
+  {
+   "from": "mt-salomao",
+   "to": "mt-roboao",
+   "refs": [
+    {
+     "book": "mat",
+     "ref": "1:7"
+    },
+    {
+     "book": "1ki",
+     "ref": "11:43"
+    }
+   ]
+  },
+  {
+   "from": "mt-roboao",
+   "to": "mt-abias",
+   "refs": [
+    {
+     "book": "mat",
+     "ref": "1:7"
+    },
+    {
+     "book": "1ki",
+     "ref": "14:31"
+    }
+   ]
+  },
+  {
+   "from": "mt-abias",
+   "to": "mt-asa",
+   "refs": [
+    {
+     "book": "mat",
+     "ref": "1:7"
+    },
+    {
+     "book": "1ki",
+     "ref": "15:8"
+    }
+   ]
+  },
+  {
+   "from": "mt-asa",
+   "to": "mt-josafa",
+   "refs": [
+    {
+     "book": "mat",
+     "ref": "1:8"
+    },
+    {
+     "book": "1ki",
+     "ref": "15:24"
+    }
+   ]
+  },
+  {
+   "from": "mt-josafa",
+   "to": "mt-jorao",
+   "refs": [
+    {
+     "book": "mat",
+     "ref": "1:8"
+    },
+    {
+     "book": "1ki",
+     "ref": "22:50"
+    }
+   ]
+  },
+  {
+   "from": "mt-jorao",
+   "to": "mt-uzias",
+   "refs": [
+    {
+     "book": "mat",
+     "ref": "1:8"
+    },
+    {
+     "book": "2ki",
+     "ref": "8:24"
+    },
+    {
+     "book": "2ki",
+     "ref": "11:2"
+    },
+    {
+     "book": "2ki",
+     "ref": "12:21"
+    },
+    {
+     "book": "2ki",
+     "ref": "14:21"
+    }
+   ]
+  },
+  {
+   "from": "mt-uzias",
+   "to": "mt-jotao",
+   "refs": [
+    {
+     "book": "mat",
+     "ref": "1:9"
+    },
+    {
+     "book": "2ki",
+     "ref": "15:7"
+    }
+   ]
+  },
+  {
+   "from": "mt-jotao",
+   "to": "mt-acaz",
+   "refs": [
+    {
+     "book": "mat",
+     "ref": "1:9"
+    },
+    {
+     "book": "2ki",
+     "ref": "15:38"
+    }
+   ]
+  },
+  {
+   "from": "mt-acaz",
+   "to": "mt-ezequias",
+   "refs": [
+    {
+     "book": "mat",
+     "ref": "1:9"
+    },
+    {
+     "book": "2ki",
+     "ref": "16:20"
+    }
+   ]
+  },
+  {
+   "from": "mt-ezequias",
+   "to": "mt-manasses",
+   "refs": [
+    {
+     "book": "mat",
+     "ref": "1:10"
+    },
+    {
+     "book": "2ki",
+     "ref": "20:21"
+    }
+   ]
+  },
+  {
+   "from": "mt-manasses",
+   "to": "mt-amom",
+   "refs": [
+    {
+     "book": "mat",
+     "ref": "1:10"
+    },
+    {
+     "book": "2ki",
+     "ref": "21:18"
+    }
+   ]
+  },
+  {
+   "from": "mt-amom",
+   "to": "mt-josias",
+   "refs": [
+    {
+     "book": "mat",
+     "ref": "1:10"
+    },
+    {
+     "book": "2ki",
+     "ref": "21:26"
+    }
+   ]
+  },
+  {
+   "from": "mt-josias",
+   "to": "mt-jeconias",
+   "refs": [
+    {
+     "book": "mat",
+     "ref": "1:11"
+    },
+    {
+     "book": "2ki",
+     "ref": "23:34"
+    },
+    {
+     "book": "2ki",
+     "ref": "24:6"
+    }
+   ]
+  },
+  {
+   "from": "mt-jeconias",
+   "to": "mt-salatiel",
+   "refs": [
+    {
+     "book": "mat",
+     "ref": "1:12"
+    },
+    {
+     "book": "1ch",
+     "ref": "3:17"
+    }
+   ]
+  },
+  {
+   "from": "mt-salatiel",
+   "to": "mt-zorobabel",
+   "refs": [
+    {
+     "book": "mat",
+     "ref": "1:12"
+    },
+    {
+     "book": "ezr",
+     "ref": "3:2"
+    }
+   ]
+  },
+  {
+   "from": "mt-zorobabel",
+   "to": "mt-abiude",
+   "refs": [
+    {
+     "book": "mat",
+     "ref": "1:13"
+    }
+   ]
+  },
+  {
+   "from": "mt-abiude",
+   "to": "mt-eliaquim",
+   "refs": [
+    {
+     "book": "mat",
+     "ref": "1:13"
+    }
+   ]
+  },
+  {
+   "from": "mt-eliaquim",
+   "to": "mt-azor",
+   "refs": [
+    {
+     "book": "mat",
+     "ref": "1:13"
+    }
+   ]
+  },
+  {
+   "from": "mt-azor",
+   "to": "mt-sadoque",
+   "refs": [
+    {
+     "book": "mat",
+     "ref": "1:14"
+    }
+   ]
+  },
+  {
+   "from": "mt-sadoque",
+   "to": "mt-aquim",
+   "refs": [
+    {
+     "book": "mat",
+     "ref": "1:14"
+    }
+   ]
+  },
+  {
+   "from": "mt-aquim",
+   "to": "mt-eliude",
+   "refs": [
+    {
+     "book": "mat",
+     "ref": "1:14"
+    }
+   ]
+  },
+  {
+   "from": "mt-eliude",
+   "to": "mt-eleazar",
+   "refs": [
+    {
+     "book": "mat",
+     "ref": "1:15"
+    }
+   ]
+  },
+  {
+   "from": "mt-eleazar",
+   "to": "mt-matan",
+   "refs": [
+    {
+     "book": "mat",
+     "ref": "1:15"
+    }
+   ]
+  },
+  {
+   "from": "mt-matan",
+   "to": "mt-jaco",
+   "refs": [
+    {
+     "book": "mat",
+     "ref": "1:15"
+    }
+   ]
+  },
+  {
+   "from": "mt-jaco",
+   "to": "mt-jose",
+   "refs": [
+    {
+     "book": "mat",
+     "ref": "1:15–16"
+    }
+   ]
+  },
+  {
+   "from": "mt-jose",
+   "to": "mt-jesus",
+   "refs": [
+    {
+     "book": "mat",
+     "ref": "1:16"
+    }
+   ]
+  },
+  {
+   "from": "davi",
+   "to": "lc-natan",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:31"
+    },
+    {
+     "book": "2sa",
+     "ref": "5:14"
+    },
+    {
+     "book": "1ch",
+     "ref": "3:5"
+    }
+   ]
+  },
+  {
+   "from": "lc-natan",
+   "to": "lc-mataata",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:31"
+    }
+   ]
+  },
+  {
+   "from": "lc-mataata",
+   "to": "lc-mena",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:31"
+    }
+   ]
+  },
+  {
+   "from": "lc-mena",
+   "to": "lc-melea",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:31"
+    }
+   ]
+  },
+  {
+   "from": "lc-melea",
+   "to": "lc-eliaquim",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:30–31"
+    }
+   ]
+  },
+  {
+   "from": "lc-eliaquim",
+   "to": "lc-jona",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:30"
+    }
+   ]
+  },
+  {
+   "from": "lc-jona",
+   "to": "lc-jose1",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:30"
+    }
+   ]
+  },
+  {
+   "from": "lc-jose1",
+   "to": "lc-juda",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:30"
+    }
+   ]
+  },
+  {
+   "from": "lc-juda",
+   "to": "lc-simeao",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:30"
+    }
+   ]
+  },
+  {
+   "from": "lc-simeao",
+   "to": "lc-levi1",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:29–30"
+    }
+   ]
+  },
+  {
+   "from": "lc-levi1",
+   "to": "lc-matate1",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:29"
+    }
+   ]
+  },
+  {
+   "from": "lc-matate1",
+   "to": "lc-jorim",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:29"
+    }
+   ]
+  },
+  {
+   "from": "lc-jorim",
+   "to": "lc-eliezer",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:29"
+    }
+   ]
+  },
+  {
+   "from": "lc-eliezer",
+   "to": "lc-josue",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:29"
+    }
+   ]
+  },
+  {
+   "from": "lc-josue",
+   "to": "lc-er",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:28–29"
+    }
+   ]
+  },
+  {
+   "from": "lc-er",
+   "to": "lc-elmoda",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:28"
+    }
+   ]
+  },
+  {
+   "from": "lc-elmoda",
+   "to": "lc-cosa",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:28"
+    }
+   ]
+  },
+  {
+   "from": "lc-cosa",
+   "to": "lc-adi",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:28"
+    }
+   ]
+  },
+  {
+   "from": "lc-adi",
+   "to": "lc-melqui1",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:28"
+    }
+   ]
+  },
+  {
+   "from": "lc-melqui1",
+   "to": "lc-neri",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:27–28"
+    }
+   ]
+  },
+  {
+   "from": "lc-neri",
+   "to": "lc-salatiel",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:27"
+    }
+   ]
+  },
+  {
+   "from": "lc-salatiel",
+   "to": "lc-zorobabel",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:27"
+    },
+    {
+     "book": "ezr",
+     "ref": "3:2"
+    }
+   ]
+  },
+  {
+   "from": "lc-zorobabel",
+   "to": "lc-resa",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:27"
+    }
+   ]
+  },
+  {
+   "from": "lc-resa",
+   "to": "lc-joana",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:26–27"
+    }
+   ]
+  },
+  {
+   "from": "lc-joana",
+   "to": "lc-joda",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:26"
+    }
+   ]
+  },
+  {
+   "from": "lc-joda",
+   "to": "lc-joseque",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:26"
+    }
+   ]
+  },
+  {
+   "from": "lc-joseque",
+   "to": "lc-semei",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:26"
+    }
+   ]
+  },
+  {
+   "from": "lc-semei",
+   "to": "lc-matatias1",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:26"
+    }
+   ]
+  },
+  {
+   "from": "lc-matatias1",
+   "to": "lc-maate",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:25–26"
+    }
+   ]
+  },
+  {
+   "from": "lc-maate",
+   "to": "lc-nagai",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:25–26"
+    }
+   ]
+  },
+  {
+   "from": "lc-nagai",
+   "to": "lc-esli",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:25"
+    }
+   ]
+  },
+  {
+   "from": "lc-esli",
+   "to": "lc-naum",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:25"
+    }
+   ]
+  },
+  {
+   "from": "lc-naum",
+   "to": "lc-amos",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:25"
+    }
+   ]
+  },
+  {
+   "from": "lc-amos",
+   "to": "lc-matatias2",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:25"
+    }
+   ]
+  },
+  {
+   "from": "lc-matatias2",
+   "to": "lc-jose2",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:24–25"
+    }
+   ]
+  },
+  {
+   "from": "lc-jose2",
+   "to": "lc-janai",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:24"
+    }
+   ]
+  },
+  {
+   "from": "lc-janai",
+   "to": "lc-melqui2",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:24"
+    }
+   ]
+  },
+  {
+   "from": "lc-melqui2",
+   "to": "lc-levi2",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:24"
+    }
+   ]
+  },
+  {
+   "from": "lc-levi2",
+   "to": "lc-matate2",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:24"
+    }
+   ]
+  },
+  {
+   "from": "lc-matate2",
+   "to": "lc-eli",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:23–24"
+    }
+   ]
+  },
+  {
+   "from": "lc-eli",
+   "to": "lc-jose3",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:23"
+    }
+   ]
+  },
+  {
+   "from": "lc-jose3",
+   "to": "lc-jesus",
+   "refs": [
+    {
+     "book": "luk",
+     "ref": "3:23"
+    }
+   ]
+  }
+ ]
+}
