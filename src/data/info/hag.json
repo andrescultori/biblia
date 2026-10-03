@@ -78,6 +78,9 @@
         "pt": "Dario",
         "en": "Darius"
       },
+      "ids": [
+        "dario-i"
+      ],
       "role": {
         "pt": "Rei da Pérsia, cujo segundo ano é a data do livro",
         "en": "King of Persia, whose second year is the book's date"

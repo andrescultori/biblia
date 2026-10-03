@@ -55,6 +55,9 @@
         "pt": "Hananias, Misael e Azarias",
         "en": "Hananiah, Mishael and Azariah"
       },
+      "ids": [
+        "sadraque-mesaque-abede-nego"
+      ],
       "role": {
         "pt": "Companheiros de Daniel; chamados Sadraque, Mesaque e Abede-Nego (cap. 3)",
         "en": "Daniel's companions; called Shadrach, Meshach and Abednego (ch. 3)"
@@ -78,6 +81,9 @@
         "pt": "Belsazar",
         "en": "Belshazzar"
       },
+      "ids": [
+        "belsazar"
+      ],
       "role": {
         "pt": "Rei no festim do cap. 5",
         "en": "King at the feast of ch. 5"
@@ -88,6 +94,9 @@
         "pt": "Dario, o medo",
         "en": "Darius the Mede"
       },
+      "ids": [
+        "dario-medo"
+      ],
       "role": {
         "pt": "Rei do cap. 6; sua identificação é debatida",
         "en": "King of ch. 6; his identification is debated"

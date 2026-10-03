@@ -7314,6 +7314,554 @@
           "en": "Ai"
         }
       ]
+    },
+    {
+      "id": "balaque",
+      "name": {
+        "pt": "Balaque",
+        "en": "Balak"
+      },
+      "summary": {
+        "pt": "Rei de Moabe, filho de Zipor. Teme Israel, contrata Balaão para amaldiçoá-lo e o despede furioso quando Balaão abençoa o povo (Nm 22–24).",
+        "en": "King of Moab, son of Zippor. He fears Israel, hires Balaam to curse it and sends him away in anger when Balaam blesses the people (Num 22–24)."
+      },
+      "bio": {
+        "pt": [
+          "Balaque, filho de Zipor, é rei de Moabe quando Israel acampa nas planícies de Moabe, depois de vencer os amorreus (Nm 22:1–4). Moabe teme o povo, “porque era muito”, e Balaque diz aos anciãos de Midiã que “esta multidão lamberá tudo o que está ao redor, como o boi lambe a erva do campo” (Nm 22:3–4). Ele envia mensageiros com recompensa a Balaão, filho de Beor, em Petor, para que amaldiçoe Israel, “porque sei que quem tu abençoares será abençoado, e quem tu amaldiçoares será amaldiçoado” (Nm 22:5–6).",
+          "Depois de Balaão resistir a dois grupos de mensageiros, Balaque vai ao seu encontro na fronteira e lhe pergunta por que não veio (Nm 22:15–37). Em seguida, leva Balaão ao alto de Bamote-Baal, depois ao campo de Zofim, no cume do Pisga, e ao cume do Peor, e cada vez prepara altares com sete bois e sete carneiros (Nm 22:41–23:30; 24:1–2). Mas Balaão responde que só pode falar o que o Senhor puser em sua boca, e pronuncia bênçãos sobre Israel.",
+          "Furioso, Balaque bate as mãos e diz: “Chamei-te para amaldiçoares os meus inimigos, e eis que já três vezes os abençoaste de todo. Foge para o teu lugar”, e Balaão se retira (Nm 24:10–14, 25). O episódio é lembrado depois: Josué cita Balaque, filho de Zipor, que se levantou contra Israel e mandou chamar Balaão (Js 24:9–10); Jefté lembra que Balaque não lutou com Israel (Jz 11:25); e Miqueias manda recordar “o que Balaque, rei de Moabe, intentou” (Mq 6:5). Apocalipse 2:14 lembra que Balaão ensinou Balaque a pôr tropeço diante de Israel."
+        ],
+        "en": [
+          "Balak son of Zippor is king of Moab when Israel camps in the plains of Moab, after defeating the Amorites (Num 22:1–4). Moab fears the people, “because they were many,” and Balak tells the elders of Midian, “This horde will now lick up all that is around us, as the ox licks up the grass of the field” (Num 22:3–4). He sends messengers with a reward to Balaam son of Beor at Pethor to curse Israel, “for I know that he whom you bless is blessed, and he whom you curse is cursed” (Num 22:5–6).",
+          "After Balaam resists two groups of messengers, Balak goes to meet him at the border and asks why he did not come (Num 22:15–37). Then he takes Balaam to the high place of Bamoth-baal, then to the field of Zophim on the top of Pisgah, and to the top of Peor, and each time prepares altars with seven bulls and seven rams (Num 22:41–23:30; 24:1–2). But Balaam answers that he can speak only what the Lord puts in his mouth, and pronounces blessings on Israel.",
+          "Furious, Balak strikes his hands together and says, “I called you to curse my enemies, and behold, you have blessed them these three times. Therefore flee to your own place,” and Balaam departs (Num 24:10–14, 25). The episode is recalled later: Joshua cites Balak son of Zippor, who rose against Israel and sent for Balaam (Josh 24:9–10); Jephthah recalls that Balak did not fight against Israel (Judg 11:25); and Micah tells the people to remember “what Balak king of Moab devised” (Mic 6:5). Revelation 2:14 recalls that Balaam taught Balak to put a stumbling block before Israel."
+        ]
+      },
+      "books": [
+        {
+          "book": "num",
+          "role": {
+            "pt": "Rei de Moabe; contrata Balaão (22–24)",
+            "en": "King of Moab; hires Balaam (22–24)"
+          }
+        },
+        {
+          "book": "jos",
+          "role": {
+            "pt": "Lembrado por Josué (24:9)",
+            "en": "Recalled by Joshua (24:9)"
+          }
+        },
+        {
+          "book": "jdg",
+          "role": {
+            "pt": "Lembrado por Jefté (11:25)",
+            "en": "Recalled by Jephthah (11:25)"
+          }
+        },
+        {
+          "book": "mic",
+          "role": {
+            "pt": "Lembrado pelo profeta (6:5)",
+            "en": "Recalled by the prophet (6:5)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "num",
+          "name": "Planícies de Moabe",
+          "en": "Plains of Moab"
+        },
+        {
+          "book": "num",
+          "name": "Pisga",
+          "en": "Pisgah"
+        }
+      ]
+    },
+    {
+      "id": "hananias-profeta",
+      "name": {
+        "pt": "Hananias, filho de Azur",
+        "en": "Hananiah son of Azzur"
+      },
+      "summary": {
+        "pt": "Profeta de Gibeão que, no templo, declara que o Senhor quebrará o jugo da Babilônia em dois anos. Jeremias o contradiz, e Hananias morre naquele mesmo ano (Jr 28).",
+        "en": "A prophet of Gibeon who declares in the temple that the Lord will break the yoke of Babylon within two years. Jeremiah contradicts him, and Hananiah dies that same year (Jer 28)."
+      },
+      "bio": {
+        "pt": [
+          "Jeremias 28 conta que, no quarto ano de Zedequias, no quinto mês, Hananias, filho de Azur, profeta de Gibeão, fala a Jeremias no templo diante dos sacerdotes e do povo. Em nome do Senhor dos Exércitos, anuncia que o jugo do rei da Babilônia será quebrado dentro de dois anos, que os vasos do templo levados por Nabucodonosor voltarão, e que Jeconias e todos os cativos de Judá retornarão (Jr 28:1–4). Era o oposto do que Jeremias vinha dizendo, que Judá deveria se submeter à Babilônia (Jr 27).",
+          "Jeremias responde: “Amém! Assim faça o Senhor”, mas lembra que os profetas anteriores tinham anunciado guerra, fome e peste, e que o profeta que anuncia paz só será reconhecido como verdadeiro quando sua palavra se cumprir (Jr 28:5–9). Hananias tira do pescoço de Jeremias o jugo de madeira, que ele usava como sinal, e o quebra, dizendo que assim o Senhor quebraria o jugo de Babilônia em dois anos. Jeremias vai embora (Jr 28:10–11).",
+          "Depois, a palavra do Senhor vem a Jeremias: Hananias quebrou o jugo de madeira, mas fez em seu lugar um jugo de ferro, e o Senhor pôs um jugo de ferro sobre todas essas nações. Jeremias diz a Hananias: “Ouve, Hananias: O Senhor não te enviou, e tu fizeste este povo confiar em mentiras… Este ano morrerás”. Hananias morre no sétimo mês do mesmo ano (Jr 28:12–17). O episódio mostra o critério de Deuteronômio 18:20–22 para distinguir a palavra do Senhor da palavra de um falso profeta."
+        ],
+        "en": [
+          "Jeremiah 28 tells that in the fourth year of Zedekiah, in the fifth month, Hananiah son of Azzur, a prophet from Gibeon, speaks to Jeremiah in the temple before the priests and all the people. In the name of the Lord of hosts he announces that the yoke of the king of Babylon will be broken within two years, that the vessels of the temple taken by Nebuchadnezzar will return, and that Jeconiah and all the exiles of Judah will come back (Jer 28:1–4). It was the opposite of what Jeremiah had been saying, that Judah should submit to Babylon (Jer 27).",
+          "Jeremiah answers, “Amen! May the Lord do so,” but reminds him that the earlier prophets announced war, famine and plague, and that the prophet who announces peace will be recognized as true only when his word comes to pass (Jer 28:5–9). Hananiah takes the wooden yoke from Jeremiah’s neck, which he wore as a sign, and breaks it, saying that so the Lord would break the yoke of Babylon within two years. Jeremiah goes his way (Jer 28:10–11).",
+          "Afterward the word of the Lord comes to Jeremiah: Hananiah broke the wooden yoke, but in its place he has made a yoke of iron, and the Lord has put a yoke of iron on all these nations. Jeremiah says to Hananiah, “Listen, Hananiah, the Lord has not sent you, and you have made this people trust in a lie… This year you shall die.” Hananiah dies in the seventh month of the same year (Jer 28:12–17). The episode shows the criterion of Deuteronomy 18:20–22 for distinguishing the Lord’s word from that of a false prophet."
+        ]
+      },
+      "books": [
+        {
+          "book": "jer",
+          "role": {
+            "pt": "Profeta que contradiz Jeremias (28)",
+            "en": "Prophet who contradicts Jeremiah (28)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "jer",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ],
+      "note": {
+        "pt": "Não confundir com Hananias, um dos companheiros de Daniel (Dn 1:6–7).",
+        "en": "Not to be confused with Hananiah, one of Daniel’s companions (Dan 1:6–7)."
+      }
+    },
+    {
+      "id": "gedalias",
+      "name": {
+        "pt": "Gedalias",
+        "en": "Gedaliah"
+      },
+      "summary": {
+        "pt": "Filho de Aicão, nomeado governador dos que ficaram em Judá depois da queda de Jerusalém. É morto por Ismael, filho de Netanias, e o povo foge para o Egito (2Rs 25:22–26; Jr 40–43).",
+        "en": "Son of Ahikam, appointed governor of those left in Judah after the fall of Jerusalem. He is killed by Ishmael son of Nethaniah, and the people flee to Egypt (2 Kgs 25:22–26; Jer 40–43)."
+      },
+      "bio": {
+        "pt": [
+          "Depois que Jerusalém cai e muitos são levados para a Babilônia, Nabucodonosor deixa em Judá os mais pobres e põe sobre eles Gedalias, filho de Aicão e neto de Safã, como governador (2Rs 25:12, 22; Jr 40:5). Aicão tinha defendido Jeremias no passado (Jr 26:24). Gedalias se estabelece em Mispá, e o comandante da guarda babilônica, Nebuzaradã, entrega-lhe Jeremias, que escolhe ficar com ele (Jr 40:1–6).",
+          "Os oficiais que haviam fugido, entre eles Ismael, filho de Netanias, e Joanã, filho de Careá, voltam a Gedalias. Ele jura a eles que não temam servir aos caldeus, e que habitem na terra, juntem vinho, frutas e azeite e se estabeleçam nas cidades (Jr 40:7–12). Muitos judeus que estavam em Moabe, Amom e Edom voltam. Mas Joanã avisa Gedalias de que Ismael, enviado pelo rei de Amom, planeja matá-lo; Gedalias não acredita, e recusa o pedido de Joanã de eliminar Ismael em segredo (Jr 40:13–16).",
+          "No sétimo mês, Ismael, que era de linhagem real, vem a Mispá com dez homens, é recebido por Gedalias à mesa, e o mata com os caldeus e os judeus que estavam ali (Jr 41:1–3; 2Rs 25:25). Depois, Ismael leva cativos e é perseguido por Joanã. O povo, temendo a vingança da Babilônia, decide fugir para o Egito, apesar da palavra de Jeremias de que deviam ficar, e o leva consigo (Jr 41:4–43:7). O texto não dá o ano do assassinato; o ano é debatido. Em Zacarias 7:5 e 8:19 o jejum do sétimo mês é geralmente ligado à morte de Gedalias."
+        ],
+        "en": [
+          "After Jerusalem falls and many are taken to Babylon, Nebuchadnezzar leaves the poorest in Judah and puts over them Gedaliah son of Ahikam and grandson of Shaphan as governor (2 Kgs 25:12, 22; Jer 40:5). Ahikam had defended Jeremiah in the past (Jer 26:24). Gedaliah settles at Mizpah, and the commander of the Babylonian guard, Nebuzaradan, hands Jeremiah over to him, who chooses to stay with him (Jer 40:1–6).",
+          "The officers who had fled, among them Ishmael son of Nethaniah and Johanan son of Kareah, return to Gedaliah. He swears to them that they need not fear to serve the Chaldeans, and tells them to dwell in the land, gather wine, summer fruit and oil, and settle in the cities (Jer 40:7–12). Many Jews who were in Moab, Ammon and Edom return. But Johanan warns Gedaliah that Ishmael, sent by the king of the Ammonites, plans to kill him; Gedaliah does not believe it, and refuses Johanan’s request to kill Ishmael in secret (Jer 40:13–16).",
+          "In the seventh month Ishmael, who was of royal descent, comes to Mizpah with ten men, is received by Gedaliah at a meal, and kills him with the Chaldeans and Jews who were there (Jer 41:1–3; 2 Kgs 25:25). Afterward Ishmael takes captives and is pursued by Johanan. The people, fearing Babylon’s vengeance, decide to flee to Egypt, despite Jeremiah’s word that they should stay, and take him with them (Jer 41:4–43:7). The text does not give the year of the murder; the year is debated. In Zechariah 7:5 and 8:19 the fast of the seventh month is generally linked to Gedaliah’s death."
+        ]
+      },
+      "books": [
+        {
+          "book": "2ki",
+          "role": {
+            "pt": "Governador nomeado pelos babilônios (25:22–26)",
+            "en": "Governor appointed by the Babylonians (25:22–26)"
+          }
+        },
+        {
+          "book": "jer",
+          "role": {
+            "pt": "Governador em Mispá, onde Jeremias o acompanha (40–41)",
+            "en": "Governor at Mizpah, where Jeremiah joins him (40–41)"
+          }
+        }
+      ],
+      "events": [
+        "jerusalem-586"
+      ],
+      "places": [
+        {
+          "book": "jer",
+          "name": "Mispá",
+          "en": "Mizpah"
+        }
+      ]
+    },
+    {
+      "id": "amazias-betel",
+      "name": {
+        "pt": "Amazias, sacerdote de Betel",
+        "en": "Amaziah, priest of Bethel"
+      },
+      "summary": {
+        "pt": "Sacerdote de Betel que acusa Amós de conspirar contra Jeroboão II e o manda embora de Israel. Amós responde que não era profeta de ofício e anuncia o juízo sobre Amazias (Am 7:10–17).",
+        "en": "Priest of Bethel who accuses Amos of conspiring against Jeroboam II and tells him to leave Israel. Amos answers that he was not a prophet by profession and announces judgment on Amaziah (Amos 7:10–17)."
+      },
+      "bio": {
+        "pt": [
+          "Depois de três visões de juízo, Amós 7 conta o confronto com Amazias, sacerdote de Betel, o santuário do reino do norte (Am 7:10; 7:13). Amazias manda dizer a Jeroboão II: “Amós conspirou contra ti no meio da casa de Israel; a terra não pode suportar todas as suas palavras. Porque assim diz Amós: Jeroboão morrerá à espada, e Israel certamente será levado cativo da sua terra” (Am 7:10–11).",
+          "Depois, Amazias fala diretamente a Amós: “Vidente, vai-te, foge para a terra de Judá, e lá come o teu pão e profetiza; mas em Betel não profetizes mais, porque é o santuário do rei e a casa real” (Am 7:12–13). Amós responde que não era profeta nem filho de profeta, mas boiadeiro e cultivador de sicômoros, e que o Senhor o tirou de trás do rebanho e lhe disse: “Vai, profetiza ao meu povo Israel” (Am 7:14–15).",
+          "Então Amós pronuncia uma palavra contra Amazias, porque ele dissera “não profetizes contra Israel”. O Senhor diz que sua mulher se prostituirá na cidade, seus filhos e filhas cairão à espada, sua terra será dividida, e ele morrerá em terra impura, e Israel será levado cativo (Am 7:16–17). O texto não diz o que aconteceu depois com Amazias. O episódio mostra o conflito entre a religião oficial do reino e a palavra de um profeta enviado por Deus."
+        ],
+        "en": [
+          "After three visions of judgment, Amos 7 tells of the confrontation with Amaziah, priest of Bethel, the sanctuary of the northern kingdom (Amos 7:10; 7:13). Amaziah sends word to Jeroboam II: “Amos has conspired against you in the midst of the house of Israel. The land is not able to bear all his words. For thus Amos has said, ‘Jeroboam shall die by the sword, and Israel must go into exile away from his land’” (Amos 7:10–11).",
+          "Then Amaziah speaks directly to Amos: “O seer, go, flee away to the land of Judah, and eat bread there, and prophesy there, but never again prophesy at Bethel, for it is the king’s sanctuary, and it is a temple of the kingdom” (Amos 7:12–13). Amos answers that he was no prophet, nor a prophet’s son, but a herdsman and a dresser of sycamore figs, and that the Lord took him from following the flock and said to him, “Go, prophesy to my people Israel” (Amos 7:14–15).",
+          "Then Amos pronounces a word against Amaziah, because he had said, “Do not prophesy against Israel.” The Lord says that his wife shall be a prostitute in the city, his sons and daughters shall fall by the sword, his land shall be divided, and he shall die in an unclean land, and Israel shall go into exile (Amos 7:16–17). The text does not say what happened to Amaziah afterward. The episode shows the conflict between the official religion of the kingdom and the word of a prophet sent by God."
+        ]
+      },
+      "books": [
+        {
+          "book": "amo",
+          "role": {
+            "pt": "Sacerdote de Betel; confronta Amós (7:10–17)",
+            "en": "Priest of Bethel; confronts Amos (7:10–17)"
+          }
+        }
+      ],
+      "events": [
+        "jeroboao-ii"
+      ],
+      "places": [
+        {
+          "book": "amo",
+          "name": "Betel",
+          "en": "Bethel"
+        }
+      ],
+      "note": {
+        "pt": "Não confundir com Amazias, rei de Judá (2Rs 14).",
+        "en": "Not to be confused with Amaziah, king of Judah (2 Kgs 14)."
+      }
+    },
+    {
+      "id": "itamar",
+      "name": {
+        "pt": "Itamar",
+        "en": "Ithamar"
+      },
+      "summary": {
+        "pt": "Quarto filho de Arão. É consagrado sacerdote, continua o serviço depois da morte de Nadabe e Abiú e responde pelo trabalho dos gersonitas e meraritas no tabernáculo (Êx 6:23; Lv 10:6–7; Nm 4).",
+        "en": "Fourth son of Aaron. He is consecrated a priest, continues the service after the death of Nadab and Abihu and oversees the work of the Gershonites and Merarites at the tabernacle (Exod 6:23; Lev 10:6–7; Num 4)."
+      },
+      "bio": {
+        "pt": [
+          "Itamar é o quarto e último dos filhos de Arão e Eliseba (Êx 6:23). Com os irmãos Nadabe, Abiú e Eleazar, é consagrado sacerdote no Sinai (Êx 28:1). Quando a construção do tabernáculo termina, o texto diz que a soma do que foi usado no santuário foi feita “por ordem de Moisés, pelo ministério dos levitas, sob a direção de Itamar, filho de Arão, o sacerdote” (Êx 38:21).",
+          "Depois da morte de Nadabe e Abiú, que ofereceram fogo estranho, Moisés manda Arão, Eleazar e Itamar não descobrirem a cabeça nem rasgarem as vestes em luto (Lv 10:6–7), e os dois continuam o serviço sacerdotal, comendo a oferta de cereais como o Senhor ordenara (Lv 10:12–20). Em Números, Itamar tem a responsabilidade pelo serviço dos gersonitas e dos meraritas, que carregam as cortinas, as tábuas, as colunas e os utensílios do tabernáculo (Nm 4:28, 33; 7:8).",
+          "Em Crônicas, Davi divide os descendentes de Arão em turnos de serviço: dezesseis casas da linhagem de Eleazar e oito de Itamar (1Cr 24:1–6). Esdras 8:2 lista “Daniel, dos filhos de Itamar”, entre os que voltam do exílio. A linha sacerdotal de Itamar continua ao longo do Antigo Testamento ao lado da linha de Eleazar."
+        ],
+        "en": [
+          "Ithamar is the fourth and last of the sons of Aaron and Elisheba (Exod 6:23). With his brothers Nadab, Abihu and Eleazar, he is consecrated a priest at Sinai (Exod 28:1). When the construction of the tabernacle is finished, the text says that the account of what was used in the sanctuary was made “at the commandment of Moses, by the Levites, under the direction of Ithamar the son of Aaron the priest” (Exod 38:21).",
+          "After the death of Nadab and Abihu, who offered unauthorized fire, Moses tells Aaron, Eleazar and Ithamar not to uncover their heads or tear their clothes in mourning (Lev 10:6–7), and the two continue the priestly service, eating the grain offering as the Lord commanded (Lev 10:12–20). In Numbers Ithamar is responsible for the service of the Gershonites and the Merarites, who carry the curtains, boards, pillars and utensils of the tabernacle (Num 4:28, 33; 7:8).",
+          "In Chronicles David divides the descendants of Aaron into divisions of service: sixteen houses of the line of Eleazar and eight of Ithamar (1 Chr 24:1–6). Ezra 8:2 lists “Daniel, of the sons of Ithamar,” among those who return from exile. The priestly line of Ithamar continues throughout the Old Testament alongside that of Eleazar."
+        ]
+      },
+      "books": [
+        {
+          "book": "exo",
+          "role": {
+            "pt": "Filho de Arão; contabiliza o tabernáculo (6:23; 38:21)",
+            "en": "Son of Aaron; accounts for the tabernacle (6:23; 38:21)"
+          }
+        },
+        {
+          "book": "lev",
+          "role": {
+            "pt": "Continua o serviço sacerdotal (10:6–7)",
+            "en": "Continues the priestly service (10:6–7)"
+          }
+        },
+        {
+          "book": "1ch",
+          "role": {
+            "pt": "Seus descendentes servem em turnos (24)",
+            "en": "His descendants serve in divisions (24)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nadabe-abiu",
+      "name": {
+        "pt": "Nadabe e Abiú",
+        "en": "Nadab and Abihu"
+      },
+      "summary": {
+        "pt": "Os dois filhos mais velhos de Arão. Sobem ao monte com Moisés e os anciãos, são consagrados sacerdotes e morrem ao oferecer “fogo estranho” diante do Senhor (Êx 24; Lv 10:1–7).",
+        "en": "The two eldest sons of Aaron. They go up the mountain with Moses and the elders, are consecrated priests and die offering “unauthorized fire” before the Lord (Exod 24; Lev 10:1–7)."
+      },
+      "bio": {
+        "pt": [
+          "Nadabe e Abiú são os dois filhos mais velhos de Arão e Eliseba (Êx 6:23). No Sinai, o Senhor manda Moisés subir com Arão, Nadabe, Abiú e setenta dos anciãos, e eles veem “o Deus de Israel” e comem e bebem (Êx 24:1, 9–11). Depois, são separados com Eleazar e Itamar para o sacerdócio, com vestes próprias (Êx 28:1; Lv 8).",
+          "Logo depois da consagração, Levítico 10 conta que Nadabe e Abiú tomam cada um o seu incensário, põem fogo e incenso e oferecem “fogo estranho diante do Senhor, o que ele não lhes ordenara”. Sai fogo da presença do Senhor e os consome (Lv 10:1–2). Moisés diz a Arão: “Isto é o que o Senhor disse: Naqueles que se chegam a mim serei santificado, e diante de todo o povo serei glorificado”, e Arão se cala (Lv 10:3). Os primos de Arão, Misael e Elzafã, carregam os corpos para fora do arraial, e Moisés manda que Arão e os dois filhos restantes não façam luto público, mas que a casa de Israel chore (Lv 10:4–7).",
+          "Em seguida, o Senhor ordena a Arão que ele e seus filhos não bebam vinho nem bebida forte quando entrarem na tenda do encontro, para distinguirem o santo do profano (Lv 10:8–11); o texto não afirma que a embriaguez tenha sido a causa. Números 3:4 e 26:61 repetem que eles morreram ao oferecer fogo estranho e que não tiveram filhos. Por isso, o sacerdócio de Arão continua por Eleazar e Itamar (Nm 3:4; 1Cr 24:2)."
+        ],
+        "en": [
+          "Nadab and Abihu are the two eldest sons of Aaron and Elisheba (Exod 6:23). At Sinai the Lord tells Moses to come up with Aaron, Nadab, Abihu and seventy of the elders, and they see “the God of Israel” and eat and drink (Exod 24:1, 9–11). Afterward they are set apart with Eleazar and Ithamar for the priesthood, with special garments (Exod 28:1; Lev 8).",
+          "Soon after the consecration, Leviticus 10 tells that Nadab and Abihu each take his censer, put fire and incense in it and offer “unauthorized fire before the Lord, which he had not commanded them.” Fire comes out from the presence of the Lord and consumes them (Lev 10:1–2). Moses says to Aaron, “This is what the Lord has said: ‘Among those who are near me I will be sanctified, and before all the people I will be glorified,’” and Aaron is silent (Lev 10:3). Aaron’s cousins, Mishael and Elzaphan, carry the bodies out of the camp, and Moses tells Aaron and his two remaining sons not to mourn publicly, but that the house of Israel should weep (Lev 10:4–7).",
+          "Next the Lord commands Aaron that he and his sons are not to drink wine or strong drink when they go into the tent of meeting, to distinguish the holy from the common (Lev 10:8–11); the text does not say that drunkenness was the cause. Numbers 3:4 and 26:61 repeat that they died when they offered unauthorized fire and that they had no children. So Aaron’s priesthood continues through Eleazar and Ithamar (Num 3:4; 1 Chr 24:2)."
+        ]
+      },
+      "books": [
+        {
+          "book": "exo",
+          "role": {
+            "pt": "Sobem ao monte com Moisés e são consagrados (24:1, 9; 28:1)",
+            "en": "Go up the mountain with Moses and are consecrated (24:1, 9; 28:1)"
+          }
+        },
+        {
+          "book": "lev",
+          "role": {
+            "pt": "Morrem ao oferecer fogo estranho (10:1–7)",
+            "en": "Die offering unauthorized fire (10:1–7)"
+          }
+        },
+        {
+          "book": "num",
+          "role": {
+            "pt": "Sua morte é lembrada (3:2–4; 26:61)",
+            "en": "Their death is recalled (3:2–4; 26:61)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "lev",
+          "name": "Monte Sinai",
+          "en": "Mount Sinai"
+        }
+      ]
+    },
+    {
+      "id": "bezalel",
+      "name": {
+        "pt": "Bezalel",
+        "en": "Bezalel"
+      },
+      "summary": {
+        "pt": "Artesão da tribo de Judá, filho de Uri, chamado pelo nome e cheio do Espírito de Deus para fazer o tabernáculo e seus utensílios, com Aoliabe, da tribo de Dã (Êx 31:1–11; 35:30–36:2).",
+        "en": "Craftsman of the tribe of Judah, son of Uri, called by name and filled with the Spirit of God to make the tabernacle and its furnishings, with Oholiab of the tribe of Dan (Exod 31:1–11; 35:30–36:2)."
+      },
+      "bio": {
+        "pt": [
+          "No Sinai, depois de dar a Moisés as instruções do tabernáculo, o Senhor diz: “Eis que chamei pelo nome a Bezalel, filho de Uri, filho de Hur, da tribo de Judá, e o enchi do Espírito de Deus, de sabedoria, de inteligência, de conhecimento e de todo tipo de trabalho” (Êx 31:1–3). O texto diz que ele foi cheio do Espírito de Deus, e o que descreve é habilidade artesanal: projetar trabalhos em ouro, prata e bronze, lapidar pedras para engastar e entalhar madeira (Êx 31:4–5).",
+          "O Senhor lhe dá como auxiliar Aoliabe, filho de Aisamaque, da tribo de Dã, e a ambos concede a capacidade de ensinar a outros (Êx 31:6; 35:34). Quando Moisés convoca o povo para trazer ofertas, Bezalel e Aoliabe recebem o material e coordenam o trabalho dos artífices (Êx 35:30–36:7). O livro diz que Bezalel fez a arca, a mesa, o candelabro, o altar do incenso, o altar do holocausto, a bacia e o óleo da unção e o incenso (Êx 37–38). O texto repete: “Bezalel… fez tudo o que o Senhor ordenara a Moisés” (Êx 38:22).",
+          "Crônicas o lembra como neto de Hur e ligado a Judá (1Cr 2:19–20), e também diz que o altar de bronze que Bezalel fez ainda estava em Gibeão no tempo de Salomão (2Cr 1:5). A história de Bezalel é um exemplo bíblico de que o dom do Espírito inclui a arte e o trabalho manual a serviço do culto."
+        ],
+        "en": [
+          "At Sinai, after giving Moses the instructions for the tabernacle, the Lord says: “See, I have called by name Bezalel the son of Uri, son of Hur, of the tribe of Judah, and I have filled him with the Spirit of God, with ability and intelligence, with knowledge and all craftsmanship” (Exod 31:1–3). The text says he was filled with the Spirit of God, and what it describes is skill in craftsmanship: to devise artistic designs, to work in gold, silver and bronze, in cutting stones for setting, and in carving wood (Exod 31:4–5).",
+          "The Lord gives him as assistant Oholiab the son of Ahisamach, of the tribe of Dan, and grants both of them the ability to teach others (Exod 31:6; 35:34). When Moses calls the people to bring offerings, Bezalel and Oholiab receive the materials and coordinate the work of the craftsmen (Exod 35:30–36:7). The book says that Bezalel made the ark, the table, the lampstand, the altar of incense, the altar of burnt offering, the basin, and the anointing oil and incense (Exod 37–38). The text repeats: “Bezalel… made all that the Lord commanded Moses” (Exod 38:22).",
+          "Chronicles recalls him as a grandson of Hur and connected with Judah (1 Chr 2:19–20), and also says that the bronze altar Bezalel made was still at Gibeon in Solomon’s time (2 Chr 1:5). The story of Bezalel is a biblical example that the gift of the Spirit includes art and manual work in the service of worship."
+        ]
+      },
+      "books": [
+        {
+          "book": "exo",
+          "role": {
+            "pt": "Artesão do tabernáculo (31:1–11; 35–38)",
+            "en": "Craftsman of the tabernacle (31:1–11; 35–38)"
+          }
+        },
+        {
+          "book": "2ch",
+          "role": {
+            "pt": "O altar de bronze que ele fez (1:5)",
+            "en": "The bronze altar he made (1:5)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "exo",
+          "name": "Monte Sinai",
+          "en": "Mount Sinai"
+        }
+      ]
+    },
+    {
+      "id": "dario-i",
+      "name": {
+        "pt": "Dario, rei da Pérsia (Dario I)",
+        "en": "Darius, king of Persia (Darius I)"
+      },
+      "summary": {
+        "pt": "Rei da Pérsia no tempo da reconstrução do templo. No seu 2º ano, Ageu e Zacarias profetizam; ele confirma o decreto de Ciro, e o templo é concluído no seu 6º ano (Ed 4–6; Ag 1:1; Zc 1:1).",
+        "en": "King of Persia in the time of the rebuilding of the temple. In his 2nd year Haggai and Zechariah prophesy; he confirms Cyrus’s decree, and the temple is completed in his 6th year (Ezra 4–6; Hag 1:1; Zech 1:1)."
+      },
+      "bio": {
+        "pt": [
+          "Esdras 4 diz que a obra do templo, interrompida pela oposição dos inimigos de Judá, ficou parada “até o segundo ano do reinado de Dario, rei da Pérsia” (Ed 4:5, 24). Nessa data, os profetas Ageu e Zacarias incentivam Zorobabel e Jesua, que retomam a obra (Ed 5:1–2; Ag 1:1; Zc 1:1). As datas dos livros de Ageu e Zacarias seguem os anos de Dario, entre 520 e 518 a.C. (Ag 1:1; 2:10; Zc 1:7; 7:1).",
+          "Tatenai, governador da região, e seus companheiros interrogam os judeus e escrevem a Dario, que manda procurar nos arquivos. Em Ecbatana, acha-se um rolo com o decreto de Ciro que autorizava a reconstrução do templo (Ed 5:3–6:2). Dario responde confirmando o decreto: manda que Tatenai deixe a obra e que as despesas sejam pagas do tesouro real, que o necessário em animais, trigo, sal, vinho e azeite lhes seja dado diariamente, e que quem desobedecer seja punido (Ed 6:3–12).",
+          "O templo é concluído no sexto ano do reinado de Dario, no terceiro dia do mês de Adar (Ed 6:15). Os judeus o dedicam com alegria, e depois celebram a Páscoa (Ed 6:16–22). O texto chama Dario de “rei da Assíria” no fim, em referência ao domínio sobre o antigo território assírio (Ed 6:22). Neemias 12:22 menciona “Dario, o persa”. Essa data corresponde a c. 516 a.C."
+        ],
+        "en": [
+          "Ezra 4 says that the work on the temple, interrupted by the opposition of Judah’s enemies, stopped “until the second year of the reign of Darius king of Persia” (Ezra 4:5, 24). At that date the prophets Haggai and Zechariah encourage Zerubbabel and Jeshua, who resume the work (Ezra 5:1–2; Hag 1:1; Zech 1:1). The dates in the books of Haggai and Zechariah follow Darius’s years, between 520 and 518 BC (Hag 1:1; 2:10; Zech 1:7; 7:1).",
+          "Tattenai, governor of the region, and his associates question the Jews and write to Darius, who orders a search in the archives. At Ecbatana a scroll is found with Cyrus’s decree that authorized the rebuilding of the temple (Ezra 5:3–6:2). Darius answers confirming the decree: he orders Tattenai to leave the work alone and that the expenses be paid from the royal treasury, that what is needed in animals, wheat, salt, wine and oil be given them daily, and that whoever disobeys be punished (Ezra 6:3–12).",
+          "The temple is finished in the sixth year of the reign of Darius, on the third day of the month of Adar (Ezra 6:15). The Jews dedicate it with joy, and afterward celebrate the Passover (Ezra 6:16–22). The text calls Darius “king of Assyria” at the end, in reference to his rule over the old Assyrian territory (Ezra 6:22). Nehemiah 12:22 mentions “Darius the Persian.” This date corresponds to c. 516 BC."
+        ]
+      },
+      "books": [
+        {
+          "book": "ezr",
+          "role": {
+            "pt": "Confirma o decreto de Ciro; o templo é concluído (4–6)",
+            "en": "Confirms Cyrus’s decree; the temple is completed (4–6)"
+          }
+        },
+        {
+          "book": "hag",
+          "role": {
+            "pt": "Seu 2º ano data as profecias de Ageu (1:1)",
+            "en": "His 2nd year dates Haggai’s prophecies (1:1)"
+          }
+        },
+        {
+          "book": "zec",
+          "role": {
+            "pt": "Seu 2º e 4º anos datam as de Zacarias (1:1; 7:1)",
+            "en": "His 2nd and 4th years date Zechariah’s (1:1; 7:1)"
+          }
+        }
+      ],
+      "events": [
+        "ageu-zacarias",
+        "templo-516"
+      ],
+      "places": [
+        {
+          "book": "ezr",
+          "name": "Pérsia",
+          "en": "Persia"
+        },
+        {
+          "book": "ezr",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ],
+      "note": {
+        "pt": "Não confundir com Dario, o medo, do livro de Daniel.",
+        "en": "Not to be confused with Darius the Mede, in the book of Daniel."
+      }
+    },
+    {
+      "id": "dario-medo",
+      "name": {
+        "pt": "Dario, o medo",
+        "en": "Darius the Mede"
+      },
+      "summary": {
+        "pt": "Rei que recebe o reino da Babilônia depois de Belsazar. Lança Daniel na cova dos leões, contra a própria vontade, e depois ordena que todos temam o Deus de Daniel (Dn 5:31; 6; 9:1).",
+        "en": "King who receives the kingdom of Babylon after Belshazzar. He throws Daniel into the lions’ den against his own will and afterward orders everyone to fear Daniel’s God (Dan 5:31; 6; 9:1)."
+      },
+      "bio": {
+        "pt": [
+          "Daniel 5:31 diz que, na noite em que Belsazar é morto, “Dario, o medo, recebeu o reino, tendo cerca de sessenta e dois anos”. Daniel 9:1 o chama “Dario, filho de Assuero, da linhagem dos medos, que foi constituído rei sobre o reino dos caldeus”. Em Daniel 6, ele organiza o reino em cento e vinte sátrapas, com três presidentes sobre eles, entre os quais Daniel, que se destaca tanto que o rei pensa em pô-lo sobre todo o reino (Dn 6:1–3).",
+          "Os outros presidentes e sátrapas, invejosos, não acham falha em Daniel e induzem Dario a assinar um decreto que proíbe, por trinta dias, qualquer pedido a deus ou homem a não ser ao rei, sob pena de cova dos leões (Dn 6:4–9). Daniel continua a orar três vezes ao dia, voltado para Jerusalém, e é denunciado (Dn 6:10–13). O rei fica muito aflito e até o pôr do sol tenta livrá-lo, mas é lembrado de que a lei dos medos e persas não se revoga. Manda lançá-lo na cova e diz: “O teu Deus, a quem tu continuamente serves, ele te livrará” (Dn 6:14–16).",
+          "O rei passa a noite em jejum e, ao amanhecer, corre à cova e chama Daniel, que responde que o seu Deus enviou seu anjo e fechou a boca dos leões. Dario o manda tirar, e os acusadores são lançados na cova com suas famílias (Dn 6:18–24). Então escreve a todos os povos: “Que em todo o domínio do meu reino os homens tremam e temam diante do Deus de Daniel, porque ele é o Deus vivo e permanece para sempre” (Dn 6:25–27). A identidade de Dario, o medo, é debatida: o nome não corresponde a nenhum rei conhecido dos registros babilônicos e persas, e as propostas incluem um governador da Babilônia sob Ciro, ou o próprio Ciro, entre outras."
+        ],
+        "en": [
+          "Daniel 5:31 says that on the night Belshazzar is killed, “Darius the Mede received the kingdom, being about sixty-two years old.” Daniel 9:1 calls him “Darius the son of Ahasuerus, by descent a Mede, who was made king over the realm of the Chaldeans.” In Daniel 6 he organizes the kingdom into a hundred and twenty satraps, with three presidents over them, one of whom is Daniel, who distinguishes himself so much that the king thinks of setting him over the whole kingdom (Dan 6:1–3).",
+          "The other presidents and satraps, jealous, find no fault in Daniel and induce Darius to sign a decree forbidding, for thirty days, any petition to any god or man except the king, on pain of the lions’ den (Dan 6:4–9). Daniel continues to pray three times a day, facing Jerusalem, and is reported (Dan 6:10–13). The king is greatly distressed and until sunset tries to rescue him, but is reminded that the law of the Medes and Persians cannot be changed. He orders him cast into the den and says, “May your God, whom you serve continually, deliver you!” (Dan 6:14–16).",
+          "The king spends the night fasting and at dawn hurries to the den and calls to Daniel, who answers that his God sent his angel and shut the lions’ mouths. Darius has him taken out, and his accusers are thrown into the den with their families (Dan 6:18–24). Then he writes to all peoples: “I make a decree, that in all my royal dominion people are to tremble and fear before the God of Daniel, for he is the living God, enduring forever” (Dan 6:25–27). The identity of Darius the Mede is debated: the name does not match any known king in the Babylonian and Persian records, and proposals include a governor of Babylon under Cyrus, or Cyrus himself, among others."
+        ]
+      },
+      "books": [
+        {
+          "book": "dan",
+          "role": {
+            "pt": "Rei após Belsazar; Daniel e a cova dos leões (5:31; 6; 9:1)",
+            "en": "King after Belshazzar; Daniel and the lions’ den (5:31; 6; 9:1)"
+          }
+        }
+      ],
+      "events": [
+        "babilonia-cai"
+      ],
+      "places": [
+        {
+          "book": "dan",
+          "name": "Babilônia",
+          "en": "Babylon"
+        }
+      ],
+      "note": {
+        "pt": "Não confundir com Dario I da Pérsia (Esdras, Ageu e Zacarias).",
+        "en": "Not to be confused with Darius I of Persia (Ezra, Haggai and Zechariah)."
+      }
+    },
+    {
+      "id": "belsazar",
+      "name": {
+        "pt": "Belsazar",
+        "en": "Belshazzar"
+      },
+      "summary": {
+        "pt": "Rei da Babilônia no festim em que uma mão escreve na parede. Daniel interpreta a escrita, e Belsazar é morto naquela noite (Dn 5). Daniel tem visões no 1º e no 3º ano dele (Dn 7:1; 8:1).",
+        "en": "King of Babylon at the feast when a hand writes on the wall. Daniel interprets the writing, and Belshazzar is killed that night (Dan 5). Daniel has visions in his 1st and 3rd years (Dan 7:1; 8:1)."
+      },
+      "bio": {
+        "pt": [
+          "Daniel 5 conta que o rei Belsazar oferece um grande festim a mil dos seus nobres. Sob o efeito do vinho, manda trazer os vasos de ouro e prata que Nabucodonosor tinha tirado do templo de Jerusalém, para que ele, os nobres, as mulheres e as concubinas bebam neles, e louvam os deuses de ouro, prata, bronze, ferro, madeira e pedra (Dn 5:1–4). No mesmo instante, aparecem dedos de mão humana que escrevem no reboco do muro do palácio; o rei empalidece e fica apavorado (Dn 5:5–6).",
+          "Nenhum dos sábios da Babilônia consegue ler a escrita. A rainha-mãe se lembra de Daniel, e ele é chamado e recusa as recompensas. Antes de ler, Daniel lembra o castigo de Nabucodonosor por seu orgulho e acusa Belsazar: “Tu, Belsazar, não humilhaste o teu coração, ainda que sabias tudo isso”, porque se levantou contra o Senhor do céu e bebeu dos vasos do templo (Dn 5:10–23). A escrita diz Mene, Mene, Tequel, Parsim, e Daniel interpreta: Deus contou o reino e deu fim a ele; o rei foi pesado e achado em falta; o reino foi dividido e dado aos medos e persas (Dn 5:24–28).",
+          "Belsazar manda vestir Daniel de púrpura, pôr-lhe um colar de ouro e proclamá-lo o terceiro no reino (Dn 5:29). “Naquela mesma noite foi morto Belsazar, rei dos caldeus” (Dn 5:30). Depois, o texto de Daniel 7:1 e 8:1 data duas visões de Daniel no primeiro e no terceiro ano de Belsazar. O livro chama Nabucodonosor de “pai” de Belsazar (Dn 5:2, 11, 18), e a palavra hebraica pode significar também predecessor ou antepassado. Registros babilônicos fora da Bíblia mostram Belsazar como filho e co-regente de Nabonido, o último rei da Babilônia."
+        ],
+        "en": [
+          "Daniel 5 tells that King Belshazzar gives a great feast for a thousand of his nobles. Under the influence of wine, he orders the gold and silver vessels that Nebuchadnezzar had taken from the temple in Jerusalem to be brought, so that he, the nobles, his wives and his concubines may drink from them, and they praise the gods of gold, silver, bronze, iron, wood and stone (Dan 5:1–4). At that moment the fingers of a human hand appear and write on the plaster of the wall of the palace; the king’s color changes and he is terrified (Dan 5:5–6).",
+          "None of the wise men of Babylon can read the writing. The queen mother remembers Daniel, and he is called and refuses the rewards. Before reading, Daniel recalls Nebuchadnezzar’s punishment for his pride and accuses Belshazzar: “You, Belshazzar, have not humbled your heart, though you knew all this,” because he exalted himself against the Lord of heaven and drank from the temple vessels (Dan 5:10–23). The writing says Mene, Mene, Tekel, Parsin, and Daniel interprets: God has numbered the kingdom and brought it to an end; the king has been weighed and found wanting; the kingdom is divided and given to the Medes and Persians (Dan 5:24–28).",
+          "Belshazzar has Daniel clothed in purple, a chain of gold put around his neck and proclaims him third ruler in the kingdom (Dan 5:29). “That very night Belshazzar the Chaldean king was killed” (Dan 5:30). Afterward the text of Daniel 7:1 and 8:1 dates two visions of Daniel in the first and third years of Belshazzar. The book calls Nebuchadnezzar the “father” of Belshazzar (Dan 5:2, 11, 18), and the Hebrew word can also mean predecessor or ancestor. Babylonian records outside the Bible show Belshazzar as son and co-regent of Nabonidus, the last king of Babylon."
+        ]
+      },
+      "books": [
+        {
+          "book": "dan",
+          "role": {
+            "pt": "Rei no festim; a escrita na parede (5); visões de Daniel (7:1; 8:1)",
+            "en": "King at the feast; the writing on the wall (5); Daniel’s visions (7:1; 8:1)"
+          }
+        }
+      ],
+      "events": [
+        "babilonia-cai"
+      ],
+      "places": [
+        {
+          "book": "dan",
+          "name": "Babilônia",
+          "en": "Babylon"
+        }
+      ]
+    },
+    {
+      "id": "sadraque-mesaque-abede-nego",
+      "name": {
+        "pt": "Sadraque, Mesaque e Abede-Nego",
+        "en": "Shadrach, Meshach and Abednego"
+      },
+      "summary": {
+        "pt": "Hananias, Misael e Azarias, jovens de Judá levados à Babilônia com Daniel e renomeados. Recusam adorar a imagem de ouro de Nabucodonosor e são lançados na fornalha, onde o Senhor os guarda (Dn 1; 3).",
+        "en": "Hananiah, Mishael and Azariah, young men of Judah taken to Babylon with Daniel and renamed. They refuse to worship Nebuchadnezzar’s golden image and are thrown into the furnace, where the Lord keeps them (Dan 1; 3)."
+      },
+      "bio": {
+        "pt": [
+          "Daniel 1 conta que, entre os jovens de Judá levados à Babilônia por Nabucodonosor para serem treinados para o serviço do rei, estão Daniel e três companheiros: Hananias, Misael e Azarias. O chefe dos eunucos lhes dá nomes babilônicos: Sadraque, Mesaque e Abede-Nego (Dn 1:3–7). Os quatro recusam contaminar-se com a comida e o vinho do rei e pedem uma prova de dez dias com legumes e água; ao final, estão mais saudáveis do que os demais, e Deus lhes dá conhecimento e sabedoria (Dn 1:8–20). Depois que Daniel interpreta o sonho do rei, a pedido dele os três são postos à frente dos negócios da província de Babilônia (Dn 2:49).",
+          "Em Daniel 3, Nabucodonosor ergue uma imagem de ouro na planície de Dura e ordena que, ao som da música, todos se prostrem diante dela, sob pena de serem lançados numa fornalha ardente. Alguns caldeus denunciam que os três judeus não adoram o deus do rei (Dn 3:1–12). O rei, furioso, os confronta, e eles respondem: “O nosso Deus, a quem servimos, pode livrar-nos… e nos livrará da tua mão, ó rei. Mas, se não, fica sabendo, ó rei, que não serviremos a teus deuses, nem adoraremos a imagem de ouro que levantaste” (Dn 3:13–18).",
+          "A fornalha é aquecida sete vezes mais, e os soldados que a aproximam para lançar os três morrem pelo calor (Dn 3:19–23). Mas o rei vê quatro homens soltos, andando no meio do fogo, sem dano, e o quarto “semelhante a um filho dos deuses” (Dn 3:24–25). Chama-os para fora; nem um cabelo fora queimado, nem as roupas, nem havia cheiro de fogo (Dn 3:26–27). Nabucodonosor bendiz o Deus deles, que enviou seu anjo e livrou seus servos, decreta que ninguém fale mal desse Deus e promove os três na província de Babilônia (Dn 3:28–30)."
+        ],
+        "en": [
+          "Daniel 1 tells that among the young men of Judah taken to Babylon by Nebuchadnezzar to be trained for the king’s service are Daniel and three companions: Hananiah, Mishael and Azariah. The chief of the eunuchs gives them Babylonian names: Shadrach, Meshach and Abednego (Dan 1:3–7). The four refuse to defile themselves with the king’s food and wine and ask for a ten-day test with vegetables and water; at the end they are healthier than the others, and God gives them knowledge and wisdom (Dan 1:8–20). After Daniel interprets the king’s dream, at his request the three are put in charge of the affairs of the province of Babylon (Dan 2:49).",
+          "In Daniel 3 Nebuchadnezzar sets up a golden image on the plain of Dura and orders that, when the music sounds, all fall down and worship it, on pain of being thrown into a burning fiery furnace. Some Chaldeans report that the three Jews do not serve the king’s gods (Dan 3:1–12). The king, in a furious rage, confronts them, and they answer: “Our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver us out of your hand, O king. But if not, be it known to you, O king, that we will not serve your gods or worship the golden image that you have set up” (Dan 3:13–18).",
+          "The furnace is heated seven times hotter, and the soldiers who bring the three near to throw them in die from the heat (Dan 3:19–23). But the king sees four men unbound, walking in the midst of the fire, unharmed, and the fourth “like a son of the gods” (Dan 3:24–25). He calls them out; not a hair of their heads was singed, nor their clothes, and no smell of fire had come upon them (Dan 3:26–27). Nebuchadnezzar blesses their God, who sent his angel and delivered his servants, decrees that no one speak against this God and promotes the three in the province of Babylon (Dan 3:28–30)."
+        ]
+      },
+      "books": [
+        {
+          "book": "dan",
+          "role": {
+            "pt": "Companheiros de Daniel; a fornalha ardente (1; 2:49; 3)",
+            "en": "Daniel’s companions; the fiery furnace (1; 2:49; 3)"
+          }
+        }
+      ],
+      "events": [
+        "daniel-deportado"
+      ],
+      "places": [
+        {
+          "book": "dan",
+          "name": "Babilônia",
+          "en": "Babylon"
+        }
+      ],
+      "note": {
+        "pt": "A ficha de Daniel chama os três pelos nomes hebraicos (Hananias, Misael e Azarias). Não confundir Hananias com o falso profeta de Jr 28.",
+        "en": "Daniel’s sheet calls the three by their Hebrew names (Hananiah, Mishael and Azariah). Hananiah is not the false prophet of Jer 28."
+      }
     }
   ]
 }
