@@ -9863,6 +9863,560 @@
         "pt": "A palavra hebraica traduzida por “eunuco” (saris) pode designar também um oficial da corte; o texto não decide.",
         "en": "The Hebrew word translated “eunuch” (saris) can also mean a court official; the text does not decide."
       }
+    },
+    {
+      "id": "herodes-grande",
+      "name": {
+        "pt": "Herodes o Grande",
+        "en": "Herod the Great"
+      },
+      "summary": {
+        "pt": "Rei da Judeia no tempo do nascimento de Jesus. Recebe os magos, consulta os escribas sobre o Messias e manda matar os meninos de Belém (Mt 2; Lc 1:5).",
+        "en": "King of Judea at the time of Jesus’ birth. He receives the magi, consults the scribes about the Messiah and orders the boys of Bethlehem killed (Matt 2; Luke 1:5)."
+      },
+      "bio": {
+        "pt": [
+          "Lucas situa o anúncio a Zacarias “nos dias de Herodes, rei da Judeia” (Lc 1:5). Mateus conta que magos do oriente chegam a Jerusalém perguntando pelo “rei dos judeus que nasceu”, e que o rei Herodes se perturba, e toda Jerusalém com ele. Reunindo os principais sacerdotes e escribas, ele pergunta onde o Cristo deveria nascer e recebe a resposta de Miqueias 5:2: em Belém (Mt 2:1–6).",
+          "Herodes chama os magos em segredo, descobre o tempo em que a estrela apareceu e os manda a Belém, pedindo que o avisem para “adorá-lo” também. Avisados em sonho, os magos voltam por outro caminho. Ao se ver enganado, Herodes manda matar todos os meninos de Belém e arredores com dois anos ou menos, conforme o tempo que obtivera dos magos (Mt 2:7–16). Mateus cita Jeremias 31:15 sobre o choro de Raquel (Mt 2:17–18). José, avisado por um anjo, leva a família para o Egito e só volta depois da morte de Herodes (Mt 2:13–15, 19–21).",
+          "Morto Herodes, seu filho Arquelau reina na Judeia, e José, com receio, vai viver em Nazaré (Mt 2:22–23). Os evangelhos não dão a data da morte de Herodes; as datas costumam ser tiradas de fontes externas, como Josefo, e é por elas que a linha do tempo põe seu reino de 37 a 4 a.C."
+        ],
+        "en": [
+          "Luke places the announcement to Zechariah “in the days of Herod, king of Judea” (Luke 1:5). Matthew tells that magi from the east come to Jerusalem asking for “him who has been born king of the Jews,” and that King Herod is troubled, and all Jerusalem with him. Gathering the chief priests and scribes, he asks where the Christ was to be born and receives the answer of Micah 5:2: in Bethlehem (Matt 2:1–6).",
+          "Herod calls the magi secretly, learns the time the star appeared and sends them to Bethlehem, asking them to report so that he too may “worship” him. Warned in a dream, the magi return by another way. Seeing himself tricked, Herod orders all the boys in Bethlehem and its region two years old and under to be killed, according to the time he had learned from the magi (Matt 2:7–16). Matthew cites Jeremiah 31:15 on Rachel’s weeping (Matt 2:17–18). Joseph, warned by an angel, takes the family to Egypt and returns only after Herod’s death (Matt 2:13–15, 19–21).",
+          "With Herod dead, his son Archelaus reigns over Judea, and Joseph, afraid, goes to live in Nazareth (Matt 2:22–23). The Gospels do not give the date of Herod’s death; dates are usually drawn from outside sources such as Josephus, and from them the timeline puts his reign from 37 to 4 BC."
+        ]
+      },
+      "books": [
+        {
+          "book": "mat",
+          "role": {
+            "pt": "Rei que tenta matar o menino Jesus (cap. 2)",
+            "en": "King who tries to kill the infant Jesus (ch. 2)"
+          }
+        },
+        {
+          "book": "luk",
+          "role": {
+            "pt": "Rei da Judeia no tempo de Zacarias (1:5)",
+            "en": "King of Judea in Zechariah’s time (1:5)"
+          }
+        }
+      ],
+      "events": [
+        "herodes",
+        "nascimento"
+      ],
+      "places": [
+        {
+          "book": "mat",
+          "name": "Belém",
+          "en": "Bethlehem"
+        },
+        {
+          "book": "mat",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        {
+          "book": "mat",
+          "name": "Egito",
+          "en": "Egypt"
+        }
+      ],
+      "note": {
+        "pt": "A data da morte de Herodes (4 a.C. ou outra) e, por consequência, a do nascimento de Jesus, são debatidas; a página segue a linha do tempo do projeto.",
+        "en": "The date of Herod’s death (4 BC or another) and, consequently, that of Jesus’ birth, are debated; the page follows the project’s timeline."
+      }
+    },
+    {
+      "id": "herodes-antipas",
+      "name": {
+        "pt": "Herodes Antipas",
+        "en": "Herod Antipas"
+      },
+      "summary": {
+        "pt": "Tetrarca da Galileia. Prende e manda decapitar João Batista, ouve falar de Jesus e o interroga antes da crucificação (Mt 14; Lc 3:19–20; 9:7–9; 13:31–32; 23:6–12).",
+        "en": "Tetrarch of Galilee. He imprisons and beheads John the Baptist, hears about Jesus and questions him before the crucifixion (Matt 14; Luke 3:19–20; 9:7–9; 13:31–32; 23:6–12)."
+      },
+      "bio": {
+        "pt": [
+          "Os evangelhos o chamam “tetrarca” da Galileia (Lc 3:1; Mt 14:1) e às vezes “rei” (Mc 6:14). João Batista o repreendia por ter tomado Herodias, mulher de seu irmão Filipe; por isso Herodes o prendeu (Mt 14:3–4; Mc 6:17–18; Lc 3:19–20). Numa festa de aniversário, a filha de Herodias dança e agrada o rei, que jura dar-lhe o que pedir; instruída pela mãe, ela pede a cabeça de João. Herodes, entristecido mas preso ao juramento, manda decapitá-lo (Mt 14:6–11; Mc 6:21–28).",
+          "Quando ouve falar de Jesus, Herodes pensa que é João ressuscitado (Mt 14:1–2; Mc 6:14–16; Lc 9:7–9) e procura vê-lo. Alguns fariseus dizem a Jesus que Herodes quer matá-lo, e Jesus responde: “Ide dizer àquela raposa…” (Lc 13:31–32). Na paixão, Pilatos, sabendo que Jesus é galileu, o envia a Herodes, que estava em Jerusalém. Herodes o interroga longamente, sem resposta, e com seus soldados o despreza e zomba dele e o devolve a Pilatos com uma veste esplêndida; naquele dia, Herodes e Pilatos se tornam amigos (Lc 23:6–12).",
+          "Atos 4:27 lista Herodes entre os que se reuniram contra Jesus, e Atos 13:1 diz que Manaém, mestre na igreja de Antioquia, fora criado com o tetrarca Herodes. Não é o Herodes de Atos 12, que é Agripa I, nem o Herodes de Mateus 2."
+        ],
+        "en": [
+          "The Gospels call him “tetrarch” of Galilee (Luke 3:1; Matt 14:1) and sometimes “king” (Mark 6:14). John the Baptist rebuked him for taking Herodias, his brother Philip’s wife; for that Herod imprisoned him (Matt 14:3–4; Mark 6:17–18; Luke 3:19–20). At a birthday feast Herodias’s daughter dances and pleases the king, who swears to give her whatever she asks; prompted by her mother, she asks for John’s head. Herod, grieved but bound by his oath, orders him beheaded (Matt 14:6–11; Mark 6:21–28).",
+          "When he hears about Jesus, Herod thinks he is John raised from the dead (Matt 14:1–2; Mark 6:14–16; Luke 9:7–9) and seeks to see him. Some Pharisees tell Jesus that Herod wants to kill him, and Jesus answers: “Go and tell that fox…” (Luke 13:31–32). In the passion, Pilate, learning that Jesus is a Galilean, sends him to Herod, who was in Jerusalem. Herod questions him at length, without an answer, and with his soldiers treats him with contempt and mocks him, and sends him back to Pilate in splendid clothing; that day Herod and Pilate become friends (Luke 23:6–12).",
+          "Acts 4:27 lists Herod among those gathered against Jesus, and Acts 13:1 says that Manaen, a teacher in the church at Antioch, had been brought up with Herod the tetrarch. He is not the Herod of Acts 12, who is Agrippa I, nor the Herod of Matthew 2."
+        ]
+      },
+      "books": [
+        {
+          "book": "mat",
+          "role": {
+            "pt": "Manda decapitar João Batista (14:1–12)",
+            "en": "Has John the Baptist beheaded (14:1–12)"
+          }
+        },
+        {
+          "book": "mar",
+          "role": {
+            "pt": "Manda decapitar João Batista (6:14–29)",
+            "en": "Has John the Baptist beheaded (6:14–29)"
+          }
+        },
+        {
+          "book": "luk",
+          "role": {
+            "pt": "Interroga Jesus (3:19–20; 9:7–9; 13:31–32; 23:6–12)",
+            "en": "Questions Jesus (3:19–20; 9:7–9; 13:31–32; 23:6–12)"
+          }
+        },
+        {
+          "book": "act",
+          "role": {
+            "pt": "Citado em 4:27 e 13:1",
+            "en": "Mentioned in 4:27 and 13:1"
+          }
+        }
+      ],
+      "events": [
+        "ministerio",
+        "crucificacao"
+      ],
+      "places": [
+        {
+          "book": "luk",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "caifas",
+      "name": {
+        "pt": "Caifás",
+        "en": "Caiaphas"
+      },
+      "summary": {
+        "pt": "Sumo sacerdote no tempo de Jesus. Diz que convém que um homem morra pelo povo (Jo 11:49–52) e preside o interrogatório que leva Jesus a Pilatos (Mt 26:57–68).",
+        "en": "High priest in Jesus’ time. He says it is expedient that one man die for the people (John 11:49–52) and presides over the hearing that sends Jesus to Pilate (Matt 26:57–68)."
+      },
+      "bio": {
+        "pt": [
+          "Depois que Jesus ressuscita Lázaro, os chefes dos sacerdotes e fariseus reúnem o sinédrio. Caifás, “sumo sacerdote naquele ano”, diz que lhes convém que um homem morra pelo povo e que a nação inteira não pereça. João comenta que ele disse isso “não de si mesmo”, mas como sumo sacerdote profetizou que Jesus morreria pela nação e para reunir os filhos de Deus dispersos (Jo 11:47–53).",
+          "Depois da prisão de Jesus, o levam primeiro a Anás, sogro de Caifás (Jo 18:13), e depois à casa de Caifás, onde escribas e anciãos estavam reunidos (Mt 26:57; Jo 18:24). Em Mateus, Caifás pergunta se ele é o Cristo, o Filho de Deus; Jesus responde “Tu o disseste” e fala do Filho do Homem sentado à direita do Poder. Caifás rasga as vestes e diz que blasfemou, e o conselho o julga réu de morte (Mt 26:62–66).",
+          "Caifás volta em Atos 4:5–6, em que ele e Anás estão entre os chefes que interrogam Pedro e João. Lucas 3:2 liga Anás e Caifás como sumos sacerdotes no começo do ministério de João Batista."
+        ],
+        "en": [
+          "After Jesus raises Lazarus, the chief priests and Pharisees gather the council. Caiaphas, “high priest that year,” tells them it is expedient for them that one man die for the people so that the whole nation not perish. John comments that he said this “not of his own accord,” but as high priest prophesied that Jesus would die for the nation and to gather the scattered children of God (John 11:47–53).",
+          "After Jesus’ arrest they take him first to Annas, Caiaphas’s father-in-law (John 18:13), and then to Caiaphas’s house, where scribes and elders were gathered (Matt 26:57; John 18:24). In Matthew Caiaphas asks whether he is the Christ, the Son of God; Jesus answers “You have said so” and speaks of the Son of Man seated at the right hand of Power. Caiaphas tears his robes and says he has blasphemed, and the council judges him deserving of death (Matt 26:62–66).",
+          "Caiaphas appears again in Acts 4:5–6, where he and Annas are among the leaders who question Peter and John. Luke 3:2 links Annas and Caiaphas as high priests at the start of John the Baptist’s ministry."
+        ]
+      },
+      "books": [
+        {
+          "book": "mat",
+          "role": {
+            "pt": "Sumo sacerdote no julgamento de Jesus (26)",
+            "en": "High priest at Jesus’ trial (26)"
+          }
+        },
+        {
+          "book": "joh",
+          "role": {
+            "pt": "Profetiza que um morra pelo povo (11:49–53; 18)",
+            "en": "Says one should die for the people (11:49–53; 18)"
+          }
+        },
+        {
+          "book": "luk",
+          "role": {
+            "pt": "Sumo sacerdote com Anás (3:2)",
+            "en": "High priest with Annas (3:2)"
+          }
+        },
+        {
+          "book": "act",
+          "role": {
+            "pt": "Entre os chefes que interrogam Pedro e João (4:6)",
+            "en": "Among the leaders who question Peter and John (4:6)"
+          }
+        }
+      ],
+      "events": [
+        "crucificacao"
+      ],
+      "places": [
+        {
+          "book": "mat",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ],
+      "note": {
+        "pt": "Anás e Caifás são ambos chamados sumo sacerdote (Lc 3:2; At 4:6); como os dois se relacionavam no cargo é debatido. Datas do sumo sacerdócio de Caifás vêm de fontes externas e não são usadas aqui.",
+        "en": "Annas and Caiaphas are both called high priest (Luke 3:2; Acts 4:6); how the two related in office is debated. Dates of Caiaphas’s high priesthood come from outside sources and are not used here."
+      }
+    },
+    {
+      "id": "barrabas",
+      "name": {
+        "pt": "Barrabás",
+        "en": "Barabbas"
+      },
+      "summary": {
+        "pt": "Preso famoso, ligado a uma insurreição e a um homicídio. A multidão pede a Pilatos que o solte em lugar de Jesus (Mt 27:15–26; Mc 15:6–15; Lc 23:18–25; Jo 18:39–40).",
+        "en": "A notorious prisoner, linked to an insurrection and a murder. The crowd asks Pilate to release him instead of Jesus (Matt 27:15–26; Mark 15:6–15; Luke 23:18–25; John 18:39–40)."
+      },
+      "bio": {
+        "pt": [
+          "Os quatro evangelhos contam que Pilatos tinha o costume de soltar um preso na festa e que a multidão pede Barrabás. Mateus o chama de “preso muito conhecido” (27:16). Marcos diz que estava preso com amotinados que haviam cometido homicídio numa revolta (Mc 15:7), Lucas que fora preso por uma sedição na cidade e por homicídio (Lc 23:19) e João que era “salteador” (Jo 18:40).",
+          "Pilatos pergunta à multidão a quem querem que solte, Barrabás ou Jesus, chamado Cristo. Instigada pelos principais sacerdotes e anciãos, ela pede Barrabás e pede a crucificação de Jesus (Mt 27:17–23; Mc 15:8–14; Lc 23:18–23). Pilatos solta Barrabás e entrega Jesus (Mt 27:26; Mc 15:15; Lc 23:24–25). Os evangelhos não dizem mais nada sobre ele."
+        ],
+        "en": [
+          "All four Gospels tell that Pilate had a custom of releasing a prisoner at the feast and that the crowd asks for Barabbas. Matthew calls him a “notorious prisoner” (27:16). Mark says he was imprisoned with rebels who had committed murder in an insurrection (Mark 15:7), Luke that he had been put in prison for an insurrection in the city and for murder (Luke 23:19) and John that he was a “robber” (John 18:40).",
+          "Pilate asks the crowd whom they want released, Barabbas or Jesus who is called Christ. Stirred up by the chief priests and elders, they ask for Barabbas and for Jesus to be crucified (Matt 27:17–23; Mark 15:8–14; Luke 23:18–23). Pilate releases Barabbas and delivers Jesus (Matt 27:26; Mark 15:15; Luke 23:24–25). The Gospels say nothing more about him."
+        ]
+      },
+      "books": [
+        {
+          "book": "mat",
+          "role": {
+            "pt": "Solto no lugar de Jesus (27:15–26)",
+            "en": "Released in place of Jesus (27:15–26)"
+          }
+        },
+        {
+          "book": "mar",
+          "role": {
+            "pt": "Solto no lugar de Jesus (15:6–15)",
+            "en": "Released in place of Jesus (15:6–15)"
+          }
+        },
+        {
+          "book": "luk",
+          "role": {
+            "pt": "Solto no lugar de Jesus (23:18–25)",
+            "en": "Released in place of Jesus (23:18–25)"
+          }
+        },
+        {
+          "book": "joh",
+          "role": {
+            "pt": "Solto no lugar de Jesus (18:39–40)",
+            "en": "Released in place of Jesus (18:39–40)"
+          }
+        }
+      ],
+      "events": [
+        "crucificacao"
+      ],
+      "places": [
+        {
+          "book": "mat",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ],
+      "note": {
+        "pt": "Alguns manuscritos antigos de Mateus 27:16–17 trazem “Jesus Barrabás”; a leitura é debatida e a maior parte das edições a registra em nota.",
+        "en": "Some early manuscripts of Matthew 27:16–17 read “Jesus Barabbas”; the reading is debated and most editions record it in a note."
+      }
+    },
+    {
+      "id": "jose-de-arimateia",
+      "name": {
+        "pt": "José de Arimateia",
+        "en": "Joseph of Arimathea"
+      },
+      "summary": {
+        "pt": "Homem rico e membro do conselho, discípulo de Jesus. Pede o corpo a Pilatos e o sepulta em um túmulo novo, escavado na rocha (Mt 27:57–60; Mc 15:42–46; Lc 23:50–53; Jo 19:38–42).",
+        "en": "A rich man and member of the council, a disciple of Jesus. He asks Pilate for the body and buries it in a new tomb cut in the rock (Matt 27:57–60; Mark 15:42–46; Luke 23:50–53; John 19:38–42)."
+      },
+      "bio": {
+        "pt": [
+          "Mateus o descreve como homem rico de Arimateia, que também se tornara discípulo de Jesus (Mt 27:57). Marcos diz que era “ilustre membro do conselho” e esperava o reino de Deus, e que “tomou coragem” para pedir o corpo (Mc 15:43). Lucas o chama de “homem bom e justo”, que não tinha concordado com a decisão e os atos do conselho, e de Arimateia, “cidade dos judeus” (Lc 23:50–51). João acrescenta que era discípulo “em segredo, por medo dos judeus” (Jo 19:38).",
+          "Na tarde da crucificação, ele vai a Pilatos e pede o corpo; Pilatos confirma a morte com o centurião e o concede (Mc 15:43–45). José o desce da cruz, envolve-o em um lençol limpo e o coloca no túmulo novo que mandara talhar na rocha, e rola uma pedra à entrada (Mt 27:59–60; Lc 23:53). Nicodemos vem com cerca de cem libras de mirra e aloés, e ambos preparam o corpo segundo o costume judaico, num jardim perto do local (Jo 19:39–42). Era o dia da Preparação, perto do sábado (Lc 23:54)."
+        ],
+        "en": [
+          "Matthew describes him as a rich man from Arimathea who had also become a disciple of Jesus (Matt 27:57). Mark says he was a “respected member of the council” and was looking for the kingdom of God, and that he “took courage” to ask for the body (Mark 15:43). Luke calls him “a good and righteous man” who had not consented to the council’s decision and action, and of Arimathea, “a Jewish town” (Luke 23:50–51). John adds that he was a disciple “secretly for fear of the Jews” (John 19:38).",
+          "On the afternoon of the crucifixion he goes to Pilate and asks for the body; Pilate confirms the death with the centurion and grants it (Mark 15:43–45). Joseph takes it down, wraps it in a clean linen shroud and lays it in the new tomb he had cut in the rock, and rolls a stone across the entrance (Matt 27:59–60; Luke 23:53). Nicodemus comes with about a hundred pounds of myrrh and aloes, and both prepare the body according to Jewish burial custom, in a garden near the place (John 19:39–42). It was the day of Preparation, with the Sabbath near (Luke 23:54)."
+        ]
+      },
+      "books": [
+        {
+          "book": "mat",
+          "role": {
+            "pt": "Sepulta Jesus em seu túmulo novo (27:57–60)",
+            "en": "Buries Jesus in his new tomb (27:57–60)"
+          }
+        },
+        {
+          "book": "mar",
+          "role": {
+            "pt": "Membro do conselho; pede o corpo (15:42–46)",
+            "en": "Council member; asks for the body (15:42–46)"
+          }
+        },
+        {
+          "book": "luk",
+          "role": {
+            "pt": "Bom e justo; não consentiu na decisão do conselho (23:50–53)",
+            "en": "Good and righteous; did not consent to the council’s decision (23:50–53)"
+          }
+        },
+        {
+          "book": "joh",
+          "role": {
+            "pt": "Discípulo em segredo (19:38–42)",
+            "en": "Secret disciple (19:38–42)"
+          }
+        }
+      ],
+      "events": [
+        "crucificacao"
+      ],
+      "places": [
+        {
+          "book": "mat",
+          "name": "Gólgota",
+          "en": "Golgotha"
+        }
+      ],
+      "note": {
+        "pt": "A localização de Arimateia é debatida (Lucas só a chama “cidade dos judeus”); por isso não há lugar no mapa.",
+        "en": "The location of Arimathea is debated (Luke only calls it “a Jewish town”); there is therefore no map place."
+      }
+    },
+    {
+      "id": "simeao-templo",
+      "name": {
+        "pt": "Simeão, o do templo",
+        "en": "Simeon of the temple"
+      },
+      "summary": {
+        "pt": "Homem justo e piedoso de Jerusalém que, guiado pelo Espírito, toma o menino Jesus nos braços no templo e bendiz a Deus (Lc 2:25–35).",
+        "en": "A righteous and devout man of Jerusalem who, led by the Spirit, takes the infant Jesus in his arms in the temple and blesses God (Luke 2:25–35)."
+      },
+      "bio": {
+        "pt": [
+          "Lucas apresenta Simeão como “justo e piedoso”, que esperava a consolação de Israel, com o Espírito Santo sobre si. O Espírito lhe havia revelado que não veria a morte antes de ver o Cristo do Senhor (Lc 2:25–26). Movido pelo Espírito, ele vai ao templo no momento em que José e Maria trazem o menino para cumprir a lei (Lc 2:27).",
+          "Ele toma o menino nos braços e bendiz a Deus: agora pode partir em paz, porque seus olhos viram a salvação, “luz para revelação aos gentios e glória de teu povo Israel” (Lc 2:28–32). Aos pais, diz que o menino está posto para queda e levantamento de muitos em Israel e para sinal de contradição, e a Maria, que uma espada lhe traspassará a alma (Lc 2:34–35). O texto não diz sua idade nem sua família, e não o liga a nenhum outro Simeão."
+        ],
+        "en": [
+          "Luke presents Simeon as “righteous and devout,” waiting for the consolation of Israel, with the Holy Spirit upon him. The Spirit had revealed to him that he would not see death before seeing the Lord’s Christ (Luke 2:25–26). Moved by the Spirit, he goes into the temple at the moment Joseph and Mary bring in the child to fulfill the law (Luke 2:27).",
+          "He takes the child in his arms and blesses God: now he can depart in peace, for his eyes have seen salvation, “a light for revelation to the Gentiles, and for glory to your people Israel” (Luke 2:28–32). To the parents he says the child is appointed for the fall and rising of many in Israel and for a sign that will be opposed, and to Mary that a sword will pierce her own soul (Luke 2:34–35). The text does not give his age or family, and does not link him to any other Simeon."
+        ]
+      },
+      "books": [
+        {
+          "book": "luk",
+          "role": {
+            "pt": "Bendiz Jesus no templo (2:25–35)",
+            "en": "Blesses Jesus in the temple (2:25–35)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "luk",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ],
+      "linkBooks": [
+        "luk"
+      ]
+    },
+    {
+      "id": "ana-profetisa",
+      "name": {
+        "pt": "Ana, a profetisa",
+        "en": "Anna the prophetess"
+      },
+      "summary": {
+        "pt": "Profetisa idosa, viúva, da tribo de Aser, que servia no templo com jejuns e orações; ao ver o menino Jesus, dá graças e fala dele aos que esperavam a redenção de Jerusalém (Lc 2:36–38).",
+        "en": "An elderly prophetess, a widow of the tribe of Asher, who served in the temple with fasting and prayer; on seeing the child Jesus she gives thanks and speaks of him to those awaiting the redemption of Jerusalem (Luke 2:36–38)."
+      },
+      "bio": {
+        "pt": [
+          "Lucas a apresenta como Ana, “profetisa”, filha de Fanuel, da tribo de Aser. Ela era de idade avançada e vivera sete anos com o marido depois de se casar. O texto diz que era viúva “até oitenta e quatro anos”, e que não se afastava do templo, mas servia a Deus em jejuns e orações, de noite e de dia (Lc 2:36–37).",
+          "Chegando na hora em que Simeão bendizia o menino, ela dá graças a Deus e passa a falar dele a todos os que esperavam a redenção de Jerusalém (Lc 2:38). O texto não registra as palavras dela. Ana é uma das poucas mulheres chamadas profetisas na Bíblia, ao lado de Miriã, Débora, Hulda e as quatro filhas de Filipe (Êx 15:20; Jz 4:4; 2Rs 22:14; At 21:9)."
+        ],
+        "en": [
+          "Luke presents her as Anna, a “prophetess,” the daughter of Phanuel, of the tribe of Asher. She was of advanced age and had lived with her husband seven years from her marriage. The text says she was a widow “until she was eighty-four,” and that she did not depart from the temple, but served God with fasting and prayer night and day (Luke 2:36–37).",
+          "Coming up at the very hour that Simeon was blessing the child, she gives thanks to God and speaks of him to all who were waiting for the redemption of Jerusalem (Luke 2:38). The text does not record her words. Anna is one of the few women called prophetesses in the Bible, alongside Miriam, Deborah, Huldah and the four daughters of Philip (Exod 15:20; Judg 4:4; 2 Kings 22:14; Acts 21:9)."
+        ]
+      },
+      "books": [
+        {
+          "book": "luk",
+          "role": {
+            "pt": "Profetisa no templo (2:36–38)",
+            "en": "Prophetess in the temple (2:36–38)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "luk",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ],
+      "note": {
+        "pt": "“Até oitenta e quatro anos” pode significar que ela tinha 84 anos ou que enviuvou 84 anos antes (ou, com sete anos de casamento, tinha cerca de 105); o texto grego permite as duas leituras.",
+        "en": "“Until she was eighty-four” can mean she was 84 years old or that she had been a widow for 84 years (which, with seven years of marriage, would make her about 105); the Greek allows both readings."
+      },
+      "autoLink": false
+    },
+    {
+      "id": "gamaliel",
+      "name": {
+        "pt": "Gamaliel",
+        "en": "Gamaliel"
+      },
+      "summary": {
+        "pt": "Fariseu e mestre da lei, respeitado por todo o povo. Aconselha o sinédrio a não matar os apóstolos e é o mestre de Paulo (At 5:34–39; 22:3).",
+        "en": "A Pharisee and teacher of the law, respected by all the people. He advises the council not to kill the apostles and is Paul’s teacher (Acts 5:34–39; 22:3)."
+      },
+      "bio": {
+        "pt": [
+          "Em Atos 5, os apóstolos são presos e levados ao sinédrio, que quer matá-los. Gamaliel, “fariseu, doutor da lei, respeitado por todo o povo”, manda que os tirem por um momento e adverte os conselheiros: lembra que Teudas e Judas, o galileu, surgiram, tiveram seguidores e fracassaram, e conclui que, se este plano ou obra for de homens, se desfará; se for de Deus, não poderão destruí-lo e correrão o risco de lutar contra Deus (At 5:33–39). O conselho aceita, açoita os apóstolos e os solta (At 5:40).",
+          "Em Atos 22:3, Paulo diz que foi criado em Jerusalém “aos pés de Gamaliel”, instruído com rigor na lei dos pais. Gamaliel não aparece em mais nenhum trecho do Novo Testamento. O texto não diz se ele concordava com o ensino dos apóstolos."
+        ],
+        "en": [
+          "In Acts 5 the apostles are arrested and brought before the council, which wants to kill them. Gamaliel, “a Pharisee in the council, a teacher of the law held in honor by all the people,” orders the men put outside for a moment and warns the councilors: he recalls that Theudas and Judas the Galilean arose, had followers and failed, and concludes that if this plan or undertaking is of men it will fail; if it is of God, they will not be able to overthrow it and may even be found opposing God (Acts 5:33–39). The council agrees, beats the apostles and releases them (Acts 5:40).",
+          "In Acts 22:3 Paul says he was brought up in Jerusalem “at the feet of Gamaliel,” educated strictly according to the law of the fathers. Gamaliel appears nowhere else in the New Testament. The text does not say whether he agreed with the apostles’ teaching."
+        ]
+      },
+      "books": [
+        {
+          "book": "act",
+          "role": {
+            "pt": "Aconselha o sinédrio sobre os apóstolos (5:34–39); mestre de Paulo (22:3)",
+            "en": "Advises the council about the apostles (5:34–39); Paul’s teacher (22:3)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "act",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "felix",
+      "name": {
+        "pt": "Félix, governador",
+        "en": "Felix the governor"
+      },
+      "summary": {
+        "pt": "Governador romano da Judeia diante de quem Paulo é julgado em Cesareia. Adia a decisão por dois anos, esperando suborno, e deixa Paulo preso (At 23:24–24:27).",
+        "en": "Roman governor of Judea before whom Paul is tried at Caesarea. He puts off a decision for two years, hoping for a bribe, and leaves Paul in custody (Acts 23:24–24:27)."
+      },
+      "bio": {
+        "pt": [
+          "O tribuno Cláudio Lísias envia Paulo, sob escolta, ao governador Félix, em Cesareia, com uma carta (At 23:23–35). O sumo sacerdote Ananias vem com anciãos e o advogado Tértulo e acusam Paulo; Paulo se defende (At 24:1–21). Félix, “bem informado a respeito do Caminho”, adia o julgamento até que Lísias venha, e manda deixar Paulo preso com certa liberdade (At 24:22–23).",
+          "Alguns dias depois, Félix vem com Drusila, sua mulher, judia, e manda chamar Paulo, que fala da fé em Cristo; quando Paulo trata de justiça, domínio próprio e juízo vindouro, Félix se assusta e o dispensa por ora (At 24:24–25). O texto diz que esperava receber dinheiro de Paulo e por isso o chamava com frequência (At 24:26).",
+          "Passados dois anos, Pórcio Festo sucede a Félix; este, querendo agradar os judeus, deixa Paulo preso (At 24:27)."
+        ],
+        "en": [
+          "The tribune Claudius Lysias sends Paul under escort to Felix the governor, at Caesarea, with a letter (Acts 23:23–35). The high priest Ananias comes with elders and the advocate Tertullus and they accuse Paul; Paul defends himself (Acts 24:1–21). Felix, “having a rather accurate knowledge of the Way,” adjourns the trial until Lysias comes, and orders Paul kept in custody with some liberty (Acts 24:22–23).",
+          "Some days later Felix comes with Drusilla, his wife, who was Jewish, and sends for Paul, who speaks about faith in Christ; as Paul discusses righteousness, self-control and the coming judgment, Felix becomes alarmed and sends him away for the time being (Acts 24:24–25). The text says he hoped to receive money from Paul and so sent for him often (Acts 24:26).",
+          "After two years, Porcius Festus succeeds Felix; wishing to do the Jews a favor, Felix leaves Paul in prison (Acts 24:27)."
+        ]
+      },
+      "books": [
+        {
+          "book": "act",
+          "role": {
+            "pt": "Governador que mantém Paulo preso (23:24–24:27)",
+            "en": "Governor who keeps Paul in custody (23:24–24:27)"
+          }
+        }
+      ],
+      "note": {
+        "pt": "A data do governo de Félix vem de fontes externas e não é usada; o projeto não coloca Cesareia no mapa de Atos.",
+        "en": "The date of Felix’s governorship comes from outside sources and is not used; the project does not place Caesarea on the map of Acts."
+      }
+    },
+    {
+      "id": "festo",
+      "name": {
+        "pt": "Festo, governador",
+        "en": "Festus the governor"
+      },
+      "summary": {
+        "pt": "Sucessor de Félix como governador. Diante dele Paulo apela a César; consulta o rei Agripa e o envia a Roma (At 25–26).",
+        "en": "Felix’s successor as governor. Before him Paul appeals to Caesar; he consults King Agrippa and sends Paul to Rome (Acts 25–26)."
+      },
+      "bio": {
+        "pt": [
+          "Pórcio Festo chega à província e, três dias depois, sobe a Jerusalém, onde os chefes dos judeus pedem que ele traga Paulo, armando uma emboscada pelo caminho; Festo responde que Paulo está em Cesareia e que eles devem ir até lá (At 25:1–5). Em Cesareia ele senta no tribunal e ouve as acusações. Querendo agradar os judeus, pergunta a Paulo se aceita ser julgado em Jerusalém, e Paulo, que declara estar diante do tribunal de César, apela a César. Festo, após consultar o conselho, responde: “Apelaste para César; para César irás” (At 25:6–12).",
+          "Quando o rei Agripa e Berenice chegam para uma visita, Festo lhes expõe o caso, e Paulo é ouvido por Agripa (At 25:13–26:1). Durante a defesa, Festo grita que Paulo está louco; Paulo responde que fala “palavras de verdade e de bom senso” (At 26:24–25). Festo e Agripa concordam que Paulo nada fez que mereça morte ou prisão, e que poderia ser solto se não tivesse apelado a César (At 26:30–32)."
+        ],
+        "en": [
+          "Porcius Festus arrives in the province and three days later goes up to Jerusalem, where the Jewish leaders ask him to bring Paul, plotting an ambush on the way; Festus replies that Paul is in Caesarea and they should go there (Acts 25:1–5). In Caesarea he sits on the tribunal and hears the accusations. Wanting to please the Jews, he asks Paul whether he is willing to be tried in Jerusalem, and Paul, who declares he is standing before Caesar’s tribunal, appeals to Caesar. Festus, after conferring with the council, answers: “To Caesar you have appealed; to Caesar you shall go” (Acts 25:6–12).",
+          "When King Agrippa and Bernice arrive for a visit, Festus lays the case before them, and Paul is heard by Agrippa (Acts 25:13–26:1). During the defense Festus cries out that Paul is out of his mind; Paul answers that he speaks “true and rational words” (Acts 26:24–25). Festus and Agrippa agree that Paul has done nothing deserving death or imprisonment, and that he could have been set free if he had not appealed to Caesar (Acts 26:30–32)."
+        ]
+      },
+      "books": [
+        {
+          "book": "act",
+          "role": {
+            "pt": "Governador que ouve Paulo e o envia a Roma (25–26)",
+            "en": "Governor who hears Paul and sends him to Rome (25–26)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "act",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "agripa-2",
+      "name": {
+        "pt": "Agripa (Herodes Agripa II)",
+        "en": "Agrippa (Herod Agrippa II)"
+      },
+      "summary": {
+        "pt": "Rei Agripa, que visita Festo em Cesareia com Berenice e ouve a defesa de Paulo. Diz: “Por pouco me persuades a me fazer cristão” (At 25:13–26:32).",
+        "en": "King Agrippa, who visits Festus at Caesarea with Bernice and hears Paul’s defense. He says: “In a short time would you persuade me to be a Christian?” (Acts 25:13–26:32)."
+      },
+      "bio": {
+        "pt": [
+          "Atos 25:13 diz que o rei Agripa e Berenice chegaram a Cesareia para saudar Festo. Festo lhe expõe o caso de Paulo, e Agripa quer ouvi-lo (At 25:14–22). No dia seguinte, com grande pompa, Paulo é trazido, e Festo explica que não achou nada digno de morte, mas que não tem o que escrever a César, e pede ajuda ao rei (At 25:23–27).",
+          "Agripa permite que Paulo fale, e Paulo, que diz considerar-se feliz por falar diante de quem conhece os costumes e as questões dos judeus, conta sua vida, a visão de Damasco e a missão aos gentios (At 26:1–23). Paulo pergunta a Agripa se crê nos profetas e afirma que sabe que ele crê; Agripa responde: “Por pouco me persuades a me fazer cristão” (At 26:27–28). Ele e Festo concluem que Paulo não fez nada que mereça a morte ou a prisão (At 26:30–32)."
+        ],
+        "en": [
+          "Acts 25:13 says King Agrippa and Bernice arrived at Caesarea to greet Festus. Festus lays Paul’s case before him, and Agrippa wants to hear him (Acts 25:14–22). The next day, with great pomp, Paul is brought in, and Festus explains that he has found nothing worthy of death but has nothing definite to write to Caesar, and asks the king for help (Acts 25:23–27).",
+          "Agrippa lets Paul speak, and Paul, who says he counts himself fortunate to speak before one familiar with all the customs and controversies of the Jews, tells of his life, the vision at Damascus and the mission to the Gentiles (Acts 26:1–23). Paul asks Agrippa whether he believes the prophets and says he knows he does; Agrippa answers: “In a short time would you persuade me to be a Christian?” (Acts 26:27–28). He and Festus conclude that Paul has done nothing deserving death or imprisonment (Acts 26:30–32)."
+        ]
+      },
+      "books": [
+        {
+          "book": "act",
+          "role": {
+            "pt": "Rei diante de quem Paulo se defende (25:13–26:32)",
+            "en": "King before whom Paul defends himself (25:13–26:32)"
+          }
+        }
+      ],
+      "note": {
+        "pt": "Atos só diz “rei Agripa”. A identificação com Herodes Agripa II, filho de Agripa I (At 12), vem de fontes históricas externas. A frase de 26:28 pode ser lida como sincera, irônica ou como pergunta; é debatida.",
+        "en": "Acts says only “King Agrippa.” The identification with Herod Agrippa II, son of Agrippa I (Acts 12), comes from outside historical sources. The phrase in 26:28 can be read as sincere, ironic or as a question; it is debated."
+      },
+      "linkBooks": [
+        "act"
+      ]
     }
   ]
 }
