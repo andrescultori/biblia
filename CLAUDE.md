@@ -47,6 +47,7 @@ Tabela interativa dos 66 livros da Bíblia (inspirada no "TaBíblia Periódica")
 
 ## Decisões em aberto
 - Versões em português: no site, Bíblia Livre (CC BY 4.0, atribuição obrigatória). A Almeida 1911 com a grafia original foi retirada a pedido do André (ortografia antiga). Em seu lugar há a **Almeida 1911 atualizada** (`alm1911a`, só ortografia), nos 66 livros (gerada por script, revisão do André em andamento, correções via `scripts/data/alm1911-ortografia.json`); ver `docs/ortografia-alm1911.md`. O André vai pedir a ARA e a NAA à SBB. ARA e NAA aguardam autorização da SBB (André vai pedir). TB não entra (a SBB declara copyright sobre a edição de 2010). ARC de 1898: sem fonte digital confiável. Detalhes em `docs/licencas-texto-biblico.md`.
+- Comercialização: produto **Timóteo App**, planos Essencial (grátis), Pro (R$49,90/ano, R$29,90 no 1º pagamento) e Premium (depois). Cloudflare Pages (landing e app em projetos separados, `*.pages.dev`, sem domínio por ora) e Supabase dedicado. Hoje o conteúdo é público sob MIT; a mudança de licença e o repositório privado só vêm depois do Cloudflare no ar. Ver `docs/comercializacao.md` e `docs/landing-brief.md`.
 - ESV e NKJV: avaliadas, não adicionadas. ESV só via API não comercial e exigiria proxy; NKJV exige permissão escrita.
 
 ## Roadmap
@@ -59,6 +60,7 @@ Tabela interativa dos 66 livros da Bíblia (inspirada no "TaBíblia Periódica")
 
 7. Versículos das fichas (versículo-chave, referências no esboço, nos textos e nas bios) linkados ao texto bíblico. **Adiado** até se decidir como o texto bíblico será oferecido (leitor próprio, YouVersion ou os dois; ver "Decisões em aberto").
 8. Plano de leitura (ex.: Provérbios em 31 dias, Salmos em 30). **Mais adiante**, depois da genealogia dos personagens e de mais eventos na linha do tempo (reis e profetas).
+9. **Comercialização (Essencial, Pro, Premium).** Planos, decisões, restrições e fases em `docs/comercializacao.md` (fases 0 a 8 levam ao lançamento; gamificação, links externos e editor de conteúdo vêm depois). Landing: `docs/landing-brief.md`. Resumo: site atual no Cloudflare Pages, Supabase (login Google, planos, conteúdo Pro fora do site público), cobrança anual pelo Mercado Pago (checkout hospedado, sem cartão no site), landing em projeto separado, admin mínimo, LGPD, e só então licença nova e repositório privado. **Nada disso começa sem o André confirmar a fase 0.**
 
 ## Comandos
 - `npm install` e `npm run dev`: desenvolvimento.
