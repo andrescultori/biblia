@@ -70,8 +70,8 @@
       },
       "ids": [
         "josias",
-        null,
-        null
+        "jeoaquim",
+        "zedequias"
       ],
       "role": {
         "pt": "Reis de Judá do período",
@@ -83,6 +83,9 @@
         "pt": "Hananias",
         "en": "Hananiah"
       },
+      "ids": [
+        "hananias-profeta"
+      ],
       "role": {
         "pt": "Profeta que se opõe a Jeremias (cap. 28)",
         "en": "Prophet who opposes Jeremiah (ch. 28)"
@@ -106,9 +109,25 @@
         "pt": "Gedalias",
         "en": "Gedaliah"
       },
+      "ids": [
+        "gedalias"
+      ],
       "role": {
         "pt": "Governador de Judá após a queda (caps. 40–41)",
         "en": "Governor of Judah after the fall (chs. 40–41)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Ebede-Meleque",
+        "en": "Ebed-melech"
+      },
+      "ids": [
+        "ebede-meleque"
+      ],
+      "role": {
+        "pt": "Etíope que tira Jeremias da cisterna (caps. 38–39)",
+        "en": "Ethiopian who lifts Jeremiah out of the cistern (chs. 38–39)"
       }
     }
   ],

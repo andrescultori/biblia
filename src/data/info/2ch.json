@@ -55,6 +55,10 @@
         "pt": "Asa e Josafá",
         "en": "Asa and Jehoshaphat"
       },
+      "ids": [
+        "asa",
+        "josafa"
+      ],
       "role": {
         "pt": "Reis de Judá que fazem reformas e sofrem guerra (caps. 14–20)",
         "en": "Kings of Judah who carry out reforms and face war (chs. 14–20)"
@@ -78,6 +82,9 @@
         "pt": "Manassés",
         "en": "Manasseh"
       },
+      "ids": [
+        "manasses"
+      ],
       "role": {
         "pt": "Rei de Judá; seu arrependimento é contado em 33:10–17",
         "en": "King of Judah; his repentance is told in 33:10–17"

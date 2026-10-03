@@ -57,7 +57,7 @@
       },
       "ids": [
         "maria-mae-de-jesus",
-        null
+        "isabel"
       ],
       "role": {
         "pt": "Mães de Jesus e de João (caps. 1–2)",
@@ -69,9 +69,26 @@
         "pt": "Zacarias",
         "en": "Zechariah"
       },
+      "ids": [
+        "zacarias-sacerdote"
+      ],
       "role": {
         "pt": "Pai de João Batista (cap. 1)",
         "en": "Father of John the Baptist (ch. 1)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Simeão e Ana",
+        "en": "Simeon and Anna"
+      },
+      "ids": [
+        "simeao-templo",
+        "ana-profetisa"
+      ],
+      "role": {
+        "pt": "Recebem o menino Jesus no templo (2:25–38)",
+        "en": "Receive the infant Jesus in the temple (2:25–38)"
       }
     },
     {
@@ -85,6 +102,19 @@
       "role": {
         "pt": "Cobrador de impostos de Jericó (19:1–10)",
         "en": "Tax collector of Jericho (19:1–10)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Herodes Antipas",
+        "en": "Herod Antipas"
+      },
+      "ids": [
+        "herodes-antipas"
+      ],
+      "role": {
+        "pt": "Tetrarca da Galileia; interroga Jesus (23:6–12)",
+        "en": "Tetrarch of Galilee; questions Jesus (23:6–12)"
       }
     },
     {

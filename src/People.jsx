@@ -7,12 +7,13 @@ import { pick, range, main } from './timelineUtil.js';
 import BackButton from './BackButton.jsx';
 import { hrefs, go } from './route.js';
 import { usePageTitle } from './pageTitle.js';
+import { nodes as gNodes, parentOf, childrenOf, nodesOfPerson, treeOf, refsText, nodeName } from './genealogy.js';
 
 const norm = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
 const byId = Object.fromEntries(people.map((p) => [p.id, p]));
 const evById = Object.fromEntries(timeline.events.map((e) => [e.id, e]));
 
-export default function People({ lang, t, focusId, onOpenBook, onOpenTimeline, onOpenMap, onSelect }) {
+export default function People({ lang, t, focusId, onOpenBook, onOpenTimeline, onOpenMap, onSelect, onOpenTree }) {
   const [query, setQuery] = useState('');
   const [bookFilter, setBookFilter] = useState('all');
   const [sort, setSort] = useState(() => { try { return localStorage.getItem('peopleSort') === 'book' ? 'book' : 'alpha'; } catch { return 'alpha'; } });
@@ -100,6 +101,33 @@ export default function People({ lang, t, focusId, onOpenBook, onOpenTimeline, o
             <p className="pp-summary">{pick(person.summary, lang)}</p>
             {person.bio && <div className="pp-bio">{pick(person.bio, lang).map((para, i) => <p key={i}>{para}</p>)}</div>}
             {person.note && <p className="tl-warn">{pick(person.note, lang)}</p>}
+
+
+            {nodesOfPerson(person.id).length > 0 && (
+              <>
+                <h4>{t.famTitle}</h4>
+                {nodesOfPerson(person.id).map((nid) => {
+                  const tr = treeOf(nid);
+                  const up = parentOf(nid);
+                  const down = childrenOf(nid);
+                  const many = new Set(nodesOfPerson(person.id).map((x) => treeOf(x).id)).size > 1;
+                  const branch = many ? pick(tr.title, lang) : gNodes[nid].branch ? pick(tr.branches[gNodes[nid].branch], lang) : null;
+                  const chip = (id, c) => (gNodes[id].personId && gNodes[id].personId !== person.id
+                    ? <button key={id} type="button" className="tl-chip" style={{ '--c': c }} onClick={() => onSelect(gNodes[id].personId)}>{nodeName(id, lang)}</button>
+                    : <span key={id} className="tl-chip" style={{ '--c': c }}>{nodeName(id, lang)}</span>);
+                  return (
+                    <div key={nid} className="fam-row">
+                      {branch && <b>{branch}</b>}
+                      {up && <div className="tl-chips"><small>{t.famParent}:</small>{chip(up.from, 'var(--s-atos)')}<small>{refsText(up.refs, lang)}</small></div>}
+                      {up?.motherName && <div className="tl-chips"><small>{t.famMother}:</small><span className="tl-chip" style={{ '--c': 'var(--s-atos)' }}>{pick(up.motherName, lang)}</span></div>}
+                      {up?.mother && byId[up.mother] && <div className="tl-chips"><small>{t.famMother}:</small><button type="button" className="tl-chip" style={{ '--c': 'var(--s-atos)' }} onClick={() => onSelect(up.mother)}>{pick(byId[up.mother].name, lang)}</button></div>}
+                      {down.length > 0 && <div className="tl-chips"><small>{t.famKids}:</small>{down.map((l) => chip(l.to, 'var(--s-atos)'))}</div>}
+                      <button type="button" className="ghost" onClick={() => onOpenTree(tr.id, nid)}>{t.famTree}</button>
+                    </div>
+                  );
+                })}
+              </>
+            )}
 
             <h4>{t.peopleInBooks}</h4>
             <ul className="pp-books">

@@ -52,6 +52,9 @@
         "pt": "Gaio",
         "en": "Gaius"
       },
+      "ids": [
+        "gaio-3jo"
+      ],
       "role": {
         "pt": "Destinatário elogiado pela hospitalidade",
         "en": "Recipient praised for hospitality"
@@ -62,6 +65,9 @@
         "pt": "Diótrefes",
         "en": "Diotrephes"
       },
+      "ids": [
+        "diotrefes"
+      ],
       "role": {
         "pt": "Líder que recusa os enviados",
         "en": "Leader who refuses the envoys"
@@ -72,6 +78,9 @@
         "pt": "Demétrio",
         "en": "Demetrius"
       },
+      "ids": [
+        "demetrio"
+      ],
       "role": {
         "pt": "Recomendado (v. 12)",
         "en": "Commended (v. 12)"

@@ -71,6 +71,7 @@ O botão **Personagens** abre uma página com a lista (busca e filtro por livro)
   "note": { "pt": "...", "en": "..." } }
 ```
 
+- `autoLink: false` e `linkBooks: ["luk"]` (opcionais) controlam o link automático do nome nas fichas dos livros: o primeiro desliga (nome que também é tribo ou terra, como Judá), o segundo restringe aos livros listados.
 - `events` usa os ids de `timeline.json`; `places` usa o nome em PT do lugar no mapa da ficha daquele livro (e o `en` igual). `npm run check` confere ids únicos, livros, eventos, lugares e PT/EN.
 - O evento da linha do tempo lista as pessoas ligadas a ele e o lugar do mapa também.
 - `summary` é o resumo de uma frase a três (aparece na lista e abre a página); `bio` é o texto mais longo, em 2 a 3 parágrafos, mostrado abaixo do resumo (PT e EN com o mesmo número de parágrafos).
@@ -79,6 +80,16 @@ O botão **Personagens** abre uma página com a lista (busca e filtro por livro)
 Na ficha do livro (`src/data/info/<slug>.json`), cada item de `characters` pode ter `ids`: lista de ids de `people.json` (ou `null` para uma parte sem página). Com um id, o nome inteiro vira link para `#person/<id>`; com vários, cada parte do nome ("Adão e Eva", "Paulo, Silvano e Timóteo") liga ao id da mesma posição, e o `npm run check` confere que o número de partes bate nos dois idiomas.
 
 Nos textos da ficha, os nomes de personagens e os lugares do mapa do livro viram links automaticamente (`src/linkify.jsx`), a partir de `src/data/people-index.json`, gerado por `node scripts/build-people-index.mjs` sempre que `people.json` mudar.
+
+## Genealogia
+
+`src/data/genealogia.json` guarda as árvores (hoje duas: `adao-jesus`, desenhada em SVG, e `abraao-tribos`, em lista recuada com `"layout": "list"`; a lista funciona melhor quando há muitos irmãos). Três partes:
+
+- `trees[]`: `id`, `root` (nó da raiz), `title`, `intro`, `note` (PT/EN) e `branches` (nome de cada ramo; hoje só `mt` = Mateus 1, de Salomão a Jesus).
+- `nodes{}`: um nó por posição na lista. `name` (PT/EN), `personId` opcional (liga à página do personagem), `branch` opcional e `note` opcional. Os ids são únicos; uma pessoa pode ter mais de um nó se aparecer em mais de uma lista.
+- `links[]`: ligações pai → filho. `from`, `to`, `refs[]` (**obrigatório**: `{book, ref}`, por exemplo `{"book":"gen","ref":"5:3"}`), `mother` opcional (id de `people.json`, quando o texto cita a mãe) ou `motherName` (`{pt, en}`, para mãe sem página) e `note` opcional.
+
+Regras: nunca ligar sem referência bíblica; cada nó tem um pai só; todos os nós saem da raiz. A lista de Lucas 3 ficou de fora por decisão do André (deixava a árvore confusa); onde os textos divergem (por exemplo, Gênesis 11 hebraico × Septuaginta/Lucas 3:36), a diferença vai em `note`, sem escolher uma leitura. `npm run check` confere ids, referências, pai único e ciclos. A página usa `d3-hierarchy` (`src/Genealogy.jsx`) e o bloco **Família** da página do personagem lê os mesmos dados (`src/genealogy.js`).
 
 ## Configurações
 
@@ -99,6 +110,7 @@ A navegação usa o hash da URL, sem biblioteca de rotas; o botão voltar do nav
 | `#2ki/map/Laquis` | aba Mapa com o lugar selecionado (nome em PT) |
 | `#timeline`, `#timeline/exodo` | linha do tempo, com o evento em foco |
 | `#person`, `#person/davi` | lista de personagens ou a página de uma pessoa |
+| `#tree/adao-jesus`, `#tree/adao-jesus/mt-salomao` | árvore genealógica, com o nome em foco |
 
 Trocar de aba ou de lugar atualiza o endereço sem criar entrada no histórico; ir para outra página cria. Ao voltar para a grade, a rolagem é restaurada. O código está em `src/route.js`.
 

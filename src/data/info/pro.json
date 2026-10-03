@@ -65,6 +65,9 @@
         "pt": "Agur",
         "en": "Agur"
       },
+      "ids": [
+        "agur"
+      ],
       "role": {
         "pt": "Autor do cap. 30",
         "en": "Author of ch. 30"
@@ -75,6 +78,9 @@
         "pt": "Lemuel",
         "en": "Lemuel"
       },
+      "ids": [
+        "lemuel"
+      ],
       "role": {
         "pt": "Rei a quem a mãe instrui (31:1–9)",
         "en": "King instructed by his mother (31:1–9)"

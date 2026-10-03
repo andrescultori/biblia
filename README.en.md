@@ -1,12 +1,12 @@
 [🇧🇷 Português](README.md) | 🇺🇸 English
 
-# 📖 TaBíblia Interativa
+# 📖 Timoteo App
 
 **Interactive Bible study: every book with a study sheet, a map, a timeline and people pages, and the text in four clearly licensed versions.**
 
 A table of the 66 books of the Bible, where each book opens a study sheet (author, date, theme, outline), a map of the places it mentions and the text for reading. A timeline and people pages link back to the books and the maps. Everything is static (React + Vite), published on GitHub Pages, with a Portuguese and English interface.
 
-**▶ Live demo: <https://andrescultori.github.io/biblia/>**
+**▶ Live demo: <https://andrescultori.github.io/timoteo-app/>**
 
 > **About the content.** This is an original personal project. Study sheets, dates and people summaries are drafts under manual review: where authorship, dating or location are debated, the site shows the positions (traditional and scholarly) side by side and flags the uncertainty. Bible text is only included under a clear license.
 
@@ -35,8 +35,9 @@ From the Exodus on the timeline, for example, one click opens the Exodus map alr
 - **A grid of the 66 books** by section, with search and a testament filter. Direct link per book (`#joh`).
 - **A study sheet** for each book, in PT and EN: author, date, place, recipients, key verse, theme, historical context, people, outline and connections. Authorship and dating show the **traditional and scholarly positions side by side**; a switch in Settings (⚙) hides the scholarly one for simpler study.
 - **A map** in 46 books, with its own vector coastline (no external tiles), collision-free labels, regional zoom, a legend and flags for debated locations.
-- **A timeline** with 13 periods and 44 events, on a per-block scale, with approximate dates marked and debated chronologies (such as the Exodus) shown side by side. Books are tied to the period their text describes.
-- **People**: 113 people, with a summary, the books they appear in, events and places; the list sorts alphabetically or by book.
+- **A timeline** with 13 periods and 69 events, on a per-block scale, with approximate dates marked and debated chronologies (such as the Exodus) shown side by side. Books are tied to the period their text describes.
+- **People**: 210 people, with a summary, the books they appear in, events and places; the list sorts alphabetically or by book.
+- **Genealogy**: two trees: from Adam to Jesus (Genesis, Ruth, 1 Chronicles and Matthew 1) and from Abraham to the twelve tribes; every link cites the biblical text and differences are kept in notes.
 - **Psalms as a table**: the 150 psalms colored by book of the Psalter, title or genre, with the psalms that have a historical title linked to David, the people and the timeline.
 - **Structure of Job, Proverbs, Ecclesiastes and Song of Songs**: chapters colored by part (in Job, by speaker), the list of parts and, in Ecclesiastes and Song of Songs, the readings side by side.
 - **A text reader** in KJV, WEB and ASV (English), Bíblia Livre (Portuguese), with the credit and license of each.
@@ -56,6 +57,7 @@ From the Exodus on the timeline, for example, one click opens the Exodus map alr
 |---|---|
 | UI | React 18 + Vite |
 | Maps | d3-geo, SVG at real pixels |
+| Genealogy | d3-hierarchy, tree in SVG |
 | Coastline | Natural Earth 50m (public domain), clipped |
 | Places | OpenBible.info Bible Geocoding Data (CC BY 4.0) |
 | Bible text | JSON files per book and version, loaded on demand |
@@ -90,6 +92,7 @@ Every pull request runs `npm run check` and `npm run build`; deployment to Pages
 - Coastline: [Natural Earth](https://www.naturalearthdata.com/) (public domain), via the `world-atlas` package, clipped and simplified.
 - Map places: [OpenBible.info Bible Geocoding Data](https://www.openbible.info/geo/), license [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Coordinates rounded and adapted.
 - Projection: [d3-geo](https://github.com/d3/d3-geo) (ISC).
+- Genealogy tree: [d3-hierarchy](https://github.com/d3/d3-hierarchy) (ISC).
 - Texts: KJV (public domain); WEB ([eBible.org](https://ebible.org/eng-web/), public domain); ASV (public domain, digital edition by [openbibleinfo](https://github.com/openbibleinfo/American-Standard-Version-Bible)); **Bíblia Livre (BLIVRE), © 2018 Diego Santos, Mario Sérgio and Marco Teles, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**, [source](https://github.com/blivre/BibliaLivre).
 
 Original idea of the table: "TaBíblia Periódica" (Grupo de Jovens Conquistando as Nações; source cited: Sociedade Bíblica do Brasil). This project has its own design and code.

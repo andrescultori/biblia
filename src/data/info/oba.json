@@ -42,6 +42,9 @@
         "pt": "Obadias",
         "en": "Obadiah"
       },
+      "ids": [
+        "obadias"
+      ],
       "role": {
         "pt": "Profeta",
         "en": "Prophet"
@@ -52,6 +55,9 @@
         "pt": "Edom (Esaú)",
         "en": "Edom (Esau)"
       },
+      "ids": [
+        "esau"
+      ],
       "role": {
         "pt": "Povo alvo do oráculo",
         "en": "People targeted by the oracle"

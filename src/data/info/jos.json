@@ -55,6 +55,9 @@
         "pt": "Raabe",
         "en": "Rahab"
       },
+      "ids": [
+        "raabe"
+      ],
       "role": {
         "pt": "Mulher de Jericó que abriga os espias (caps. 2 e 6)",
         "en": "Woman of Jericho who shelters the spies (chs. 2 and 6)"
@@ -78,6 +81,9 @@
         "pt": "Acã",
         "en": "Achan"
       },
+      "ids": [
+        "acan"
+      ],
       "role": {
         "pt": "Toma do que era consagrado; derrota em Ai (cap. 7)",
         "en": "Takes what was devoted; defeat at Ai (ch. 7)"
@@ -88,6 +94,10 @@
         "pt": "Eleazar e Fineias",
         "en": "Eleazar and Phinehas"
       },
+      "ids": [
+        "eleazar",
+        "fineias"
+      ],
       "role": {
         "pt": "Sacerdotes da geração da conquista",
         "en": "Priests of the conquest generation"

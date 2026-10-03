@@ -22,6 +22,7 @@ export function useLinkIndex(book, info, lang) {
     if (people) {
       const byAlias = new Map();
       for (const p of people) {
+        if (p.no || (p.only && !p.only.includes(book.slug))) continue; // autoLink: false / linkBooks em people.json
         const a = alias(p.name[lang]);
         if (a.length < 3) continue;
         if (!byAlias.has(a)) byAlias.set(a, []);
@@ -53,6 +54,7 @@ export function Rich({ text, index }) {
   let last = 0;
   for (const m of text.matchAll(re)) {
     if (seen.has(m[1])) continue;
+    if (/\d\s*$/.test(text.slice(0, m.index))) continue; // "1 Enoque", "2 Reis": nome de livro, não de pessoa
     seen.add(m[1]);
     if (m.index > last) out.push(text.slice(last, m.index));
     out.push(<a key={m.index} className="plink" href={entries.get(m[1])}>{m[1]}</a>);

@@ -55,6 +55,9 @@
         "pt": "Joaquim",
         "en": "Jehoiachin"
       },
+      "ids": [
+        "joaquim"
+      ],
       "role": {
         "pt": "Rei de Judá exilado em 597 a.C.",
         "en": "King of Judah exiled in 597 BC"
@@ -65,6 +68,9 @@
         "pt": "Zedequias",
         "en": "Zedekiah"
       },
+      "ids": [
+        "zedequias"
+      ],
       "role": {
         "pt": "Último rei de Judá",
         "en": "Last king of Judah"
@@ -75,6 +81,9 @@
         "pt": "Gogue",
         "en": "Gog"
       },
+      "ids": [
+        "gogue"
+      ],
       "role": {
         "pt": "Líder do ataque descrito nos caps. 38–39",
         "en": "Leader of the attack described in chs. 38–39"

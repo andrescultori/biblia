@@ -52,6 +52,19 @@
     },
     {
       "name": {
+        "pt": "Abner",
+        "en": "Abner"
+      },
+      "ids": [
+        "abner"
+      ],
+      "role": {
+        "pt": "Comandante de Saul; passa a Davi e é morto por Joabe (caps. 2–3)",
+        "en": "Saul's commander; goes over to David and is killed by Joab (chs. 2–3)"
+      }
+    },
+    {
+      "name": {
         "pt": "Joabe",
         "en": "Joab"
       },
@@ -83,7 +96,7 @@
       },
       "ids": [
         "bate-seba",
-        null
+        "urias"
       ],
       "role": {
         "pt": "Envolvidos no pecado de Davi (caps. 11–12)",
@@ -108,6 +121,9 @@
         "pt": "Mefibosete",
         "en": "Mephibosheth"
       },
+      "ids": [
+        "mefibosete"
+      ],
       "role": {
         "pt": "Neto de Saul acolhido por Davi (cap. 9)",
         "en": "Saul's grandson welcomed by David (ch. 9)"

@@ -43,7 +43,7 @@
     { "name": { "pt": "Faraó (não nomeado)", "en": "Pharaoh (unnamed)" }, "role": { "pt": "Rei do Egito que se opõe à libertação", "en": "King of Egypt who resists the liberation" } },
     { "name": { "pt": "Jetro", "en": "Jethro" }, "ids": ["jetro"], "role": { "pt": "Sogro de Moisés; sacerdote de Midiã (caps. 3 e 18)", "en": "Moses' father-in-law; priest of Midian (chs. 3 and 18)" } },
     { "name": { "pt": "Josué", "en": "Joshua" }, "ids": ["josue"], "role": { "pt": "Auxiliar de Moisés; combate Amaleque (17:9–13)", "en": "Moses' assistant; fights Amalek (17:9–13)" } },
-    { "name": { "pt": "Bezalel", "en": "Bezalel" }, "role": { "pt": "Artesão encarregado da obra do tabernáculo (31:1–5)", "en": "Craftsman in charge of the tabernacle work (31:1–5)" } }
+    { "name": { "pt": "Bezalel", "en": "Bezalel" }, "ids": ["bezalel"], "role": { "pt": "Artesão encarregado da obra do tabernáculo (31:1–5)", "en": "Craftsman in charge of the tabernacle work (31:1–5)" } }
   ],
   "outline": [
     { "ref": "1:1–2:25", "title": { "pt": "Opressão no Egito e nascimento de Moisés", "en": "Oppression in Egypt and the birth of Moses" } },

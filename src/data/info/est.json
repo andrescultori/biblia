@@ -81,6 +81,9 @@
         "pt": "Assuero",
         "en": "Ahasuerus"
       },
+      "ids": [
+        "assuero"
+      ],
       "role": {
         "pt": "Rei da Pérsia (identificado com Xerxes I)",
         "en": "King of Persia (identified with Xerxes I)"
@@ -91,6 +94,9 @@
         "pt": "Vasti",
         "en": "Vashti"
       },
+      "ids": [
+        "vasti"
+      ],
       "role": {
         "pt": "Rainha que perde o posto (cap. 1)",
         "en": "Queen who loses her position (ch. 1)"
