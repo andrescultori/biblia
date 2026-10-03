@@ -55,6 +55,9 @@
         "pt": "Sóstenes",
         "en": "Sosthenes"
       },
+      "ids": [
+        "sostenes"
+      ],
       "role": {
         "pt": "Co-remetente (1:1)",
         "en": "Co-sender (1:1)"
@@ -78,6 +81,9 @@
         "pt": "Estéfanas",
         "en": "Stephanas"
       },
+      "ids": [
+        "estefanas"
+      ],
       "role": {
         "pt": "Cristão de Corinto (16:15–17)",
         "en": "Christian of Corinth (16:15–17)"

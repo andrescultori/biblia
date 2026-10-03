@@ -36,7 +36,7 @@ Do Êxodo na linha do tempo, por exemplo, um clique leva ao mapa de Êxodo já n
 - **Ficha de estudo** de cada livro, em PT e EN: autor, data, lugar, destinatários, versículo-chave, tema, contexto histórico, personagens, esboço e conexões. Autoria e datação mostram a **posição tradicional e a acadêmica lado a lado**; um botão em Configurações (⚙) esconde a acadêmica para estudar de forma mais simples.
 - **Mapa** em 46 livros, com costa em vetor própria (sem tiles externos), rótulos sem colisão, zoom por região, legenda e marcação de localização debatida.
 - **Linha do tempo** com 13 períodos e 69 eventos, em escala por bloco, datas aproximadas marcadas e cronologias debatidas (como a do Êxodo) mostradas lado a lado. Os livros ficam ligados ao período que o texto descreve.
-- **Personagens**: 170 pessoas, com resumo, livros onde aparecem, eventos e lugares; lista por ordem alfabética ou por livro.
+- **Personagens**: 183 pessoas, com resumo, livros onde aparecem, eventos e lugares; lista por ordem alfabética ou por livro.
 - **Salmos como tabela**: os 150 salmos coloridos por livro do Saltério, título ou gênero, com os salmos de título histórico ligados a Davi, aos personagens e à linha do tempo.
 - **Estrutura de Jó, Provérbios, Eclesiastes e Cantares**: os capítulos coloridos por parte (em Jó, por quem fala), a lista das partes e, em Eclesiastes e Cantares, as leituras lado a lado.
 - **Leitor de texto** em KJV, WEB e ASV (inglês), Bíblia Livre (português), com crédito e licença de cada uma.
