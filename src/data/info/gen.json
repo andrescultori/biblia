@@ -41,9 +41,14 @@
     { "name": { "pt": "Caim e Abel", "en": "Cain and Abel" }, "ids": ["caim", "abel"], "role": { "pt": "Filhos de Adão e Eva; o primeiro homicídio (cap. 4)", "en": "Sons of Adam and Eve; the first murder (ch. 4)" } },
     { "name": { "pt": "Noé", "en": "Noah" }, "ids": ["noe"], "role": { "pt": "Constrói a arca; aliança após o dilúvio (caps. 6–9)", "en": "Builds the ark; covenant after the flood (chs. 6–9)" } },
     { "name": { "pt": "Abraão e Sara", "en": "Abraham and Sarah" }, "ids": ["abraao", "sara"], "role": { "pt": "Chamados por Deus; promessa de terra, descendência e bênção (caps. 12–25)", "en": "Called by God; promise of land, offspring and blessing (chs. 12–25)" } },
+    { "name": { "pt": "Ló", "en": "Lot" }, "ids": ["lo"], "role": { "pt": "Sobrinho de Abraão; escolhe a planície do Jordão e sai de Sodoma (caps. 13; 19)", "en": "Abraham's nephew; chooses the Jordan plain and leaves Sodom (chs. 13; 19)" } },
+    { "name": { "pt": "Agar e Ismael", "en": "Hagar and Ishmael" }, "ids": ["agar", "ismael"], "role": { "pt": "Serva de Sara e o filho de Abraão com ela (caps. 16; 21)", "en": "Sarah's servant and Abraham's son by her (chs. 16; 21)" } },
     { "name": { "pt": "Isaque e Rebeca", "en": "Isaac and Rebekah" }, "ids": ["isaque", "rebeca"], "role": { "pt": "Filho da promessa e sua esposa", "en": "Son of the promise and his wife" } },
     { "name": { "pt": "Jacó (Israel)", "en": "Jacob (Israel)" }, "ids": ["jaco"], "role": { "pt": "Recebe o nome Israel; pai dos doze filhos (caps. 25–50)", "en": "Receives the name Israel; father of twelve sons (chs. 25–50)" } },
     { "name": { "pt": "Esaú", "en": "Esau" }, "ids": ["esau"], "role": { "pt": "Irmão gêmeo de Jacó; ancestral de Edom (cap. 36)", "en": "Jacob's twin brother; ancestor of Edom (ch. 36)" } },
+    { "name": { "pt": "Labão", "en": "Laban" }, "ids": ["labao"], "role": { "pt": "Irmão de Rebeca; sogro e tio de Jacó (caps. 24; 29–31)", "en": "Rebekah's brother; Jacob's father-in-law and uncle (chs. 24; 29–31)" } },
+    { "name": { "pt": "Lia e Raquel", "en": "Leah and Rachel" }, "ids": ["lia", "raquel"], "role": { "pt": "Esposas de Jacó; mães das tribos de Israel (caps. 29–30)", "en": "Jacob's wives; mothers of the tribes of Israel (chs. 29–30)" } },
+    { "name": { "pt": "Judá e Tamar", "en": "Judah and Tamar" }, "ids": ["juda", "tamar"], "role": { "pt": "O quarto filho de Jacó e sua nora (cap. 38)", "en": "Jacob's fourth son and his daughter-in-law (ch. 38)" } },
     { "name": { "pt": "José", "en": "Joseph" }, "ids": ["jose"], "role": { "pt": "Vendido pelos irmãos; chega ao governo do Egito (caps. 37–50)", "en": "Sold by his brothers; rises to rule in Egypt (chs. 37–50)" } }
   ],
   "outline": [

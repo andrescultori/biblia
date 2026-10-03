@@ -9120,6 +9120,346 @@
           "en": "Jerusalem"
         }
       ]
+    },
+    {
+      "id": "lo",
+      "name": {
+        "pt": "Ló, sobrinho de Abraão",
+        "en": "Lot, Abraham’s nephew"
+      },
+      "summary": {
+        "pt": "Sobrinho de Abraão que o acompanha de Harã a Canaã, escolhe a planície do Jordão, mora em Sodoma e é tirado de lá antes da destruição (Gn 11–13; 14; 19).",
+        "en": "Abraham’s nephew who goes with him from Haran to Canaan, chooses the Jordan plain, lives in Sodom and is brought out before its destruction (Gen 11–13; 14; 19)."
+      },
+      "bio": {
+        "pt": [
+          "Ló é filho de Harã, irmão de Abrão, e vai com Terá e Abrão de Ur até Harã (Gn 11:27–31). Quando Abrão sai de Harã por ordem de Deus, Ló vai com ele (Gn 12:4–5). Em Canaã, os rebanhos dos dois ficam grandes demais para a mesma terra e há atrito entre os pastores. Abrão dá a Ló a escolha, e Ló escolhe toda a planície do Jordão, “como o jardim do Senhor”, e arma as tendas até Sodoma (Gn 13:5–13).",
+          "Em Gênesis 14, reis do leste vencem Sodoma e levam Ló cativo; Abrão persegue os invasores e o liberta com seus bens. Em Gênesis 19, dois mensageiros chegam a Sodoma e Ló os hospeda; a cidade se reúne em torno da casa dele, e os mensageiros o tiram dali com a mulher e as duas filhas antes de Sodoma e Gomorra serem destruídas. A mulher de Ló olha para trás e vira estátua de sal (Gn 19:15–26). Ló se refugia em Zoar e depois num monte (Gn 19:30).",
+          "No fim, as filhas de Ló dão à luz Moabe e Ben-Ami, pais dos moabitas e dos amonitas (Gn 19:30–38). Deuteronômio 2:9, 19 lembra que Deus deu essas terras aos “filhos de Ló”. O Novo Testamento chama Ló de justo, aflito com a conduta dos ímpios (2Pe 2:7–8), e Jesus cita a mulher de Ló como aviso (Lc 17:28–32)."
+        ],
+        "en": [
+          "Lot is the son of Haran, Abram’s brother, and goes with Terah and Abram from Ur as far as Haran (Gen 11:27–31). When Abram leaves Haran at God’s command, Lot goes with him (Gen 12:4–5). In Canaan their flocks grow too large for the same land and there is strife between the herdsmen. Abram gives Lot the choice, and Lot chooses the whole plain of the Jordan, “like the garden of the Lord,” and pitches his tent toward Sodom (Gen 13:5–13).",
+          "In Genesis 14, eastern kings defeat Sodom and carry Lot off; Abram pursues the invaders and frees him with his goods. In Genesis 19 two messengers come to Sodom and Lot hosts them; the city gathers around his house, and the messengers bring him out with his wife and two daughters before Sodom and Gomorrah are destroyed. Lot’s wife looks back and becomes a pillar of salt (Gen 19:15–26). Lot takes refuge in Zoar and then in the hills (Gen 19:30).",
+          "In the end Lot’s daughters bear Moab and Ben-ammi, fathers of the Moabites and the Ammonites (Gen 19:30–38). Deuteronomy 2:9, 19 recalls that God gave those lands to the “sons of Lot.” The New Testament calls Lot righteous, distressed by the conduct of the lawless (2 Pet 2:7–8), and Jesus cites Lot’s wife as a warning (Luke 17:28–32)."
+        ]
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Sobrinho de Abraão; sai de Sodoma antes da destruição (11–19)",
+            "en": "Abraham’s nephew; leaves Sodom before its destruction (11–19)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "gen",
+          "name": "Sodoma",
+          "en": "Sodom"
+        },
+        {
+          "book": "gen",
+          "name": "Harã",
+          "en": "Haran"
+        }
+      ],
+      "note": {
+        "pt": "A identificação de Sodoma e Gomorra com sítios arqueológicos é debatida; o texto não localiza as cidades com precisão.",
+        "en": "The identification of Sodom and Gomorrah with archaeological sites is debated; the text does not locate the cities precisely."
+      },
+      "linkBooks": [
+        "gen"
+      ]
+    },
+    {
+      "id": "agar",
+      "name": {
+        "pt": "Agar",
+        "en": "Hagar"
+      },
+      "summary": {
+        "pt": "Serva egípcia de Sara, dada a Abrão como esposa; mãe de Ismael. Foge e é achada por um anjo (Gn 16) e, depois, é expulsa com o filho e socorrida por Deus (Gn 21:8–21).",
+        "en": "Egyptian servant of Sarai, given to Abram as a wife; mother of Ishmael. She flees and is found by an angel (Gen 16), and later is sent away with her son and helped by God (Gen 21:8–21)."
+      },
+      "bio": {
+        "pt": [
+          "Agar é uma serva egípcia de Sarai. Como Sarai não tinha filhos, ela a dá a Abrão como esposa, e Agar engravida; a relação entre as duas se azeda e Sarai a maltrata, de modo que Agar foge para o deserto (Gn 16:1–6). Ali o anjo do Senhor a encontra junto a uma fonte, manda que volte e promete multiplicar sua descendência. Ela dá ao Senhor o nome “Tu és o Deus que me vê” (El-Roí), e o poço fica conhecido por isso (Gn 16:7–14). Ela dá à luz Ismael (Gn 16:15–16).",
+          "Depois do nascimento de Isaque, Sara vê Ismael zombando e pede a Abraão que expulse a serva e seu filho. Abraão sofre com isso, mas Deus lhe diz que ouça Sara e promete fazer também de Ismael uma nação (Gn 21:8–13). Agar e o menino vagam pelo deserto de Berseba até a água acabar; Deus ouve a voz do menino, um anjo fala a Agar e abre seus olhos para um poço (Gn 21:14–19). Ismael cresce no deserto de Parã, e a mãe lhe arranja esposa no Egito (Gn 21:20–21).",
+          "Paulo usa Agar e Sara como duas alianças em Gálatas 4:21–31, lendo o episódio como alegoria. Nesse trecho Agar representa o monte Sinai, e Sara representa a promessa."
+        ],
+        "en": [
+          "Hagar is an Egyptian servant of Sarai. Since Sarai had no children, she gives her to Abram as a wife, and Hagar conceives; relations between the two sour and Sarai deals harshly with her, so Hagar flees into the wilderness (Gen 16:1–6). There the angel of the Lord finds her by a spring, tells her to return and promises to multiply her offspring. She calls the Lord “You are a God of seeing” (El-roi), and the well is known for it (Gen 16:7–14). She bears Ishmael (Gen 16:15–16).",
+          "After Isaac’s birth Sarah sees Ishmael laughing and asks Abraham to cast out the servant and her son. Abraham is distressed, but God tells him to listen to Sarah and promises to make a nation of Ishmael too (Gen 21:8–13). Hagar and the boy wander in the wilderness of Beersheba until the water runs out; God hears the boy’s voice, an angel speaks to Hagar and opens her eyes to a well (Gen 21:14–19). Ishmael grows up in the wilderness of Paran, and his mother gets him a wife from Egypt (Gen 21:20–21).",
+          "Paul uses Hagar and Sarah as two covenants in Galatians 4:21–31, reading the episode as an allegory. In that passage Hagar stands for Mount Sinai, and Sarah for the promise."
+        ]
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Serva de Sara; mãe de Ismael (16; 21)",
+            "en": "Sarah’s servant; mother of Ishmael (16; 21)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "gen",
+          "name": "Berseba",
+          "en": "Beersheba"
+        }
+      ]
+    },
+    {
+      "id": "ismael",
+      "name": {
+        "pt": "Ismael, filho de Abraão",
+        "en": "Ishmael, son of Abraham"
+      },
+      "summary": {
+        "pt": "Filho de Abraão e Agar. Deus promete fazer dele uma grande nação; é circuncidado aos 13 anos, expulso com a mãe e depois vive no deserto de Parã (Gn 16–17; 21; 25:12–18).",
+        "en": "Son of Abraham and Hagar. God promises to make him a great nation; he is circumcised at 13, sent away with his mother and later lives in the wilderness of Paran (Gen 16–17; 21; 25:12–18)."
+      },
+      "bio": {
+        "pt": [
+          "O anjo diz a Agar que o filho se chamará Ismael (“Deus ouve”), porque o Senhor ouviu sua aflição, e que será “homem selvagem” e viverá à vista de seus irmãos (Gn 16:11–12). Abrão tem 86 anos quando ele nasce (Gn 16:16). Em Gênesis 17, quando Deus promete que Sara dará à luz Isaque e estabelece a aliança com ele, atende também ao pedido de Abraão por Ismael: promete abençoá-lo, fazê-lo fecundo e pai de doze príncipes. Ismael é circuncidado nesse dia, aos 13 anos (Gn 17:18–27).",
+          "Em Gênesis 21 Ismael é expulso com a mãe e socorrido por Deus no deserto (Gn 21:8–21; ver Agar). Ele e Isaque voltam a aparecer juntos quando enterram Abraão em Macpela (Gn 25:9). Gênesis 25:12–18 lista os doze filhos de Ismael, com seus nomes, e diz que ele morreu aos 137 anos. Uma filha de Ismael, irmã de Nebaiote, torna-se esposa de Esaú (Gn 28:9; 36:3).",
+          "Gênesis 37:25–28 chama de ismaelitas os mercadores que compram José; o texto alterna esse nome com midianitas. O texto bíblico não liga Ismael a nenhum povo posterior além do que está em Gênesis 25."
+        ],
+        "en": [
+          "The angel tells Hagar the son will be named Ishmael (“God hears”), because the Lord heard her affliction, and that he will be “a wild donkey of a man” and live at odds with his brothers (Gen 16:11–12). Abram is 86 when he is born (Gen 16:16). In Genesis 17, when God promises that Sarah will bear Isaac and establishes the covenant with him, he also answers Abraham’s plea for Ishmael: he promises to bless him, make him fruitful and the father of twelve princes. Ishmael is circumcised that day, at age 13 (Gen 17:18–27).",
+          "In Genesis 21 Ishmael is sent away with his mother and helped by God in the wilderness (Gen 21:8–21; see Hagar). He and Isaac appear together again when they bury Abraham at Machpelah (Gen 25:9). Genesis 25:12–18 lists Ishmael’s twelve sons by name and says he died at 137. A daughter of Ishmael, sister of Nebaioth, becomes Esau’s wife (Gen 28:9; 36:3).",
+          "Genesis 37:25–28 calls the merchants who buy Joseph Ishmaelites; the text alternates this name with Midianites. The biblical text does not link Ishmael to any later people beyond what is in Genesis 25."
+        ]
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Filho de Abraão e Agar; pai de doze príncipes (16–17; 21; 25)",
+            "en": "Son of Abraham and Hagar; father of twelve princes (16–17; 21; 25)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "gen",
+          "name": "Berseba",
+          "en": "Beersheba"
+        }
+      ],
+      "note": {
+        "pt": "A descendência de Ismael e sua relação com povos posteriores são debatidas fora do texto bíblico; o projeto se limita ao que Gênesis diz. “Homem selvagem” traduz literalmente “jumento selvagem de homem” (Gn 16:12).",
+        "en": "Ishmael’s descent and its relation to later peoples are debated outside the biblical text; the project keeps to what Genesis says."
+      },
+      "linkBooks": [
+        "gen"
+      ]
+    },
+    {
+      "id": "labao",
+      "name": {
+        "pt": "Labão",
+        "en": "Laban"
+      },
+      "summary": {
+        "pt": "Irmão de Rebeca e tio de Jacó em Harã. Dá suas filhas Lia e Raquel a Jacó em troca de anos de serviço; depois os dois fazem uma aliança em Gileade (Gn 24; 29–31).",
+        "en": "Rebekah’s brother and Jacob’s uncle in Haran. He gives his daughters Leah and Rachel to Jacob in exchange for years of service; later the two make a covenant in Gilead (Gen 24; 29–31)."
+      },
+      "bio": {
+        "pt": [
+          "Labão é filho de Betuel e irmão de Rebeca. Quando o servo de Abraão chega a Harã procurando esposa para Isaque, Labão corre à fonte ao ver o presente que a irmã recebeu, hospeda o servo e, com o pai, concorda com o casamento (Gn 24:29–51).",
+          "Anos depois Jacó foge de Esaú e chega a Harã, onde Labão o recebe como parente e ele passa a trabalhar para o tio. Jacó pede Raquel e serve sete anos por ela, mas na noite de núpcias Labão lhe dá Lia, a mais velha, alegando que não se dá a mais nova antes. Jacó recebe Raquel uma semana depois e serve mais sete anos (Gn 29:13–30). Em seguida cuida dos rebanhos de Labão por mais seis anos, e Labão muda o salário dele dez vezes (Gn 30:25–43; 31:41).",
+          "Jacó parte às escondidas com a família e os bens. Labão o persegue e o alcança em Gileade, mas Deus o avisa em sonho para não ferir Jacó (Gn 31:22–29). Raquel tinha levado os ídolos domésticos do pai; Labão não os acha (Gn 31:30–35). Os dois fazem uma aliança, levantam um monte de pedras como testemunho e se separam (Gn 31:44–55). Labão não aparece mais."
+        ],
+        "en": [
+          "Laban is the son of Bethuel and Rebekah’s brother. When Abraham’s servant arrives in Haran looking for a wife for Isaac, Laban runs to the spring on seeing the gifts his sister received, hosts the servant and, with his father, agrees to the marriage (Gen 24:29–51).",
+          "Years later Jacob flees from Esau and reaches Haran, where Laban welcomes him as kin and he begins to work for his uncle. Jacob asks for Rachel and serves seven years for her, but on the wedding night Laban gives him Leah, the elder, claiming the younger is not given before the firstborn. Jacob receives Rachel a week later and serves seven more years (Gen 29:13–30). He then tends Laban’s flocks for six more years, and Laban changes his wages ten times (Gen 30:25–43; 31:41).",
+          "Jacob leaves secretly with his family and goods. Laban pursues and overtakes him in Gilead, but God warns him in a dream not to harm Jacob (Gen 31:22–29). Rachel had taken her father’s household idols; Laban does not find them (Gen 31:30–35). The two make a covenant, raise a heap of stones as witness and part (Gen 31:44–55). Laban does not appear again."
+        ]
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Irmão de Rebeca; sogro e tio de Jacó (24; 29–31)",
+            "en": "Rebekah’s brother; Jacob’s father-in-law and uncle (24; 29–31)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "gen",
+          "name": "Harã",
+          "en": "Haran"
+        }
+      ]
+    },
+    {
+      "id": "lia",
+      "name": {
+        "pt": "Lia",
+        "en": "Leah"
+      },
+      "summary": {
+        "pt": "Filha mais velha de Labão e primeira esposa de Jacó. Mãe de seis filhos, entre eles Levi e Judá, e de Diná (Gn 29–30; 35:23; 49:31).",
+        "en": "Laban’s elder daughter and Jacob’s first wife. Mother of six sons, among them Levi and Judah, and of Dinah (Gen 29–30; 35:23; 49:31)."
+      },
+      "bio": {
+        "pt": [
+          "Lia é a filha mais velha de Labão. O texto diz que seus olhos eram “delicados” (ou “fracos”) e que Raquel era bela de aparência (Gn 29:16–17). Labão a dá a Jacó na noite de núpcias no lugar de Raquel (Gn 29:21–25). Vendo que Lia era desprezada, o Senhor a faz fecunda: nascem Rúben, Simeão, Levi e Judá, e a cada nome ela exprime o desejo de ser amada pelo marido, ou de louvar o Senhor, no caso de Judá (Gn 29:31–35).",
+          "Mais tarde, depois de um período sem filhos, ela dá sua serva Zilpa a Jacó, e nascem Gade e Aser. Depois nascem de Lia Issacar e Zebulom e uma filha, Diná (Gn 30:9–21). Em Gênesis 30:14–16 ela negocia com Raquel as mandrágoras do filho Rúben em troca de uma noite com Jacó.",
+          "Quando Jacó volta a Canaã, ele divide a família e deixa Lia e seus filhos à frente de Raquel (Gn 33:1–2). Jacó diz, no fim da vida, que Lia foi sepultada na caverna de Macpela e pede para ser sepultado ali (Gn 49:29–31). Em Rute 4:11, Raquel e Lia são lembradas como as que “edificaram a casa de Israel”."
+        ],
+        "en": [
+          "Leah is Laban’s elder daughter. The text says her eyes were “weak” (or “tender”) while Rachel was beautiful in form and appearance (Gen 29:16–17). Laban gives her to Jacob on the wedding night in place of Rachel (Gen 29:21–25). Seeing that Leah was unloved, the Lord opens her womb: Reuben, Simeon, Levi and Judah are born, and with each name she voices her wish to be loved by her husband, or in Judah’s case to praise the Lord (Gen 29:31–35).",
+          "Later, after a time without children, she gives her servant Zilpah to Jacob, and Gad and Asher are born. Leah then bears Issachar and Zebulun and a daughter, Dinah (Gen 30:9–21). In Genesis 30:14–16 she bargains with Rachel over her son Reuben’s mandrakes in exchange for a night with Jacob.",
+          "When Jacob returns to Canaan he arranges the family with Leah and her children ahead of Rachel (Gen 33:1–2). At the end of his life Jacob says that Leah was buried in the cave of Machpelah and asks to be buried there (Gen 49:29–31). In Ruth 4:11 Rachel and Leah are remembered as the two who “built the house of Israel.”"
+        ]
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Primeira esposa de Jacó; mãe de seis tribos (29–30; 35)",
+            "en": "Jacob’s first wife; mother of six tribes (29–30; 35)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "gen",
+          "name": "Harã",
+          "en": "Haran"
+        }
+      ],
+      "note": {
+        "pt": "“Delicados” (hebraico rakkot) pode significar também “fracos” ou “sem brilho”; os tradutores divergem.",
+        "en": "“Weak” or “tender” (Hebrew rakkot) can also mean “dull”; translators differ."
+      }
+    },
+    {
+      "id": "raquel",
+      "name": {
+        "pt": "Raquel",
+        "en": "Rachel"
+      },
+      "summary": {
+        "pt": "Filha mais nova de Labão, a esposa que Jacó ama. Mãe de José e Benjamim; morre ao dar à luz Benjamim perto de Efrata (Gn 29–30; 35:16–20).",
+        "en": "Laban’s younger daughter, the wife Jacob loves. Mother of Joseph and Benjamin; she dies giving birth to Benjamin near Ephrath (Gen 29–30; 35:16–20)."
+      },
+      "bio": {
+        "pt": [
+          "Raquel, filha mais nova de Labão, é pastora e encontra Jacó junto ao poço em Harã (Gn 29:9–12). Ele a ama e serve sete anos por ela, que lhe “pareceram poucos dias, pelo muito que a amava” (Gn 29:18–20). Depois de receber Lia, Jacó recebe também Raquel e serve mais sete anos (Gn 29:25–30).",
+          "Raquel é estéril por muito tempo, o que a faz invejar Lia. Ela dá a serva Bila a Jacó, e nascem Dã e Naftali (Gn 30:1–8). Mais tarde, Deus se lembra dela e ela dá à luz José (Gn 30:22–24). Ao deixar a casa do pai, ela leva os ídolos domésticos e os esconde na sela do camelo; Labão não os acha (Gn 31:19, 30–35). Jacó, sem saber, havia dito que quem os tivesse não viveria (Gn 31:32).",
+          "Perto de Efrata, em trabalho de parto, ela dá à luz Benjamim, a quem chama Benoni (“filho da minha aflição”), e morre; Jacó levanta uma coluna sobre o túmulo (Gn 35:16–20). Jeremias 31:15 mostra “Raquel chorando seus filhos” em Ramá, texto que Mateus cita ao contar a matança de Belém (Mt 2:17–18)."
+        ],
+        "en": [
+          "Rachel, Laban’s younger daughter, is a shepherdess and meets Jacob at the well in Haran (Gen 29:9–12). He loves her and serves seven years for her, which “seemed to him but a few days because of the love he had for her” (Gen 29:18–20). After receiving Leah, Jacob receives Rachel as well and serves seven more years (Gen 29:25–30).",
+          "Rachel is barren for a long time, which makes her envy Leah. She gives her servant Bilhah to Jacob, and Dan and Naphtali are born (Gen 30:1–8). Later God remembers her and she bears Joseph (Gen 30:22–24). Leaving her father’s house, she takes the household idols and hides them in the camel’s saddle; Laban does not find them (Gen 31:19, 30–35). Jacob, unaware, had said that whoever had them would not live (Gen 31:32).",
+          "Near Ephrath, in hard labor, she bears Benjamin, whom she calls Ben-oni (“son of my sorrow”), and dies; Jacob sets up a pillar over her grave (Gen 35:16–20). Jeremiah 31:15 pictures “Rachel weeping for her children” at Ramah, a text Matthew cites in telling of the slaughter at Bethlehem (Matt 2:17–18)."
+        ]
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Esposa amada de Jacó; mãe de José e Benjamim (29–30; 35)",
+            "en": "Jacob’s beloved wife; mother of Joseph and Benjamin (29–30; 35)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "gen",
+          "name": "Harã",
+          "en": "Haran"
+        }
+      ],
+      "note": {
+        "pt": "A localização do túmulo de Raquel é debatida: Gênesis 35:19 o põe no caminho de Efrata (Belém), e 1Samuel 10:2 o põe no território de Benjamim.",
+        "en": "The location of Rachel’s tomb is debated: Genesis 35:19 puts it on the way to Ephrath (Bethlehem), while 1 Samuel 10:2 puts it in the territory of Benjamin."
+      }
+    },
+    {
+      "id": "juda",
+      "name": {
+        "pt": "Judá, filho de Jacó",
+        "en": "Judah, son of Jacob"
+      },
+      "summary": {
+        "pt": "Quarto filho de Jacó e Lia. Propõe vender José, protege Benjamim diante do governador do Egito e recebe de Jacó a bênção do cetro, de onde vem a linhagem de Davi (Gn 37–49).",
+        "en": "Fourth son of Jacob and Leah. He proposes selling Joseph, stands surety for Benjamin before the ruler of Egypt and receives from Jacob the blessing of the scepter, from which David’s line comes (Gen 37–49)."
+      },
+      "bio": {
+        "pt": [
+          "Judá é o quarto filho de Jacó e Lia; Lia o chama assim dizendo: “Desta vez louvarei o Senhor” (Gn 29:35). Quando os irmãos veem José em Dotã, Rúben quer salvá-lo, e Judá propõe vendê-lo aos ismaelitas em vez de matá-lo (Gn 37:25–28). Em Gênesis 38, ele se separa dos irmãos, casa-se com uma cananeia e tem filhos; depois não dá Selá, o filho mais novo, a Tamar, nora que ficou viúva, e acaba tendo filhos com ela sem a reconhecer. Quando se descobre a gravidez, ele reconhece: “Ela é mais justa do que eu” (Gn 38:26).",
+          "No Egito, Judá é quem convence Jacó a mandar Benjamim, tornando-se fiador do menino (Gn 43:8–10). Quando o copo de José é achado no saco de Benjamim, Judá se oferece para ficar como escravo no lugar do irmão e pede que o menino volte ao pai (Gn 44:14–34). José então se dá a conhecer (Gn 45:1–3).",
+          "Em Gênesis 49:8–12 Jacó abençoa Judá: seus irmãos o louvarão, ele é “leão novo” e “o cetro não se arredará de Judá” até que venha aquele a quem pertence. A tribo de Judá recebe o sul de Canaã, e dela vêm Davi (Rt 4:18–22) e, segundo Mateus e Lucas, Jesus (Mt 1:2–3; Lc 3:33). Em Apocalipse 5:5 Cristo é chamado “o Leão da tribo de Judá”."
+        ],
+        "en": [
+          "Judah is the fourth son of Jacob and Leah; Leah names him saying, “This time I will praise the Lord” (Gen 29:35). When the brothers see Joseph at Dothan, Reuben wants to save him, and Judah proposes selling him to the Ishmaelites instead of killing him (Gen 37:25–28). In Genesis 38 he separates from his brothers, marries a Canaanite woman and has sons; later he does not give Shelah, the youngest, to Tamar, the widowed daughter-in-law, and ends up having children with her without recognizing her. When the pregnancy is discovered he admits: “She is more in the right than I” (Gen 38:26).",
+          "In Egypt it is Judah who persuades Jacob to send Benjamin, becoming surety for the boy (Gen 43:8–10). When Joseph’s cup is found in Benjamin’s sack, Judah offers to stay as a slave in his brother’s place and asks that the boy go back to his father (Gen 44:14–34). Joseph then reveals himself (Gen 45:1–3).",
+          "In Genesis 49:8–12 Jacob blesses Judah: his brothers will praise him, he is a “lion’s cub,” and “the scepter shall not depart from Judah” until he comes to whom it belongs. The tribe of Judah receives the south of Canaan, and from it come David (Ruth 4:18–22) and, according to Matthew and Luke, Jesus (Matt 1:2–3; Luke 3:33). In Revelation 5:5 Christ is called “the Lion of the tribe of Judah.”"
+        ]
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Quarto filho de Jacó; ancestral de Davi (29:35; 37–38; 43–44; 49)",
+            "en": "Jacob’s fourth son; ancestor of David (29:35; 37–38; 43–44; 49)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "gen",
+          "name": "Dotã",
+          "en": "Dothan"
+        }
+      ],
+      "note": {
+        "pt": "Judá é também o nome do reino do sul e da tribo; esta página trata do patriarca. O sentido de Gênesis 49:10 (“Siló”) é debatido; o projeto não adota uma leitura.",
+        "en": "Judah is also the name of the southern kingdom and of the tribe; this page is about the patriarch. The meaning of Genesis 49:10 (“Shiloh”) is debated; the project does not adopt one reading."
+      },
+      "autoLink": false
+    },
+    {
+      "id": "tamar",
+      "name": {
+        "pt": "Tamar, nora de Judá",
+        "en": "Tamar, Judah’s daughter-in-law"
+      },
+      "summary": {
+        "pt": "Nora de Judá, viúva sem filhos. Engana Judá para ter descendência e dá à luz os gêmeos Perez e Zerá; o nome dela está na genealogia de Jesus (Gn 38; Mt 1:3).",
+        "en": "Judah’s daughter-in-law, a childless widow. She tricks Judah to have offspring and bears the twins Perez and Zerah; her name is in the genealogy of Jesus (Gen 38; Matt 1:3)."
+      },
+      "bio": {
+        "pt": [
+          "Tamar é a esposa de Er, primeiro filho de Judá. Er morre sem filhos por sua maldade, e Judá manda Onã, o irmão, cumprir o dever de dar descendência ao morto; Onã o evita e também morre (Gn 38:6–10). Judá manda Tamar esperar em casa do pai até que Selá, o mais novo, cresça, mas não cumpre a promessa (Gn 38:11–14). Esse costume é o do casamento do cunhado, que a lei de Moisés depois regulou (Dt 25:5–10).",
+          "Tamar se cobre com véu e se coloca à beira do caminho em Timna; Judá, já viúvo, a toma por prostituta e lhe deixa em penhor o selo, o cordão e o cajado (Gn 38:14–18). Quando a gravidez aparece e ela é condenada, Tamar mostra os três objetos e diz de quem é o filho. Judá reconhece: “Ela é mais justa do que eu, pois não a dei a meu filho Selá” (Gn 38:24–26).",
+          "Ela dá à luz gêmeos, Perez e Zerá (Gn 38:27–30). Perez está na linhagem de Davi (Rt 4:12, 18–22), e Mateus 1:3 cita Tamar entre as quatro mulheres da genealogia de Jesus, ao lado de Raabe, Rute e a mulher de Urias."
+        ],
+        "en": [
+          "Tamar is the wife of Er, Judah’s firstborn. Er dies childless because of his wickedness, and Judah tells Onan, his brother, to fulfill the duty of raising offspring for the dead man; Onan avoids it and also dies (Gen 38:6–10). Judah tells Tamar to wait in her father’s house until Shelah, the youngest, grows up, but does not keep his promise (Gen 38:11–14). This custom is that of brother-in-law marriage, later regulated in the law of Moses (Deut 25:5–10).",
+          "Tamar covers herself with a veil and sits by the road at Timnah; Judah, now a widower, takes her for a prostitute and leaves with her his signet, cord and staff as a pledge (Gen 38:14–18). When her pregnancy shows and she is condemned, Tamar produces the three objects and says whose child it is. Judah acknowledges: “She is more righteous than I, since I did not give her to my son Shelah” (Gen 38:24–26).",
+          "She bears twins, Perez and Zerah (Gen 38:27–30). Perez is in the line of David (Ruth 4:12, 18–22), and Matthew 1:3 names Tamar among the four women of the genealogy of Jesus, alongside Rahab, Ruth and the wife of Uriah."
+        ]
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Nora de Judá; mãe de Perez e Zerá (38)",
+            "en": "Judah’s daughter-in-law; mother of Perez and Zerah (38)"
+          }
+        }
+      ],
+      "linkBooks": [
+        "gen"
+      ]
     }
   ]
 }
