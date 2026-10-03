@@ -37,7 +37,7 @@ Do Êxodo na linha do tempo, por exemplo, um clique leva ao mapa de Êxodo já n
 - **Mapa** em 46 livros, com costa em vetor própria (sem tiles externos), rótulos sem colisão, zoom por região, legenda e marcação de localização debatida.
 - **Linha do tempo** com 13 períodos e 69 eventos, em escala por bloco, datas aproximadas marcadas e cronologias debatidas (como a do Êxodo) mostradas lado a lado. Os livros ficam ligados ao período que o texto descreve.
 - **Personagens**: 210 pessoas, com resumo, livros onde aparecem, eventos e lugares; lista por ordem alfabética ou por livro.
-- **Genealogia**: árvore de Adão a Jesus com Mateus 1 e Lucas 3 lado a lado; cada ligação cita o texto bíblico e as divergências entre as listas ficam em notas.
+- **Genealogia**: duas árvores: de Adão a Jesus (Gênesis, Rute, 1Crônicas e Mateus 1) e de Abraão às doze tribos; cada ligação cita o texto bíblico e as divergências ficam em notas.
 - **Salmos como tabela**: os 150 salmos coloridos por livro do Saltério, título ou gênero, com os salmos de título histórico ligados a Davi, aos personagens e à linha do tempo.
 - **Estrutura de Jó, Provérbios, Eclesiastes e Cantares**: os capítulos coloridos por parte (em Jó, por quem fala), a lista das partes e, em Eclesiastes e Cantares, as leituras lado a lado.
 - **Leitor de texto** em KJV, WEB e ASV (inglês), Bíblia Livre (português), com crédito e licença de cada uma.

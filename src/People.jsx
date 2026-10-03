@@ -110,7 +110,8 @@ export default function People({ lang, t, focusId, onOpenBook, onOpenTimeline, o
                   const tr = treeOf(nid);
                   const up = parentOf(nid);
                   const down = childrenOf(nid);
-                  const branch = gNodes[nid].branch ? pick(tr.branches[gNodes[nid].branch], lang) : null;
+                  const many = new Set(nodesOfPerson(person.id).map((x) => treeOf(x).id)).size > 1;
+                  const branch = many ? pick(tr.title, lang) : gNodes[nid].branch ? pick(tr.branches[gNodes[nid].branch], lang) : null;
                   const chip = (id, c) => (gNodes[id].personId && gNodes[id].personId !== person.id
                     ? <button key={id} type="button" className="tl-chip" style={{ '--c': c }} onClick={() => onSelect(gNodes[id].personId)}>{nodeName(id, lang)}</button>
                     : <span key={id} className="tl-chip" style={{ '--c': c }}>{nodeName(id, lang)}</span>);
@@ -118,6 +119,7 @@ export default function People({ lang, t, focusId, onOpenBook, onOpenTimeline, o
                     <div key={nid} className="fam-row">
                       {branch && <b>{branch}</b>}
                       {up && <div className="tl-chips"><small>{t.famParent}:</small>{chip(up.from, 'var(--s-atos)')}<small>{refsText(up.refs, lang)}</small></div>}
+                      {up?.motherName && <div className="tl-chips"><small>{t.famMother}:</small><span className="tl-chip" style={{ '--c': 'var(--s-atos)' }}>{pick(up.motherName, lang)}</span></div>}
                       {up?.mother && byId[up.mother] && <div className="tl-chips"><small>{t.famMother}:</small><button type="button" className="tl-chip" style={{ '--c': 'var(--s-atos)' }} onClick={() => onSelect(up.mother)}>{pick(byId[up.mother].name, lang)}</button></div>}
                       {down.length > 0 && <div className="tl-chips"><small>{t.famKids}:</small>{down.map((l) => chip(l.to, 'var(--s-atos)'))}</div>}
                       <button type="button" className="ghost" onClick={() => onOpenTree(tr.id, nid)}>{t.famTree}</button>

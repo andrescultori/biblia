@@ -11,7 +11,7 @@ const H = 30; // altura do nó
 const DX = 184; // distância entre colunas
 const DY = 46; // distância entre gerações
 const SPLIT = 34;
-const COLOR = { mt: 'var(--s-evangelhos)', lc: 'var(--s-atos)' };
+const COLOR = { mt: 'var(--s-evangelhos)' };
 
 function build(id) {
   return { id, kids: childrenOf(id).map((l) => build(l.to)) };
@@ -23,14 +23,16 @@ export default function Genealogy({ lang, t, treeId, focusNode, onOpenBook, onOp
   const sel = focusNode && nodes[focusNode] ? focusNode : null;
   const svgRef = useRef(null);
 
+  const isList = tr.layout === 'list';
   const layout = useMemo(() => {
+    if (isList) return null;
     const root = hierarchy(build(tr.root), (d) => d.kids);
     d3tree().nodeSize([DX, DY]).separation(() => 1)(root);
     const all = root.descendants();
     all.forEach((n) => { if (nodes[n.data.id].branch) n.y += SPLIT; }); // espaço para o título de cada ramo
     const xs = all.map((n) => n.x);
     return { all, links: root.links(), minX: Math.min(...xs) - W / 2 - 8, maxX: Math.max(...xs) + W / 2 + 8, maxY: Math.max(...all.map((n) => n.y)) + H + 12 };
-  }, [tr]);
+  }, [tr, isList]);
 
   usePageTitle([sel && nodeName(sel, lang), pick(tr.title, lang), t.genealogy], t.title);
   useEffect(() => {
@@ -42,11 +44,25 @@ export default function Genealogy({ lang, t, treeId, focusNode, onOpenBook, onOp
   const select = (id) => onSelect(tr.id, id);
   const color = (id) => COLOR[nodes[id].branch] ?? 'var(--muted)';
   const branchStart = {};
-  for (const n of layout.all) { const b = nodes[n.data.id].branch; if (b && !branchStart[b]) branchStart[b] = n; }
+  for (const n of layout?.all ?? []) { const b = nodes[n.data.id].branch; if (b && !branchStart[b]) branchStart[b] = n; }
 
   const link = sel ? parentOf(sel) : null;
   const kids = sel ? childrenOf(sel) : [];
   const person = sel && nodes[sel].personId ? personById[nodes[sel].personId] : null;
+  const motherOf = (l) => (l?.mother && personById[l.mother] ? pick(personById[l.mother].name, lang) : l?.motherName ? pick(l.motherName, lang) : null);
+  const renderItem = (id) => {
+    const l = parentOf(id);
+    const mom = motherOf(l);
+    const on = id === sel;
+    return (
+      <li key={id}>
+        <button type="button" data-node={id} className={`gn-item${on ? ' on' : ''}`} aria-pressed={on} onClick={() => select(id)}>
+          {nodeName(id, lang)}{mom && <small> · {mom}</small>}{nodes[id].note && <i className="gn-dot-i" aria-hidden="true" />}
+        </button>
+        {childrenOf(id).length > 0 && <ul className="gn-list">{childrenOf(id).map((k) => renderItem(k.to))}</ul>}
+      </li>
+    );
+  };
   const branchName = (id) => { const b = nodes[id].branch; return b ? pick(tr.branches[b], lang) : null; };
 
   return (
@@ -63,11 +79,19 @@ export default function Genealogy({ lang, t, treeId, focusNode, onOpenBook, onOp
           </div>
         </div>
         <div className="body">
+          {trees.length > 1 && (
+            <div className="tl-chips" role="group" aria-label={t.genealogy}>
+              {trees.map((x) => (
+                <button key={x.id} type="button" className="tl-chip" aria-pressed={x.id === tr.id} style={{ '--c': 'var(--s-atos)' }} onClick={() => onSelect(x.id)}>{pick(x.title, lang)}</button>
+              ))}
+            </div>
+          )}
           <p className="pp-summary">{pick(tr.intro, lang)}</p>
           <p className="tl-warn">{pick(tr.note, lang)}</p>
           <div className="gn-wrap">
             <div className="gn-tree">
-              <svg ref={svgRef} className="gn-svg" viewBox={`${layout.minX} -34 ${layout.maxX - layout.minX} ${layout.maxY + 34}`} role="group" aria-label={pick(tr.title, lang)}>
+              {isList && <ul className="gn-list gn-root" ref={svgRef}>{renderItem(tr.root)}</ul>}
+              {!isList && <svg ref={svgRef} className="gn-svg" viewBox={`${layout.minX} -34 ${layout.maxX - layout.minX} ${layout.maxY + 34}`} role="group" aria-label={pick(tr.title, lang)}>
                 {layout.links.map((l) => (
                   <path key={l.target.data.id} className="gn-link" stroke={color(l.target.data.id)}
                     d={`M${l.source.x},${l.source.y + H} V${(l.source.y + H + l.target.y) / 2} H${l.target.x} V${l.target.y}`} />
@@ -88,7 +112,7 @@ export default function Genealogy({ lang, t, treeId, focusNode, onOpenBook, onOp
                     </g>
                   );
                 })}
-              </svg>
+              </svg>}
             </div>
 
             <aside className="gn-panel" aria-live="polite">
@@ -105,11 +129,10 @@ export default function Genealogy({ lang, t, treeId, focusNode, onOpenBook, onOp
                         <button type="button" className="tl-chip" style={{ '--c': color(link.from) }} onClick={() => select(link.from)}>{nodeName(link.from, lang)}</button>
                         {' '}<small>{refsText(link.refs, lang)}</small>
                       </p>
-                      {link.mother && (
-                        <p>{t.treeMother}: {personById[link.mother] ? (
-                          <button type="button" className="tl-chip" style={{ '--c': 'var(--s-atos)' }} onClick={() => onOpenPerson(link.mother)}>{pick(personById[link.mother].name, lang)}</button>
-                        ) : link.mother}</p>
+                      {link.mother && personById[link.mother] && (
+                        <p>{t.treeMother}: <button type="button" className="tl-chip" style={{ '--c': 'var(--s-atos)' }} onClick={() => onOpenPerson(link.mother)}>{pick(personById[link.mother].name, lang)}</button></p>
                       )}
+                      {link.motherName && <p>{t.treeMother}: {pick(link.motherName, lang)}</p>}
                       {link.note && <p className="tl-warn">{pick(link.note, lang)}</p>}
                     </>
                   )}
