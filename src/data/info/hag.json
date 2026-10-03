@@ -42,6 +42,9 @@
         "pt": "Ageu",
         "en": "Haggai"
       },
+      "ids": [
+        "ageu"
+      ],
       "role": {
         "pt": "Profeta",
         "en": "Prophet"

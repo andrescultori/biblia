@@ -71,6 +71,7 @@ O botão **Personagens** abre uma página com a lista (busca e filtro por livro)
   "note": { "pt": "...", "en": "..." } }
 ```
 
+- `autoLink: false` e `linkBooks: ["luk"]` (opcionais) controlam o link automático do nome nas fichas dos livros: o primeiro desliga (nome que também é tribo ou terra, como Judá), o segundo restringe aos livros listados.
 - `events` usa os ids de `timeline.json`; `places` usa o nome em PT do lugar no mapa da ficha daquele livro (e o `en` igual). `npm run check` confere ids únicos, livros, eventos, lugares e PT/EN.
 - O evento da linha do tempo lista as pessoas ligadas a ele e o lugar do mapa também.
 - `summary` é o resumo de uma frase a três (aparece na lista e abre a página); `bio` é o texto mais longo, em 2 a 3 parágrafos, mostrado abaixo do resumo (PT e EN com o mesmo número de parágrafos).
