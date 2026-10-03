@@ -81,6 +81,16 @@ Na ficha do livro (`src/data/info/<slug>.json`), cada item de `characters` pode 
 
 Nos textos da ficha, os nomes de personagens e os lugares do mapa do livro viram links automaticamente (`src/linkify.jsx`), a partir de `src/data/people-index.json`, gerado por `node scripts/build-people-index.mjs` sempre que `people.json` mudar.
 
+## Genealogia
+
+`src/data/genealogia.json` guarda as árvores (hoje uma: `adao-jesus`). Três partes:
+
+- `trees[]`: `id`, `root` (nó da raiz), `title`, `intro`, `note` (PT/EN) e `branches` (nome de cada ramo, por exemplo `mt` = Mateus 1 e `lc` = Lucas 3).
+- `nodes{}`: um nó por posição na lista. `name` (PT/EN), `personId` opcional (liga à página do personagem), `branch` opcional e `note` opcional. A mesma pessoa pode ter dois nós (Zorobabel em Mateus e em Lucas); os ids são únicos.
+- `links[]`: ligações pai → filho. `from`, `to`, `refs[]` (**obrigatório**: `{book, ref}`, por exemplo `{"book":"gen","ref":"5:3"}`), `mother` opcional (id de `people.json`, quando o texto cita a mãe) e `note` opcional.
+
+Regras: nunca ligar sem referência bíblica; cada nó tem um pai só; todos os nós saem da raiz. Onde as listas divergem (Mateus × Lucas, Gênesis 11 hebraico × Lucas 3:36), a diferença vai em `note`, sem escolher uma leitura. `npm run check` confere ids, referências, pai único e ciclos. A página usa `d3-hierarchy` (`src/Genealogy.jsx`) e o bloco **Família** da página do personagem lê os mesmos dados (`src/genealogy.js`).
+
 ## Configurações
 
 O botão ⚙ abre as preferências de estudo, guardadas no navegador (`localStorage`). Por enquanto: **mostrar a posição acadêmica** (padrão: ligado). Desligada, a ficha mostra só a posição tradicional de autoria e datação, e a linha do tempo só a leitura tradicional das datas. O aviso de que a outra posição existe fica só na própria tela de Configurações. Em Personagens, a lista pode ser ordenada A–Z ou por livro (lembrada no navegador).
@@ -100,6 +110,7 @@ A navegação usa o hash da URL, sem biblioteca de rotas; o botão voltar do nav
 | `#2ki/map/Laquis` | aba Mapa com o lugar selecionado (nome em PT) |
 | `#timeline`, `#timeline/exodo` | linha do tempo, com o evento em foco |
 | `#person`, `#person/davi` | lista de personagens ou a página de uma pessoa |
+| `#tree/adao-jesus`, `#tree/adao-jesus/lc-eli` | árvore genealógica, com o nome em foco |
 
 Trocar de aba ou de lugar atualiza o endereço sem criar entrada no histórico; ir para outra página cria. Ao voltar para a grade, a rolagem é restaurada. O código está em `src/route.js`.
 
