@@ -40,9 +40,9 @@
     { "name": { "pt": "Moisés", "en": "Moses" }, "ids": ["moises"], "role": { "pt": "Líder do povo e mediador", "en": "Leader of the people and mediator" } },
     { "name": { "pt": "Arão e Miriã", "en": "Aaron and Miriam" }, "ids": ["arao", "miria"], "role": { "pt": "Irmãos de Moisés; Miriã e Arão o questionam (cap. 12)", "en": "Moses' siblings; Miriam and Aaron challenge him (ch. 12)" } },
     { "name": { "pt": "Josué e Calebe", "en": "Joshua and Caleb" }, "ids": ["josue", "calebe"], "role": { "pt": "Espias que confiam na promessa (caps. 13–14)", "en": "Spies who trust the promise (chs. 13–14)" } },
-    { "name": { "pt": "Corá", "en": "Korah" }, "role": { "pt": "Lidera uma rebelião contra Moisés e Arão (cap. 16)", "en": "Leads a rebellion against Moses and Aaron (ch. 16)" } },
-    { "name": { "pt": "Balaão e Balaque", "en": "Balaam and Balak" }, "role": { "pt": "Adivinho convocado por um rei de Moabe (caps. 22–24)", "en": "A diviner summoned by a king of Moab (chs. 22–24)" } },
-    { "name": { "pt": "Eleazar e Fineias", "en": "Eleazar and Phinehas" }, "role": { "pt": "Sacerdotes da nova geração (caps. 20; 25)", "en": "Priests of the new generation (chs. 20; 25)" } },
+    { "name": { "pt": "Corá", "en": "Korah" }, "ids": ["cora"], "role": { "pt": "Lidera uma rebelião contra Moisés e Arão (cap. 16)", "en": "Leads a rebellion against Moses and Aaron (ch. 16)" } },
+    { "name": { "pt": "Balaão e Balaque", "en": "Balaam and Balak" }, "ids": ["balaao", null], "role": { "pt": "Adivinho convocado por um rei de Moabe (caps. 22–24)", "en": "A diviner summoned by a king of Moab (chs. 22–24)" } },
+    { "name": { "pt": "Eleazar e Fineias", "en": "Eleazar and Phinehas" }, "ids": ["eleazar", "fineias"], "role": { "pt": "Sacerdotes da nova geração (caps. 20; 25)", "en": "Priests of the new generation (chs. 20; 25)" } },
     { "name": { "pt": "As filhas de Zelofeade", "en": "The daughters of Zelophehad" }, "role": { "pt": "Reivindicam direito de herança (caps. 27 e 36)", "en": "Claim a right of inheritance (chs. 27 and 36)" } }
   ],
   "outline": [

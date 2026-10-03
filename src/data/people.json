@@ -6776,6 +6776,544 @@
           }
         }
       ]
+    },
+    {
+      "id": "assuero",
+      "name": {
+        "pt": "Assuero",
+        "en": "Ahasuerus"
+      },
+      "summary": {
+        "pt": "Rei da Pérsia que reina da Índia à Etiópia, em Susã. Depõe Vasti, faz de Ester sua rainha, autoriza o decreto de Hamã contra os judeus e depois o decreto que os protege (Et 1–10).",
+        "en": "King of Persia who reigns from India to Ethiopia, at Susa. He deposes Vashti, makes Esther his queen, authorizes Haman’s decree against the Jews and then the decree that protects them (Esth 1–10)."
+      },
+      "bio": {
+        "pt": [
+          "O livro de Ester abre dizendo que Assuero reinava “da Índia até a Etiópia, sobre cento e vinte e sete províncias”, e que seu trono ficava em Susã (Et 1:1–2). O nome corresponde ao persa Xerxes, e a identificação mais comum é com Xerxes I, mas o livro usa só Assuero. O texto o mostra dando banquetes de grande riqueza, impulsivo e sujeito aos conselheiros: depõe a rainha Vasti por recusar-se a vir, e a escolha de uma nova rainha ocupa os anos seguintes (Et 1–2).",
+          "No sétimo ano de seu reinado, Ester é feita rainha (Et 2:16–17). Assuero eleva Hamã sobre todos os príncipes e, sem conhecer o povo a que o decreto se referia, aprova o seu edito de exterminar os judeus, entregando-lhe o anel real (Et 3:1, 8–11). Quando Ester o convida a banquetes e revela que é judia e que seu povo foi vendido, Assuero se enfurece com Hamã e manda enforcá-lo (Et 5–7). Como as ordens reais escritas em nome do rei não podiam ser revogadas, ele autoriza novo decreto, redigido por Mardoqueu e Ester, que permite aos judeus se defenderem (Et 8:7–14).",
+          "Assuero também aparece no fim do livro: impõe tributo à terra e às ilhas, e seus feitos e a grandeza de Mardoqueu, que se tornou o segundo depois dele, estão nas crônicas dos reis da Média e da Pérsia (Et 10:1–3). Esdras 4:6 menciona Assuero no início de seu reinado, quando inimigos de Judá escrevem acusações contra os que reconstruíam Jerusalém. O Assuero de Daniel 9:1, pai de Dario, o medo, é outra pessoa."
+        ],
+        "en": [
+          "The book of Esther opens by saying that Ahasuerus reigned “from India to Ethiopia, over 127 provinces,” and that his throne was at Susa (Esth 1:1–2). The name corresponds to the Persian Xerxes, and the most common identification is with Xerxes I, but the book uses only Ahasuerus. The text shows him giving banquets of great wealth, impulsive and subject to his counselors: he deposes Queen Vashti for refusing to come, and the choice of a new queen occupies the following years (Esth 1–2).",
+          "In the seventh year of his reign Esther is made queen (Esth 2:16–17). Ahasuerus promotes Haman above all the princes and, without knowing the people the decree concerned, approves his edict to destroy the Jews, giving him the royal signet ring (Esth 3:1, 8–11). When Esther invites him to banquets and reveals that she is a Jew and that her people have been sold, Ahasuerus is enraged with Haman and has him hanged (Esth 5–7). Since royal orders written in the king’s name could not be revoked, he authorizes a new decree, written by Mordecai and Esther, that allows the Jews to defend themselves (Esth 8:7–14).",
+          "Ahasuerus also appears at the end of the book: he lays tribute on the land and the coastlands, and his deeds and the greatness of Mordecai, who became second only to him, are in the chronicles of the kings of Media and Persia (Esth 10:1–3). Ezra 4:6 mentions Ahasuerus at the start of his reign, when enemies of Judah write accusations against those rebuilding Jerusalem. The Ahasuerus of Daniel 9:1, father of Darius the Mede, is a different person."
+        ]
+      },
+      "books": [
+        {
+          "book": "est",
+          "role": {
+            "pt": "Rei da Pérsia; Ester é sua rainha (1–10)",
+            "en": "King of Persia; Esther is his queen (1–10)"
+          }
+        }
+      ],
+      "events": [
+        "ester"
+      ],
+      "places": [
+        {
+          "book": "est",
+          "name": "Susã",
+          "en": "Susa"
+        },
+        {
+          "book": "est",
+          "name": "Pérsia",
+          "en": "Persia"
+        }
+      ],
+      "note": {
+        "pt": "Não confundir com o Assuero de Dn 9:1, pai de Dario, o medo.",
+        "en": "Not to be confused with the Ahasuerus of Dan 9:1, father of Darius the Mede."
+      }
+    },
+    {
+      "id": "balaao",
+      "name": {
+        "pt": "Balaão",
+        "en": "Balaam"
+      },
+      "summary": {
+        "pt": "Adivinho, filho de Beor, contratado por Balaque de Moabe para amaldiçoar Israel. O Senhor o impede, e ele abençoa Israel; morre depois entre os midianitas (Nm 22–24; 31:8, 16). Pedro e Judas o citam como exemplo a evitar.",
+        "en": "A diviner, son of Beor, hired by Balak of Moab to curse Israel. The Lord stops him, and he blesses Israel; he later dies among the Midianites (Num 22–24; 31:8, 16). Peter and Jude cite him as an example to avoid."
+      },
+      "bio": {
+        "pt": [
+          "Balaão, filho de Beor, vem de Petor, junto ao Eufrates (Nm 22:5). Quando Israel acampa nas planícies de Moabe, o rei Balaque manda chamá-lo para amaldiçoar o povo, com recompensa de adivinho. Balaão consulta o Senhor e ouve: “Não irás com eles; não amaldiçoarás este povo, porque é bendito” (Nm 22:1–12). Depois de novos mensageiros, Deus permite que vá, desde que fale só o que ele disser (Nm 22:20). No caminho, a jumenta vê o anjo do Senhor com a espada na mão e se desvia três vezes; Balaão a espanca, o Senhor abre a boca da jumenta, e então Balaão vê o anjo (Nm 22:22–35).",
+          "Balaque leva Balaão a três lugares para ver o acampamento de Israel, mas, em vez de amaldiçoar, Balaão pronuncia bênçãos, para ira do rei (Nm 23–24). Entre elas está a profecia: “Uma estrela procederá de Jacó, e um cetro subirá de Israel” (Nm 24:17), que a tradição cristã e a judaica ligam ao rei vindouro. Balaão volta para sua terra (Nm 24:25).",
+          "Mas o livro volta a mencionar Balaão depois: foi por conselho dele que as mulheres midianitas fizeram Israel pecar com Baal-Peor (Nm 31:16; 25), e ele é morto à espada na vingança contra Midiã (Nm 31:8; Js 13:22). Deuteronômio 23:4–5 e Neemias 13:2 lembram que ele foi contratado para amaldiçoar, mas Deus transformou a maldição em bênção. No Novo Testamento, Pedro fala dos que seguiram “o caminho de Balaão, filho de Beor, que amou o salário da injustiça” (2Pe 2:15), Judas, do “erro de Balaão” (Jd 11), e o Apocalipse, da “doutrina de Balaão” (Ap 2:14)."
+        ],
+        "en": [
+          "Balaam, son of Beor, comes from Pethor, by the Euphrates (Num 22:5). When Israel camps in the plains of Moab, King Balak sends for him to curse the people, with a diviner’s reward. Balaam consults the Lord and hears, “You shall not go with them. You shall not curse the people, for they are blessed” (Num 22:1–12). After further messengers, God permits him to go, as long as he speaks only what God says (Num 22:20). On the way the donkey sees the angel of the Lord with his sword drawn and turns aside three times; Balaam beats her, the Lord opens the donkey’s mouth, and then Balaam sees the angel (Num 22:22–35).",
+          "Balak takes Balaam to three places to see Israel’s camp, but instead of cursing, Balaam pronounces blessings, to the king’s anger (Num 23–24). Among them is the prophecy, “A star shall come out of Jacob, and a scepter shall rise out of Israel” (Num 24:17), which Christian and Jewish tradition connect with the coming king. Balaam returns to his own place (Num 24:25).",
+          "But the book mentions Balaam again later: it was on his advice that the Midianite women made Israel sin at Baal-peor (Num 31:16; 25), and he is killed by the sword in the vengeance against Midian (Num 31:8; Josh 13:22). Deuteronomy 23:4–5 and Nehemiah 13:2 recall that he was hired to curse, but God turned the curse into a blessing. In the New Testament, Peter speaks of those who followed “the way of Balaam, the son of Beor, who loved gain from wrongdoing” (2 Pet 2:15), Jude of “Balaam’s error” (Jude 11), and Revelation of “the teaching of Balaam” (Rev 2:14)."
+        ]
+      },
+      "books": [
+        {
+          "book": "num",
+          "role": {
+            "pt": "Adivinho contratado por Balaque; abençoa Israel (22–24; 31)",
+            "en": "Diviner hired by Balak; blesses Israel (22–24; 31)"
+          }
+        },
+        {
+          "book": "jos",
+          "role": {
+            "pt": "Morto com os midianitas (13:22)",
+            "en": "Killed with the Midianites (13:22)"
+          }
+        },
+        {
+          "book": "2pe",
+          "role": {
+            "pt": "“O caminho de Balaão” (2:15)",
+            "en": "“The way of Balaam” (2:15)"
+          }
+        },
+        {
+          "book": "jud",
+          "role": {
+            "pt": "“O erro de Balaão” (v. 11)",
+            "en": "“The error of Balaam” (v. 11)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "num",
+          "name": "Planícies de Moabe",
+          "en": "Plains of Moab"
+        }
+      ]
+    },
+    {
+      "id": "cora",
+      "name": {
+        "pt": "Corá",
+        "en": "Korah"
+      },
+      "summary": {
+        "pt": "Levita, filho de Izar, que lidera com Datã e Abirão uma rebelião contra Moisés e Arão no deserto. A terra engole os rebeldes, e o fogo consome 250 que ofereciam incenso (Nm 16). Seus filhos não morreram (Nm 26:11).",
+        "en": "A Levite, son of Izhar, who leads with Dathan and Abiram a rebellion against Moses and Aaron in the wilderness. The earth swallows the rebels, and fire consumes 250 who offered incense (Num 16). His sons did not die (Num 26:11)."
+      },
+      "bio": {
+        "pt": [
+          "Corá, filho de Izar, é levita da família de Coate, parente de Moisés e Arão (Êx 6:21; Nm 16:1). Em Números 16, ele se une a Datã, Abirão e On, da tribo de Rúben, e a duzentos e cinquenta chefes da congregação, e eles se levantam contra Moisés e Arão: “Basta! Toda a congregação é santa, todos são santos, e o Senhor está no meio deles; por que vos exaltais sobre a assembleia do Senhor?” (Nm 16:1–3). Moisés cai com o rosto em terra e propõe que o Senhor mostre quem é seu e quem é santo, no dia seguinte, por meio de incensários (Nm 16:4–7).",
+          "Moisés diz aos levitas que não se contentam com o serviço do tabernáculo e que querem também o sacerdócio (Nm 16:8–11). Datã e Abirão se recusam a vir, acusando-o de os ter tirado de uma terra que mana leite e mel para matá-los no deserto (Nm 16:12–14). No dia seguinte, o Senhor se manifesta, e Moisés avisa o povo para se afastar das tendas dos rebeldes. A terra se abre e engole Datã, Abirão e suas casas, e desce viva ao Seol; o fogo do Senhor consome os duzentos e cinquenta que ofereciam incenso (Nm 16:23–35; 26:9–10). Os incensários viram revestimento do altar, como lembrança (Nm 16:36–40). Depois, a vara de Arão floresce, confirmando a escolha do Senhor (Nm 17).",
+          "O texto de Números 26:11 diz que “os filhos de Corá não morreram”. Seus descendentes aparecem mais tarde como porteiros e cantores do templo (1Cr 6:31–37; 9:19), e os títulos de vários salmos os mencionam, como “dos filhos de Corá” (Sl 42; 44–49; 84–85; 87–88). Judas 11 usa “a rebelião de Corá” como exemplo dos que desprezam a autoridade estabelecida por Deus."
+        ],
+        "en": [
+          "Korah, son of Izhar, is a Levite of the family of Kohath, a relative of Moses and Aaron (Exod 6:21; Num 16:1). In Numbers 16 he joins Dathan, Abiram and On, of the tribe of Reuben, and two hundred fifty chiefs of the congregation, and they rise up against Moses and Aaron: “You have gone too far! For all in the congregation are holy, every one of them, and the Lord is among them. Why then do you exalt yourselves above the assembly of the Lord?” (Num 16:1–3). Moses falls on his face and proposes that the Lord show the next day, by means of censers, who is his and who is holy (Num 16:4–7).",
+          "Moses tells the Levites that they are not content with the service of the tabernacle and also seek the priesthood (Num 16:8–11). Dathan and Abiram refuse to come, accusing him of bringing them out of a land flowing with milk and honey to kill them in the wilderness (Num 16:12–14). The next day the Lord appears, and Moses warns the people to move away from the tents of the rebels. The earth opens and swallows Dathan, Abiram and their households, and they go down alive into Sheol; the fire of the Lord consumes the two hundred fifty who offered incense (Num 16:23–35; 26:9–10). The censers become a covering for the altar, as a reminder (Num 16:36–40). Afterward Aaron’s staff buds, confirming the Lord’s choice (Num 17).",
+          "The text of Numbers 26:11 says that “the sons of Korah did not die.” His descendants appear later as gatekeepers and singers of the temple (1 Chr 6:31–37; 9:19), and the titles of several psalms mention them, as “of the sons of Korah” (Pss 42; 44–49; 84–85; 87–88). Jude 11 uses “Korah’s rebellion” as an example of those who despise the authority God has established."
+        ]
+      },
+      "books": [
+        {
+          "book": "num",
+          "role": {
+            "pt": "Lidera a rebelião contra Moisés e Arão (16)",
+            "en": "Leads the rebellion against Moses and Aaron (16)"
+          }
+        },
+        {
+          "book": "jud",
+          "role": {
+            "pt": "“A rebelião de Corá” (v. 11)",
+            "en": "“Korah’s rebellion” (v. 11)"
+          }
+        },
+        {
+          "book": "psa",
+          "role": {
+            "pt": "Seus descendentes, os “filhos de Corá”, aparecem em títulos de salmos (42; 44–49; 84–85; 87–88)",
+            "en": "His descendants, the “sons of Korah,” appear in psalm titles (42; 44–49; 84–85; 87–88)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "eleazar",
+      "name": {
+        "pt": "Eleazar",
+        "en": "Eleazar"
+      },
+      "summary": {
+        "pt": "Terceiro filho de Arão. Torna-se sumo sacerdote com a morte de Arão, ajuda Moisés a recensear o povo e, com Josué, reparte a terra de Canaã (Nm 20:25–28; 26; Js 14:1).",
+        "en": "Third son of Aaron. He becomes high priest at Aaron’s death, helps Moses take the census of the people and, with Joshua, divides the land of Canaan (Num 20:25–28; 26; Josh 14:1)."
+      },
+      "bio": {
+        "pt": [
+          "Eleazar é o terceiro filho de Arão e Eliseba (Êx 6:23). Com os irmãos Nadabe, Abiú e Itamar, é consagrado sacerdote no Sinai (Êx 28:1; Lv 8). Quando Nadabe e Abiú morrem ao oferecer fogo estranho, Moisés manda que Eleazar e Itamar continuem o serviço sem luto público (Lv 10:1–7). Eleazar é nomeado chefe dos chefes dos levitas e fica responsável pelo óleo, pelo incenso e pela oferta perpétua no tabernáculo (Nm 3:32; 4:16).",
+          "Depois da rebelião de Corá, o Senhor manda Eleazar recolher os incensários dos homens que morreram e transformá-los em chapas para cobrir o altar, como lembrança (Nm 16:36–40). Quando Arão morre, no monte Hor, Moisés o leva ao alto com Eleazar e lhe passa as vestes sacerdotais; Arão morre ali, e Eleazar desce como sumo sacerdote (Nm 20:25–28). Com Moisés, ele conta o povo nas planícies de Moabe (Nm 26:1–4, 63). Josué é instruído a consultar o Senhor por meio de Eleazar, com o Urim (Nm 27:18–23).",
+          "Depois da morte de Moisés, Eleazar e Josué dividem a terra por sorteio entre as tribos (Nm 34:17; Js 14:1; 19:51). Quando Eleazar morre, é sepultado na colina de seu filho Fineias, nos montes de Efraim (Js 24:33). Seu filho Fineias o sucede (Jz 20:28). A linhagem sacerdotal de Eleazar aparece em Crônicas até Zadoque (1Cr 6:50–53)."
+        ],
+        "en": [
+          "Eleazar is the third son of Aaron and Elisheba (Exod 6:23). With his brothers Nadab, Abihu and Ithamar, he is consecrated a priest at Sinai (Exod 28:1; Lev 8). When Nadab and Abihu die offering unauthorized fire, Moses tells Eleazar and Ithamar to continue the service without public mourning (Lev 10:1–7). Eleazar is appointed chief of the chiefs of the Levites and is responsible for the oil, the incense and the regular offering at the tabernacle (Num 3:32; 4:16).",
+          "After Korah’s rebellion the Lord tells Eleazar to collect the censers of the men who died and hammer them into plating to cover the altar, as a reminder (Num 16:36–40). When Aaron dies on Mount Hor, Moses takes him up with Eleazar and transfers the priestly garments to Eleazar; Aaron dies there, and Eleazar comes down as high priest (Num 20:25–28). With Moses he takes the census of the people in the plains of Moab (Num 26:1–4, 63). Joshua is instructed to inquire of the Lord through Eleazar, by the Urim (Num 27:18–23).",
+          "After Moses’ death Eleazar and Joshua divide the land by lot among the tribes (Num 34:17; Josh 14:1; 19:51). When Eleazar dies he is buried in the hill of his son Phinehas, in the hill country of Ephraim (Josh 24:33). His son Phinehas succeeds him (Judg 20:28). The priestly line of Eleazar appears in Chronicles down to Zadok (1 Chr 6:50–53)."
+        ]
+      },
+      "books": [
+        {
+          "book": "exo",
+          "role": {
+            "pt": "Filho de Arão, consagrado sacerdote (6:23; 28:1)",
+            "en": "Son of Aaron, consecrated priest (6:23; 28:1)"
+          }
+        },
+        {
+          "book": "lev",
+          "role": {
+            "pt": "Serve depois da morte de Nadabe e Abiú (10)",
+            "en": "Serves after the death of Nadab and Abihu (10)"
+          }
+        },
+        {
+          "book": "num",
+          "role": {
+            "pt": "Sucede Arão como sumo sacerdote (20:25–28)",
+            "en": "Succeeds Aaron as high priest (20:25–28)"
+          }
+        },
+        {
+          "book": "jos",
+          "role": {
+            "pt": "Com Josué, reparte a terra (14:1; 19:51)",
+            "en": "With Joshua, divides the land (14:1; 19:51)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "num",
+          "name": "Monte Hor",
+          "en": "Mount Hor"
+        },
+        {
+          "book": "num",
+          "name": "Planícies de Moabe",
+          "en": "Plains of Moab"
+        }
+      ]
+    },
+    {
+      "id": "fineias",
+      "name": {
+        "pt": "Fineias",
+        "en": "Phinehas"
+      },
+      "summary": {
+        "pt": "Filho de Eleazar e neto de Arão. Em Baal-Peor, mata um israelita e uma midianita, faz cessar a praga e recebe a aliança de paz e de um sacerdócio perpétuo (Nm 25). Também aparece em Js 22 e Jz 20:28.",
+        "en": "Son of Eleazar and grandson of Aaron. At Baal-peor he kills an Israelite and a Midianite woman, stops the plague and receives the covenant of peace and of a perpetual priesthood (Num 25). He also appears in Josh 22 and Judg 20:28."
+      },
+      "bio": {
+        "pt": [
+          "Fineias, filho de Eleazar e neto de Arão, aparece primeiro como filho de uma das filhas de Putiel (Êx 6:25). Seu momento principal está em Números 25: Israel, em Sitim, se envolve com as mulheres moabitas e com o culto a Baal-Peor, e uma praga mata milhares. Quando um homem israelita traz uma midianita à vista de todos, Fineias toma uma lança, entra na tenda e transpassa os dois; a praga cessa (Nm 25:1–9).",
+          "O Senhor diz que Fineias “tirou a minha ira de sobre os filhos de Israel”, porque foi zeloso por ele, e lhe dá a aliança de paz e a aliança de um sacerdócio perpétuo, para ele e sua descendência (Nm 25:10–13). O Salmo 106:30–31 recorda o episódio: “Levantou-se Fineias e executou o juízo, e cessou a praga; e isso lhe foi imputado como justiça.” Mais tarde, Moisés o manda com o exército contra Midiã, com os utensílios do santuário e as trombetas (Nm 31:6).",
+          "Depois da conquista, as tribos de Rúben, Gade e metade de Manassés constroem um grande altar junto ao Jordão, e as outras tribos se preparam para a guerra. Fineias vai com dez chefes para repreendê-las, e as tribos do leste explicam que o altar é um testemunho, não para sacrifícios; Fineias e os chefes aceitam a explicação (Js 22:9–34). Quando Eleazar morre, Fineias o sucede (Js 24:33). No tempo da guerra contra Benjamim, ele consulta o Senhor diante da arca em Betel (Jz 20:27–28)."
+        ],
+        "en": [
+          "Phinehas, son of Eleazar and grandson of Aaron, first appears as son of one of the daughters of Putiel (Exod 6:25). His chief moment is in Numbers 25: Israel, at Shittim, becomes involved with the Moabite women and the worship of Baal of Peor, and a plague kills thousands. When an Israelite man brings a Midianite woman in sight of everyone, Phinehas takes a spear, goes into the tent and pierces them both; the plague stops (Num 25:1–9).",
+          "The Lord says Phinehas “has turned back my wrath from the people of Israel,” because he was jealous with his jealousy, and gives him the covenant of peace and the covenant of a perpetual priesthood, for him and his descendants (Num 25:10–13). Psalm 106:30–31 recalls the episode: “Then Phinehas stood up and intervened, and the plague was stayed. And that was counted to him as righteousness.” Later Moses sends him with the army against Midian, with the vessels of the sanctuary and the trumpets (Num 31:6).",
+          "After the conquest the tribes of Reuben, Gad and the half-tribe of Manasseh build a great altar by the Jordan, and the other tribes prepare for war. Phinehas goes with ten chiefs to rebuke them, and the eastern tribes explain that the altar is a witness, not for sacrifices; Phinehas and the chiefs accept the explanation (Josh 22:9–34). When Eleazar dies, Phinehas succeeds him (Josh 24:33). In the time of the war against Benjamin he inquires of the Lord before the ark at Bethel (Judg 20:27–28)."
+        ]
+      },
+      "books": [
+        {
+          "book": "num",
+          "role": {
+            "pt": "Zelo em Baal-Peor; acompanha o exército contra Midiã (25; 31:6)",
+            "en": "Zeal at Baal-peor; goes with the army against Midian (25; 31:6)"
+          }
+        },
+        {
+          "book": "jos",
+          "role": {
+            "pt": "Chefe da delegação sobre o altar das tribos do leste (22)",
+            "en": "Heads the delegation about the altar of the eastern tribes (22)"
+          }
+        },
+        {
+          "book": "jdg",
+          "role": {
+            "pt": "Sacerdote que consulta o Senhor (20:28)",
+            "en": "Priest who consults the Lord (20:28)"
+          }
+        },
+        {
+          "book": "psa",
+          "role": {
+            "pt": "Seu zelo é lembrado (106:30–31)",
+            "en": "His zeal is recalled (106:30–31)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "num",
+          "name": "Planícies de Moabe",
+          "en": "Plains of Moab"
+        },
+        {
+          "book": "jos",
+          "name": "Siló",
+          "en": "Shiloh"
+        }
+      ],
+      "note": {
+        "pt": "Não confundir com Finéias, filho de Eli (1Sm 1:3).",
+        "en": "Not to be confused with Phinehas, son of Eli (1 Sam 1:3)."
+      }
+    },
+    {
+      "id": "otniel",
+      "name": {
+        "pt": "Otniel",
+        "en": "Othniel"
+      },
+      "summary": {
+        "pt": "Primeiro juiz de Israel, filho de Quenaz e sobrinho de Calebe. Toma Quiriate-Sefer, casa-se com Acsa e livra Israel de Cusã-Risataim (Js 15:16–19; Jz 1:12–15; 3:7–11).",
+        "en": "First judge of Israel, son of Kenaz and nephew of Caleb. He takes Kiriath-sepher, marries Achsah and delivers Israel from Cushan-rishathaim (Josh 15:16–19; Judg 1:12–15; 3:7–11)."
+      },
+      "bio": {
+        "pt": [
+          "Otniel, filho de Quenaz, é chamado irmão mais novo de Calebe (Jz 1:13; 3:9). Quando Calebe oferece sua filha Acsa em casamento a quem tomar Quiriate-Sefer (Debir), Otniel a conquista e se casa com ela (Js 15:16–17; Jz 1:12–13). Acsa pede ao pai também fontes de água, e Calebe lhe dá as fontes de cima e as de baixo (Js 15:18–19).",
+          "Em Juízes 3, depois que Israel esquece o Senhor e serve aos baalins e às aserás, o Senhor o entrega, por oito anos, a Cusã-Risataim, rei da Mesopotâmia. Israel clama, e o Senhor levanta como libertador Otniel, filho de Quenaz: “O Espírito do Senhor veio sobre ele, e julgou a Israel; e saiu à guerra, e o Senhor entregou em suas mãos Cusã-Risataim” (Jz 3:7–10).",
+          "A terra tem paz por quarenta anos, e então Otniel morre (Jz 3:11). Ele é o primeiro dos juízes narrados no livro e, ao contrário de outros, o texto não registra nenhuma falha dele. Crônicas cita seus filhos, entre os descendentes de Quenaz, em Judá (1Cr 4:13)."
+        ],
+        "en": [
+          "Othniel son of Kenaz is called Caleb’s younger brother (Judg 1:13; 3:9). When Caleb offers his daughter Achsah in marriage to whoever takes Kiriath-sepher (Debir), Othniel captures it and marries her (Josh 15:16–17; Judg 1:12–13). Achsah also asks her father for springs of water, and Caleb gives her the upper springs and the lower springs (Josh 15:18–19).",
+          "In Judges 3, after Israel forgets the Lord and serves the Baals and the Asheroth, the Lord gives them for eight years to Cushan-rishathaim, king of Mesopotamia. Israel cries out, and the Lord raises up as deliverer Othniel son of Kenaz: “The Spirit of the Lord was upon him, and he judged Israel. He went out to war, and the Lord gave Cushan-rishathaim king of Mesopotamia into his hand” (Judg 3:7–10).",
+          "The land has rest forty years, and then Othniel dies (Judg 3:11). He is the first of the judges narrated in the book and, unlike others, the text records no failing of his. Chronicles mentions his sons, among the descendants of Kenaz, in Judah (1 Chr 4:13)."
+        ]
+      },
+      "books": [
+        {
+          "book": "jos",
+          "role": {
+            "pt": "Toma Quiriate-Sefer e casa-se com Acsa (15:16–19)",
+            "en": "Takes Kiriath-sepher and marries Achsah (15:16–19)"
+          }
+        },
+        {
+          "book": "jdg",
+          "role": {
+            "pt": "Primeiro juiz de Israel (3:7–11)",
+            "en": "First judge of Israel (3:7–11)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "eude",
+      "name": {
+        "pt": "Eúde",
+        "en": "Ehud"
+      },
+      "summary": {
+        "pt": "Juiz benjamita, canhoto, filho de Gera. Mata Eglom, rei de Moabe, com um punhal, e liberta Israel, que tem paz por oitenta anos (Jz 3:12–30).",
+        "en": "Benjaminite judge, left-handed, son of Gera. He kills Eglon, king of Moab, with a dagger and delivers Israel, which has rest for eighty years (Judg 3:12–30)."
+      },
+      "bio": {
+        "pt": [
+          "Em Juízes 3, depois que Israel faz de novo o que é mau aos olhos do Senhor, Eglom, rei de Moabe, com amonitas e amalequitas, toma a cidade das Palmeiras e domina Israel por dezoito anos (Jz 3:12–14). Quando o povo clama, o Senhor lhes levanta um libertador: Eúde, filho de Gera, benjamita, que era canhoto (Jz 3:15).",
+          "Eúde faz um punhal de dois gumes, de um côvado, e o prende sob as vestes, à coxa direita. Leva o tributo a Eglom, homem muito gordo. Ao sair, despede os carregadores, volta e diz ao rei: “Tenho uma palavra secreta para ti”. A sós, no salão de verão, diz: “Tenho uma palavra de Deus para ti”, e o rei se levanta; Eúde, com a mão esquerda, o apunhala (Jz 3:16–22). Tranca as portas do salão, foge pelo pórtico, e os servos de Eglom, achando as portas fechadas, esperam, pensando que o rei estivesse se aliviando, e só descobrem o corpo depois (Jz 3:23–25).",
+          "Eúde escapa para Seirá, nos montes de Efraim, toca a trombeta e reúne Israel. Ele diz: “Segui-me, porque o Senhor vos entregou nas mãos os moabitas, vossos inimigos”; tomam os vaus do Jordão e matam cerca de dez mil moabitas, sem deixar escapar ninguém (Jz 3:26–29). Moabe é subjugada, e a terra tem paz por oitenta anos (Jz 3:30). O texto narra o episódio sem comentário moral; o leitor é conduzido a ver nele um livramento dado pelo Senhor (Jz 3:28)."
+        ],
+        "en": [
+          "In Judges 3, after Israel again does what is evil in the sight of the Lord, Eglon, king of Moab, with Ammonites and Amalekites, takes the city of Palms and rules Israel for eighteen years (Judg 3:12–14). When the people cry out, the Lord raises up a deliverer for them: Ehud son of Gera, a Benjaminite, who was left-handed (Judg 3:15).",
+          "Ehud makes a two-edged dagger, a cubit long, and fastens it under his clothes on his right thigh. He presents the tribute to Eglon, a very fat man. On leaving, he sends the bearers away, turns back and says to the king, “I have a secret message for you.” Alone in the cool upper room, he says, “I have a message from God for you,” and the king rises; Ehud stabs him with his left hand (Judg 3:16–22). He locks the doors of the room, escapes through the porch, and Eglon’s servants, finding the doors locked, wait, thinking the king is relieving himself, and discover the body only later (Judg 3:23–25).",
+          "Ehud escapes to Seirah, in the hill country of Ephraim, blows the trumpet and gathers Israel. He says, “Follow me, for the Lord has given your enemies the Moabites into your hand”; they seize the fords of the Jordan and kill about ten thousand Moabites, letting no one escape (Judg 3:26–29). Moab is subdued, and the land has rest for eighty years (Judg 3:30). The text tells the episode without moral comment; the reader is led to see in it a deliverance given by the Lord (Judg 3:28)."
+        ]
+      },
+      "books": [
+        {
+          "book": "jdg",
+          "role": {
+            "pt": "Juiz; mata Eglom de Moabe (3:12–30)",
+            "en": "Judge; kills Eglon of Moab (3:12–30)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "jdg",
+          "name": "Moabe",
+          "en": "Moab"
+        }
+      ]
+    },
+    {
+      "id": "abimeleque",
+      "name": {
+        "pt": "Abimeleque",
+        "en": "Abimelech"
+      },
+      "summary": {
+        "pt": "Filho de Gideão com uma concubina de Siquém. Mata quase todos os setenta irmãos, é feito rei de Siquém e morre ferido por uma pedra de moinho lançada por uma mulher (Jz 8:31; 9).",
+        "en": "Son of Gideon by a concubine of Shechem. He kills nearly all seventy brothers, is made king of Shechem and dies struck by a millstone thrown by a woman (Judg 8:31; 9)."
+      },
+      "bio": {
+        "pt": [
+          "Abimeleque é filho de Gideão (Jerubaal) e de uma concubina de Siquém (Jz 8:31). Depois da morte do pai, vai a Siquém e convence os parentes da mãe a apoiá-lo, dizendo que é melhor para eles um só governante do que setenta filhos de Gideão. Eles lhe dão setenta peças de prata do templo de Baal-Berite, com as quais ele contrata homens perversos, vai a Ofra e mata seus setenta irmãos sobre uma só pedra. Só Jotão, o caçula, escapa escondido (Jz 9:1–5). Os homens de Siquém o proclamam rei (Jz 9:6).",
+          "Jotão sobe ao monte Gerizim e conta uma parábola em que as árvores procuram um rei, e só o espinheiro aceita; ele anuncia que fogo sairá de Abimeleque e dos homens de Siquém e os devorará (Jz 9:7–21). Três anos depois, Deus envia um espírito mau entre Abimeleque e os siquemitas, para que o crime contra os filhos de Gideão fosse vingado (Jz 9:22–24). Gaal, filho de Ebede, os instiga contra o rei, mas Abimeleque vence, destrói a cidade, semeia sal no lugar e queima o torreão onde se refugiaram mil pessoas (Jz 9:26–49).",
+          "Em Tebes, Abimeleque se aproxima da torre e é ferido na cabeça por uma pedra de moinho que uma mulher lança do alto. Ele manda o escudeiro matá-lo à espada, “para que não se diga: Uma mulher o matou” (Jz 9:50–54). O texto conclui que Deus pagou a maldade de Abimeleque contra o pai e os irmãos e a dos homens de Siquém, cumprindo a maldição de Jotão (Jz 9:56–57). Joabe cita o episódio em 2Samuel 11:21."
+        ],
+        "en": [
+          "Abimelech is the son of Gideon (Jerubbaal) and a concubine of Shechem (Judg 8:31). After his father’s death he goes to Shechem and persuades his mother’s relatives to support him, saying it is better for them to have one ruler than seventy sons of Gideon. They give him seventy pieces of silver from the temple of Baal-berith, with which he hires worthless men, goes to Ophrah and kills his seventy brothers on one stone. Only Jotham, the youngest, escapes by hiding (Judg 9:1–5). The men of Shechem proclaim him king (Judg 9:6).",
+          "Jotham climbs Mount Gerizim and tells a parable in which the trees look for a king, and only the bramble accepts; he announces that fire will come out of Abimelech and the men of Shechem and devour them (Judg 9:7–21). Three years later God sends an evil spirit between Abimelech and the men of Shechem, so that the crime against the sons of Gideon would be avenged (Judg 9:22–24). Gaal son of Ebed stirs them up against the king, but Abimelech wins, destroys the city, sows the place with salt and burns the tower where a thousand people had taken refuge (Judg 9:26–49).",
+          "At Thebez Abimelech approaches the tower and is struck on the head by a millstone that a woman throws from above. He tells his armor-bearer to kill him with a sword, “lest it be said of me, ‘A woman killed him’” (Judg 9:50–54). The text concludes that God repaid the evil of Abimelech against his father and brothers and that of the men of Shechem, fulfilling Jotham’s curse (Judg 9:56–57). Joab cites the episode in 2 Samuel 11:21."
+        ]
+      },
+      "books": [
+        {
+          "book": "jdg",
+          "role": {
+            "pt": "Mata os irmãos e reina em Siquém (9)",
+            "en": "Kills his brothers and reigns at Shechem (9)"
+          }
+        },
+        {
+          "book": "2sa",
+          "role": {
+            "pt": "Lembrado por Joabe (11:21)",
+            "en": "Recalled by Joab (11:21)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "jdg",
+          "name": "Siquém",
+          "en": "Shechem"
+        },
+        {
+          "book": "jdg",
+          "name": "Ofra",
+          "en": "Ophrah"
+        }
+      ],
+      "note": {
+        "pt": "Não confundir com Abimeleque, rei de Gerar (Gn 20; 26).",
+        "en": "Not to be confused with Abimelech, king of Gerar (Gen 20; 26)."
+      }
+    },
+    {
+      "id": "raabe",
+      "name": {
+        "pt": "Raabe",
+        "en": "Rahab"
+      },
+      "summary": {
+        "pt": "Prostituta de Jericó que esconde os espias de Josué, confessa o Senhor e é poupada com sua família quando a cidade cai (Js 2; 6:22–25). O Novo Testamento a cita por sua fé (Hb 11:31; Tg 2:25) e na genealogia de Jesus (Mt 1:5).",
+        "en": "A prostitute of Jericho who hides Joshua’s spies, confesses the Lord and is spared with her family when the city falls (Josh 2; 6:22–25). The New Testament cites her for her faith (Heb 11:31; Jas 2:25) and in Jesus’ genealogy (Matt 1:5)."
+      },
+      "bio": {
+        "pt": [
+          "Josué manda dois espias a Jericó, e eles se hospedam na casa de uma prostituta chamada Raabe, cuja casa ficava junto ao muro da cidade (Js 2:1). Quando o rei de Jericó manda buscá-los, Raabe os esconde entre talos de linho no terraço e diz aos enviados que os homens já tinham saído (Js 2:2–7). Depois conta aos espias o que sabe: o Senhor deu a terra a Israel, o pavor tomou os moradores, e todos ouviram o que ele fez no mar Vermelho e com os reis amorreus. Confessa: “O Senhor vosso Deus é Deus em cima nos céus e em baixo na terra” (Js 2:8–11).",
+          "Raabe pede que, por ter usado de bondade com eles, os espias jurem poupar ela e a casa de seu pai. Eles aceitam, com a condição de que ela amarre um cordão escarlate na janela e mantenha a família dentro da casa. Ela os faz descer por uma corda pela janela e ensina o caminho para se esconderem nas montanhas por três dias (Js 2:12–24). Quando Jericó cai, Josué manda os espias retirarem Raabe e toda a família; eles são postos fora do arraial de Israel, e a cidade é queimada (Js 6:22–25).",
+          "O texto acrescenta que Raabe “habitou no meio de Israel até hoje” (Js 6:25). O Novo Testamento a cita três vezes: Mateus 1:5 diz que Salmom gerou Boaz de Raabe, o que a coloca na genealogia de Jesus; Hebreus 11:31 diz que “pela fé, Raabe, a prostituta, não pereceu com os desobedientes, acolhendo em paz os espias”; e Tiago 2:25 a cita como justificada pelas obras por ter recebido e despachado os mensageiros por outro caminho."
+        ],
+        "en": [
+          "Joshua sends two spies to Jericho, and they lodge at the house of a prostitute named Rahab, whose house was on the city wall (Josh 2:1). When the king of Jericho sends for them, Rahab hides them among the stalks of flax on the roof and tells the messengers the men had already left (Josh 2:2–7). Then she tells the spies what she knows: the Lord has given the land to Israel, terror has fallen on the inhabitants, and all have heard what he did at the Red Sea and to the Amorite kings. She confesses, “The Lord your God, he is God in the heavens above and on the earth beneath” (Josh 2:8–11).",
+          "Rahab asks that, since she has dealt kindly with them, the spies swear to spare her and her father’s house. They agree, on condition that she tie a scarlet cord in the window and keep her family inside the house. She lets them down by a rope through the window and tells them the way to hide in the hills for three days (Josh 2:12–24). When Jericho falls, Joshua tells the spies to bring out Rahab and all her family; they are placed outside the camp of Israel, and the city is burned (Josh 6:22–25).",
+          "The text adds that Rahab “has lived in Israel to this day” (Josh 6:25). The New Testament cites her three times: Matthew 1:5 says Salmon fathered Boaz by Rahab, which places her in Jesus’ genealogy; Hebrews 11:31 says that “by faith Rahab the prostitute did not perish with those who were disobedient, because she had given a friendly welcome to the spies”; and James 2:25 cites her as justified by works when she received the messengers and sent them out by another way."
+        ]
+      },
+      "books": [
+        {
+          "book": "jos",
+          "role": {
+            "pt": "Esconde os espias; é poupada (2; 6:22–25)",
+            "en": "Hides the spies; is spared (2; 6:22–25)"
+          }
+        },
+        {
+          "book": "mat",
+          "role": {
+            "pt": "Na genealogia de Jesus (1:5)",
+            "en": "In Jesus’ genealogy (1:5)"
+          }
+        },
+        {
+          "book": "heb",
+          "role": {
+            "pt": "Exemplo de fé (11:31)",
+            "en": "Example of faith (11:31)"
+          }
+        },
+        {
+          "book": "jas",
+          "role": {
+            "pt": "Justificada pelas obras (2:25)",
+            "en": "Justified by works (2:25)"
+          }
+        }
+      ],
+      "events": [
+        "jerico"
+      ],
+      "places": [
+        {
+          "book": "jos",
+          "name": "Jericó",
+          "en": "Jericho"
+        }
+      ],
+      "note": {
+        "pt": "Raabe, prostituta de Jericó, não é “Raabe”, nome poético do Egito (Sl 87:4; Is 51:9).",
+        "en": "Rahab the prostitute of Jericho is not “Rahab,” the poetic name for Egypt (Ps 87:4; Isa 51:9)."
+      }
+    },
+    {
+      "id": "acan",
+      "name": {
+        "pt": "Acã",
+        "en": "Achan"
+      },
+      "summary": {
+        "pt": "Homem de Judá que, na queda de Jericó, toma para si parte do que fora consagrado ao Senhor. Israel é derrotado em Ai; ele confessa, é apedrejado no vale de Acor, e Ai é depois tomada (Js 7–8).",
+        "en": "A man of Judah who, at the fall of Jericho, takes for himself part of what was devoted to the Lord. Israel is defeated at Ai; he confesses, is stoned in the valley of Achor, and Ai is taken afterward (Josh 7–8)."
+      },
+      "bio": {
+        "pt": [
+          "Antes de tomar Jericó, Josué proíbe que o povo pegue do despojo, porque tudo seria consagrado ao Senhor, e ameaça com desgraça quem o fizer (Js 6:17–19). Mas Acã, filho de Carmi, da tribo de Judá, toma parte do que estava consagrado, e a ira do Senhor se acende contra Israel (Js 7:1). Pouco depois, Josué manda cerca de três mil homens atacar a pequena cidade de Ai, e eles fogem, deixando trinta e seis mortos (Js 7:2–5). Josué rasga as vestes e prostra-se diante da arca, e o Senhor diz: “Israel pecou… e também tomaram do que era consagrado” (Js 7:6–12).",
+          "O Senhor manda identificar o culpado por sorteio, tribo por tribo, família por família, até chegar a Acã (Js 7:13–18). Josué lhe diz: “Meu filho, dá glória ao Senhor, Deus de Israel… e conta-me o que fizeste”. Acã confessa: viu entre o despojo um belo manto babilônico, duzentos siclos de prata e uma barra de ouro de cinquenta siclos, cobiçou, tomou e escondeu na terra, no meio de sua tenda (Js 7:19–21). Os objetos são achados e levados diante do Senhor.",
+          "Israel leva Acã, a prata, o manto, o ouro, seus filhos, filhas, gado e tenda ao vale de Acor, onde é apedrejado e queimado, e levantam sobre ele um monte de pedras. O lugar fica conhecido como vale de Acor (“perturbação”) (Js 7:24–26). Depois disso, o Senhor diz a Josué para subir a Ai, e a cidade é tomada (Js 8). 1Crônicas 2:7 o chama Acar, “o perturbador de Israel, que transgrediu no que era consagrado”. Oseias 2:15 retoma o vale de Acor como “porta de esperança”."
+        ],
+        "en": [
+          "Before taking Jericho, Joshua forbids the people to take any of the spoil, because everything would be devoted to the Lord, and he warns of disaster for anyone who does (Josh 6:17–19). But Achan son of Carmi, of the tribe of Judah, takes some of what was devoted, and the anger of the Lord burns against Israel (Josh 7:1). Soon afterward Joshua sends about three thousand men to attack the small city of Ai, and they flee, leaving thirty-six dead (Josh 7:2–5). Joshua tears his clothes and falls on his face before the ark, and the Lord says, “Israel has sinned… they have taken some of the devoted things” (Josh 7:6–12).",
+          "The Lord tells them to identify the guilty man by lot, tribe by tribe, family by family, until it comes to Achan (Josh 7:13–18). Joshua tells him, “My son, give glory to the Lord God of Israel… and tell me what you have done.” Achan confesses: he saw among the spoil a beautiful cloak from Shinar, two hundred shekels of silver and a bar of gold weighing fifty shekels, coveted them, took them and hid them in the earth inside his tent (Josh 7:19–21). The objects are found and brought before the Lord.",
+          "Israel takes Achan, the silver, the cloak, the gold, his sons, daughters, livestock and tent to the valley of Achor, where he is stoned and burned, and they raise over him a heap of stones. The place becomes known as the valley of Achor (“trouble”) (Josh 7:24–26). After that the Lord tells Joshua to go up to Ai, and the city is taken (Josh 8). 1 Chronicles 2:7 calls him Achar, “the troubler of Israel, who broke faith in the matter of the devoted thing.” Hosea 2:15 takes up the valley of Achor as a “door of hope.”"
+        ]
+      },
+      "books": [
+        {
+          "book": "jos",
+          "role": {
+            "pt": "Toma do que era consagrado e é julgado (7)",
+            "en": "Takes what was devoted and is judged (7)"
+          }
+        }
+      ],
+      "events": [
+        "jerico"
+      ],
+      "places": [
+        {
+          "book": "jos",
+          "name": "Jericó",
+          "en": "Jericho"
+        },
+        {
+          "book": "jos",
+          "name": "Ai",
+          "en": "Ai"
+        }
+      ]
     }
   ]
 }

@@ -40,7 +40,7 @@
     { "name": { "pt": "Moisés", "en": "Moses" }, "ids": ["moises"], "role": { "pt": "Recebe e transmite as instruções", "en": "Receives and relays the instructions" } },
     { "name": { "pt": "Arão", "en": "Aaron" }, "ids": ["arao"], "role": { "pt": "Sumo sacerdote; consagrado nos caps. 8–9", "en": "High priest; consecrated in chs. 8–9" } },
     { "name": { "pt": "Nadabe e Abiú", "en": "Nadab and Abihu" }, "role": { "pt": "Filhos de Arão; morrem ao oferecer fogo estranho (cap. 10)", "en": "Sons of Aaron; die after offering unauthorized fire (ch. 10)" } },
-    { "name": { "pt": "Eleazar e Itamar", "en": "Eleazar and Ithamar" }, "role": { "pt": "Filhos de Arão que seguem no sacerdócio (cap. 10)", "en": "Sons of Aaron who continue in the priesthood (ch. 10)" } }
+    { "name": { "pt": "Eleazar e Itamar", "en": "Eleazar and Ithamar" }, "ids": ["eleazar", null], "role": { "pt": "Filhos de Arão que seguem no sacerdócio (cap. 10)", "en": "Sons of Aaron who continue in the priesthood (ch. 10)" } }
   ],
   "outline": [
     { "ref": "1:1–7:38", "title": { "pt": "As ofertas e os sacrifícios", "en": "The offerings and sacrifices" } },

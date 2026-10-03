@@ -81,6 +81,9 @@
         "pt": "Assuero",
         "en": "Ahasuerus"
       },
+      "ids": [
+        "assuero"
+      ],
       "role": {
         "pt": "Rei da Pérsia (identificado com Xerxes I)",
         "en": "King of Persia (identified with Xerxes I)"
