@@ -42,6 +42,9 @@
         "pt": "Naum",
         "en": "Nahum"
       },
+      "ids": [
+        "naum"
+      ],
       "role": {
         "pt": "Profeta",
         "en": "Prophet"

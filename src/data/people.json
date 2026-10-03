@@ -5726,6 +5726,716 @@
         "pt": "Costuma-se identificá-lo com \"Tiago, o menor\" de Mc 15:40, mas o texto não diz isso, e a identificação é debatida. Distinto de Tiago, filho de Zebedeu, e de Tiago, o líder da igreja de Jerusalém.",
         "en": "He is often identified with \"James the younger\" of Mark 15:40, but the text does not say so, and the identification is debated. Distinct from James, son of Zebedee, and from James, leader of the Jerusalem church."
       }
+    },
+    {
+      "id": "jeroboao-ii",
+      "name": {
+        "pt": "Jeroboão II",
+        "en": "Jeroboam II"
+      },
+      "summary": {
+        "pt": "Rei de Israel por 41 anos, filho de Joás. Restaura as fronteiras do reino conforme a palavra de Jonas, mas segue o pecado de Jeroboão (2Rs 14:23–29). Amós e Oseias profetizam em seu tempo (Am 1:1; Os 1:1).",
+        "en": "King of Israel for 41 years, son of Joash. He restores the kingdom’s borders according to the word of Jonah, but follows the sin of Jeroboam (2 Kgs 14:23–29). Amos and Hosea prophesy in his time (Amos 1:1; Hos 1:1)."
+      },
+      "bio": {
+        "pt": [
+          "Jeroboão II, filho de Joás, reina quarenta e um anos em Samaria, sobre o reino do norte (2Rs 14:23). Os livros dos Reis dizem que ele fez o que era mau aos olhos do Senhor e não se apartou dos pecados de Jeroboão, filho de Nebate, que fizera Israel pecar (2Rs 14:24).",
+          "O texto, porém, registra o êxito político do reinado: ele restaura a fronteira de Israel desde a entrada de Hamate até o mar da Arabá, conforme a palavra do Senhor dita por meio do profeta Jonas, filho de Amitai (2Rs 14:25). O relato explica que o Senhor viu a amarga aflição de Israel e, como não tinha dito que apagaria o nome de Israel, o salvou por meio de Jeroboão (2Rs 14:26–27).",
+          "Amós e Oseias profetizam nesse período, e seus livros denunciam a injustiça social e a idolatria que conviviam com a prosperidade (Am 1:1; 2; 6; Os 1:1; 4). Em Betel, o sacerdote Amazias avisa o rei de que Amós “conspirou contra ti”, citando que Amós teria dito que Jeroboão morreria à espada (Am 7:10–11). Jeroboão é sucedido por seu filho Zacarias (2Rs 14:29)."
+        ],
+        "en": [
+          "Jeroboam II, son of Joash, reigns forty-one years in Samaria, over the northern kingdom (2 Kgs 14:23). The books of Kings say he did what was evil in the sight of the Lord and did not depart from the sins of Jeroboam son of Nebat, who made Israel sin (2 Kgs 14:24).",
+          "The text nevertheless records the political success of the reign: he restores Israel’s border from the entrance of Hamath to the Sea of the Arabah, according to the word of the Lord spoken by the prophet Jonah son of Amittai (2 Kgs 14:25). The account explains that the Lord saw the bitter affliction of Israel and, since he had not said he would blot out Israel’s name, saved them by the hand of Jeroboam (2 Kgs 14:26–27).",
+          "Amos and Hosea prophesy in this period, and their books denounce the social injustice and idolatry that coexisted with prosperity (Amos 1:1; 2; 6; Hos 1:1; 4). At Bethel the priest Amaziah warns the king that Amos “has conspired against you,” quoting Amos as saying that Jeroboam would die by the sword (Amos 7:10–11). Jeroboam is succeeded by his son Zechariah (2 Kgs 14:29)."
+        ]
+      },
+      "books": [
+        {
+          "book": "2ki",
+          "role": {
+            "pt": "Rei de Israel; restaura as fronteiras (14:23–29)",
+            "en": "King of Israel; restores the borders (14:23–29)"
+          }
+        },
+        {
+          "book": "amo",
+          "role": {
+            "pt": "Rei no tempo de Amós; Amazias o acusa de ameaça (7:10–11)",
+            "en": "King in Amos’s time; Amaziah reports him a threat (7:10–11)"
+          }
+        },
+        {
+          "book": "hos",
+          "role": {
+            "pt": "Rei no início do ministério de Oseias (1:1)",
+            "en": "King at the start of Hosea’s ministry (1:1)"
+          }
+        }
+      ],
+      "events": [
+        "jeroboao-ii"
+      ],
+      "places": [
+        {
+          "book": "2ki",
+          "name": "Samaria",
+          "en": "Samaria"
+        }
+      ],
+      "note": {
+        "pt": "Não confundir com Jeroboão I, primeiro rei do reino do norte.",
+        "en": "Not to be confused with Jeroboam I, the first king of the northern kingdom."
+      }
+    },
+    {
+      "id": "uzias",
+      "name": {
+        "pt": "Uzias (Azarias)",
+        "en": "Uzziah (Azariah)"
+      },
+      "summary": {
+        "pt": "Rei de Judá por 52 anos, chamado Azarias em 2Reis. Prospera enquanto busca o Senhor, mas se ensoberbece, entra no templo para queimar incenso e fica leproso (2Cr 26). Isaías vê o Senhor “no ano em que morreu o rei Uzias” (Is 6:1).",
+        "en": "King of Judah for 52 years, called Azariah in 2 Kings. He prospers while he seeks the Lord, but grows proud, enters the temple to burn incense and becomes leprous (2 Chr 26). Isaiah sees the Lord “in the year that King Uzziah died” (Isa 6:1)."
+      },
+      "bio": {
+        "pt": [
+          "Uzias, filho de Amazias, começa a reinar em Judá aos dezesseis anos e reina cinquenta e dois anos em Jerusalém (2Cr 26:1–3). Os livros dos Reis o chamam de Azarias e dizem que fez o que era reto aos olhos do Senhor, embora os altos não tenham sido removidos (2Rs 15:1–4). Crônicas diz que, enquanto ele buscou ao Senhor, Deus o fez prosperar (2Cr 26:5).",
+          "Crônicas descreve seu êxito militar e civil: vence os filisteus, os árabes e os meunitas, recebe tributo dos amonitas, fortifica Jerusalém, organiza um exército e constrói torres e cisternas, e o seu nome se espalha até o Egito (2Cr 26:6–15). Mas, “tornando-se forte, o seu coração se ensoberbeceu”: entra no templo para queimar incenso, o que cabia aos sacerdotes. O sacerdote Azarias e oitenta outros o enfrentam, e a lepra surge em sua testa (2Cr 26:16–20).",
+          "Uzias vive isolado numa casa à parte até morrer, e seu filho Jotão governa o povo (2Rs 15:5; 2Cr 26:21). Isaías recebe sua visão do Senhor no templo “no ano em que morreu o rei Uzias” (Is 6:1). Amós e Oseias situam seus ministérios também em seu reinado (Am 1:1; Os 1:1), e Amós menciona um terremoto ocorrido “nos dias de Uzias” (Am 1:1; Zc 14:5)."
+        ],
+        "en": [
+          "Uzziah, son of Amaziah, begins to reign in Judah at sixteen and reigns fifty-two years in Jerusalem (2 Chr 26:1–3). The books of Kings call him Azariah and say he did what was right in the eyes of the Lord, though the high places were not removed (2 Kgs 15:1–4). Chronicles says that as long as he sought the Lord, God made him prosper (2 Chr 26:5).",
+          "Chronicles describes his military and civil success: he defeats the Philistines, the Arabs and the Meunites, receives tribute from the Ammonites, fortifies Jerusalem, organizes an army and builds towers and cisterns, and his fame spreads to the border of Egypt (2 Chr 26:6–15). But “when he was strong, he grew proud”: he enters the temple to burn incense, a task for the priests. The priest Azariah and eighty others confront him, and leprosy breaks out on his forehead (2 Chr 26:16–20).",
+          "Uzziah lives isolated in a separate house until his death, and his son Jotham governs the people (2 Kgs 15:5; 2 Chr 26:21). Isaiah receives his vision of the Lord in the temple “in the year that King Uzziah died” (Isa 6:1). Amos and Hosea also place their ministries in his reign (Amos 1:1; Hos 1:1), and Amos mentions an earthquake “in the days of Uzziah” (Amos 1:1; Zech 14:5)."
+        ]
+      },
+      "books": [
+        {
+          "book": "2ki",
+          "role": {
+            "pt": "Chamado Azarias; rei de Judá, ficou leproso (15:1–7)",
+            "en": "Called Azariah; king of Judah, became leprous (15:1–7)"
+          }
+        },
+        {
+          "book": "2ch",
+          "role": {
+            "pt": "Prospera e se ensoberbece (26)",
+            "en": "Prospers and grows proud (26)"
+          }
+        },
+        {
+          "book": "isa",
+          "role": {
+            "pt": "O rei no ano da visão de Isaías (6:1)",
+            "en": "The king in the year of Isaiah’s vision (6:1)"
+          }
+        },
+        {
+          "book": "amo",
+          "role": {
+            "pt": "Rei de Judá no tempo de Amós (1:1)",
+            "en": "King of Judah in Amos’s time (1:1)"
+          }
+        },
+        {
+          "book": "hos",
+          "role": {
+            "pt": "Rei de Judá no tempo de Oseias (1:1)",
+            "en": "King of Judah in Hosea’s time (1:1)"
+          }
+        }
+      ],
+      "events": [
+        "isaias-visao"
+      ],
+      "places": [
+        {
+          "book": "2ki",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ],
+      "note": {
+        "pt": "Os dois nomes, Uzias e Azarias, designam o mesmo rei; não confundir com o sacerdote Azarias que o enfrenta (2Cr 26:17).",
+        "en": "Uzziah and Azariah are two names for the same king; not to be confused with the priest Azariah who confronts him (2 Chr 26:17)."
+      }
+    },
+    {
+      "id": "acaz",
+      "name": {
+        "pt": "Acaz",
+        "en": "Ahaz"
+      },
+      "summary": {
+        "pt": "Rei de Judá, filho de Jotão. Segue o caminho dos reis de Israel e pede ajuda à Assíria diante de Rezim e Peca, apesar do sinal do Emanuel que Isaías lhe oferece (2Rs 16; Is 7).",
+        "en": "King of Judah, son of Jotham. He follows the way of the kings of Israel and asks Assyria for help when facing Rezin and Pekah, despite the sign of Immanuel that Isaiah offers him (2 Kgs 16; Isa 7)."
+      },
+      "bio": {
+        "pt": [
+          "Acaz, filho de Jotão, começa a reinar em Judá aos vinte anos e reina dezesseis anos em Jerusalém. Ao contrário de Davi, não fez o que era reto aos olhos do Senhor: andou no caminho dos reis de Israel, fez imagens a Baal, queimou incenso nos altos e fez passar o filho pelo fogo (2Rs 16:1–4; 2Cr 28:1–4).",
+          "Atacado por Rezim, rei da Síria, e Peca, rei de Israel, Acaz é aconselhado por Isaías a não temer; o profeta lhe oferece um sinal, e Acaz recusa pedir. Então vem o anúncio: “Eis que a virgem conceberá, e dará à luz um filho, e chamará o seu nome Emanuel” (Is 7:1–14). Em vez de confiar, Acaz manda a Tiglate-Pileser, rei da Assíria, a prata e o ouro do templo e do palácio, pedindo socorro; a Assíria toma Damasco (2Rs 16:5–9).",
+          "Em Damasco, Acaz vê um altar, manda fazer uma cópia em Jerusalém e rearranja o altar de bronze do templo (2Rs 16:10–18). Segundo Crônicas, ele fecha as portas do templo e levanta altares por toda Jerusalém (2Cr 28:24–25). Morre e não é sepultado nos túmulos dos reis; seu filho Ezequias o sucede (2Cr 28:27). Mateus o inclui na genealogia de Jesus (Mt 1:9)."
+        ],
+        "en": [
+          "Ahaz, son of Jotham, begins to reign in Judah at twenty and reigns sixteen years in Jerusalem. Unlike David, he did not do what was right in the eyes of the Lord: he walked in the way of the kings of Israel, made images for the Baals, burned incense on the high places and made his son pass through fire (2 Kgs 16:1–4; 2 Chr 28:1–4).",
+          "Attacked by Rezin, king of Syria, and Pekah, king of Israel, Ahaz is advised by Isaiah not to fear; the prophet offers him a sign, and Ahaz refuses to ask. Then comes the announcement: “Behold, the virgin shall conceive and bear a son, and shall call his name Immanuel” (Isa 7:1–14). Instead of trusting, Ahaz sends Tiglath-Pileser, king of Assyria, the silver and gold of the temple and the palace, asking for help; Assyria takes Damascus (2 Kgs 16:5–9).",
+          "In Damascus Ahaz sees an altar, has a copy made in Jerusalem and rearranges the bronze altar of the temple (2 Kgs 16:10–18). According to Chronicles, he shuts the doors of the temple and sets up altars throughout Jerusalem (2 Chr 28:24–25). He dies and is not buried in the tombs of the kings; his son Hezekiah succeeds him (2 Chr 28:27). Matthew includes him in Jesus’ genealogy (Matt 1:9)."
+        ]
+      },
+      "books": [
+        {
+          "book": "2ki",
+          "role": {
+            "pt": "Rei de Judá; apela à Assíria e copia um altar de Damasco (16)",
+            "en": "King of Judah; appeals to Assyria and copies an altar from Damascus (16)"
+          }
+        },
+        {
+          "book": "2ch",
+          "role": {
+            "pt": "Idolatria e portas do templo fechadas (28)",
+            "en": "Idolatry and the temple doors shut (28)"
+          }
+        },
+        {
+          "book": "isa",
+          "role": {
+            "pt": "Recebe o sinal do Emanuel (7)",
+            "en": "Receives the sign of Immanuel (7)"
+          }
+        },
+        {
+          "book": "mic",
+          "role": {
+            "pt": "Rei no início do ministério de Miqueias (1:1)",
+            "en": "King during Micah’s ministry (1:1)"
+          }
+        },
+        {
+          "book": "mat",
+          "role": {
+            "pt": "Na genealogia de Jesus (1:9)",
+            "en": "In Jesus’ genealogy (1:9)"
+          }
+        }
+      ],
+      "events": [
+        "siro-efraimita"
+      ],
+      "places": [
+        {
+          "book": "2ki",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        {
+          "book": "2ki",
+          "name": "Damasco",
+          "en": "Damascus"
+        }
+      ]
+    },
+    {
+      "id": "manasses",
+      "name": {
+        "pt": "Manassés",
+        "en": "Manasseh"
+      },
+      "summary": {
+        "pt": "Rei de Judá por 55 anos, filho de Ezequias. Reconstrói os altos, faz altares a Baal e aos astros no templo e derrama muito sangue inocente (2Rs 21). Segundo Crônicas, é levado cativo, se humilha e é restaurado (2Cr 33).",
+        "en": "King of Judah for 55 years, son of Hezekiah. He rebuilds the high places, makes altars to Baal and the host of heaven in the temple and sheds much innocent blood (2 Kgs 21). According to Chronicles, he is taken captive, humbles himself and is restored (2 Chr 33)."
+      },
+      "bio": {
+        "pt": [
+          "Manassés, filho de Ezequias, começa a reinar em Judá aos doze anos e reina cinquenta e cinco anos em Jerusalém, o reinado mais longo da dinastia de Davi (2Rs 21:1). Os livros dos Reis dizem que ele fez o que era mau aos olhos do Senhor: reconstruiu os altos que o pai destruíra, levantou altares a Baal e um poste-ídolo, adorou o exército dos céus e pôs altares nos átrios do templo (2Rs 21:2–5).",
+          "Também fez passar o filho pelo fogo, praticou adivinhação e feitiçaria e “derramou muitíssimo sangue inocente, até encher Jerusalém de um extremo ao outro” (2Rs 21:6, 16). Por causa dele, o Senhor declara que trará desgraça sobre Jerusalém e Judá (2Rs 21:10–15; 24:3). Jeremias também aponta o rei como causa do juízo (Jr 15:4).",
+          "Crônicas acrescenta um relato que 2Reis não traz: os comandantes do rei da Assíria levam Manassés preso, com ganchos e grilhões, a Babilônia; lá ele se humilha, ora, e Deus o ouve e o restaura em Jerusalém. De volta, tira os deuses estrangeiros, restaura o altar do Senhor e manda Judá servi-lo (2Cr 33:10–17). Morre e é sepultado em seu jardim; seu filho Amom o sucede (2Rs 21:17–18)."
+        ],
+        "en": [
+          "Manasseh, son of Hezekiah, begins to reign in Judah at twelve and reigns fifty-five years in Jerusalem, the longest reign of David’s dynasty (2 Kgs 21:1). The books of Kings say he did what was evil in the sight of the Lord: he rebuilt the high places his father had destroyed, set up altars for Baal and an Asherah, worshiped the host of heaven and put altars in the courts of the temple (2 Kgs 21:2–5).",
+          "He also made his son pass through fire, practiced soothsaying and sorcery and “shed very much innocent blood, till he had filled Jerusalem from one end to another” (2 Kgs 21:6, 16). Because of him the Lord declares he will bring disaster on Jerusalem and Judah (2 Kgs 21:10–15; 24:3). Jeremiah also points to the king as a cause of the judgment (Jer 15:4).",
+          "Chronicles adds an account that 2 Kings does not have: the commanders of the king of Assyria take Manasseh prisoner, with hooks and fetters, to Babylon; there he humbles himself, prays, and God hears him and restores him to Jerusalem. Back home, he removes the foreign gods, restores the altar of the Lord and tells Judah to serve him (2 Chr 33:10–17). He dies and is buried in his garden; his son Amon succeeds him (2 Kgs 21:17–18)."
+        ]
+      },
+      "books": [
+        {
+          "book": "2ki",
+          "role": {
+            "pt": "Rei de Judá; a causa do juízo sobre Judá (21)",
+            "en": "King of Judah; the cause of judgment on Judah (21)"
+          }
+        },
+        {
+          "book": "2ch",
+          "role": {
+            "pt": "Cativeiro, humilhação e restauração (33)",
+            "en": "Captivity, humbling and restoration (33)"
+          }
+        },
+        {
+          "book": "jer",
+          "role": {
+            "pt": "Citado como causa do juízo (15:4)",
+            "en": "Cited as a cause of the judgment (15:4)"
+          }
+        }
+      ],
+      "events": [
+        "manasses"
+      ],
+      "places": [
+        {
+          "book": "2ki",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "jeoaquim",
+      "name": {
+        "pt": "Jeoaquim",
+        "en": "Jehoiakim"
+      },
+      "summary": {
+        "pt": "Rei de Judá, filho de Josias. Posto no trono pelo faraó Neco, serve a Babilônia e se rebela; queima o rolo de Jeremias (2Rs 23:34–24:7; Jr 36).",
+        "en": "King of Judah, son of Josiah. Set on the throne by Pharaoh Neco, he serves Babylon and then rebels; he burns Jeremiah’s scroll (2 Kgs 23:34–24:7; Jer 36)."
+      },
+      "bio": {
+        "pt": [
+          "Jeoaquim, filho de Josias, chamava-se Eliaquim; o faraó Neco o põe no trono de Judá no lugar de seu irmão Joacaz e muda seu nome (2Rs 23:34). Tem vinte e cinco anos e reina onze anos em Jerusalém. Cobra impostos do povo para pagar o tributo ao Egito, e os livros dos Reis dizem que ele fez o que era mau aos olhos do Senhor (2Rs 23:35–37).",
+          "Nabucodonosor, da Babilônia, sobe contra Judá; Jeoaquim lhe serve três anos e depois se rebela (2Rs 24:1). No terceiro ano de seu reinado, parte dos vasos do templo e alguns jovens de Judá, entre eles Daniel, são levados à Babilônia (Dn 1:1–2). Jeremias condena sua construção de um palácio à custa da injustiça e anuncia que seria sepultado “como se sepulta um jumento” (Jr 22:13–19). Ele manda matar o profeta Urias, que profetizava como Jeremias (Jr 26:20–23).",
+          "No quarto ano de Jeoaquim, Jeremias dita a Baruque suas profecias. Quando o rolo é lido diante do rei, ele o corta com um canivete, folha por folha, e o lança no fogo, sem se humilhar (Jr 36). O Senhor manda ditar outro rolo e anuncia que o rei não terá quem se sente em seu trono (Jr 36:27–31). Jeoaquim morre, e seu filho Joaquim o sucede (2Rs 24:6)."
+        ],
+        "en": [
+          "Jehoiakim, son of Josiah, was named Eliakim; Pharaoh Neco puts him on the throne of Judah in place of his brother Jehoahaz and changes his name (2 Kgs 23:34). He is twenty-five and reigns eleven years in Jerusalem. He taxes the people to pay tribute to Egypt, and the books of Kings say he did what was evil in the sight of the Lord (2 Kgs 23:35–37).",
+          "Nebuchadnezzar of Babylon comes up against Judah; Jehoiakim serves him three years and then rebels (2 Kgs 24:1). In the third year of his reign, part of the temple vessels and some young men of Judah, among them Daniel, are taken to Babylon (Dan 1:1–2). Jeremiah condemns his building of a palace by injustice and announces that he would be buried “with the burial of a donkey” (Jer 22:13–19). He has the prophet Uriah, who prophesied like Jeremiah, put to death (Jer 26:20–23).",
+          "In Jehoiakim’s fourth year Jeremiah dictates his prophecies to Baruch. When the scroll is read before the king, he cuts it with a penknife, column by column, and throws it into the fire, without humbling himself (Jer 36). The Lord orders another scroll to be dictated and announces that the king will have no one to sit on his throne (Jer 36:27–31). Jehoiakim dies, and his son Jehoiachin succeeds him (2 Kgs 24:6)."
+        ]
+      },
+      "books": [
+        {
+          "book": "2ki",
+          "role": {
+            "pt": "Rei de Judá, vassalo do Egito e depois da Babilônia (23:34–24:7)",
+            "en": "King of Judah, vassal of Egypt and then of Babylon (23:34–24:7)"
+          }
+        },
+        {
+          "book": "2ch",
+          "role": {
+            "pt": "Rei de Judá; cativeiro anunciado (36:4–8)",
+            "en": "King of Judah; captivity announced (36:4–8)"
+          }
+        },
+        {
+          "book": "jer",
+          "role": {
+            "pt": "Rejeita a palavra de Jeremias e queima o rolo (22:13–19; 36)",
+            "en": "Rejects Jeremiah’s word and burns the scroll (22:13–19; 36)"
+          }
+        },
+        {
+          "book": "dan",
+          "role": {
+            "pt": "Em seu 3º ano, Nabucodonosor leva os primeiros cativos (1:1–2)",
+            "en": "In his 3rd year Nebuchadnezzar takes the first captives (1:1–2)"
+          }
+        }
+      ],
+      "events": [
+        "rolo-jeoaquim",
+        "carquemis"
+      ],
+      "places": [
+        {
+          "book": "2ki",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        {
+          "book": "2ki",
+          "name": "Babilônia",
+          "en": "Babylon"
+        }
+      ],
+      "note": {
+        "pt": "Não confundir com seu filho Joaquim (Jeconias), que reina três meses.",
+        "en": "Not to be confused with his son Jehoiachin (Jeconiah), who reigns three months."
+      }
+    },
+    {
+      "id": "joaquim",
+      "name": {
+        "pt": "Joaquim (Jeconias)",
+        "en": "Jehoiachin (Jeconiah)"
+      },
+      "summary": {
+        "pt": "Rei de Judá por três meses, filho de Jeoaquim. Rende-se a Nabucodonosor em 597 a.C. e é levado à Babilônia; 37 anos depois, é libertado (2Rs 24:8–17; 25:27–30).",
+        "en": "King of Judah for three months, son of Jehoiakim. He surrenders to Nebuchadnezzar in 597 BC and is taken to Babylon; 37 years later he is released (2 Kgs 24:8–17; 25:27–30)."
+      },
+      "bio": {
+        "pt": [
+          "Joaquim, filho de Jeoaquim, também chamado Jeconias ou Conias, começa a reinar aos dezoito anos e reina três meses em Jerusalém (2Rs 24:8; Jr 22:24). Os livros dos Reis dizem que ele fez o que era mau aos olhos do Senhor. Quando o exército de Nabucodonosor cerca a cidade, Joaquim se rende com a mãe, os servos e os oficiais, e é levado à Babilônia no oitavo ano do rei babilônico (2Rs 24:9–12).",
+          "Com ele são levados o tesouro do templo e do palácio, dez mil cativos, entre eles os oficiais, os guerreiros, os artífices e os ferreiros, e fica no país só a gente mais pobre (2Rs 24:13–16). Nabucodonosor põe Matanias, tio de Joaquim, no trono, com o nome Zedequias (2Rs 24:17). O profeta Ezequiel está entre os exilados, e suas profecias são datadas “do cativeiro do rei Joaquim” (Ez 1:1–2). Jeremias anuncia que Conias seria como um sinete arrancado da mão de Deus e que nenhum de seus filhos prosperaria no trono de Davi (Jr 22:24–30).",
+          "No trigésimo sétimo ano do exílio, Evil-Merodaque, rei da Babilônia, o liberta da prisão, fala-lhe com bondade, dá-lhe lugar acima dos outros reis cativos e permite que coma à mesa do rei e receba sustento pelo resto da vida (2Rs 25:27–30; Jr 52:31–34). Mateus inclui Jeconias na genealogia de Jesus, “no tempo da deportação para a Babilônia” (Mt 1:11–12)."
+        ],
+        "en": [
+          "Jehoiachin, son of Jehoiakim, also called Jeconiah or Coniah, begins to reign at eighteen and reigns three months in Jerusalem (2 Kgs 24:8; Jer 22:24). The books of Kings say he did what was evil in the sight of the Lord. When Nebuchadnezzar’s army besieges the city, Jehoiachin surrenders with his mother, servants and officials, and is taken to Babylon in the eighth year of the Babylonian king (2 Kgs 24:9–12).",
+          "With him are taken the treasures of the temple and the palace and ten thousand captives, among them officials, warriors, craftsmen and smiths, and only the poorest people are left in the land (2 Kgs 24:13–16). Nebuchadnezzar puts Mattaniah, Jehoiachin’s uncle, on the throne, with the name Zedekiah (2 Kgs 24:17). The prophet Ezekiel is among the exiles, and his prophecies are dated “of the exile of King Jehoiachin” (Ezek 1:1–2). Jeremiah announces that Coniah would be like a signet ring torn from God’s hand and that none of his sons would prosper on David’s throne (Jer 22:24–30).",
+          "In the thirty-seventh year of the exile, Evil-merodach, king of Babylon, releases him from prison, speaks kindly to him, gives him a seat above the other captive kings and lets him eat at the king’s table and receive an allowance for the rest of his life (2 Kgs 25:27–30; Jer 52:31–34). Matthew includes Jeconiah in Jesus’ genealogy, “at the time of the deportation to Babylon” (Matt 1:11–12)."
+        ]
+      },
+      "books": [
+        {
+          "book": "2ki",
+          "role": {
+            "pt": "Rei por três meses; levado à Babilônia (24:8–17; 25:27–30)",
+            "en": "King for three months; taken to Babylon (24:8–17; 25:27–30)"
+          }
+        },
+        {
+          "book": "2ch",
+          "role": {
+            "pt": "Levado à Babilônia (36:9–10)",
+            "en": "Taken to Babylon (36:9–10)"
+          }
+        },
+        {
+          "book": "jer",
+          "role": {
+            "pt": "Chamado Conias; sentença contra sua linhagem (22:24–30; 52:31–34)",
+            "en": "Called Coniah; sentence against his line (22:24–30; 52:31–34)"
+          }
+        },
+        {
+          "book": "eze",
+          "role": {
+            "pt": "Seu exílio data as profecias de Ezequiel (1:2)",
+            "en": "His exile dates Ezekiel’s prophecies (1:2)"
+          }
+        },
+        {
+          "book": "mat",
+          "role": {
+            "pt": "Na genealogia de Jesus (1:11–12)",
+            "en": "In Jesus’ genealogy (1:11–12)"
+          }
+        }
+      ],
+      "events": [
+        "joaquim",
+        "ezequiel-chamado",
+        "joaquim-livre"
+      ],
+      "places": [
+        {
+          "book": "2ki",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        {
+          "book": "2ki",
+          "name": "Babilônia",
+          "en": "Babylon"
+        }
+      ],
+      "note": {
+        "pt": "Não confundir com seu pai Jeoaquim.",
+        "en": "Not to be confused with his father Jehoiakim."
+      }
+    },
+    {
+      "id": "zedequias",
+      "name": {
+        "pt": "Zedequias",
+        "en": "Zedekiah"
+      },
+      "summary": {
+        "pt": "Último rei de Judá, tio de Joaquim. Rebela-se contra a Babilônia, vê os filhos mortos, é cegado e levado cativo quando Jerusalém cai em 586 a.C. (2Rs 24:17–25:7; Jr 52).",
+        "en": "Last king of Judah, uncle of Jehoiachin. He rebels against Babylon, sees his sons killed, is blinded and taken captive when Jerusalem falls in 586 BC (2 Kgs 24:17–25:7; Jer 52)."
+      },
+      "bio": {
+        "pt": [
+          "Zedequias, cujo nome era Matanias, é tio de Joaquim e filho de Josias; Nabucodonosor o põe no trono de Judá e muda seu nome (2Rs 24:17). Começa a reinar aos vinte e um anos e reina onze anos em Jerusalém. Os livros dos Reis dizem que ele fez o que era mau aos olhos do Senhor, e o texto de Crônicas acrescenta que ele não se humilhou diante do profeta Jeremias nem se voltou ao Senhor (2Rs 24:18–20; 2Cr 36:11–13).",
+          "Zedequias manda consultar Jeremias quando a Babilônia cerca a cidade, e o profeta responde que ela cairá (Jr 21; 37:3–10). O rei prende Jeremias no pátio da guarda e, depois, o consulta em segredo; Jeremias lhe diz que, se se render, viverá, e a cidade não será queimada (Jr 37:16–21; 38:14–28). Os oficiais lançam Jeremias numa cisterna, e o rei o deixa fazer isso, dizendo “o rei nada pode contra vós”, até que Ebede-Meleque, o etíope, intercede e o tira de lá (Jr 38:1–13). Ezequiel conta uma parábola sobre sua rebelião e a quebra do juramento feito a Nabucodonosor (Ez 17:11–21).",
+          "No nono ano do reinado dele, a Babilônia cerca Jerusalém, e o cerco dura até o décimo primeiro ano (2Rs 25:1–2). Quando abrem a brecha no muro, Zedequias foge de noite, mas é capturado nas planícies de Jericó; em Ribla, o rei da Babilônia mata seus filhos diante dele, vaza-lhe os olhos e o leva preso a Babilônia (2Rs 25:3–7). Foi o último rei da dinastia de Davi a reinar em Judá."
+        ],
+        "en": [
+          "Zedekiah, whose name was Mattaniah, is the uncle of Jehoiachin and a son of Josiah; Nebuchadnezzar puts him on the throne of Judah and changes his name (2 Kgs 24:17). He begins to reign at twenty-one and reigns eleven years in Jerusalem. The books of Kings say he did what was evil in the sight of the Lord, and the text of Chronicles adds that he did not humble himself before the prophet Jeremiah or turn to the Lord (2 Kgs 24:18–20; 2 Chr 36:11–13).",
+          "Zedekiah sends to consult Jeremiah when Babylon besieges the city, and the prophet answers that it will fall (Jer 21; 37:3–10). The king puts Jeremiah in the court of the guard and later consults him in secret; Jeremiah tells him that if he surrenders he will live and the city will not be burned (Jer 37:16–21; 38:14–28). The officials throw Jeremiah into a cistern, and the king lets them do it, saying “the king can do nothing against you,” until Ebed-melech the Ethiopian intercedes and brings him out (Jer 38:1–13). Ezekiel tells a parable about his rebellion and the breaking of the oath made to Nebuchadnezzar (Ezek 17:11–21).",
+          "In the ninth year of his reign Babylon besieges Jerusalem, and the siege lasts until the eleventh year (2 Kgs 25:1–2). When a breach is made in the wall, Zedekiah flees by night but is captured in the plains of Jericho; at Riblah the king of Babylon kills his sons before his eyes, puts out his eyes and takes him in chains to Babylon (2 Kgs 25:3–7). He was the last king of David’s dynasty to reign in Judah."
+        ]
+      },
+      "books": [
+        {
+          "book": "2ki",
+          "role": {
+            "pt": "Último rei de Judá; Jerusalém cai (24:17–25:7)",
+            "en": "Last king of Judah; Jerusalem falls (24:17–25:7)"
+          }
+        },
+        {
+          "book": "2ch",
+          "role": {
+            "pt": "Não se humilha diante de Jeremias (36:11–13)",
+            "en": "Does not humble himself before Jeremiah (36:11–13)"
+          }
+        },
+        {
+          "book": "jer",
+          "role": {
+            "pt": "Consulta Jeremias em segredo e o prende (21; 37–38)",
+            "en": "Consults Jeremiah in secret and imprisons him (21; 37–38)"
+          }
+        },
+        {
+          "book": "eze",
+          "role": {
+            "pt": "Parábola sobre a rebelião do rei (17)",
+            "en": "Parable about the king’s rebellion (17)"
+          }
+        }
+      ],
+      "events": [
+        "jerusalem-586"
+      ],
+      "places": [
+        {
+          "book": "2ki",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        {
+          "book": "2ki",
+          "name": "Ribla",
+          "en": "Riblah"
+        },
+        {
+          "book": "2ki",
+          "name": "Babilônia",
+          "en": "Babylon"
+        }
+      ]
+    },
+    {
+      "id": "joel",
+      "name": {
+        "pt": "Joel",
+        "en": "Joel"
+      },
+      "summary": {
+        "pt": "Profeta, filho de Petuel. Diante de uma praga de gafanhotos, chama o povo ao arrependimento e anuncia o Dia do Senhor e o derramamento do Espírito (Jl 1–3). Pedro cita o livro no Pentecostes (At 2:16–21).",
+        "en": "Prophet, son of Pethuel. Facing a plague of locusts, he calls the people to repentance and announces the Day of the Lord and the outpouring of the Spirit (Joel 1–3). Peter cites the book at Pentecost (Acts 2:16–21)."
+      },
+      "bio": {
+        "pt": [
+          "Joel é apresentado só como “filho de Petuel” (Jl 1:1); o livro não conta nada mais de sua vida, não cita rei de Judá nem dá data. Sua mensagem começa com uma praga de gafanhotos que devasta o campo, as vinhas e o culto, e que o profeta descreve como um exército, convocando sacerdotes, anciãos e todo o povo ao lamento e ao jejum (Jl 1:2–20).",
+          "Ele fala do “Dia do Senhor”, próximo e terrível (Jl 2:1–11), mas oferece uma saída: “Rasgai o vosso coração, e não as vossas vestes, e convertei-vos ao Senhor vosso Deus, porque ele é misericordioso e compassivo” (Jl 2:12–14). O Senhor promete responder, restaurar as colheitas e expulsar o exército invasor (Jl 2:18–27). Depois vem a promessa: “Derramarei o meu Espírito sobre toda a carne”, e quem invocar o nome do Senhor será salvo (Jl 2:28–32). No capítulo 3, o Senhor julga as nações no vale de Josafá e habita em Sião (Jl 3).",
+          "No Pentecostes, Pedro explica o que acontecia citando a profecia de Joel (At 2:16–21), e Paulo cita Jl 2:32 em Romanos 10:13. A data do livro é debatida: alguns o situam antes do exílio, no século IX a.C., no reinado de Joás; outros, depois do exílio, pelo silêncio do texto sobre rei e pelo templo e sacerdotes em funcionamento."
+        ],
+        "en": [
+          "Joel is introduced only as “the son of Pethuel” (Joel 1:1); the book tells nothing more of his life, names no king of Judah and gives no date. His message begins with a locust plague that devastates the field, the vineyards and worship, which the prophet describes as an army, summoning priests, elders and all the people to lament and fasting (Joel 1:2–20).",
+          "He speaks of the “day of the Lord,” near and terrible (Joel 2:1–11), but offers a way out: “Rend your hearts and not your garments. Return to the Lord your God, for he is gracious and merciful” (Joel 2:12–14). The Lord promises to answer, restore the harvests and drive out the invading army (Joel 2:18–27). Then comes the promise: “I will pour out my Spirit on all flesh,” and everyone who calls on the name of the Lord will be saved (Joel 2:28–32). In chapter 3 the Lord judges the nations in the valley of Jehoshaphat and dwells in Zion (Joel 3).",
+          "At Pentecost Peter explains what was happening by citing Joel’s prophecy (Acts 2:16–21), and Paul cites Joel 2:32 in Romans 10:13. The date of the book is debated: some place it before the exile, in the ninth century BC, in the reign of Joash; others after the exile, because of the text’s silence about a king and the temple and priests in operation."
+        ]
+      },
+      "books": [
+        {
+          "book": "joe",
+          "role": {
+            "pt": "Profeta; a praga de gafanhotos e o Dia do Senhor (1–3)",
+            "en": "Prophet; the locust plague and the Day of the Lord (1–3)"
+          }
+        },
+        {
+          "book": "act",
+          "role": {
+            "pt": "Pedro cita Joel 2:28–32 no Pentecostes (2:16–21)",
+            "en": "Peter cites Joel 2:28–32 at Pentecost (2:16–21)"
+          }
+        }
+      ],
+      "events": [
+        "joel"
+      ],
+      "note": {
+        "pt": "A data do livro é debatida; ver a linha do tempo.",
+        "en": "The date of the book is debated; see the timeline."
+      }
+    },
+    {
+      "id": "obadias",
+      "name": {
+        "pt": "Obadias",
+        "en": "Obadiah"
+      },
+      "summary": {
+        "pt": "Profeta cujo livro, o menor do Antigo Testamento, anuncia o juízo de Deus sobre Edom por sua violência contra Judá e promete que o Dia do Senhor vem sobre as nações (Ob 1).",
+        "en": "Prophet whose book, the shortest in the Old Testament, announces God’s judgment on Edom for its violence against Judah and promises that the Day of the Lord comes on the nations (Obad 1)."
+      },
+      "bio": {
+        "pt": [
+          "O livro é chamado “a visão de Obadias” (Ob 1). O nome significa “servo do Senhor”, e o texto não traz o nome do pai, o lugar de origem nem a época. Há outros Obadias na Bíblia, como o mordomo de Acabe que escondeu cem profetas (1Rs 18:3–4), mas o livro não os identifica com o profeta.",
+          "Seu único tema é Edom. O Senhor dirá que Edom, que habita nas fendas dos rochedos, é orgulhoso de coração e será rebaixado (Ob 2–4). O profeta repreende Edom por ter ficado de lado e se alegrado no dia em que estrangeiros levaram Judá e sortearam Jerusalém, por ter entrado nas portas do povo e por ter entregue os fugitivos (Ob 10–14). Edom, descendente de Esaú, é tratado como irmão de Jacó (Ob 10, 12).",
+          "O livro termina anunciando o Dia do Senhor sobre todas as nações, em que o que Edom fez lhe será devolvido (Ob 15), e a restauração do povo: “no monte Sião haverá livramento”, a casa de Jacó possuirá suas possessões, e “o reino será do Senhor” (Ob 17–21). A data é debatida: a leitura mais comum o situa depois da queda de Jerusalém em 586 a.C.; outros o ligam a uma invasão anterior, no tempo de Jeorão."
+        ],
+        "en": [
+          "The book is called “the vision of Obadiah” (Obad 1). The name means “servant of the Lord,” and the text gives no father’s name, place of origin or time. There are other Obadiahs in the Bible, such as Ahab’s steward who hid a hundred prophets (1 Kgs 18:3–4), but the book does not identify them with the prophet.",
+          "His one theme is Edom. The Lord will say that Edom, which lives in the clefts of the rock, is proud of heart and will be brought down (Obad 2–4). The prophet rebukes Edom for standing aloof and rejoicing on the day strangers carried off Judah and cast lots for Jerusalem, for entering the gates of the people and for handing over the fugitives (Obad 10–14). Edom, descended from Esau, is treated as Jacob’s brother (Obad 10, 12).",
+          "The book ends by announcing the Day of the Lord on all nations, when what Edom did will be returned on its head (Obad 15), and the restoration of the people: “on Mount Zion there shall be those who escape,” the house of Jacob will possess its possessions, and “the kingdom shall be the Lord’s” (Obad 17–21). The date is debated: the most common reading places it after the fall of Jerusalem in 586 BC; others connect it with an earlier invasion, in the time of Jehoram."
+        ]
+      },
+      "books": [
+        {
+          "book": "oba",
+          "role": {
+            "pt": "Profeta; a visão contra Edom (1)",
+            "en": "Prophet; the vision against Edom (1)"
+          }
+        }
+      ],
+      "events": [
+        "obadias"
+      ],
+      "places": [
+        {
+          "book": "oba",
+          "name": "Edom",
+          "en": "Edom"
+        },
+        {
+          "book": "oba",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "naum",
+      "name": {
+        "pt": "Naum",
+        "en": "Nahum"
+      },
+      "summary": {
+        "pt": "Profeta de Elcós. Seu livro anuncia a queda de Nínive, a capital da Assíria, e mostra o Senhor como zeloso e vingador, mas bom para os que nele confiam (Na 1–3).",
+        "en": "Prophet of Elkosh. His book announces the fall of Nineveh, Assyria’s capital, and shows the Lord as jealous and avenging, yet good to those who trust in him (Nah 1–3)."
+      },
+      "bio": {
+        "pt": [
+          "O livro de Naum se apresenta como “oráculo sobre Nínive” e “livro da visão de Naum, o elcosita” (Na 1:1). O texto não diz onde ficava Elcós nem informa nada sobre a vida do profeta. Nínive era a capital da Assíria, a nação que oprimira Israel e Judá e que, mais de um século antes, fora poupada após a pregação de Jonas (Jn 3).",
+          "O capítulo 1 descreve o Senhor como “zeloso e vingador”, “tardio em irar-se e grande em poder”, bom e fortaleza no dia da angústia para os que nele se refugiam (Na 1:2–8). O profeta anuncia a ruína de Nínive, em contraste com a boa notícia para Judá: “Eis sobre os montes os pés do que anuncia boas-novas, que prega a paz” (Na 1:15). Os capítulos 2 e 3 descrevem a queda da cidade com imagens de assalto, rios que se abrem e carros em fúria, e chamam Nínive de “cidade de sangue” (Na 2–3).",
+          "Em Naum 3:8–10, o profeta lembra que Tebas (No-Amom), no Egito, também foi conquistada, o que dá um limite para o livro: foi escrito depois da queda de Tebas, em c. 663 a.C. Nínive cai em 612 a.C., diante dos babilônios e dos medos, e o livro é situado entre os dois marcos; o ano exato é debatido."
+        ],
+        "en": [
+          "The book of Nahum presents itself as “an oracle concerning Nineveh” and “the book of the vision of Nahum of Elkosh” (Nah 1:1). The text does not say where Elkosh was or tell anything about the prophet’s life. Nineveh was the capital of Assyria, the nation that had oppressed Israel and Judah and that, more than a century earlier, had been spared after Jonah’s preaching (Jonah 3).",
+          "Chapter 1 describes the Lord as “jealous and avenging,” “slow to anger and great in power,” good and a stronghold in the day of trouble for those who take refuge in him (Nah 1:2–8). The prophet announces Nineveh’s ruin, in contrast with good news for Judah: “Behold, on the mountains, the feet of him who brings good news, who publishes peace!” (Nah 1:15). Chapters 2 and 3 describe the fall of the city with images of assault, opened rivers and furious chariots, and call Nineveh a “bloody city” (Nah 2–3).",
+          "In Nahum 3:8–10 the prophet recalls that Thebes (No-amon), in Egypt, was also conquered, which gives a limit for the book: it was written after the fall of Thebes, c. 663 BC. Nineveh falls in 612 BC to the Babylonians and Medes, and the book is placed between the two landmarks; the exact year is debated."
+        ]
+      },
+      "books": [
+        {
+          "book": "nah",
+          "role": {
+            "pt": "Profeta; o oráculo sobre Nínive (1–3)",
+            "en": "Prophet; the oracle on Nineveh (1–3)"
+          }
+        }
+      ],
+      "events": [
+        "naum",
+        "ninive"
+      ],
+      "places": [
+        {
+          "book": "nah",
+          "name": "Nínive",
+          "en": "Nineveh"
+        },
+        {
+          "book": "nah",
+          "name": "Tebas (No-Amom)",
+          "en": "Thebes (No-Amon)"
+        }
+      ]
+    },
+    {
+      "id": "habacuque",
+      "name": {
+        "pt": "Habacuque",
+        "en": "Habakkuk"
+      },
+      "summary": {
+        "pt": "Profeta que dialoga com Deus sobre a violência em Judá e o levantar dos caldeus. Ouve que “o justo viverá pela sua fé” (Hc 2:4) e termina com um cântico de confiança (Hc 3).",
+        "en": "Prophet who dialogues with God about the violence in Judah and the rising of the Chaldeans. He hears that “the righteous shall live by his faith” (Hab 2:4) and ends with a song of trust (Hab 3)."
+      },
+      "bio": {
+        "pt": [
+          "Habacuque é chamado “o profeta” (Hc 1:1; 3:1); o livro não dá o nome do pai, o lugar de origem nem os reis. O livro difere dos outros profetas porque não se dirige primeiro ao povo, mas a Deus: o profeta pergunta até quando clamará sem ser ouvido e por que Deus tolera a violência e a injustiça em Judá (Hc 1:2–4).",
+          "O Senhor responde que está levantando os caldeus, nação violenta e rápida, para executar o juízo (Hc 1:5–11). Habacuque insiste: como pode Deus, de olhos tão puros que não suportam o mal, usar um povo ainda mais violento para castigar Judá? Ele se põe na sua torre de vigia para esperar a resposta (Hc 1:12–2:1). O Senhor manda escrever a visão e esperar, e declara: “o justo viverá pela sua fé” (Hc 2:2–4). Seguem cinco “ais” contra o opressor (Hc 2:6–20).",
+          "O capítulo 3 é uma oração em forma de cântico, que recorda os feitos de Deus no passado e termina com uma das afirmações de confiança mais conhecidas da Bíblia: “Ainda que a figueira não floresça… todavia eu me alegrarei no Senhor, exultarei no Deus da minha salvação” (Hc 3:17–18). O Novo Testamento cita Hc 2:4 em Romanos 1:17, Gálatas 3:11 e Hebreus 10:37–38. O livro não traz data; a leitura comum o situa entre a ascensão da Babilônia e a primeira conquista de Jerusalém (605–597 a.C.)."
+        ],
+        "en": [
+          "Habakkuk is called “the prophet” (Hab 1:1; 3:1); the book gives no father’s name, place of origin or kings. The book differs from the other prophets because it is addressed first not to the people but to God: the prophet asks how long he must cry for help without being heard and why God tolerates violence and injustice in Judah (Hab 1:2–4).",
+          "The Lord answers that he is raising up the Chaldeans, a fierce and swift nation, to carry out judgment (Hab 1:5–11). Habakkuk presses: how can God, whose eyes are too pure to look on evil, use an even more violent people to punish Judah? He stations himself on his watchtower to wait for the answer (Hab 1:12–2:1). The Lord tells him to write the vision and wait, and declares, “the righteous shall live by his faith” (Hab 2:2–4). Five “woes” against the oppressor follow (Hab 2:6–20).",
+          "Chapter 3 is a prayer in the form of a song, which recalls God’s deeds in the past and ends with one of the best-known affirmations of trust in the Bible: “Though the fig tree should not blossom… yet I will rejoice in the Lord; I will take joy in the God of my salvation” (Hab 3:17–18). The New Testament cites Habakkuk 2:4 in Romans 1:17, Galatians 3:11 and Hebrews 10:37–38. The book gives no date; the common reading places it between Babylon’s rise and the first conquest of Jerusalem (605–597 BC)."
+        ]
+      },
+      "books": [
+        {
+          "book": "hab",
+          "role": {
+            "pt": "Profeta; queixa, resposta de Deus e cântico (1–3)",
+            "en": "Prophet; complaint, God’s answer and song (1–3)"
+          }
+        }
+      ],
+      "events": [
+        "habacuque"
+      ]
+    },
+    {
+      "id": "sofonias",
+      "name": {
+        "pt": "Sofonias",
+        "en": "Zephaniah"
+      },
+      "summary": {
+        "pt": "Profeta no reinado de Josias, descendente de um Ezequias. Anuncia o Dia do Senhor sobre Judá e as nações e termina com a promessa de que o Senhor se alegrará com seu povo (Sf 1–3).",
+        "en": "Prophet in the reign of Josiah, a descendant of a Hezekiah. He announces the Day of the Lord on Judah and the nations and ends with the promise that the Lord will rejoice over his people (Zeph 1–3)."
+      },
+      "bio": {
+        "pt": [
+          "O livro identifica Sofonias com uma genealogia incomum de quatro gerações: “filho de Cusi, filho de Gedalias, filho de Amarias, filho de Ezequias”, e diz que a palavra do Senhor veio a ele “nos dias de Josias”, rei de Judá (Sf 1:1). O Ezequias da genealogia pode ser o rei de mesmo nome, mas o texto não o afirma. Seu ministério é situado antes ou durante a reforma de Josias, c. 640–609 a.C.",
+          "A mensagem começa com um juízo amplo: o Senhor “varrerá tudo da face da terra” (Sf 1:2–3) e castigará em Jerusalém os que adoram Baal, os astros e Moloque, e os que se tornaram indiferentes (Sf 1:4–13). O “grande dia do Senhor” é descrito como dia de ira, angústia e trevas (Sf 1:14–18). O profeta chama o povo a buscar o Senhor, a justiça e a humildade, “talvez sejais escondidos no dia da ira do Senhor” (Sf 2:1–3).",
+          "Seguem oráculos contra os filisteus, Moabe, Amom, Cuxe e a Assíria, com Nínive em ruínas (Sf 2:4–15), e a acusação contra Jerusalém, “cidade rebelde e contaminada”, e seus líderes (Sf 3:1–7). O livro termina em esperança: o Senhor purificará os lábios dos povos, deixará em Jerusalém um povo humilde e se alegrará com ele: “O Senhor teu Deus está no meio de ti, poderoso para salvar; ele se regozijará em ti com alegria… exultará sobre ti com cânticos” (Sf 3:8–20)."
+        ],
+        "en": [
+          "The book identifies Zephaniah with an unusual genealogy of four generations: “son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah,” and says the word of the Lord came to him “in the days of Josiah,” king of Judah (Zeph 1:1). The Hezekiah of the genealogy may be the king of the same name, but the text does not say so. His ministry is placed before or during Josiah’s reform, c. 640–609 BC.",
+          "The message begins with a sweeping judgment: the Lord “will utterly sweep away everything from the face of the earth” (Zeph 1:2–3) and will punish in Jerusalem those who worship Baal, the host of heaven and Milcom, and those who have grown indifferent (Zeph 1:4–13). The “great day of the Lord” is described as a day of wrath, distress and darkness (Zeph 1:14–18). The prophet calls the people to seek the Lord, righteousness and humility, “perhaps you may be hidden on the day of the anger of the Lord” (Zeph 2:1–3).",
+          "Oracles follow against the Philistines, Moab, Ammon, Cush and Assyria, with Nineveh in ruins (Zeph 2:4–15), and the accusation against Jerusalem, “the oppressing city,” and its leaders (Zeph 3:1–7). The book ends in hope: the Lord will purify the lips of the peoples, leave in Jerusalem a humble people and rejoice over them: “The Lord your God is in your midst, a mighty one who will save; he will rejoice over you with gladness… he will exult over you with loud singing” (Zeph 3:8–20)."
+        ]
+      },
+      "books": [
+        {
+          "book": "zep",
+          "role": {
+            "pt": "Profeta; o Dia do Senhor e a restauração (1–3)",
+            "en": "Prophet; the Day of the Lord and restoration (1–3)"
+          }
+        }
+      ],
+      "events": [
+        "sofonias"
+      ],
+      "places": [
+        {
+          "book": "zep",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
     }
   ]
 }
