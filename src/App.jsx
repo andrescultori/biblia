@@ -144,7 +144,7 @@ export default function App() {
         {t.madeBy}{' '}
         <a href="https://github.com/andrescultori" target="_blank" rel="noopener noreferrer">André Scultori</a>
         {' · © 2026 · '}
-        <a href="https://github.com/andrescultori/biblia" target="_blank" rel="noopener noreferrer">GitHub</a>
+        <a href="https://github.com/andrescultori/timoteo-app" target="_blank" rel="noopener noreferrer">GitHub</a>
       </footer>
       {showSettings && <SettingsModal t={t} settings={settings} onChange={setSettings} onClose={() => setShowSettings(false)} />}
     </SettingsContext.Provider>
