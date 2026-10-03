@@ -81,6 +81,9 @@
         "pt": "Tércio",
         "en": "Tertius"
       },
+      "ids": [
+        "tercio"
+      ],
       "role": {
         "pt": "Escriba que escreve a carta (16:22)",
         "en": "Scribe who writes the letter (16:22)"
