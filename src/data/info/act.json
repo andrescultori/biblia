@@ -114,6 +114,46 @@
         "pt": "Líder da igreja de Jerusalém (cap. 15)",
         "en": "Leader of the Jerusalem church (ch. 15)"
       }
+    },
+    {
+      "name": {
+        "pt": "Gamaliel",
+        "en": "Gamaliel"
+      },
+      "ids": [
+        "gamaliel"
+      ],
+      "role": {
+        "pt": "Fariseu que aconselha o sinédrio (5:34–39)",
+        "en": "Pharisee who advises the council (5:34–39)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Félix e Festo",
+        "en": "Felix and Festus"
+      },
+      "ids": [
+        "felix",
+        "festo"
+      ],
+      "role": {
+        "pt": "Governadores romanos diante de quem Paulo é julgado (caps. 24–26)",
+        "en": "Roman governors before whom Paul is tried (chs. 24–26)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Agripa II",
+        "en": "Agrippa II"
+      },
+      "ids": [
+        "agripa-2"
+      ],
+      "role": {
+        "pt": "Rei que ouve a defesa de Paulo (caps. 25–26)",
+        "en": "King who hears Paul's defense (chs. 25–26)"
+      }
     }
   ],
   "outline": [

@@ -78,6 +78,19 @@
     },
     {
       "name": {
+        "pt": "Caifás",
+        "en": "Caiaphas"
+      },
+      "ids": [
+        "caifas"
+      ],
+      "role": {
+        "pt": "Sumo sacerdote: convém que um morra pelo povo (11:49–52)",
+        "en": "High priest: one should die for the people (11:49–52)"
+      }
+    },
+    {
+      "name": {
         "pt": "Maria Madalena",
         "en": "Mary Magdalene"
       },

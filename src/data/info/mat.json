@@ -66,6 +66,19 @@
     },
     {
       "name": {
+        "pt": "Herodes o Grande",
+        "en": "Herod the Great"
+      },
+      "ids": [
+        "herodes-grande"
+      ],
+      "role": {
+        "pt": "Rei que manda matar os meninos de Belém (cap. 2)",
+        "en": "King who orders the boys of Bethlehem killed (ch. 2)"
+      }
+    },
+    {
+      "name": {
         "pt": "João Batista",
         "en": "John the Baptist"
       },
@@ -111,6 +124,45 @@
       "role": {
         "pt": "Governador romano que o condena (cap. 27)",
         "en": "Roman governor who condemns him (ch. 27)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Caifás",
+        "en": "Caiaphas"
+      },
+      "ids": [
+        "caifas"
+      ],
+      "role": {
+        "pt": "Sumo sacerdote no julgamento de Jesus (cap. 26)",
+        "en": "High priest at Jesus' trial (ch. 26)"
+      }
+    },
+    {
+      "name": {
+        "pt": "Barrabás",
+        "en": "Barabbas"
+      },
+      "ids": [
+        "barrabas"
+      ],
+      "role": {
+        "pt": "Preso solto no lugar de Jesus (cap. 27)",
+        "en": "Prisoner released in place of Jesus (ch. 27)"
+      }
+    },
+    {
+      "name": {
+        "pt": "José de Arimateia",
+        "en": "Joseph of Arimathea"
+      },
+      "ids": [
+        "jose-de-arimateia"
+      ],
+      "role": {
+        "pt": "Sepulta Jesus em seu túmulo novo (27:57–60)",
+        "en": "Buries Jesus in his new tomb (27:57–60)"
       }
     }
   ],
