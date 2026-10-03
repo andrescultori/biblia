@@ -42,6 +42,9 @@
         "pt": "Malaquias",
         "en": "Malachi"
       },
+      "ids": [
+        "malaquias"
+      ],
       "role": {
         "pt": "Profeta ou título do mensageiro",
         "en": "Prophet or title of the messenger"

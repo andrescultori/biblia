@@ -200,6 +200,8 @@ for (const ver of VERSIONS) {
       if (!Array.isArray(a) || !Array.isArray(b) || a.length < 2 || a.length !== b.length || [...a, ...b].some((x) => typeof x !== 'string' || !x.trim())) err(`${w}.bio: precisa de listas PT e EN de parágrafos, com 2 ou mais e o mesmo número`);
     }
     if (p.uncertain !== undefined && typeof p.uncertain !== 'boolean') err(`${w}.uncertain: deve ser true/false`);
+    if (p.autoLink !== undefined && typeof p.autoLink !== 'boolean') err(`${w}.autoLink: deve ser true/false`);
+    (p.linkBooks ?? []).forEach((b) => { if (!books.includes(b)) err(`${w}.linkBooks: livro "${b}" não existe`); });
     if (!Array.isArray(p.books) || !p.books.length) err(`${w}: sem livros`);
     const bs = new Set();
     (p.books ?? []).forEach((b, i) => {

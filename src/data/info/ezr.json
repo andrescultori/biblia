@@ -57,7 +57,7 @@
       },
       "ids": [
         "zorobabel",
-        null
+        "josue-sacerdote"
       ],
       "role": {
         "pt": "Líderes do primeiro retorno e da reconstrução do templo",
@@ -69,6 +69,10 @@
         "pt": "Ageu e Zacarias",
         "en": "Haggai and Zechariah"
       },
+      "ids": [
+        "ageu",
+        "zacarias-profeta"
+      ],
       "role": {
         "pt": "Profetas que animam a reconstrução (5:1)",
         "en": "Prophets who encourage the rebuilding (5:1)"
@@ -79,6 +83,9 @@
         "pt": "Artaxerxes",
         "en": "Artaxerxes"
       },
+      "ids": [
+        "artaxerxes"
+      ],
       "role": {
         "pt": "Rei da Pérsia; envia Esdras (cap. 7)",
         "en": "King of Persia; sends Ezra (ch. 7)"

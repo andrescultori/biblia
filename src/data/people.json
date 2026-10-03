@@ -7862,6 +7862,381 @@
         "pt": "A ficha de Daniel chama os três pelos nomes hebraicos (Hananias, Misael e Azarias). Não confundir Hananias com o falso profeta de Jr 28.",
         "en": "Daniel’s sheet calls the three by their Hebrew names (Hananiah, Mishael and Azariah). Hananiah is not the false prophet of Jer 28."
       }
+    },
+    {
+      "id": "melquisedeque",
+      "name": {
+        "pt": "Melquisedeque",
+        "en": "Melchizedek"
+      },
+      "summary": {
+        "pt": "Rei de Salém e sacerdote do Deus Altíssimo, que abençoa Abraão e recebe dele o dízimo (Gn 14:18–20). O Salmo 110:4 e Hebreus 5–7 o tomam como modelo do sacerdócio de Cristo.",
+        "en": "King of Salem and priest of God Most High, who blesses Abraham and receives a tenth from him (Gen 14:18–20). Psalm 110:4 and Hebrews 5–7 take him as the model of Christ’s priesthood."
+      },
+      "bio": {
+        "pt": [
+          "Melquisedeque aparece de repente em Gênesis 14, quando Abrão volta de derrotar Quedorlaomer e os reis que tinham levado Ló. O rei de Sodoma vem ao seu encontro, e também Melquisedeque, “rei de Salém”, que traz pão e vinho. O texto o chama “sacerdote do Deus Altíssimo”, e ele abençoa Abrão: “Bendito seja Abrão pelo Deus Altíssimo, que possui os céus e a terra; e bendito seja o Deus Altíssimo, que entregou os teus inimigos nas tuas mãos”. Abrão lhe dá o dízimo de tudo (Gn 14:17–20).",
+          "O Antigo Testamento só o menciona de novo no Salmo 110, em que o Senhor diz ao rei de Davi: “Tu és sacerdote para sempre, segundo a ordem de Melquisedeque” (Sl 110:4). A identificação de Salém com Jerusalém é comum, e o Salmo 76:2 liga Salém a Sião, mas o texto de Gênesis não a afirma.",
+          "A carta aos Hebreus faz dele um tipo de Cristo. Seu nome significa “rei de justiça”, e “rei de Salém” significa “rei de paz”; o texto o descreve “sem pai, sem mãe, sem genealogia, sem princípio de dias nem fim de vida”, o que Hebreus entende como semelhança com o Filho de Deus, que “permanece sacerdote para sempre” (Hb 7:1–3). Como Abraão lhe deu o dízimo e foi por ele abençoado, e Levi estava “nos lombos de Abraão”, o sacerdócio de Melquisedeque é apresentado como superior ao levítico, e Cristo é sacerdote “segundo a ordem de Melquisedeque” (Hb 5:6, 10; 6:20; 7:4–17). Gênesis não diz mais nada sobre ele."
+        ],
+        "en": [
+          "Melchizedek appears suddenly in Genesis 14, when Abram returns from defeating Chedorlaomer and the kings who had carried off Lot. The king of Sodom goes out to meet him, and so does Melchizedek, “king of Salem,” who brings out bread and wine. The text calls him “priest of God Most High,” and he blesses Abram: “Blessed be Abram by God Most High, Possessor of heaven and earth; and blessed be God Most High, who has delivered your enemies into your hand.” Abram gives him a tenth of everything (Gen 14:17–20).",
+          "The Old Testament mentions him again only in Psalm 110, in which the Lord says to David’s king, “You are a priest forever after the order of Melchizedek” (Ps 110:4). The identification of Salem with Jerusalem is common, and Psalm 76:2 links Salem with Zion, but the text of Genesis does not state it.",
+          "The letter to the Hebrews makes him a type of Christ. His name means “king of righteousness,” and “king of Salem” means “king of peace”; the text describes him as “without father or mother or genealogy, having neither beginning of days nor end of life,” which Hebrews understands as likeness to the Son of God, who “continues a priest forever” (Heb 7:1–3). Since Abraham gave him a tenth and was blessed by him, and Levi was “in the loins of Abraham,” Melchizedek’s priesthood is presented as superior to the Levitical, and Christ is a priest “after the order of Melchizedek” (Heb 5:6, 10; 6:20; 7:4–17). Genesis says nothing more about him."
+        ]
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Rei de Salém e sacerdote; abençoa Abraão (14:18–20)",
+            "en": "King of Salem and priest; blesses Abraham (14:18–20)"
+          }
+        },
+        {
+          "book": "psa",
+          "role": {
+            "pt": "“Sacerdote para sempre, segundo a ordem de Melquisedeque” (110:4)",
+            "en": "“A priest forever after the order of Melchizedek” (110:4)"
+          }
+        },
+        {
+          "book": "heb",
+          "role": {
+            "pt": "Modelo do sacerdócio de Cristo (5–7)",
+            "en": "Model of Christ’s priesthood (5–7)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "enoque",
+      "name": {
+        "pt": "Enoque",
+        "en": "Enoch"
+      },
+      "summary": {
+        "pt": "Filho de Jarede, da linhagem de Sete. “Andou com Deus; e já não era, porque Deus o tomou” (Gn 5:21–24). Hebreus o cita por sua fé, e Judas, como profeta (Hb 11:5; Jd 14–15).",
+        "en": "Son of Jared, of the line of Seth. “Enoch walked with God, and he was not, for God took him” (Gen 5:21–24). Hebrews cites him for his faith, and Jude as a prophet (Heb 11:5; Jude 14–15)."
+      },
+      "bio": {
+        "pt": [
+          "Enoque, filho de Jarede, da linhagem de Sete, tem sessenta e cinco anos quando gera Matusalém (Gn 5:18, 21). O capítulo 5 de Gênesis repete a fórmula “viveu… e morreu” em cada geração, mas para Enoque diz outra coisa: “Andou Enoque com Deus; e já não era, porque Deus o tomou” (Gn 5:22–24). Ele viveu trezentos e sessenta e cinco anos. É o sétimo desde Adão (Jd 14).",
+          "Hebreus 11:5 diz que “pela fé Enoque foi trasladado para não ver a morte; e não foi achado, porque Deus o trasladara”, e que, antes disso, teve testemunho de que agradara a Deus. Lucas o inclui na genealogia de Jesus (Lc 3:37). O texto de Gênesis não diz como ou para onde foi levado, e o texto bíblico não conta mais nada sobre sua vida.",
+          "Judas cita palavras que atribui a ele: “Eis que veio o Senhor com milhares de seus santos, para executar juízo sobre todos…” (Jd 14–15). Judas não diz de onde vem a citação; alguns estudiosos a ligam a escritos judaicos antigos, atribuídos a Enoque, que não fazem parte do cânon bíblico. Não se deve confundir esse Enoque com o filho de Caim, que dá nome a uma cidade (Gn 4:17)."
+        ],
+        "en": [
+          "Enoch, son of Jared, of the line of Seth, is sixty-five when he fathers Methuselah (Gen 5:18, 21). Genesis 5 repeats the formula “lived… and died” for each generation, but for Enoch it says something else: “Enoch walked with God, and he was not, for God took him” (Gen 5:22–24). He lived three hundred and sixty-five years. He is the seventh from Adam (Jude 14).",
+          "Hebrews 11:5 says that “by faith Enoch was taken up so that he should not see death, and he was not found, because God had taken him,” and that, before that, he had been commended as having pleased God. Luke includes him in Jesus’ genealogy (Luke 3:37). The text of Genesis does not say how or where he was taken, and the biblical text tells nothing more about his life.",
+          "Jude quotes words he attributes to him: “Behold, the Lord comes with ten thousands of his holy ones, to execute judgment on all…” (Jude 14–15). Jude does not say where the quotation comes from; some scholars link it with ancient Jewish writings attributed to Enoch, which are not part of the biblical canon. This Enoch should not be confused with the son of Cain, who gives his name to a city (Gen 4:17)."
+        ]
+      },
+      "books": [
+        {
+          "book": "gen",
+          "role": {
+            "pt": "Anda com Deus e é tomado (5:18–24)",
+            "en": "Walks with God and is taken (5:18–24)"
+          }
+        },
+        {
+          "book": "heb",
+          "role": {
+            "pt": "Exemplo de fé (11:5)",
+            "en": "Example of faith (11:5)"
+          }
+        },
+        {
+          "book": "jud",
+          "role": {
+            "pt": "“Profetizou” sobre o juízo (14–15)",
+            "en": "“Prophesied” about judgment (14–15)"
+          }
+        },
+        {
+          "book": "luk",
+          "role": {
+            "pt": "Na genealogia de Jesus (3:37)",
+            "en": "In Jesus’ genealogy (3:37)"
+          }
+        }
+      ],
+      "note": {
+        "pt": "Não confundir com Enoque, filho de Caim (Gn 4:17).",
+        "en": "Not to be confused with Enoch, son of Cain (Gen 4:17)."
+      }
+    },
+    {
+      "id": "ageu",
+      "name": {
+        "pt": "Ageu",
+        "en": "Haggai"
+      },
+      "summary": {
+        "pt": "Profeta do tempo da volta do exílio. No 2º ano de Dario, chama o povo a reconstruir o templo, e a obra recomeça; anuncia que a glória da nova casa será maior (Ag 1–2; Ed 5:1).",
+        "en": "Prophet of the time of the return from exile. In Darius’s 2nd year he calls the people to rebuild the temple, and the work resumes; he announces that the glory of the new house will be greater (Hag 1–2; Ezra 5:1)."
+      },
+      "bio": {
+        "pt": [
+          "O livro de Ageu é datado com precisão: a palavra do Senhor vem “no segundo ano do rei Dario, no sexto mês, no primeiro dia do mês”, por meio do profeta Ageu, a Zorobabel, governador de Judá, e a Josué, o sumo sacerdote (Ag 1:1). O texto não diz nada de sua família ou de seu lugar de origem. A mensagem é direta: o povo diz que ainda não é tempo de reconstruir a casa do Senhor, mas mora em casas apaineladas enquanto o templo está em ruínas (Ag 1:2–4).",
+          "Ageu chama o povo a considerar o seu proceder: semeiam muito e colhem pouco, comem e não se fartam, e o salário vai para um saco furado (Ag 1:5–11). Zorobabel, Josué e o povo obedecem, “e o Senhor suscitou o espírito” deles, e a obra recomeça no vigésimo quarto dia do sexto mês (Ag 1:12–15). Em 2:1–9, quando os anciãos que viram o primeiro templo o acham sem valor, o Senhor promete: “A glória desta última casa será maior do que a da primeira… e neste lugar darei a paz”.",
+          "As duas últimas mensagens falam da pureza do povo, que o Senhor abençoará a partir daquele dia (Ag 2:10–19), e de Zorobabel, a quem o Senhor promete: “Far-te-ei como um anel de selar, porque te escolhi” (Ag 2:20–23). Esdras 5:1 e 6:14 mencionam Ageu e Zacarias como os profetas que incentivaram a obra, concluída no sexto ano de Dario."
+        ],
+        "en": [
+          "The book of Haggai is dated precisely: the word of the Lord comes “in the second year of Darius the king, in the sixth month, on the first day of the month,” by the prophet Haggai, to Zerubbabel, governor of Judah, and to Joshua, the high priest (Hag 1:1). The text says nothing of his family or place of origin. The message is direct: the people say it is not yet time to rebuild the house of the Lord, but live in paneled houses while the temple lies in ruins (Hag 1:2–4).",
+          "Haggai calls the people to consider their ways: they sow much and harvest little, eat and are not satisfied, and wages go into a bag with holes (Hag 1:5–11). Zerubbabel, Joshua and the people obey, “and the Lord stirred up” their spirit, and the work resumes on the twenty-fourth day of the sixth month (Hag 1:12–15). In 2:1–9, when the elders who had seen the first temple find this one worthless, the Lord promises: “The latter glory of this house shall be greater than the former… and in this place I will give peace.”",
+          "The last two messages speak of the purity of the people, whom the Lord will bless from that day (Hag 2:10–19), and of Zerubbabel, to whom the Lord promises: “I will make you like a signet ring, for I have chosen you” (Hag 2:20–23). Ezra 5:1 and 6:14 mention Haggai and Zechariah as the prophets who encouraged the work, completed in the sixth year of Darius."
+        ]
+      },
+      "books": [
+        {
+          "book": "hag",
+          "role": {
+            "pt": "Profeta; chama à reconstrução do templo (1–2)",
+            "en": "Prophet; calls for the rebuilding of the temple (1–2)"
+          }
+        },
+        {
+          "book": "ezr",
+          "role": {
+            "pt": "Profetiza com Zacarias; a obra recomeça (5:1; 6:14)",
+            "en": "Prophesies with Zechariah; the work resumes (5:1; 6:14)"
+          }
+        }
+      ],
+      "events": [
+        "ageu-zacarias"
+      ],
+      "places": [
+        {
+          "book": "ezr",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "zacarias-profeta",
+      "name": {
+        "pt": "Zacarias, o profeta",
+        "en": "Zechariah the prophet"
+      },
+      "summary": {
+        "pt": "Profeta do tempo da volta do exílio, neto de Ido, que anima a reconstrução do templo. Seu livro traz oito visões noturnas e oráculos sobre o rei humilde e o pastor traspassado (Zc 1–14; Ed 5:1).",
+        "en": "Prophet of the time of the return from exile, grandson of Iddo, who encourages the rebuilding of the temple. His book has eight night visions and oracles about the humble king and the pierced shepherd (Zech 1–14; Ezra 5:1)."
+      },
+      "bio": {
+        "pt": [
+          "O livro o apresenta como “Zacarias, filho de Berequias, filho de Ido”, e a palavra do Senhor vem a ele no oitavo mês do segundo ano de Dario (Zc 1:1). Esdras o chama “filho de Ido” (Ed 5:1). Neemias 12:16 cita um Zacarias como chefe da casa sacerdotal de Ido; se é o mesmo, o profeta seria também sacerdote, mas o texto não o diz. Ele profetiza ao lado de Ageu e incentiva Zorobabel e Josué na reconstrução do templo (Ed 5:1–2; 6:14).",
+          "Os capítulos 1–6 trazem oito visões numa só noite: o cavaleiro entre as murtas, os quatro chifres, o homem com o cordel, Josué diante do anjo do Senhor e acusado, o candelabro e as duas oliveiras, o rolo voante, a mulher no efa e os quatro carros (Zc 1:7–6:8). Na quarta visão, Josué recebe vestes limpas (Zc 3); na quinta, o Senhor diz a Zorobabel: “Não por força nem por poder, mas pelo meu Espírito” (Zc 4:6). Os capítulos 7–8 respondem à pergunta sobre os jejuns, com a promessa de que Jerusalém será restaurada.",
+          "Os capítulos 9–14 trazem oráculos sobre o rei que vem “humilde, montado num jumento” (Zc 9:9), o pastor rejeitado vendido por trinta moedas de prata (Zc 11:12–13), o povo que olhará “para aquele a quem traspassaram” (Zc 12:10) e o Dia do Senhor (Zc 14). O Novo Testamento cita essas passagens em Mateus 21:5, 26:31, 27:9–10 e João 12:15; 19:37. Estudiosos discutem se esses capítulos foram escritos pelo mesmo autor dos capítulos 1–8; ver a ficha. Mateus 23:35 cita um “Zacarias, filho de Baraquias”; se é este profeta é debatido."
+        ],
+        "en": [
+          "The book presents him as “Zechariah the son of Berechiah, son of Iddo,” and the word of the Lord comes to him in the eighth month of the second year of Darius (Zech 1:1). Ezra calls him “son of Iddo” (Ezra 5:1). Nehemiah 12:16 names a Zechariah as head of the priestly house of Iddo; if it is the same, the prophet would also be a priest, but the text does not say so. He prophesies alongside Haggai and encourages Zerubbabel and Joshua in the rebuilding of the temple (Ezra 5:1–2; 6:14).",
+          "Chapters 1–6 bring eight visions in a single night: the horseman among the myrtles, the four horns, the man with the measuring line, Joshua before the angel of the Lord and accused, the lampstand and the two olive trees, the flying scroll, the woman in the basket and the four chariots (Zech 1:7–6:8). In the fourth vision Joshua receives clean garments (Zech 3); in the fifth the Lord says to Zerubbabel, “Not by might, nor by power, but by my Spirit” (Zech 4:6). Chapters 7–8 answer the question about the fasts, with the promise that Jerusalem will be restored.",
+          "Chapters 9–14 bring oracles about the king who comes “humble and mounted on a donkey” (Zech 9:9), the rejected shepherd sold for thirty pieces of silver (Zech 11:12–13), the people who will look “on him whom they have pierced” (Zech 12:10) and the Day of the Lord (Zech 14). The New Testament cites these passages in Matthew 21:5, 26:31, 27:9–10 and John 12:15; 19:37. Scholars discuss whether these chapters were written by the same author as chapters 1–8; see the sheet. Matthew 23:35 cites a “Zechariah the son of Barachiah”; whether it is this prophet is debated."
+        ]
+      },
+      "books": [
+        {
+          "book": "zec",
+          "role": {
+            "pt": "Profeta; visões, jejum e oráculos (1–14)",
+            "en": "Prophet; visions, fasting and oracles (1–14)"
+          }
+        },
+        {
+          "book": "ezr",
+          "role": {
+            "pt": "Profetiza com Ageu (5:1; 6:14)",
+            "en": "Prophesies with Haggai (5:1; 6:14)"
+          }
+        }
+      ],
+      "events": [
+        "ageu-zacarias"
+      ],
+      "places": [
+        {
+          "book": "zec",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        },
+        {
+          "book": "zec",
+          "name": "Babilônia",
+          "en": "Babylon"
+        }
+      ],
+      "note": {
+        "pt": "Não confundir com Zacarias, pai de João Batista (Lc 1).",
+        "en": "Not to be confused with Zechariah, father of John the Baptist (Luke 1)."
+      }
+    },
+    {
+      "id": "zacarias-sacerdote",
+      "name": {
+        "pt": "Zacarias, pai de João Batista",
+        "en": "Zechariah, father of John the Baptist"
+      },
+      "summary": {
+        "pt": "Sacerdote da turma de Abias, marido de Isabel. O anjo Gabriel lhe anuncia um filho no templo; ele duvida, fica mudo até o nascimento de João e depois entoa um cântico (Lc 1:5–25, 57–79).",
+        "en": "Priest of the division of Abijah, husband of Elizabeth. The angel Gabriel announces a son to him in the temple; he doubts, is mute until John’s birth and then sings a song (Luke 1:5–25, 57–79)."
+      },
+      "bio": {
+        "pt": [
+          "Lucas 1 conta que, no tempo de Herodes, rei da Judeia, havia um sacerdote chamado Zacarias, da turma de Abias, cuja mulher, Isabel, era das filhas de Arão. Ambos eram justos diante de Deus, andando sem defeito nos mandamentos do Senhor, mas não tinham filhos, porque Isabel era estéril e os dois já eram avançados em idade (Lc 1:5–7). Quando sua turma serve no templo, a sorte o designa para entrar no santuário e oferecer o incenso, enquanto o povo ora fora (Lc 1:8–10).",
+          "Um anjo do Senhor aparece à direita do altar do incenso e diz: “Não temas, Zacarias, porque a tua oração foi ouvida: Isabel te dará um filho, e lhe porás o nome João”. O menino será grande diante do Senhor, cheio do Espírito desde o ventre, e fará voltar muitos dos filhos de Israel, “no espírito e poder de Elias” (Lc 1:11–17). Zacarias pergunta como saberá, pois são velhos, e o anjo, que se apresenta como Gabriel, diz que ficará mudo até o dia em que isso aconteça, por não ter crido (Lc 1:18–20). Ao sair, não consegue falar ao povo, que percebe que teve uma visão (Lc 1:21–23).",
+          "Isabel concebe, e, quando o filho nasce, os vizinhos querem dar-lhe o nome do pai. Isabel diz que se chamará João; Zacarias pede uma tabuinha e escreve: “O seu nome é João”, e imediatamente a boca se lhe abre e ele louva a Deus (Lc 1:57–66). Cheio do Espírito, profetiza o cântico conhecido como Benedictus: “Bendito seja o Senhor Deus de Israel, porque visitou e remiu o seu povo”, e fala do filho como “profeta do Altíssimo” que irá adiante do Senhor para preparar os seus caminhos (Lc 1:67–79)."
+        ],
+        "en": [
+          "Luke 1 tells that in the days of Herod, king of Judea, there was a priest named Zechariah, of the division of Abijah, whose wife, Elizabeth, was of the daughters of Aaron. Both were righteous before God, walking blamelessly in all the commandments of the Lord, but they had no children, because Elizabeth was barren and both were advanced in years (Luke 1:5–7). When his division serves in the temple, the lot designates him to enter the sanctuary and burn incense, while the people pray outside (Luke 1:8–10).",
+          "An angel of the Lord appears on the right side of the altar of incense and says, “Do not be afraid, Zechariah, for your prayer has been heard, and your wife Elizabeth will bear you a son, and you shall call his name John.” The child will be great before the Lord, filled with the Spirit from the womb, and will turn many of the children of Israel, “in the spirit and power of Elijah” (Luke 1:11–17). Zechariah asks how he will know, for they are old, and the angel, who identifies himself as Gabriel, says he will be mute until the day this takes place, because he did not believe (Luke 1:18–20). When he comes out, he cannot speak to the people, who realize he had seen a vision (Luke 1:21–23).",
+          "Elizabeth conceives, and when the son is born the neighbors want to name him after his father. Elizabeth says he will be called John; Zechariah asks for a writing tablet and writes, “His name is John,” and immediately his mouth is opened and he praises God (Luke 1:57–66). Filled with the Spirit, he prophesies the song known as the Benedictus: “Blessed be the Lord God of Israel, for he has visited and redeemed his people,” and speaks of his son as “the prophet of the Most High” who will go before the Lord to prepare his ways (Luke 1:67–79)."
+        ]
+      },
+      "books": [
+        {
+          "book": "luk",
+          "role": {
+            "pt": "Sacerdote, pai de João Batista (1)",
+            "en": "Priest, father of John the Baptist (1)"
+          }
+        }
+      ],
+      "places": [
+        {
+          "book": "luk",
+          "name": "Jerusalém",
+          "en": "Jerusalem"
+        }
+      ],
+      "note": {
+        "pt": "Não confundir com Zacarias, o profeta.",
+        "en": "Not to be confused with Zechariah the prophet."
+      }
+    },
+    {
+      "id": "isabel",
+      "name": {
+        "pt": "Isabel",
+        "en": "Elizabeth"
+      },
+      "summary": {
+        "pt": "Mulher de Zacarias, da família de Arão e parente de Maria. Estéril e idosa, concebe João Batista; saúda Maria como “a mãe do meu Senhor” (Lc 1:5–25, 36–45, 57–60).",
+        "en": "Wife of Zechariah, of Aaron’s family and a relative of Mary. Barren and elderly, she conceives John the Baptist; she greets Mary as “the mother of my Lord” (Luke 1:5–25, 36–45, 57–60)."
+      },
+      "bio": {
+        "pt": [
+          "Isabel é “das filhas de Arão”, mulher do sacerdote Zacarias, e é descrita, com ele, como justa diante de Deus (Lc 1:5–6). Era estéril e já idosa. Depois da visita do anjo a Zacarias no templo, ela concebe e se esconde por cinco meses, dizendo: “Assim me fez o Senhor, nos dias em que atentou para mim, a fim de tirar o meu opróbrio entre os homens” (Lc 1:24–25).",
+          "No sexto mês, o anjo Gabriel anuncia a Maria, sua parente, que ela também terá um filho e que Isabel, “chamada estéril”, já está no sexto mês (Lc 1:26–37). Maria vai às pressas à casa de Zacarias e saúda Isabel. Ao ouvir a saudação, a criança salta no ventre de Isabel, que, cheia do Espírito Santo, exclama: “Bendita és tu entre as mulheres, e bendito é o fruto do teu ventre! E de onde me vem que venha ter comigo a mãe do meu Senhor?” (Lc 1:39–45). Maria fica com ela cerca de três meses (Lc 1:56).",
+          "Quando o menino nasce e os vizinhos querem dar-lhe o nome do pai, Isabel diz: “Não; será chamado João” (Lc 1:57–60). A esposa de Zacarias é a única a ser chamada pelo nome no relato; depois do capítulo 1, o Evangelho não a menciona de novo."
+        ],
+        "en": [
+          "Elizabeth is “of the daughters of Aaron,” wife of the priest Zechariah, and is described, with him, as righteous before God (Luke 1:5–6). She was barren and already advanced in years. After the angel’s visit to Zechariah in the temple, she conceives and hides herself for five months, saying, “Thus the Lord has done for me in the days when he looked on me, to take away my reproach among people” (Luke 1:24–25).",
+          "In the sixth month the angel Gabriel announces to Mary, her relative, that she too will have a son and that Elizabeth, “who was called barren,” is already in her sixth month (Luke 1:26–37). Mary goes with haste to Zechariah’s house and greets Elizabeth. When she hears the greeting, the baby leaps in Elizabeth’s womb, and Elizabeth, filled with the Holy Spirit, exclaims, “Blessed are you among women, and blessed is the fruit of your womb! And why is this granted me, that the mother of my Lord should come to me?” (Luke 1:39–45). Mary stays with her about three months (Luke 1:56).",
+          "When the child is born and the neighbors want to name him after his father, Elizabeth says, “No; he shall be called John” (Luke 1:57–60). Zechariah’s wife is the only one named in the account; after chapter 1, the Gospel does not mention her again."
+        ]
+      },
+      "books": [
+        {
+          "book": "luk",
+          "role": {
+            "pt": "Mãe de João Batista; parente de Maria (1)",
+            "en": "Mother of John the Baptist; relative of Mary (1)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "malaquias",
+      "name": {
+        "pt": "Malaquias",
+        "en": "Malachi"
+      },
+      "summary": {
+        "pt": "Profeta do último livro do Antigo Testamento. Repreende sacerdotes e povo depois da reconstrução do templo e anuncia o mensageiro que prepara o caminho do Senhor e a volta de Elias (Ml 1–4).",
+        "en": "Prophet of the last book of the Old Testament. He rebukes priests and people after the rebuilding of the temple and announces the messenger who prepares the way of the Lord and the return of Elijah (Mal 1–4)."
+      },
+      "bio": {
+        "pt": [
+          "O livro começa: “Peso da palavra do Senhor contra Israel, por intermédio de Malaquias” (Ml 1:1). O nome significa “meu mensageiro”, e há quem pense que não seja nome próprio, mas título; o texto não decide. Não há informação sobre a vida do profeta. O livro tem o formato de um debate: Deus afirma algo, o povo contesta (“Em que nos amaste?”), e Deus responde (Ml 1:2–5; 1:6–7; 2:17; 3:7–8, 13–14).",
+          "Malaquias repreende os sacerdotes por oferecerem animais cegos e coxos no altar, e anuncia que o nome do Senhor será grande entre as nações (Ml 1:6–14). Condena a infidelidade nos casamentos e o divórcio: “O Senhor detesta o repúdio” (Ml 2:10–16). Ao povo que pergunta “Onde está o Deus do juízo?”, o Senhor responde: “Eis que eu envio o meu mensageiro, que preparará o caminho diante de mim; e de repente virá ao seu templo o Senhor a quem buscais” (Ml 2:17–3:1). Também censura o povo por reter os dízimos e promete abrir as janelas dos céus (Ml 3:6–12).",
+          "O livro termina com o Dia do Senhor, “ardente como uma fornalha”, em que se distinguirá entre o justo e o ímpio, e o sol da justiça se levantará com cura nas asas (Ml 3:13–4:3). A última promessa é: “Eis que eu vos enviarei o profeta Elias, antes que venha o grande e terrível dia do Senhor” (Ml 4:5–6). O Novo Testamento aplica o “mensageiro” a João Batista (Mt 11:10; Mc 1:2; Lc 1:17). O livro não traz data; a leitura comum o coloca no século V a.C., depois da reconstrução do templo."
+        ],
+        "en": [
+          "The book begins: “The oracle of the word of the Lord to Israel by Malachi” (Mal 1:1). The name means “my messenger,” and some think it is not a proper name but a title; the text does not decide. There is no information about the prophet’s life. The book has the form of a debate: God asserts something, the people object (“How have you loved us?”), and God answers (Mal 1:2–5; 1:6–7; 2:17; 3:7–8, 13–14).",
+          "Malachi rebukes the priests for offering blind and lame animals on the altar, and announces that the name of the Lord will be great among the nations (Mal 1:6–14). He condemns unfaithfulness in marriage and divorce: “The Lord, the God of Israel, says that he hates divorce” (Mal 2:10–16). To the people who ask, “Where is the God of justice?” the Lord answers: “Behold, I send my messenger, and he will prepare the way before me. And the Lord whom you seek will suddenly come to his temple” (Mal 2:17–3:1). He also rebukes the people for withholding the tithes and promises to open the windows of heaven (Mal 3:6–12).",
+          "The book ends with the Day of the Lord, “burning like an oven,” when a distinction will be made between the righteous and the wicked, and the sun of righteousness will rise with healing in its wings (Mal 3:13–4:3). The last promise is: “Behold, I will send you Elijah the prophet before the great and awesome day of the Lord comes” (Mal 4:5–6). The New Testament applies the “messenger” to John the Baptist (Matt 11:10; Mark 1:2; Luke 1:17). The book gives no date; the common reading places it in the fifth century BC, after the rebuilding of the temple."
+        ]
+      },
+      "books": [
+        {
+          "book": "mal",
+          "role": {
+            "pt": "Profeta; a disputa com o povo e os sacerdotes (1–4)",
+            "en": "Prophet; the dispute with the people and the priests (1–4)"
+          }
+        }
+      ],
+      "events": [
+        "malaquias"
+      ]
+    },
+    {
+      "id": "artaxerxes",
+      "name": {
+        "pt": "Artaxerxes",
+        "en": "Artaxerxes"
+      },
+      "summary": {
+        "pt": "Rei da Pérsia que, em Esdras, ordena parar a reconstrução de Jerusalém (Ed 4:7–23), envia Esdras com uma carta (Ed 7) e, em Neemias, o deixa ir reconstruir o muro (Ne 2). Qual Artaxerxes é debatido.",
+        "en": "King of Persia who, in Ezra, orders the rebuilding of Jerusalem to stop (Ezra 4:7–23), sends Ezra with a letter (Ezra 7) and, in Nehemiah, lets him go to rebuild the wall (Neh 2). Which Artaxerxes is debated."
+      },
+      "bio": {
+        "pt": [
+          "Esdras 4:7–23 conta que, “nos dias de Artaxerxes”, Bislão, Mitrídates, Tabeel e seus companheiros escrevem ao rei uma carta em aramaico acusando os judeus de reconstruírem “a cidade rebelde e má”. Artaxerxes manda procurar nos arquivos e confirma que Jerusalém foi uma cidade rebelde; ordena que parem a obra até nova ordem (Ed 4:7–22). A posição desse Artaxerxes no livro, antes da menção a Dario, é debatida, pois o relato parece tratar do muro da cidade e não do templo.",
+          "Em Esdras 7, no sétimo ano do rei, o escriba Esdras recebe do “Artaxerxes, rei dos reis” uma carta que o autoriza a ir a Jerusalém com quem quiser do povo, a levar ouro e prata para o templo e a nomear juízes e ensinar a lei do seu Deus, sob pena de castigo para quem desobedecer (Ed 7:1, 11–26). Esdras agradece: “Bendito seja o Senhor, Deus de nossos pais, que pôs isto no coração do rei” (Ed 7:27–28).",
+          "Em Neemias, o copeiro Neemias serve a Artaxerxes em Susã e, no vigésimo ano do rei, pede licença para ir reconstruir os muros de Jerusalém; o rei, com a rainha ao lado, concede, dá cartas aos governadores e madeira (Ne 2:1–9). Neemias serve como governador de Judá doze anos, no trigésimo segundo ano do rei volta a ele e depois retorna a Jerusalém (Ne 5:14; 13:6). O livro não diz qual Artaxerxes: a leitura comum é Artaxerxes I (465–424 a.C.), e uma alternativa, para Esdras, é Artaxerxes II; ver a linha do tempo."
+        ],
+        "en": [
+          "Ezra 4:7–23 tells that “in the days of Artaxerxes,” Bishlam, Mithredath, Tabeel and their associates write to the king a letter in Aramaic accusing the Jews of rebuilding “the rebellious and wicked city.” Artaxerxes has the archives searched and confirms that Jerusalem was a rebellious city; he orders that the work stop until further order (Ezra 4:7–22). The place of this Artaxerxes in the book, before the mention of Darius, is debated, since the account seems to concern the city wall and not the temple.",
+          "In Ezra 7, in the seventh year of the king, the scribe Ezra receives from “Artaxerxes, king of kings” a letter authorizing him to go to Jerusalem with any of the people who wish, to take gold and silver for the temple and to appoint judges and teach the law of his God, on pain of punishment for those who disobey (Ezra 7:1, 11–26). Ezra gives thanks: “Blessed be the Lord, the God of our fathers, who put such a thing as this into the heart of the king” (Ezra 7:27–28).",
+          "In Nehemiah the cupbearer Nehemiah serves Artaxerxes at Susa and, in the twentieth year of the king, asks leave to go and rebuild the walls of Jerusalem; the king, with the queen sitting beside him, grants it and gives letters to the governors and timber (Neh 2:1–9). Nehemiah serves as governor of Judah twelve years, in the thirty-second year of the king returns to him and afterward goes back to Jerusalem (Neh 5:14; 13:6). The book does not say which Artaxerxes: the common reading is Artaxerxes I (465–424 BC), and an alternative, for Ezra, is Artaxerxes II; see the timeline."
+        ]
+      },
+      "books": [
+        {
+          "book": "ezr",
+          "role": {
+            "pt": "Para a obra de Jerusalém e depois autoriza Esdras (4; 7)",
+            "en": "Stops the work at Jerusalem and later authorizes Ezra (4; 7)"
+          }
+        },
+        {
+          "book": "neh",
+          "role": {
+            "pt": "Deixa Neemias ir a Jerusalém (2; 5:14; 13:6)",
+            "en": "Lets Nehemiah go to Jerusalem (2; 5:14; 13:6)"
+          }
+        }
+      ],
+      "events": [
+        "esdras",
+        "neemias"
+      ],
+      "places": [
+        {
+          "book": "neh",
+          "name": "Susã",
+          "en": "Susa"
+        },
+        {
+          "book": "ezr",
+          "name": "Pérsia",
+          "en": "Persia"
+        }
+      ]
     }
   ]
 }
