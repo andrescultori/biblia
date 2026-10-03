@@ -290,18 +290,21 @@ for (const ver of VERSIONS) {
     if (!l.refs?.length) err(`${w}: falta referência bíblica`);
     (l.refs ?? []).forEach((r) => { if (!books.includes(r.book)) err(`${w}: livro "${r.book}" não existe`); else refOk(r.ref, r.book, w); });
     if (l.mother && !personIds.has(l.mother)) err(`${w}: mãe "${l.mother}" não existe em people.json`);
+    if (l.motherName) bilingual(l.motherName, `${w}.motherName`);
     if (l.note) bilingual(l.note, `${w}.note`);
   });
+  const reached = new Set();
   g.trees.forEach((tr) => {
     bilingual(tr.title, `genealogia.trees.${tr.id}.title`);
     bilingual(tr.intro, `genealogia.trees.${tr.id}.intro`);
+    if (tr.layout && !['svg', 'list'].includes(tr.layout)) err(`genealogia.trees.${tr.id}: layout "${tr.layout}" inválido`);
     if (!g.nodes[tr.root]) { err(`genealogia.trees.${tr.id}: raiz "${tr.root}" não existe`); return; }
     const seen = new Set();
-    const walk = (id) => { if (seen.has(id)) { err(`genealogia: ciclo em ${id}`); return; } seen.add(id); (kids[id] ?? []).forEach(walk); };
+    const walk = (id) => { if (seen.has(id)) { err(`genealogia: ciclo em ${id}`); return; } seen.add(id); reached.add(id); (kids[id] ?? []).forEach(walk); };
     walk(tr.root);
-    Object.keys(g.nodes).filter((id) => !seen.has(id)).forEach((id) => err(`genealogia: nó "${id}" não está ligado à raiz ${tr.root}`));
-    Object.values(g.nodes).forEach((n) => { if (n.branch && !tr.branches?.[n.branch]) err(`genealogia: ramo "${n.branch}" sem nome em ${tr.id}`); });
+    seen.forEach((id) => { const b = g.nodes[id].branch; if (b && !tr.branches?.[b]) err(`genealogia: ramo "${b}" sem nome em ${tr.id}`); });
   });
+  Object.keys(g.nodes).filter((id) => !reached.has(id)).forEach((id) => err(`genealogia: nó "${id}" não está ligado a nenhuma raiz`));
 }
 
 if (errors.length) {

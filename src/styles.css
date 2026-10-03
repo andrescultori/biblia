@@ -269,3 +269,11 @@ h1 a { color: inherit; text-decoration: none; }
   .gn-wrap { grid-template-columns: minmax(0, 1fr); }
   .gn-panel { position: sticky; top: 0; z-index: 2; order: -1; max-height: 42vh; }
 }
+.gn-list { list-style: none; margin: 0; padding: 0 0 0 18px; border-left: 2px solid var(--line); }
+.gn-list.gn-root { padding-left: 0; border-left: 0; }
+.gn-list li { margin: 4px 0; }
+.gn-item { display: inline-flex; align-items: baseline; gap: 4px; border: 1px solid var(--line); border-left: 4px solid var(--s-atos); background: var(--panel); color: var(--fg); border-radius: 6px; padding: 4px 10px; font-size: 0.92rem; cursor: pointer; text-align: left; }
+.gn-item small { color: var(--muted); }
+.gn-item.on { outline: 2px solid var(--fg); outline-offset: 1px; background: color-mix(in srgb, var(--fg) 8%, var(--panel)); }
+.gn-dot-i { width: 7px; height: 7px; border-radius: 50%; background: var(--accent); align-self: center; margin-left: 4px; }
+.tl-chip[aria-pressed='true'] { background: var(--fg); color: var(--bg); }

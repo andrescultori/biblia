@@ -83,11 +83,11 @@ Nos textos da ficha, os nomes de personagens e os lugares do mapa do livro viram
 
 ## Genealogia
 
-`src/data/genealogia.json` guarda as árvores (hoje uma: `adao-jesus`). Três partes:
+`src/data/genealogia.json` guarda as árvores (hoje duas: `adao-jesus`, desenhada em SVG, e `abraao-tribos`, em lista recuada com `"layout": "list"`; a lista funciona melhor quando há muitos irmãos). Três partes:
 
 - `trees[]`: `id`, `root` (nó da raiz), `title`, `intro`, `note` (PT/EN) e `branches` (nome de cada ramo, por exemplo `mt` = Mateus 1 e `lc` = Lucas 3).
 - `nodes{}`: um nó por posição na lista. `name` (PT/EN), `personId` opcional (liga à página do personagem), `branch` opcional e `note` opcional. A mesma pessoa pode ter dois nós (Zorobabel em Mateus e em Lucas); os ids são únicos.
-- `links[]`: ligações pai → filho. `from`, `to`, `refs[]` (**obrigatório**: `{book, ref}`, por exemplo `{"book":"gen","ref":"5:3"}`), `mother` opcional (id de `people.json`, quando o texto cita a mãe) e `note` opcional.
+- `links[]`: ligações pai → filho. `from`, `to`, `refs[]` (**obrigatório**: `{book, ref}`, por exemplo `{"book":"gen","ref":"5:3"}`), `mother` opcional (id de `people.json`, quando o texto cita a mãe) ou `motherName` (`{pt, en}`, para mãe sem página) e `note` opcional.
 
 Regras: nunca ligar sem referência bíblica; cada nó tem um pai só; todos os nós saem da raiz. Onde as listas divergem (Mateus × Lucas, Gênesis 11 hebraico × Lucas 3:36), a diferença vai em `note`, sem escolher uma leitura. `npm run check` confere ids, referências, pai único e ciclos. A página usa `d3-hierarchy` (`src/Genealogy.jsx`) e o bloco **Família** da página do personagem lê os mesmos dados (`src/genealogy.js`).
 
