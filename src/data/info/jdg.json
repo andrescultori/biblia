@@ -42,6 +42,9 @@
         "pt": "Otniel",
         "en": "Othniel"
       },
+      "ids": [
+        "otniel"
+      ],
       "role": {
         "pt": "Primeiro juiz (3:7–11)",
         "en": "First judge (3:7–11)"
@@ -52,6 +55,9 @@
         "pt": "Eúde",
         "en": "Ehud"
       },
+      "ids": [
+        "eude"
+      ],
       "role": {
         "pt": "Liberta Israel de Eglom, rei de Moabe (3:12–30)",
         "en": "Delivers Israel from Eglon, king of Moab (3:12–30)"
@@ -102,6 +108,9 @@
         "pt": "Abimeleque",
         "en": "Abimelech"
       },
+      "ids": [
+        "abimeleque"
+      ],
       "role": {
         "pt": "Filho de Gideão; toma o poder em Siquém (cap. 9)",
         "en": "Son of Gideon; seizes power at Shechem (ch. 9)"
