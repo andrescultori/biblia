@@ -10,6 +10,8 @@ Landing estática, em português (com versão em inglês depois), publicada em p
 
 Estudantes da Bíblia, líderes e professores de escola bíblica, brasileiros evangélicos. Tom acessível, moderno e minimalista; linha evangélica. Nada de promessa exagerada. Não usar a arte do TaBíblia Periódica original; o design é próprio.
 
+Visual aprovado pelo André em 03/10/2026 no mockup feito no Claude Design (azul-tinta com detalhe dourado; títulos Bricolage Grotesque, texto Source Sans 3; tabela colorida das siglas dos 66 livros no topo). As mudanças de texto pedidas por ele já estão neste brief.
+
 ## Seções (em ordem)
 
 1. **Topo:** nome "Timóteo App", uma frase de valor e dois botões: "Começar grátis" (abre o app) e "Ver planos" (rola até os planos).
@@ -17,7 +19,7 @@ Estudantes da Bíblia, líderes e professores de escola bíblica, brasileiros ev
 3. **Como as peças se ligam:** linha do tempo ⇄ mapa ⇄ personagens (um clique leva de um ao outro). Diagrama simples.
 4. **O que tem hoje (números reais, atualizar na hora de publicar):** 66 livros com ficha em português e inglês; 210 personagens; linha do tempo com 13 períodos e 69 eventos; mapas nas seções da Bíblia; genealogia de Adão a Jesus (em expansão); texto bíblico em várias versões de licença clara.
 5. **Posição tradicional e acadêmica lado a lado:** onde autoria, datação ou localização são debatidas, o app mostra as posições e marca a incerteza (e há um botão para esconder a posição acadêmica).
-6. **Planos (caixas com ✅/❌):** Essencial, Pro e Premium (este com selo "em breve"). Cada caixa tem preço, lista de itens com ✅ ou ❌ e o botão "Escolher plano". Pro em destaque. Itens "em breve" marcados assim, sem ✅. A tabela deve ser alimentada pela configuração única de planos para não divergir do app.
+6. **Planos (caixas com ✅/❌):** Essencial, Pro e Premium (este com selo "em breve"). Quatro estados por item: incluído, não incluído, em parte e em breve (ícones, não só cor). Cada caixa tem preço, lista de itens com ✅ ou ❌ e o botão "Escolher plano". Pro em destaque. Itens "em breve" marcados assim, sem ✅. A tabela deve ser alimentada pela configuração única de planos para não divergir do app.
 7. **Perguntas frequentes:** como funciona o pagamento (checkout do Mercado Pago, sem cartão na nossa página), o que acontece ao vencer (volta ao Essencial, sem perder progresso), que versões da Bíblia existem, para quem é, como cancelar.
 8. **Rodapé:** "Desenvolvido por André Scultori · © 2026 · GitHub" (skill de assinatura; o GitHub aponta para o repositório do projeto), links para Termos de uso e Política de privacidade.
 
@@ -27,13 +29,13 @@ Preços: Essencial R$0; Pro R$49,90/ano (primeiro pagamento R$29,90); Premium R$
 
 Itens (✅ inclui, ❌ não inclui):
 - Bíblia em todas as versões disponíveis: Essencial ✅, Pro ✅, Premium ✅
-- Fichas dos 66 livros: Essencial ✅ (sem mapa e sem estrutura, exceto abaixo), Pro ✅ completas, Premium ✅
+- Fichas dos 66 livros: Essencial em parte ("mapas e estrutura dos livros poéticos limitados"), Pro ✅ completas, Premium ✅
 - Mapas: Essencial só Evangelhos e Pentateuco, Pro ✅ todos, Premium ✅
-- Estrutura dos livros poéticos: Essencial só Salmos, Pro ✅, Premium ✅
+- Estrutura dos livros poéticos: Essencial em parte ("livro de Salmos completo"), Pro ✅, Premium ✅
 - Personagens: Essencial 30 a 50 principais, Pro ✅ 200+, Premium ✅
 - Linha do tempo: Essencial ❌, Pro ✅, Premium ✅
 - Genealogia: Essencial ❌, Pro ✅ (em expansão), Premium ✅
-- Leitura gamificada e links BibleProject/concordância: "em breve" no Pro e no Premium
+- "Leitura gamificada e mais": "em breve" no Pro e no Premium (o "mais" são os links BibleProject e concordância)
 - 10 devocionais ou pregações com IA por mês, em PDF: só Premium (em breve)
 
 ## Regras
